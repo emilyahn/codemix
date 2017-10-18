@@ -1,0 +1,728 @@
+0.6 5.132 GIL ah_engspa Jacky_engspa está_spa en_spa Colombia_spa para_spa Navidad_spa un_spa año_spa 
+5.123 11.219 GIL um_eng yo_spa _eng fui_spa la_spa día_spa primero_spa un_spa poquito_spa días_spa de_spa Navidad_spa 
+11.292 17.105 GIL i_eng and_eng then_eng um_eng I_eng stayed_eng there_eng for_eng a_eng week_eng or_eng like_eng couple_eng days_eng or_eng something_eng like_eng 
+17.076 19.191 GIL I_eng came_eng like_eng a_eng week_eng before_eng Christmas_eng you_eng know_eng 
+18.802 19.789 CHA uhuh_eng yes_eng 
+19.216 21.108 GIL and_eng so_eng I_eng stayed_eng for_eng like_eng a_eng week_eng and_eng a_eng half_eng 
+21.087 23.571 GIL and_eng when_eng I_eng came_eng back_eng I_eng opened_eng all_eng my_eng presents_eng and_eng stuff_eng 
+23.545 25.205 spa_spa chévere_spa 
+25.193 26.999 spa_spa y_spa cómo_spa _spa qué_spa _spa qué_spa te_spa dieron_spa 
+26.976 27.661 CHA you_eng know_eng 
+27.645 30.461 spa_spa en_spa Colombia_spa qué_spa te_spa dieron_spa de_spa regalos_spa para_spa Navidad_spa 
+30.451 32.686 GIL dont_eng remember_eng 
+32.677 34.743 CHA you_eng _eng of_eng course_eng you_eng remember_eng 
+34.716 36.754 CHA you_eng remember_eng of_eng course_eng 
+36.748 38.919 CHA you_eng remember_eng I_eng was_eng there_eng with_eng you_eng 
+36.971 38.794 GIL oh_eng oh_eng right_eng 
+38.776 41.261 GIL they_eng gave_eng me_eng this_eng really_eng cute_eng shirt_eng 
+41.239 45.281 CHA yeah_eng they_eng gave_eng me_eng a_eng _eng a_eng Barbie_engspa car_eng 
+45.289 46.584 CHA it_eng was_eng so_eng fun_eng 
+46.567 48.407 CHA my_eng good_eng childhood_eng memories_eng 
+51.186 55.365 GIL so_eng _eng when_eng _eng _eng cuándo_spa tú_spa cogiste_spa tus_spa braces_eng 
+55.351 60.752 CHA yo_spa mis_spa braces_eng me_spa lo_spa colocaron_spa hace_spa tres_spa semanas_spa 
+60.719 61.178 GIL cool_eng 
+61.178 64.736 CHA my_eng dentist_eng she_eng said_eng I_eng had_eng to_eng take_eng very_eng good_eng care_eng of_eng them_eng 
+64.733 67.247 CHA and_eng they_eng hurt_eng you_eng know_eng horribly_eng 
+67.04 70.686 GIL oh_eng my_eng gosh_eng I_eng can_eng make_eng like_eng six_eng pages_eng of_eng list_eng that_eng you_eng cant_eng eat_eng 
+70.648 76.095 GIL sometimes_eng no_eng soda_eng no_eng popcorn_eng no_eng gum_eng no_eng tootsie_eng rolls_eng I_eng could_eng go_eng on_eng and_eng on_eng 
+76.068 77.583 CHA its_eng horrible_eng 
+77.55 80.998 spa_spa pero_spa te_spa tienes_spa que_spa acostumbrar_spa a_spa eso_spa 
+81.001 84.977 GIL yeah_eng Im_eng gonna_eng get_eng my_eng top_eng braces_eng on_eng soon_eng during_eng the_eng summer_eng 
+84.951 86.216 CHA oh_eng 
+86.195 89.255 CHA I_eng s_eng _eng I_eng _eng Im_eng sure_eng youll_eng be_eng fine_eng you_eng know_eng 
+89.249 91.403 GIL so_eng whats_eng your_eng favourite_eng colour_eng 
+91.377 94.86 CHA my_eng favourite_eng colour_eng is_eng rosado_spa 
+94.85 98.404 CHA its_eng _eng its_eng um_eng a_eng very_eng pretty_eng colour_eng 
+98.393 100.465 CHA it_eng would_eng translate_eng to_eng pink_eng 
+100.453 102.45 CHA xxx_eng what_eng about_eng yours_eng 
+102.429 107.005 GIL mine_eng is_eng red_eng because_eng in_eng the_eng Bible_eng Jesus_eng spoke_eng in_eng red_eng 
+106.987 108.723 CHA thats_eng very_eng cool_eng 
+108.714 110.682 CHA um_eng lets_eng talk_eng about_eng our_eng hobbies_eng 
+110.671 112.238 CHA what_eng are_eng you_eng favourite_eng hobbies_eng 
+112.217 114.202 GIL I_eng u_eng draw_eng 
+114.156 115.456 GIL I_eng sing_eng 
+115.452 118.216 GIL and_eng sometimes_eng I_eng go_eng play_eng golf_eng 
+118.201 119.496 spa_spa muy_spa chévere_spa 
+119.49 121.905 CHA my_eng hobbies_eng are_eng _eng I_eng 
+120.964 122.096 GIL and_eng swimming_eng 
+122.075 126.546 CHA I_eng _eng I_eng love_eng to_eng play_eng basketball_eng 
+126.531 130.177 CHA Im_eng in_eng my_eng team_eng in_eng my_eng school_eng 
+130.163 132.792 CHA um_eng I_eng also_eng love_eng to_eng swim_eng 
+132.759 135.882 CHA you_eng know_eng in_eng the_eng pool_eng its_eng very_eng very_eng fun_eng 
+135.868 136.263 GIL I_eng know_eng 
+136.245 141.919 GIL remember_eng the_eng other_eng day_eng when_eng we_eng _eng _eng cuando_spa nosotros_spa fuimos_spa a_spa la_spa piscina_spa aquí_spa 
+141.886 143.413 spa_spa y_spa fue_spa tan_spa chévere_spa 
+143.403 144.28 spa_spa te_spa acuerdas_spa 
+143.409 144.309 CHA _eng just_eng said_eng 
+144.297 145.864 CHA _eng _eng spa_eng tan_eng chévere_eng 
+145.85 149.341 spa_spa estamos_spa haciendo_spa como_spa vueltas_spa y_spa todo_spa eso_spa en_spa la_spa piscina_spa 
+149.288 151.163 spa_spa estamos_spa nadando_spa mucho_spa 
+151.169 151.802 GIL mmhm_eng 
+151.776 153.634 spa_spa también_spa nos_spa _spa nos_spa solíamos_spa un_spa poquito_spa 
+153.628 155.306 CHA we_eng got_eng a_eng great_eng tan_eng 
+155.298 159.3 GIL hablamos_spa mucho_spa de_spa la_spa parque_spa de_spa café_spa Sergio_engspa Diana_engspa 
+159.109 161.378 spa_spa y_spa hablamos_spa de_spa las_spa tías_spa 
+161.364 163.39 CHA sí_spa lets_eng talk_eng about_eng our_eng aunts_eng 
+163.378 170.537 CHA well_eng _eng your_eng mom_eng _eng my_eng tía_spa Ana_engspa is_eng so_eng nice_eng you_eng know_eng 
+165.904 169.272 GIL _eng yo_spa te_eng stutter_eng kl_eng _eng Ana_engspa Howell_engspa 
+170.516 171.579 spa_spa que_spa yo_spa sé_spa 
+171.451 172.49 spa_spa ella_spa es_spa muy_spa chévere_spa 
+172.478 174.522 CHA shes_eng very_eng muy_spa chévere_spa 
+174.501 176.004 spa_spa es_spa muy_spa linda_spa 
+175.896 178.951 GIL e_spa mi_spa tía_spa Francesca_engspa _eng es_spa muy_spa linda_spa 
+178.945 181.523 GIL tiene_spa dos_spa niños_spa Sergio_engspa y_spa David_engspa 
+181.474 182.293 CHA xxx_eng 
+181.503 183.785 GIL _eng David_engspa tiene_spa cuatro_spa años_spa 
+183.77 186.869 GIL y_spa Sergio_engspa tiene_spa _eng diecisiete_spa 
+185.035 186.289 CHA _eng _eng spa_eng diecisiete_eng 
+186.866 187.887 CHA well_eng 
+187.564 189.834 GIL y_spa yo_spa tengo_spa mi_spa tía_spa Magdalena_engspa 
+189.779 191.59 CHA thats_eng my_eng mom_eng 
+190.382 192.968 GIL _eng y_spa ella_spa tiene_spa _eng un_eng _eng dos_spa hijas_spa 
+192.954 197.971 GIL una_spa que_spa se_spa llama_spa Valerie_engspa que_spa es_spa cinco_spa años_spa y_spa que_spa está_spa en_spa kindergarten_engspa 
+197.968 202.736 GIL y_spa otra_spa que_spa se_spa llama_spa the_eng lovely_eng Chantal_engspa que_spa es_spa twelve_eng 
+202.73 205.367 GIL y_spa está_spa en_spa _eng sixth_eng grade_eng 
+205.358 207.477 CHA yes_eng sixth_eng grade_eng 
+207.473 212.146 CHA well_eng um_eng lets_eng talk_eng about_eng our_eng uncles_eng by_eng marriage_eng 
+212.144 215.302 CHA well_eng lets_eng talk_eng about_eng uncle_eng dad_eng your_eng dad_eng 
+215.263 219.321 CHA as_eng you_eng know_eng I_eng call_eng him_eng uncle_eng dad_eng because_eng hes_eng my_eng uncle_eng and_eng hes_eng like_eng my_eng dad_eng 
+215.263 216.424 GIL _eng oh_eng my_eng dad_eng 
+219.295 221.327 GIL so_eng its_eng like_eng uncle_eng slash_eng dad_eng right_eng 
+221.269 221.698 spa_spa sí_spa 
+221.682 223.836 spa_spa yo_spa lo_spa amo_spa mucho_spa 
+223.815 226.027 GIL I_eng know_eng hes_eng like_eng so_eng cool_eng 
+224.128 225.742 CHA _eng I_eng love_eng him_eng very_eng much_eng 
+225.61 227.439 CHA hes_eng very_eng very_eng cool_eng 
+227.288 231.051 GIL remember_eng yesterday_eng when_eng he_eng took_eng us_eng like_eng _eng shopping_eng 
+231.042 232.151 CHA that_eng was_eng fun_eng 
+232.128 233.138 CHA _eng _eng spa_eng de_eng compras_eng 
+233.126 234.798 CHA as_eng he_eng would_eng say_eng in_eng Spanish_eng 
+234.771 238.842 GIL you_eng know_eng these_eng old_eng jeans_eng estaban_spa tan_spa lindos_spa 
+238.842 240.775 CHA I_eng love_eng the_eng jeans_eng 
+240.76 243.257 CHA lets_eng talk_eng about_eng Andrew_engspa now_eng 
+243.249 247.121 CHA um_eng hes_eng _eng hes_eng new_eng in_eng our_eng family_eng 
+247.103 248.972 CHA but_eng hes_eng a_eng great_eng person_eng 
+248.935 252.209 GIL yeah_eng um_eng they_eng actually_eng just_eng got_eng married_eng in_eng June_eng 
+252.183 253.274 CHA exactly_eng 
+252.891 253.739 GIL you_eng were_eng there_eng 
+253.739 255.085 GIL you_eng did_eng a_eng great_eng job_eng 
+254.0 254.888 CHA _eng I_eng was_eng there_eng 
+254.848 255.667 CHA thank_eng you_eng 
+255.138 256.224 GIL _eng we_eng came_eng in_eng a_eng limo_eng 
+256.215 256.731 GIL remember_eng 
+256.702 259.177 CHA that_eng was_eng really_eng fun_eng you_eng know_eng 
+256.714 259.183 GIL _eng that_eng was_eng like_eng _eng O_M_G_eng 
+259.183 261.644 CHA Andrew_engspa has_eng a_eng lot_eng of_eng childhood_eng in_eng him_eng 
+261.629 263.614 CHA easter_eng egg_eng hunting_eng 
+261.728 263.011 GIL oh_eng yeah_eng totally_eng 
+263.616 265.415 CHA thats_eng very_eng very_eng funny_eng 
+265.389 266.59 GIL and_eng rare_eng 
+266.584 267.148 CHA I_eng know_eng 
+267.13 269.557 CHA he_eng is_eng not_eng afraid_eng to_eng sit_eng down_eng with_eng you_eng and_eng laugh_eng 
+269.553 271.585 spa_spa él_spa es_spa muy_spa chistoso_spa 
+271.563 278.149 CHA y_spa también_spa nació_spa en_spa Honduras_engspa which_eng makes_eng him_eng much_eng more_eng funnier_eng because_eng they_eng say_eng a_eng lot_eng of_eng good_eng jokes_eng 
+278.145 280.525 GIL so_eng lets_eng move_eng on_eng to_eng you_eng and_eng me_eng 
+280.516 289.374 GIL youve_eng been_eng here_eng _eng since_eng _eng Thursday_eng _eng last_eng Thursday_eng which_eng was_eng the_eng nineteenth_eng 
+284.652 285.552 CHA _eng yes_eng 
+287.353 288.473 spa_spa el_spa 
+289.351 291.11 CHA el_spa diecinueve_spa exactly_eng 
+290.803 292.892 GIL no_eng it_eng was_eng the_eng twentieth_eng 
+292.878 294.126 CHA yeah_eng no_eng it_eng was_eng the_eng nineteenth_eng 
+294.103 295.572 GIL yeah_eng the_eng nineteenth_eng 
+295.551 298.803 GIL and_eng um_eng _eng you_eng actually_eng got_eng there_eng 
+298.78 303.361 GIL and_eng we_eng started_eng decorating_eng for_eng my_eng easter_eng party_eng class_eng 
+303.353 305.378 spa_spa sí_spa el_spa _spa el_spa día_spa de_spa pascua_spa 
+305.275 309.398 CHA así_spa no_spa para_spa celebrar_spa de_spa Jesus_spa y_spa también_spa del_spa easter_eng bunny_eng 
+309.39 312.722 GIL yeah_eng e_eng yo_spa _eng fue_spa tan_spa chévere_spa 
+312.717 314.429 GIL like_eng we_eng had_eng the_eng party_eng and_eng everything_eng 
+314.408 318.525 GIL and_eng we_eng wrote_eng this_eng really_eng funny_eng letter_eng to_eng uncle_eng dad_eng slash_eng dad_eng 
+318.503 320.402 GIL and_eng can_eng I_eng tell_eng them_eng about_eng it_eng 
+320.382 322.867 CHA sure_eng then_eng why_eng dont_eng we_eng talk_eng about_eng it_eng 
+322.19 324.639 GIL yeah_eng it_eng said_eng happy_eng easter_eng on_eng the_eng front_eng 
+324.612 326.278 GIL and_eng then_eng it_eng said_eng 
+326.268 329.565 GIL _eng dear_eng uncle_eng dad_eng slash_eng dad_eng 
+329.563 334.021 GIL _eng uncle_eng dad_eng slash_eng dad_eng 
+334.0 334.796 GIL _eng we_eng love_eng you_eng 
+334.778 338.437 GIL _eng and_eng we_eng appreciate_eng everything_eng you_eng do_eng for_eng us_eng 
+337.88 338.489 CHA I_eng know_eng 
+338.462 339.443 CHA we_eng do_eng 
+338.474 341.121 GIL _eng this_eng should_eng be_eng your_eng easter_eng present_eng 
+341.094 344.687 GIL _eng we_eng will_eng hang_eng you_eng by_eng your_eng toes_eng if_eng you_eng dont_eng give_eng us_eng more_eng money_eng 
+344.666 345.955 GIL _eng happy_eng easter_eng 
+345.932 346.833 GIL and_eng then_eng we_eng put_eng 
+346.822 347.611 GIL _eng just_eng kidding_eng 
+347.6 348.877 GIL in_eng really_eng tiny_eng letters_eng 
+348.861 351.468 GIL and_eng then_eng in_eng even_eng tinier_eng letters_eng we_eng put_eng 
+351.462 352.321 GIL _eng not_eng 
+352.312 353.287 CHA nope_eng 
+352.318 353.879 GIL _eng and_eng then_eng _eng we_eng put_eng 
+353.856 355.116 GIL _eng love_eng Chacha_engspa and_eng Gili_engspa 
+355.104 356.422 GIL and_eng then_eng we_eng wrote_eng 
+356.419 358.183 GIL _eng always_eng read_eng the_eng small_eng print_eng 
+358.168 361.46 GIL we_eng also_eng wrote_eng one_eng to_eng my_eng mother_eng right_eng 
+361.433 362.24 CHA yes_eng 
+362.228 363.517 GIL Im_eng gonna_eng read_eng it_eng also_eng 
+362.919 363.505 CHA _eng di_eng 
+363.489 364.273 CHA sigh_eng 
+364.273 365.486 GIL _eng happy_eng easter_eng 
+365.475 367.303 GIL _eng dear_eng tía_spa slash_eng mommy_eng 
+367.271 368.24 GIL _eng happy_eng easter_eng 
+368.228 369.198 GIL _eng we_eng love_eng you_eng 
+369.176 371.353 GIL _eng you_eng have_eng been_eng very_eng good_eng with_eng both_eng of_eng us_eng 
+371.338 372.731 GIL _eng we_eng love_eng you_eng a_eng lot_eng 
+372.715 376.001 GIL _eng thank_eng you_eng for_eng helping_eng us_eng learn_eng about_eng the_eng path_eng of_eng Jesus_eng 
+375.974 376.955 GIL _eng we_eng love_eng you_eng 
+376.955 380.746 GIL _eng and_eng in_eng this_eng easter_eng season_eng we_eng wish_eng you_eng the_eng best_eng 
+380.749 385.574 GIL _eng P_S_eng for_eng your_eng present_eng its_eng a_eng certificate_eng for_eng free_eng jokes_eng when_eng you_eng need_eng them_eng 
+385.555 388.428 GIL _eng five_eng dollars_eng per_eng joke_eng L_O_L_eng 
+386.995 389.647 CHA _eng laughs_eng that_eng is_eng so_eng funny_eng you_eng know_eng 
+389.638 393.169 spa_spa ela_spa mucha_spa creatividad_spa en_spa nuestras_spa cabezas_spa 
+393.166 394.699 CHA we_eng have_eng a_eng lot_eng of_eng creativity_eng 
+394.686 398.238 GIL do_eng you_eng remember_eng when_eng we_eng went_eng ice_eng skating_eng today_eng 
+398.229 400.429 CHA oh_engspa patinando_spa en_spa el_spa hielo_spa 
+400.418 402.478 CHA that_eng was_eng fun_eng 
+402.47 403.631 CHA that_eng was_eng really_eng fun_eng 
+403.626 407.016 GIL yeah_eng remember_eng after_eng the_eng zamboni_eng came_eng it_eng was_eng like_eng so_eng glossy_eng 
+406.996 407.78 spa_spa sí_spa 
+407.763 409.498 CHA it_eng was_eng really_eng fun_eng you_eng know_eng 
+409.472 410.029 spa_spa yo_spa sé_spa 
+410.012 412.119 spa_spa te_spa acuerdas_spa cuando_spa llegamos_spa a_spa la_spa casa_spa 
+412.102 419.861 spa_spa y_spa después_spa mi_spa papi_spa _spa ponió_spa _spa un_spa huevos_spa _spa con_spa _spa plata_spa adentro_spa 
+419.851 422.094 spa_spa fue_spa cuatro_spa huevos_spa 
+422.076 423.719 spa_spa tres_spa tenían_spa un_spa dólar_spa 
+423.699 425.945 spa_spa y_spa solo_spa una_spa de_spa la_spa cuatro_spa tenía_spa diez_spa adentro_spa 
+426.418 427.753 CHA _eng I_eng know_eng 
+427.738 428.574 CHA I_eng know_eng 
+428.562 432.314 CHA that_eng was_eng so_eng fun_eng you_eng know_eng hunting_eng for_eng money_eng 
+431.072 434.711 GIL o_m_g_eng I_eng found_eng the_eng ten_eng dollar_eng one_eng 
+434.702 436.635 CHA you_eng found_eng the_eng ten_eng dollar_eng I_eng know_eng 
+436.632 438.164 CHA but_eng it_eng was_eng fun_eng 
+437.032 438.181 GIL Ill_eng split_eng it_eng with_eng you_eng 
+438.176 438.936 CHA dont_eng worry_eng 
+438.93 440.428 CHA its_eng fine_eng 
+440.426 445.431 CHA um_eng so_eng well_eng its_eng been_eng really_eng fun_eng these_eng couple_eng days_eng Ive_eng been_eng here_eng 
+445.417 447.675 CHA Ive_eng been_eng practicing_eng my_eng Spanish_eng a_eng lot_eng 
+447.663 451.949 CHA mucho_spa español_spa con_spa mi_spa tía_spa y_spa Juanjo_engspa and_eng you_eng 
+450.916 452.129 GIL _eng yeah_eng 
+451.998 455.284 GIL weve_eng been_eng lately_eng watching_eng home_eng videos_eng of_eng me_eng 
+455.275 459.089 GIL and_eng I_eng was_eng about_eng three_eng or_eng two_eng and_eng a_eng half_eng in_eng one_eng 
+459.085 462.286 GIL and_eng we_eng were_eng watching_eng videos_eng of_eng my_eng Christmas_eng 
+462.27 466.613 GIL and_eng _eng when_eng we_eng were_eng going_eng to_eng places_eng 
+466.598 468.903 GIL and_eng it_eng was_eng awesome_eng you_eng know_eng 
+468.003 468.995 CHA _eng I_eng know_eng 
+468.975 472.656 GIL and_eng one_eng of_eng the_eng videos_eng we_eng saw_eng my_eng cousin_eng Chantal_engspa in_eng them_eng 
+468.981 470.862 CHA _eng you_eng know_eng what_eng I_eng s_eng 
+472.64 475.142 CHA yes_eng you_eng know_eng what_eng Ive_eng seen_eng from_eng the_eng videos_eng 
+475.119 477.726 CHA weve_eng been_eng really_eng close_eng since_eng we_eng were_eng little_eng girls_eng 
+477.729 481.102 CHA you_eng know_eng dancing_eng to_eng Shakira_engspa 
+481.075 483.031 CHA and_eng _eng it_eng was_eng really_eng fun_eng 
+483.004 486.446 CHA you_eng know_eng in_eng Columbia_engspa when_eng you_eng came_eng to_eng visit_eng it_eng was_eng awesome_eng 
+486.433 492.286 GIL before_eng Venesa_engspa and_eng Diana_engspa were_eng around_eng um_eng things_eng were_eng a_eng lot_eng different_eng 
+492.275 493.987 GIL not_eng much_eng noise_eng 
+493.974 495.071 CHA very_eng peaceful_eng 
+494.2 494.885 GIL _eng you_eng know_eng 
+495.042 497.416 spa_spa mucha_spa paz_spa en_spa la_spa familia_spa 
+496.301 497.137 GIL laughs_eng 
+497.407 498.382 GIL very_eng peaceful_eng 
+498.382 500.431 GIL but_eng we_eng love_eng them_eng so_eng much_eng 
+500.41 503.295 GIL even_eng if_eng they_eng chipped_eng our_eng tooth_eng 
+500.938 502.848 CHA _eng from_eng a_eng distance_eng laughs_eng 
+503.279 507.779 GIL so_eng Venesa_engspa shes_eng like_eng so_eng close_eng to_eng us_eng 
+507.77 509.935 GIL we_eng love_eng her_eng so_eng much_eng 
+509.908 514.095 GIL and_eng _eng we_eng think_eng shes_eng like_eng the_eng best_eng ever_eng 
+514.082 515.359 GIL and_eng you_eng know_eng shes_eng five_eng 
+515.348 517.437 GIL and_eng shes_eng about_eng to_eng graduate_eng kinder_eng 
+517.411 519.936 CHA shes_eng _eng I_eng know_eng shes_eng so_eng big_eng for_eng her_eng age_eng 
+519.717 523.022 spa_spa es_spa muy_spa grande_spa muy_spa muy_spa grande_spa para_spa su_spa edad_spa 
+522.169 523.818 GIL _eng shes_eng very_eng talkative_eng 
+523.812 525.606 GIL they_eng live_eng in_eng New_Jersey_eng _eng laughs_eng 
+525.584 526.809 CHA yeah_eng in_eng New_Jersey_eng 
+526.804 530.24 CHA xxx_eng said_eng mucha_spa gente_spa que_spa habla_spa español_spa allá_spa 
+530.232 532.978 GIL I_eng know_eng thats_eng like_eng so_eng surprising_eng 
+530.4 531.677 CHA _eng _eng spa_eng mucha_eng gente_eng 
+532.614 533.392 spa_spa yo_spa sé_spa 
+533.387 540.501 CHA I_eng mean_eng casi_spa todo_spa el_spa mundo_spa de_spa los_spa países_spa suramericanos_spa se_spa van_spa para_spa New_Jersey_eng or_eng New_York_eng you_eng know_eng 
+540.493 542.884 GIL yeah_eng I_eng know_eng remember_eng when_eng we_eng 
+540.818 543.773 CHA _eng porque_spa theres_eng a_eng lot_eng of_eng chance_eng of_eng jobs_eng 
+542.861 545.264 GIL remember_eng when_eng we_eng went_eng to_eng New_York_eng 
+545.233 549.716 GIL and_eng like_eng we_eng went_eng in_eng all_eng these_eng awesome_eng stores_eng like_eng the_eng M_and_M_eng store_eng 
+549.712 551.848 GIL it_eng had_eng like_eng four_eng floors_eng 
+551.821 553.644 CHA I_eng know_eng all_eng chocolate_eng 
+553.621 556.401 spa_spa mucho_spa mucho_spa chocolate_spa 
+556.387 563.414 GIL theres_eng this_eng one_eng floor_eng that_eng you_eng had_eng _eng a_eng total_eng view_eng of_eng Times_Square_engspa 
+563.427 564.042 GIL serious_eng 
+564.031 566.103 CHA I_eng know_eng it_eng was_eng fun_eng 
+566.061 566.839 CHA so_eng w_eng 
+566.096 570.456 GIL _eng and_eng if_eng you_eng ever_eng go_eng to_eng New_York_eng like_eng you_eng have_eng to_eng go_eng in_eng the_eng giant_eng MacDonalds_engspa 
+570.44 571.642 GIL its_eng like_eng awesome_eng right_eng 
+571.642 573.209 CHA I_eng know_eng MacDonalds_engspa you_eng know_eng 
+573.212 575.563 CHA e_eng that_eng MacDonalds_engspa is_eng always_eng in_eng the_eng movies_eng 
+575.569 576.626 CHA havent_eng you_eng noticed_eng 
+576.617 577.499 GIL yeah_eng I_eng know_eng 
+577.493 582.309 GIL um_eng _eng like_eng the_eng Pink_Panther_eng the_eng inspector_eng I_eng think_eng 
+582.298 584.271 GIL I_eng think_eng it_eng was_eng in_eng this_eng other_eng movie_eng 
+584.262 587.507 GIL he_eng comes_eng to_eng New_York_eng 
+587.498 590.4 GIL and_eng _eng he_eng we_eng 
+588.664 590.185 CHA _eng orders_eng a_eng hamburger_eng 
+590.172 592.198 GIL yeah_eng he_eng calls_eng it_eng hamburger_eng 
+592.18 597.956 GIL but_eng you_eng know_eng the_eng exciting_eng thing_eng is_eng he_eng was_eng standing_eng exactly_eng where_eng me_eng and_eng my_eng cousin_eng Chantal_engspa 
+597.956 599.976 GIL the_eng people_eng doing_eng this_eng are_eng like_eng 
+599.97 601.061 GIL _eng were_eng standing_eng 
+601.047 602.248 GIL and_eng it_eng was_eng like_eng awesome_eng 
+602.244 604.218 CHA how_eng do_eng you_eng say_eng hamburger_eng in_eng Spanish_eng 
+604.177 605.193 CHA Im_eng just_eng wondering_eng 
+605.164 606.076 spa_spa hamburguesa_spa 
+606.079 608.766 CHA thats_eng muy_spa chévere_spa 
+608.761 611.361 CHA so_eng why_eng dont_eng we_eng talk_eng about_eng our_eng grandfather_eng 
+611.347 617.212 GIL yeah_eng we_eng have_eng _eng um_eng a_eng grandfather_eng named_eng abuelito_spa Alfredo_engspa 
+615.858 616.88 CHA _eng Alfredo_engspa 
+617.199 620.044 GIL he_eng is_eng very_eng cool_eng 
+617.449 620.816 CHA _eng yes_eng muy_spa muy_spa chistoso_spa 
+620.818 624.557 GIL hes_eng pretty_eng much_eng the_eng only_eng grandfather_eng we_eng have_eng 
+620.928 623.285 CHA _eng _eng spa_eng h_eng tú_eng te_eng sientas_eng con_eng él_eng 
+624.566 628.463 spa_spa tú_spa te_spa sientas_spa con_spa él_spa y_spa te_spa ríes_spa por_spa años_spa y_spa años_spa 
+628.448 631.844 spa_spa porque_spa él_spa es_spa una_spa persona_spa muy_spa muy_spa chistosa_spa 
+631.824 633.211 CHA very_eng funny_eng you_eng know_eng 
+633.205 635.986 CHA he_eng makes_eng us_eng laugh_eng until_eng we_eng drop_eng 
+635.977 638.16 GIL lets_eng talk_eng about_eng our_eng grandmothers_eng 
+637.867 640.432 GIL lets_eng start_eng with_eng Marge_engspa Howell_engspa 
+640.406 645.743 CHA Marge_engspa well_eng she_eng is_eng very_eng _eng lets_eng start_eng _eng shes_eng a_eng very_eng good_eng cook_eng 
+645.741 648.341 spa_spa cocina_spa super_spa rico_spa 
+646.501 647.238 GIL _eng yes_eng 
+648.339 649.5 spa_spa rico_spa sí_spa 
+649.506 660.649 spa_spa e_spa nosotros_spa _spa yo_spa y_spa ella_spa estamos_spa muy_spa _spa _spa mucho_spa tiempo_spa con_spa nosotros_spa en_spa la_spa casa_spa de_spa ella_spa haciendo_spa chévere_spa cosas_spa 
+660.643 664.93 GIL y_spa a_spa mí_spa me_eng _eng a_spa nosotros_spa les_spa gusta_spa hacer_spa como_spa cakes_eng and_eng stuff_eng 
+664.825 665.743 GIL its_eng awesome_eng 
+665.705 669.704 CHA I_eng know_eng you_eng guys_eng cook_eng a_eng lot_eng you_eng know_eng since_eng shes_eng from_eng the_eng south_eng of_eng Texas_engspa 
+669.695 672.185 GIL I_eng know_eng she_eng makes_eng the_eng best_eng cornbread_eng 
+670.13 671.018 CHA _eng she_eng 
+671.564 672.4 CHA exactly_eng 
+672.136 674.289 CHA xxx_eng shes_eng a_eng really_eng good_eng cook_eng 
+674.284 676.682 GIL yeah_eng so_eng thats_eng _eng the_eng point_eng of_eng view_eng 
+675.429 676.653 CHA she_eng teaches_eng sigh_eng 
+676.613 677.298 CHA yes_eng 
+676.642 677.849 GIL P_O_V_eng 
+677.846 679.472 CHA point_eng of_eng view_eng 
+679.458 684.354 GIL so_eng lets_eng move_eng on_eng to_eng abuelito_spa _eng abuelita_spa Anita_engspa 
+683.39 684.394 CHA _eng Anita_engspa 
+684.338 690.192 CHA well_eng she_eng is_eng dedicated_eng to_eng God_eng one_eng hundred_eng and_eng ten_eng percent_eng 
+686.279 688.909 GIL _eng she_eng is_eng like_eng dedicated_eng 
+690.189 693.376 GIL no_eng more_eng like_eng one_eng thousand_eng and_eng ten_eng percent_eng 
+693.302 693.982 GIL you_eng know_eng 
+693.325 695.885 CHA no_eng she_eng is_eng a_eng great_eng person_eng 
+695.858 698.546 CHA and_eng te_spa enseña_spa mucho_spa 
+698.53 702.492 spa_spa te_spa enseña_spa mucho_spa de_spa Dios_spa _spa mucho_spa mucho_spa de_spa Dios_spa 
+702.475 710.643 GIL y_spa ella_spa le_spa encanta_spa ir_spa a_spa la_spa iglesia_spa las_spa cuatro_spa de_spa la_spa mañana_spa praying_eng like_eng literally_eng praying_eng praying_eng 
+707.059 709.265 CHA _eng four_eng oclock_eng in_eng the_eng morning_eng 
+709.731 715.79 CHA you_eng know_eng her_eng life_eng is_eng praying_eng praying_eng from_eng three_eng oclock_eng in_eng the_eng morning_eng until_eng midnight_eng 
+715.786 718.282 CHA shes_eng _eng very_eng very_eng amazing_eng 
+718.266 726.084 GIL mke_eng now_eng that_eng we_eng talked_eng enough_eng about_eng family_eng lets_eng talk_eng about_eng our_eng homes_eng _eng kind_eng of_eng home_eng states_eng 
+726.063 727.926 GIL I_eng was_eng born_eng here_eng in_eng Florida_engspa 
+727.996 733.914 GIL and_eng _eng um_eng _eng um_eng were_eng gonna_eng ask_eng each_eng other_eng what_eng is_eng our_eng favourite_eng things_eng to_eng do_eng here_eng 
+733.912 736.216 CHA well_eng let_eng me_eng talk_eng about_eng my_eng background_eng first_eng 
+736.189 738.679 CHA well_eng both_eng of_eng my_eng parents_eng are_eng from_eng Columbia_engspa 
+738.674 740.734 CHA and_eng I_eng was_eng also_eng born_eng in_eng Columbia_engspa 
+740.702 743.477 CHA so_eng my_eng first_eng language_eng was_eng Spanish_eng 
+743.456 744.321 GIL yeah_eng 
+744.327 748.966 spa_spa español_spa _spa es_spa mi_spa prioridad_spa en_spa mis_spa idiomas_spa 
+748.941 754.515 CHA but_eng you_eng know_eng Ive_eng immuned_eng to_eng English_eng more_eng than_eng Spanish_eng 
+754.482 759.755 GIL over_eng the_eng years_eng I_eng had_eng noticed_eng that_eng at_eng first_eng you_eng were_eng like_eng blanked_eng out_eng on_eng the_eng English_eng 
+759.723 760.6 GIL and_eng Im_eng like_eng 
+760.571 762.939 GIL I_eng had_eng to_eng talk_eng to_eng you_eng in_eng like_eng total_eng total_eng Spanish_eng 
+762.936 763.812 CHA I_eng know_eng 
+763.812 766.639 GIL but_eng like_eng look_eng at_eng you_eng pro_eng now_eng 
+766.624 767.484 CHA I_eng know_eng 
+767.493 768.382 CHA you_eng know_eng 
+767.662 773.231 GIL my_eng background_eng of_eng my_eng stay_eng is_eng I_eng was_eng born_eng here_eng in_eng the_eng city_eng of_eng Pembrooke_Pines_engspa 
+773.216 778.263 GIL and_eng _eng I_eng was_eng born_eng at_eng the_eng hospital_eng Memorial_West_engspa here_eng in_eng Florida_engspa 
+778.251 783.269 GIL and_eng I_eng have_eng _eng two_eng parents_eng _eng of_eng course_eng 
+783.144 784.166 CHA laughs_eng 
+783.382 786.006 GIL and_eng I_eng live_eng in_eng the_eng neighbourhood_eng 
+785.99 788.651 GIL and_eng theres_eng this_eng big_eng neighbourhood_eng named_eng Grand_Palms_engspa 
+788.64 790.312 GIL my_eng dad_eng lives_eng in_eng the_eng front_eng 
+790.286 794.802 GIL me_eng and_eng my_eng grandma_eng my_eng mom_eng all_eng live_eng in_eng like_eng the_eng little_eng same_eng community_eng 
+794.786 795.75 GIL and_eng its_eng like_eng awesome_eng 
+795.733 797.619 GIL my_eng home_eng language_eng is_eng English_eng 
+797.604 799.897 GIL but_eng Ive_eng _eng my_eng first_eng word_eng was_eng in_eng Spanish_eng 
+799.879 800.994 GIL it_eng was_eng agua_spa 
+800.986 803.262 CHA Im_eng guessing_eng that_eng means_eng water_eng 
+803.25 804.997 CHA translation_eng 
+803.726 805.084 GIL duh_eng 
+805.068 809.744 CHA so_eng tell_eng us_eng more_eng about_eng your_eng mom_eng and_eng your_eng dads_eng backgrounds_eng from_eng where_eng they_eng come_eng from_eng 
+809.723 813.351 GIL my_eng dad_eng comes_eng from_eng the_eng United_eng States_eng from_eng Texas_engspa 
+813.344 817.088 GIL um_eng _eng he_eng was_eng born_eng in_eng Tyler_engspa Texas_engspa 
+817.08 820.528 GIL he_eng only_eng spent_eng a_eng couple_eng years_eng though_eng there_eng though_eng you_eng know_eng 
+820.484 823.172 spa_spa fue_spa _spa fue_spa muy_spa _spa mucho_spa calor_spa 
+823.133 826.34 GIL he_eng said_eng and_eng you_eng know_eng he_eng said_eng he_eng had_eng a_eng good_eng childhood_eng there_eng 
+826.396 835.143 GIL but_eng he_eng spent_eng most_eng of_eng his_eng years_eng here_eng in_eng Florida_engspa h_eng and_eng Atlanta_engspa and_eng California_engspa and_eng a_eng lot_eng of_eng different_eng places_eng you_eng know_eng 
+835.135 835.913 CHA yes_eng 
+835.907 838.182 GIL you_eng know_eng and_eng then_eng my_eng _eng here_eng comes_eng my_eng mom_eng 
+838.169 840.88 GIL shes_eng from_eng like_eng a_eng whole_eng different_eng country_eng like_eng Columbia_eng 
+840.865 843.39 GIL thats_eng where_eng much_eng _eng most_eng of_eng my_eng family_eng comes_eng from_eng you_eng know_eng 
+843.367 847.66 GIL and_eng _eng she_eng _eng was_eng raised_eng on_eng a_eng farm_eng 
+847.644 854.217 GIL and_eng _eng _eng and_eng she_eng loved_eng it_eng there_eng you_eng know_eng 
+854.209 856.322 GIL and_eng she_eng had_eng two_eng sisters_eng 
+854.569 855.59 CHA _eng yes_eng I_eng know_eng 
+856.318 860.759 CHA y_spa mamá_spa también_spa me_spa dijo_spa de_spa _eng de_spa la_eng _eng de_spa la_spa farm_eng 
+860.732 863.617 CHA she_eng _eng ella_spa me_spa di_eng _eng she_eng told_eng me_eng it_eng was_eng big_eng 
+863.608 865.669 CHA what_eng did_eng your_eng mom_eng tell_eng you_eng about_eng the_eng farm_eng 
+865.663 869.764 GIL my_eng mom_eng told_eng me_eng that_eng _eng s_eng they_eng didnt_eng have_eng pools_eng you_eng know_eng 
+869.744 872.762 GIL so_eng shed_eng just_eng take_eng a_eng like_eng a_eng swim_eng in_eng the_eng pond_eng 
+872.73 875.092 CHA in_eng the_eng pond_eng en_spa el_spa lago_spa 
+875.077 876.963 CHA ugh_eng that_eng sounds_eng stinky_eng 
+876.963 878.554 CHA I_eng cant_eng go_eng swim_eng in_eng a_eng pond_eng 
+878.54 885.839 GIL yeah_eng so_eng the_eng rest_eng of_eng my_eng moms_eng background_eng is_eng now_eng shes_eng remarried_eng to_eng Andrew_engspa as_eng we_eng talked_eng about_eng earlier_eng 
+885.832 894.792 GIL and_eng shes_eng here_eng sitting_eng right_eng now_eng live_eng at_eng this_eng interview_eng _eng hearing_eng us_eng so_eng this_eng chat_eng 
+894.772 896.607 CHA listening_eng to_eng us_eng talking_eng about_eng this_eng 
+896.589 900.265 CHA she_eng finds_eng our_eng conversations_eng very_eng interesting_eng 
+900.258 900.89 CHA well_eng 
+900.89 902.487 GIL she_eng is_eng a_eng very_eng interesting_eng woman_eng 
+902.477 904.09 CHA shes_eng very_eng interesting_eng you_eng know_eng 
+904.09 906.465 GIL ok_eng lets_eng move_eng on_eng to_eng your_eng parents_eng background_eng 
+906.439 909.579 CHA well_eng _eng its_eng not_eng very_eng interesting_eng 
+909.558 912.548 CHA but_eng my_eng mom_eng is_eng from_eng Columbia_engspa 
+912.533 913.299 GIL mmhm_eng 
+913.288 916.341 CHA she_eng was_eng born_eng on_eng a_eng farm_eng just_eng like_eng your_eng mom_eng because_eng theyre_eng both_eng sisters_eng 
+916.309 919.223 CHA and_eng my_eng father_eng was_eng born_eng in_eng Columbia_engspa also_eng 
+919.225 924.697 CHA so_eng theres_eng basically_eng no_eng other_eng different_eng country_eng than_eng Columbia_engspa 
+924.685 925.823 CHA thats_eng their_eng main_eng country_eng 
+925.817 926.351 GIL thats_eng cool_eng 
+926.342 928.234 spa_spa y_spa hablamos_spa mucho_spa español_spa 
+928.229 928.519 GIL cool_eng 
+928.357 930.534 spa_spa en_spa mi_spa casa_spa 
+930.529 932.558 CHA we_eng speak_eng Spanish_eng 
+932.558 937.011 CHA but_eng since_eng I_eng go_eng to_eng school_eng of_eng course_eng I_eng have_eng to_eng speak_eng most_eng of_eng my_eng time_eng in_eng English_eng 
+936.968 940.481 GIL so_eng _eng um_eng lets_eng see_eng 
+940.458 942.501 GIL what_eng else_eng can_eng we_eng talk_eng about_eng 
+942.499 948.938 GIL so_eng _eng um_eng _eng who_eng is_eng _eng what_eng is_eng your_eng favourite_eng number_eng 
+948.9 954.616 CHA my_eng favourite_eng number_eng is_eng nueve_spa nine_eng because_eng that_eng was_eng the_eng day_eng I_eng was_eng born_eng 
+954.598 956.137 CHA February_eng ninth_eng 
+956.121 958.507 CHA so_eng thats_eng my_eng favourite_eng number_eng 
+958.481 960.141 CHA its_eng just_eng very_eng weird_eng 
+960.135 962.26 CHA but_eng thats_eng my_eng favourite_eng number_eng 
+962.25 964.224 spa_spa mi_spa favorito_spa número_spa 
+965.8 967.327 CHA so_eng what_eng about_eng you_eng 
+967.321 969.022 CHA tell_eng me_eng about_eng your_eng birthday_eng 
+969.009 973.664 GIL my_eng birthday_eng is_eng on_eng July_eng two_eng five_eng twenty_eng fifth_eng 
+973.639 980.055 GIL and_eng my_eng moms_eng birthday_eng really_eng weird_eng is_eng four_eng days_eng before_eng on_eng the_eng twenty_eng first_eng of_eng July_eng 
+980.035 986.376 GIL so_eng she_eng had_eng me_eng like_eng _eng like_eng _eng like_eng _eng like_eng four_eng days_eng before_eng 
+984.785 985.61 CHA _eng four_eng days_eng 
+986.356 988.19 GIL after_eng her_eng birthday_eng you_eng know_eng laughs_eng 
+988.138 988.968 CHA wow_eng 
+988.271 989.351 GIL _eng like_eng awesome_eng 
+988.889 990.996 spa_spa tú_spa fuiste_spa el_spa regalo_spa de_spa ella_spa 
+991.013 992.685 CHA you_eng were_eng her_eng birthday_eng present_eng 
+991.724 995.154 GIL _eng yeah_eng I_eng was_eng her_eng birthday_eng present_eng like_eng four_eng days_eng late_eng birthday_eng present_eng 
+994.523 996.137 CHA that_eng was_eng great_eng 
+996.124 1001.159 GIL when_eng uh_eng _eng and_eng my_eng dad_eng I_eng think_eng he_eng is_eng born_eng in_eng 
+1002.326 1003.197 CHA born_eng in_eng 
+1003.197 1006.887 GIL _eng October_eng _eng twelfth_eng 
+1006.882 1008.431 CHA twelfth_eng yes_eng 
+1008.417 1013.556 GIL and_eng um_eng _eng to_eng say_eng a_eng little_eng bit_eng about_eng him_eng um_eng you_eng know_eng 
+1013.376 1014.612 CHA hes_eng bald_eng 
+1014.598 1016.304 CHA laughs_eng 
+1016.289 1017.537 CHA hes_eng bald_eng 
+1017.514 1018.646 GIL yeah_eng hes_eng bald_eng 
+1018.634 1021.618 GIL but_eng you_eng know_eng he_eng still_eng has_eng little_eng hairs_eng sticking_eng up_eng 
+1021.617 1023.329 CHA you_eng know_eng I_eng saw_eng that_eng picture_eng 
+1023.318 1027.819 spa_spa yo_spa vi_spa esa_spa foto_spa de_spa él_spa con_spa pelo_spa largo_spa y_spa mono_spa 
+1025.509 1026.31 GIL _eng yeah_eng I_eng know_eng 
+1027.784 1029.081 GIL I_eng know_eng like_eng back_eng 
+1029.058 1030.062 GIL no_eng no_eng mono_spa 
+1030.062 1031.635 GIL no_eng it_eng wasnt_eng blond_eng 
+1031.62 1032.392 CHA yes_eng it_eng was_eng 
+1032.381 1033.362 GIL no_eng it_eng wasnt_eng 
+1033.35 1035.405 CHA laughs_eng ok_eng 
+1034.755 1036.154 GIL _eng it_eng was_eng orange_eng 
+1036.145 1038.223 CHA ok_eng orange_eng 
+1038.202 1041.325 spa_spa en_spa la_spa foto_spa con_spa él_spa con_spa el_spa pelo_spa largo_spa y_spa naranja_spa 
+1039.473 1041.795 GIL yeah_eng it_eng was_eng like_eng down_eng to_eng his_eng butt_eng 
+1041.714 1042.44 GIL Im_eng serious_eng 
+1042.413 1044.875 CHA wow_eng 
+1044.877 1046.66 CHA laughs_eng ok_eng 
+1046.073 1048.552 GIL so_eng when_eng ah_engspa were_eng your_eng parents_eng born_eng 
+1048.532 1054.223 CHA well_eng my_eng mom_eng was_eng born_eng in_eng Tulúa_engspa which_eng is_eng a_eng very_eng small_eng town_eng in_eng Columbia_engspa 
+1055.678 1060.092 CHA and_eng _eng she_eng was_eng born_eng on_eng April_eng sixth_eng 
+1061.77 1065.369 CHA and_eng my_eng dad_eng was_eng born_eng in_eng Armenia_engspa xxx_eng was_eng born_eng in_eng Columbia_engspa 
+1065.362 1067.98 CHA he_eng was_eng born_eng December_eng ninth_eng 
+1067.969 1069.542 GIL yeah_eng cool_eng 
+1069.533 1077.78 CHA yes_eng so_eng what_eng about_eng _eng what_eng did_eng you_eng think_eng about_eng that_eng _eng uh_eng rainstorm_eng today_eng 
+1077.752 1079.766 spa_spa cómo_spa cayó_spa la_spa lluvia_spa 
+1079.734 1082.346 GIL I_eng know_eng that_eng rainstorm_eng totally_eng wiped_eng out_eng 
+1082.301 1085.332 CHA totally_eng ruined_eng our_eng egg_eng hunt_eng 
+1085.322 1090.839 GIL you_eng know_eng and_eng then_eng like_eng um_eng you_eng know_eng the_eng movie_eng Ten_thousand_b_c_engspa 
+1090.801 1092.374 GIL wasnt_eng it_eng awesome_eng 
+1092.372 1094.734 spa_spa pues_spa super_spa chévere_spa 
+1093.875 1094.647 GIL _eng _eng spa_eng chévere_eng 
+1094.724 1096.158 CHA I_eng know_eng you_eng know_eng 
+1095.711 1096.895 GIL jinx_eng you_eng owe_eng me_eng a_eng soda_eng 
+1096.874 1100.671 CHA oh_eng ok_eng Ill_eng give_eng you_eng that_eng soda_eng later_eng 
+1100.656 1106.034 CHA um_eng _eng so_eng ah_engspa _eng school_eng 
+1106.022 1107.526 CHA tell_eng me_eng about_eng school_eng 
+1107.512 1110.519 CHA your_eng grades_eng your_eng friends_eng your_eng teachers_eng 
+1109.422 1112.185 GIL _eng weve_eng been_eng doing_eng fractions_eng lately_eng 
+1112.159 1115.12 GIL and_eng Ive_eng actually_eng been_eng doing_eng ok_eng 
+1114.946 1118.309 GIL I_eng got_eng a_eng pretty_eng good_eng grade_eng on_eng my_eng math_eng test_eng 
+1118.306 1120.988 GIL and_eng I_eng also_eng had_eng a_eng social_eng studies_eng test_eng 
+1119.793 1120.919 CHA _eng tell_eng me_eng about_eng your_eng friends_eng 
+1120.973 1124.305 CHA your_eng friends_eng 
+1124.302 1127.802 CHA are_eng they_eng nice_eng 
+1127.765 1129.083 CHA theyre_eng nice_eng 
+1129.077 1130.284 GIL yeah_eng 
+1130.269 1132.08 GIL mmhm_eng yeah_eng 
+1132.086 1133.27 CHA your_eng teacher_eng whats_eng her_eng name_eng 
+1133.253 1134.176 GIL miss_eng White_engspa 
+1134.167 1135.252 CHA is_eng she_eng nice_eng 
+1135.113 1137.855 CHA is_eng she_eng _eng _eng is_eng she_eng a_eng good_eng teacher_eng 
+1137.843 1140.206 CHA thats_eng the_eng first_eng main_eng priority_eng yes_eng 
+1138.441 1139.219 GIL _eng yes_eng 
+1140.208 1141.81 CHA ok_eng 
+1141.795 1143.902 GIL whats_eng your_eng favourite_eng plant_eng 
+1143.885 1146.59 CHA my_eng favourite_eng plant_eng is_eng a_eng daisy_eng 
+1146.599 1155.183 CHA just_eng because_eng _eng well_eng the_eng white_eng and_eng the_eng yellow_eng I_eng think_eng are_eng two_eng very_eng beautiful_eng colours_eng combined_eng together_eng 
+1154.521 1155.108 GIL mke_eng 
+1155.174 1158.675 CHA so_eng 
+1155.174 1158.675 GIL _eng uh_eng 
+1158.671 1161.974 CHA whats_eng your_eng favourite_eng clothing_eng store_eng 
+1161.947 1164.385 GIL Love_couture_engspa 
+1164.371 1165.752 CHA mine_eng too_eng 
+1165.746 1168.713 GIL like_eng the_eng other_eng day_eng I_eng bought_eng these_eng really_eng cute_eng jeans_eng there_eng 
+1168.699 1170.626 CHA really_eng 
+1170.62 1171.178 GIL yeah_eng 
+1171.168 1172.091 spa_spa sí_spa 
+1172.058 1179.102 CHA también_spa hay_spa una_spa _eng una_spa tienda_spa k_eng en_spa Colombia_engspa que_spa se_spa llama_spa Azucar_engspa _eng which_eng translates_eng to_eng sugar_eng 
+1179.08 1181.84 CHA its_eng so_eng cute_eng there_eng 
+1181.834 1183.361 CHA I_eng love_eng that_eng store_eng 
+1183.349 1187.102 CHA I_eng love_eng that_eng store_eng 
+1184.478 1186.329 GIL _eng yeah_eng cool_eng 
+1187.087 1189.815 GIL its_eng awesome_eng 
+1189.809 1195.159 GIL u_eng look_eng like_eng you_eng know_eng um_eng what_eng is_eng your_eng favourite_eng thing_eng to_eng do_eng in_eng Columbia_engspa 
+1195.157 1203.635 CHA oh_eng my_eng favourite_eng thing_eng to_eng do_eng mi_spa favorita_spa cosa_spa de_spa hacer_spa es_spa estar_spa con_spa mi_spa familia_spa 
+1203.621 1206.935 spa_spa yo_spa _spa adoro_spa estar_spa con_spa mi_spa familia_spa 
+1206.891 1210.148 CHA ellos_spa son_spa lo_spa _eng lo_spa ma_eng _eng theyre_eng the_eng best_eng 
+1210.133 1212.478 CHA thats_eng all_eng I_eng can_eng say_eng 
+1212.47 1219.011 CHA I_eng also_eng love_eng about_eng Columbia_engspa is_eng that_eng its_eng beautiful_eng climate_eng 
+1219.0 1230.356 CHA and_eng theres_eng great_eng great_eng _eng _eng theres_eng a_eng lot_eng of_eng fun_eng things_eng to_eng do_eng you_eng know_eng like_eng el_spa parque_spa el_spa café_spa the_eng rivers_eng 
+1230.356 1232.55 CHA y_spa a_spa veces_spa también_spa Cartagena_engspa 
+1232.531 1235.329 GIL but_eng the_eng best_eng thing_eng about_eng it_eng _eng whispers_eng 
+1235.327 1239.106 CHA but_eng the_eng best_eng thing_eng I_eng love_eng to_eng do_eng is_eng hang_eng out_eng with_eng my_eng abuelito_spa Alfredo_engspa 
+1239.091 1240.873 CHA hes_eng like_eng my_eng dad_eng you_eng know_eng 
+1240.844 1243.015 CHA he_eng raised_eng me_eng since_eng I_eng was_eng a_eng little_eng girl_eng 
+1242.996 1244.807 CHA and_eng I_eng love_eng him_eng 
+1244.801 1245.73 GIL I_eng know_eng 
+1245.726 1249.041 GIL yeah_eng you_eng know_eng um_eng you_eng know_eng hes_eng like_eng the_eng best_eng 
+1249.039 1252.853 GIL and_eng _eng what_eng do_eng you_eng have_eng to_eng say_eng about_eng Anahí_engspa 
+1252.832 1254.243 CHA his_eng girlfriend_eng 
+1254.231 1256.681 CHA la_spa _eng la_spa novia_spa de_spa abuelito_spa Alfredo_engspa 
+1256.661 1261.905 CHA well_eng la_spa primera_spa cosa_spa _eng ella_spa es_spa muy_spa muy_spa linda_spa xxx_eng 
+1261.89 1264.142 CHA shes_eng super_eng nice_eng 
+1264.127 1267.796 CHA and_eng she_eng has_eng the_eng cutest_eng dog_eng ever_eng 
+1267.78 1270.474 CHA its_eng so_eng fluffy_eng 
+1270.459 1272.276 CHA she_eng is_eng so_eng pretty_eng 
+1272.189 1274.134 spa_spa es_spa muy_spa muy_spa bella_spa ella_spa 
+1274.125 1277.857 spa_spa muy_spa bella_spa 
+1277.848 1287.746 CHA she_eng _eng and_eng shes_eng very_eng _eng _eng shes_eng very_eng _eng pleasant_eng to_eng be_eng around_eng with_eng 
+1287.738 1292.242 CHA and_eng she_eng _eng Anahí_engspa ya_spa xxx_eng con_spa mi_spa abuelito_spa Alfredo_engspa de_spa novios_spa 
+1292.227 1298.795 GIL yeah_eng remember_eng once_eng when_eng you_eng _eng you_eng and_eng me_eng went_eng with_eng my_eng mom_eng para_spa la_spa _eng para_spa un_spa parque_spa 
+1298.75 1299.83 GIL it_eng was_eng like_eng so_eng cool_eng 
+1299.826 1305.122 GIL and_eng my_eng mom_eng you_eng and_eng me_eng first_eng went_eng on_eng this_eng cool_eng ride_eng u_eng where_eng you_eng like_eng sit_eng down_eng 
+1305.1 1307.19 GIL and_eng theres_eng this_eng little_eng rope_eng that_eng you_eng hold_eng on_eng to_eng 
+1307.19 1308.063 GIL and_eng you_eng go_eng 
+1307.291 1307.97 CHA _eng xxx_eng 
+1308.063 1309.142 GIL kind_eng of_eng 
+1309.139 1310.788 GIL but_eng its_eng not_eng like_eng as_eng high_eng 
+1310.766 1313.291 GIL and_eng you_eng go_eng around_eng like_eng a_eng circle_eng like_eng twice_eng 
+1313.256 1314.452 GIL and_eng then_eng I_eng went_eng on_eng 
+1314.447 1315.532 GIL then_eng you_eng went_eng on_eng it_eng 
+1315.511 1320.651 GIL and_eng they_eng said_eng that_eng only_eng people_eng thirteen_eng and_eng under_eng could_eng go_eng on_eng _eng on_eng it_eng 
+1320.624 1321.936 GIL but_eng my_eng mom_eng went_eng on_eng it_eng 
+1321.928 1323.524 GIL and_eng she_eng was_eng like_eng in_eng her_eng thirties_eng 
+1323.514 1325.337 GIL and_eng like_eng she_eng went_eng around_eng 
+1325.332 1328.113 GIL and_eng right_eng when_eng she_eng ended_eng the_eng cord_eng almost_eng broke_eng 
+1328.098 1329.735 GIL it_eng went_eng noise_eng 
+1329.735 1331.43 CHA laughs_eng that_eng was_eng so_eng funny_eng 
+1331.409 1332.942 CHA that_eng was_eng hilarious_eng 
+1332.936 1334.428 GIL laughs_eng I_eng know_eng 
+1334.407 1335.887 GIL it_eng went_eng noise_eng 
+1335.887 1339.069 CHA laughs_eng 
+1339.049 1341.383 CHA a that_eng was_eng really_eng funny_eng 
+1341.377 1343.461 CHA I_eng remember_eng that_eng like_eng it_eng was_eng yesterday_eng 
+1343.452 1344.543 GIL yeah_eng I_eng know_eng 
+1344.532 1345.495 CHA it_eng was_eng really_eng funny_eng 
+1345.481 1348.348 CHA lets_eng keep_eng talking_eng about_eng that_eng restaurant_eng 
+1345.562 1347.118 GIL _eng xxx_eng 
+1348.339 1350.632 CHA its_eng a_eng very_eng outdoor_eng restaurant_eng 
+1350.591 1353.105 CHA and_eng it_eng has_eng a_eng lot_eng of_eng games_eng like_eng the_eng sky_eng lining_eng game_eng 
+1353.102 1353.764 GIL yeah_eng 
+1353.77 1354.734 CHA that_eng was_eng funny_eng 
+1354.635 1357.508 CHA I_eng think_eng they_eng had_eng to_eng take_eng it_eng down_eng after_eng mom_eng went_eng on_eng there_eng 
+1357.488 1369.1 CHA laughs_eng 
+1357.488 1368.212 GIL _eng laughs_eng 
+1368.386 1370.417 GIL ok_eng 
+1370.38 1373.456 GIL so_eng whats_eng your_eng favourite_eng fruit_eng 
+1373.435 1378.644 CHA uh_eng since_eng were_eng talking_eng about_eng fruits_eng my_eng favourite_eng fruit_eng is_eng a_eng strawberry_eng 
+1378.652 1382.658 GIL mine_eng is_eng a_eng mango_eng 
+1382.65 1384.31 CHA mango_eng 
+1384.304 1386.377 CHA oh_eng thats_eng a_eng _eng I_eng love_eng mango_eng smoothies_eng 
+1386.356 1390.072 CHA um_eng _eng laughs_eng mango_eng smoothies_eng 
+1390.052 1392.118 CHA laughs_eng you_eng know_eng whats_eng funny_eng laughs_eng 
+1392.107 1392.571 GIL what_eng 
+1392.55 1394.379 CHA remember_eng when_eng we_eng were_eng in_eng the_eng car_eng 
+1394.367 1397.084 CHA and_eng we_eng were_eng with_eng Francesca_engspa talking_eng Spanish_eng 
+1397.07 1398.852 CHA and_eng your_eng grandma_eng says_eng 
+1398.841 1403.4 GIL _eng stop_eng screaming_eng 
+1403.379 1405.8 GIL _eng because_eng youre_eng gonna_eng disconcentrate_eng me_eng 
+1405.713 1407.037 GIL _eng and_eng Im_eng gonna_eng think_eng that_eng were_eng gonna_eng crash_eng 
+1407.032 1410.382 GIL and_eng all_eng of_eng a_eng sudden_eng she_eng starts_eng screaming_eng louder_eng than_eng us_eng 
+1410.374 1411.349 CHA I_eng know_eng 
+1410.635 1412.794 GIL and_eng then_eng were_eng thinking_eng oh_eng my_eng gosh_eng 
+1412.784 1418.817 GIL how_eng could_eng she_eng be_eng disconcentrated_eng when_eng shes_eng screaming_eng w_eng with_eng us_eng _eng when_eng shes_eng screaming_eng even_eng louder_eng than_eng us_eng 
+1418.797 1421.612 CHA well_eng sometimes_eng xxx_eng laughs_eng 
+1421.59 1423.36 CHA shes_eng very_eng nervous_eng 
+1423.34 1424.809 CHA shes_eng very_eng funny_eng person_eng 
+1423.491 1424.106 GIL _eng yeah_eng 
+1424.791 1426.399 spa_spa muy_spa muy_spa chistosa_spa 
+1425.18 1425.79 GIL _eng yeah_eng 
+1426.379 1430.802 GIL um_eng during_eng the_eng easter_eng egg_eng hunt_eng at_eng my_eng school_eng the_eng last_eng day_eng before_eng spring_eng break_eng 
+1430.221 1430.721 CHA mmhm_eng 
+1430.712 1435.096 GIL _eng you_eng know_eng um_eng we_eng _eng this_eng kid_eng found_eng an_eng e_eng egg_eng with_eng money_eng in_eng it_eng 
+1435.285 1436.98 GIL and_eng then_eng this_eng _eng he_eng yelled_eng 
+1436.968 1438.53 GIL _eng money_eng in_eng the_eng bank_eng 
+1438.498 1440.657 CHA oh_eng my_eng gosh_eng 
+1440.651 1445.02 CHA kids_eng are_eng really_eng funny_eng in_eng your_eng school_eng _eng really_eng funny_eng in_eng your_eng school_eng 
+1444.991 1451.374 CHA hablando_spa de_spa tu_spa colegio_spa _eng tu_spa colegio_spa is_eng really_eng big_eng and_eng really_eng outdoors_eng 
+1451.365 1456.586 CHA and_eng its_eng very_eng _eng its_eng very_eng exposed_eng to_eng the_eng outdoors_eng 
+1456.566 1457.176 GIL I_eng know_eng 
+1457.164 1463.958 GIL you_eng know_eng the_eng second_eng floor_eng when_eng youre_eng heading_eng to_eng the_eng library_eng and_eng the_eng fifth_eng grade_eng hallway_eng and_eng the_eng administrated_eng office_eng 
+1461.927 1463.209 CHA _eng yes_eng 
+1463.937 1464.43 CHA yes_eng 
+1464.419 1472.08 GIL theres_eng like_eng this_eng pretty_eng balcony_eng that_eng shows_eng like_eng _eng trees_eng and_eng like_eng a_eng lot_eng of_eng pretty_eng stuff_eng you_eng know_eng 
+1471.621 1475.879 CHA _eng yes_eng it_eng _eng it_eng lets_eng you_eng go_eng outside_eng you_eng know_eng Im_eng guessing_eng to_eng breathe_eng fresh_eng air_eng 
+1475.862 1478.106 CHA um_eng your_eng school_eng 
+1478.1 1480.219 GIL whats_eng your_eng favourite_eng holiday_eng 
+1480.206 1483.439 CHA Christmas_eng of_eng course_eng Christmas_eng Navidad_spa 
+1483.435 1487.151 CHA pero_spa I_eng prefer_eng Christmas_eng in_eng Colombia_engspa 
+1487.148 1490.503 CHA very_eng exciting_eng 
+1490.482 1491.783 CHA very_eng exciting_eng 
+1491.765 1492.839 CHA what_eng about_eng you_eng 
+1492.839 1495.21 GIL um_eng _eng I_eng dont_eng know_eng 
+1495.189 1498.904 GIL easter_eng and_eng Christmas_eng get_eng like_eng all_eng tied_eng up_eng 
+1498.898 1500.826 GIL Im_eng not_eng really_eng sure_eng which_eng one_eng is_eng like_eng the_eng best_eng 
+1500.812 1505.313 GIL because_eng you_eng know_eng Jesus_eng was_eng born_eng on_eng Christmas_eng 
+1505.301 1507.826 GIL and_eng he_eng died_eng on_eng easter_eng 
+1507.923 1509.037 CHA yes_eng he_eng did_eng 
+1508.707 1511.917 GIL he_eng had_eng about_eng thirty_eng five_eng years_eng to_eng live_eng I_eng think_eng 
+1511.913 1513.457 CHA thirty_eng three_eng 
+1513.454 1514.905 spa_spa treinta_spa y_spa tres_spa años_spa 
+1514.766 1518.895 GIL he_eng started_eng his_eng ministry_eng at_eng thirty_eng and_eng ended_eng at_eng thirty_eng three_eng 
+1518.885 1519.796 CHA I_eng know_eng 
+1519.791 1527.516 CHA well_eng weve_eng talked_eng a_eng lot_eng ab_eng _eng a_eng lot_eng about_eng you_eng know_eng our_eng thoughts_eng and_eng our_eng family_eng 
+1527.512 1530.177 CHA so_eng 
+1530.167 1532.164 CHA um_eng 
+1532.147 1536.027 CHA yes_eng 
+1536.019 1538.956 GIL so_eng um_eng whats_eng your_eng favourite_eng cartoon_eng 
+1538.95 1541.551 CHA gasp_eng you_eng know_eng who_eng I_eng love_eng 
+1541.531 1544.532 CHA I_eng love_eng the_eng Rug_Rats_engspa 
+1544.5 1547.083 CHA they_eng are_eng so_eng cute_eng 
+1547.089 1549.068 spa_spa son_spa tan_spa lindos_spa 
+1549.048 1551.997 GIL I_eng like_eng Fairly_Odd_Parents_engspa 
+1551.977 1553.875 CHA magical_eng fairies_eng 
+1553.869 1554.374 GIL yes_eng 
+1554.357 1556.836 CHA I_eng like_eng them_eng too_eng 
+1556.816 1559.155 GIL they_eng just_eng came_eng out_eng with_eng a_eng new_eng episode_eng 
+1559.14 1563.482 CHA oh_eng yeah_eng their_eng baby_eng is_eng so_eng cute_eng so_eng round_eng 
+1563.467 1565.179 GIL yeah_eng round_eng 
+1565.176 1568.618 GIL so_eng whats_eng _eng whos_eng your_eng favourite_eng author_eng 
+1568.603 1571.366 CHA I_eng like_eng Judy_engspa Bloom_engspa 
+1571.369 1574.213 CHA I_eng love_eng her_eng books_eng 
+1574.192 1576.177 spa_spa yo_spa amo_spa sus_spa libros_spa 
+1576.162 1582.492 spa_spa pero_spa me_spa gustaría_spa que_spa ella_spa escribiera_spa más_spa libros_spa en_spa español_spa para_spa yo_spa puedo_spa practicar_spa mi_spa español_spa 
+1582.465 1584.282 CHA what_eng about_eng you_eng 
+1584.259 1585.797 GIL Mark_engspa Twain_engspa 
+1585.777 1587.35 CHA tell_eng me_eng about_eng his_eng books_eng 
+1587.321 1588.697 CHA tell_eng me_eng about_eng his_eng books_eng 
+1588.691 1592.63 GIL he_eng made_eng a_eng book_eng about_eng Tom_engspa Sawyer_engspa 
+1592.62 1593.624 CHA mmhm_eng 
+1593.618 1594.669 GIL its_eng very_eng good_eng 
+1594.663 1595.162 CHA very_eng good_eng 
+1595.15 1596.584 CHA why_eng dont_eng you_eng tell_eng me_eng about_eng the_eng book_eng 
+1596.577 1606.765 GIL yeah_eng um_eng you_eng know_eng he_eng _eng i_eng its_eng about_eng this_eng kid_eng who_eng always_eng tricks_eng people_eng into_eng doing_eng stuff_eng for_eng him_eng 
+1606.748 1607.398 CHA uhuh_eng 
+1607.387 1608.536 GIL you_eng know_eng yeah_eng 
+1608.509 1610.819 CHA thats_eng awesome_eng 
+1610.799 1611.356 CHA well_eng 
+1611.338 1614.531 GIL but_eng you_eng know_eng his_eng real_eng name_eng is_eng Samuel_engspa t_eng Clemens_engspa 
+1614.505 1615.689 CHA Samuel_engspa Clemens_engspa 
+1615.685 1616.329 GIL yeah_eng 
+1615.685 1616.329 CHA _eng wow_eng 
+1616.318 1623.686 GIL he_eng got_eng out_eng from_eng Mark_engspa Twain_engspa because_eng he_eng used_eng to_eng um_eng work_eng as_eng someone_eng who_eng helped_eng like_eng xxx_eng and_eng stuff_eng 
+1623.689 1624.078 spa_spa sí_spa 
+1623.823 1625.576 GIL and_eng then_eng they_eng shouted_eng out_eng 
+1625.559 1626.453 GIL _eng Mark_engspa Twain_engspa 
+1626.443 1628.411 GIL so_eng he_eng thought_eng that_eng was_eng a_eng very_eng interesting_eng new_eng name_eng 
+1628.4 1630.623 GIL so_eng he_eng named_eng himself_eng Mark_engspa Twain_engspa 
+1630.608 1634.796 CHA wow_eng a_eng very_eng _eng actually_eng very_eng interesting_eng um_eng story_eng 
+1634.796 1637.815 CHA let_eng me_eng tell_eng you_eng a_eng very_eng funny_eng story_eng about_eng our_eng presidents_eng 
+1637.782 1647.837 CHA you_eng know_eng in_eng our_eng _eng uh_eng when_eng the_eng Indians_eng used_eng to_eng see_eng pictures_eng of_eng George_engspa Washington_engspa they_eng would_eng see_eng the_eng pictures_eng of_eng waist_eng up_eng 
+1647.828 1650.487 GIL I_eng know_eng and_eng like_eng I_eng heard_eng this_eng story_eng before_eng 
+1650.464 1652.025 GIL they_eng didnt_eng know_eng how_eng tall_eng he_eng was_eng 
+1652.01 1654.123 GIL so_eng they_eng just_eng added_eng feet_eng 
+1654.108 1661.28 CHA I_eng know_eng so_eng when_eng they_eng were_eng gonna_eng make_eng the_eng statue_eng he_eng was_eng just_eng this_eng little_eng mini_eng guy_eng muy_spa muy_spa chiquito_spa como_spa una_spa enanito_spa 
+1661.271 1663.554 CHA he_eng was_eng so_eng sm_eng little_eng 
+1663.542 1664.97 CHA it_eng was_eng funny_eng you_eng know_eng 
+1664.95 1669.576 CHA I_eng learned_eng about_eng that_eng in_eng a_eng book_eng _eng in_eng _eng in_eng my_eng social_eng studies_eng class_eng 
+1669.556 1671.367 GIL what_eng month_eng were_eng you_eng born_eng 
+1672.199 1675.903 CHA February_eng _eng as_eng I_eng uh_eng previously_eng told_eng you_eng 
+1672.315 1672.739 GIL _eng cool_eng 
+1677.944 1678.768 CHA February_eng 
+1678.745 1679.569 GIL yeah_eng 
+1679.567 1684.77 GIL so_eng um_eng _eng youre_eng visiting_eng here_eng in_eng Florida_engspa right_eng now_eng 
+1684.755 1687.587 GIL so_eng your_eng familys_eng up_eng in_eng New_jersey_engspa 
+1687.567 1689.605 CHA yes_eng they_eng are_eng in_eng New_jersey_engspa 
+1689.6 1692.578 CHA my_eng mom_eng and_eng her_eng husband_eng and_eng my_eng sister_eng are_eng there_eng 
+1692.563 1696.446 CHA well_eng I_eng love_eng spending_eng time_eng with_eng you_eng guys_eng you_eng know_eng 
+1696.438 1702.135 CHA me_spa fascina_spa estar_spa contigo_spa y_spa con_spa mi_spa tía_spa with_eng George_engspa and_eng uncle_eng dad_eng 
+1702.13 1707.495 GIL yeah_eng so_eng just_eng like_eng to_eng wrap_eng it_eng all_eng up_eng _eng because_eng we_eng dont_eng have_eng much_eng time_eng left_eng 
+1707.486 1709.425 GIL um_eng lets_eng see_eng 
+1709.416 1711.076 GIL what_eng is_eng 
+1711.071 1715.804 GIL just_eng honestly_eng what_eng is_eng your_eng favourite_eng um_eng 
+1715.804 1716.309 GIL lets_eng see_eng 
+1716.288 1717.756 GIL what_eng is_eng there_eng 
+1717.742 1719.199 CHA well_eng why_eng dont_eng we_eng talk_eng about_eng this_eng 
+1719.187 1720.668 CHA let_eng me_eng put_eng a_eng conversation_eng 
+1720.641 1724.42 CHA what_eng are_eng your_eng main_eng priorities_eng to_eng accomplish_eng in_eng life_eng 
+1723.654 1724.269 GIL _eng goal_eng 
+1724.408 1724.791 CHA yes_eng 
+1724.788 1726.767 CHA your_eng goal_eng for_eng your_eng life_eng 
+1726.752 1727.901 GIL Im_eng not_eng sure_eng 
+1727.884 1731.618 GIL Im_eng just_eng gonna_eng wait_eng and_eng see_eng what_eng I_eng need_eng to_eng do_eng when_eng I_eng grow_eng up_eng 
+1731.607 1739.526 GIL right_eng now_eng Im_eng just_eng getting_eng the_eng grades_eng _eng doing_eng good_eng _eng doing_eng my_eng best_eng _eng and_eng trying_eng hard_eng 
+1739.52 1741.848 GIL and_eng when_eng I_eng grow_eng up_eng Ill_eng see_eng what_eng attracts_eng to_eng me_eng 
+1741.836 1742.832 GIL Im_eng just_eng 
+1742.82 1745.334 GIL you_eng know_eng people_eng they_eng do_eng like_eng gymnastics_eng or_eng something_eng 
+1745.319 1746.044 GIL they_eng stick_eng to_eng it_eng 
+1746.021 1748.128 GIL I_eng didnt_eng _eng if_eng I_eng dont_eng like_eng it_eng I_eng dont_eng do_eng it_eng 
+1748.111 1752.723 GIL Im_eng just_eng waiting_eng to_eng _eng see_eng what_eng I_eng like_eng 
+1752.713 1755.628 CHA oh_eng very_eng interesting_eng 
+1755.614 1758.22 GIL how_eng about_eng you_eng 
+1758.209 1764.324 CHA well_eng _eng my_eng goals_eng in_eng life_eng are_eng to_eng get_eng involved_eng with_eng international_eng businesses_eng 
+1764.31 1769.061 CHA I_eng would_eng like_eng to_eng learn_eng about_eng you_eng know_eng businesses_eng in_eng all_eng the_eng countries_eng 
+1769.044 1770.338 GIL laywer_eng 
+1770.317 1771.728 CHA yeah_eng a_eng lawyer_eng too_eng 
+1771.71 1777.375 CHA but_eng ah_eng _eng _eng but_eng you_eng know_eng international_eng business_eng I_eng can_eng talk_eng Spanish_eng with_eng people_eng 
+1777.323 1780.494 CHA hablar_spa español_spa or_eng different_eng types_eng of_eng languages_eng 
+1780.478 1782.783 CHA get_eng to_eng travel_eng around_eng 
+1782.767 1785.658 CHA I_eng wanna_eng learn_eng how_eng to_eng speak_eng different_eng languages_eng 
+1785.637 1788.801 CHA I_eng have_eng a_eng lot_eng of_eng goals_eng to_eng accomplish_eng in_eng my_eng life_eng 
+1788.775 1802.632 GIL Im_eng just_eng like_eng I_eng said_eng before_eng Im_eng just_eng gonna_eng wait_eng and_eng see_eng what_eng I_eng like_eng or_eng I_eng want_eng to_eng accomplish_eng because_eng right_eng now_eng I_eng dont_eng wanna_eng make_eng a_eng decision_eng and_eng then_eng try_eng to_eng go_eng after_eng it_eng 
+1802.624 1804.528 GIL and_eng I_eng dont_eng really_eng want_eng it_eng 
+1804.522 1809.853 CHA well_eng thats_eng a_eng very_eng _eng very_eng interesting_eng thing_eng of_eng thinking_eng ways_eng 
+1809.845 1811.505 GIL yeah_eng 
+1811.484 1821.856 spa_spa entonces_spa ya_spa para_spa cerrar_spa la_spa conversación_spa _spa qué_spa _spa _spa cómo_spa tú_spa te_spa sientes_spa _spa con_spa tu_spa familia_spa 
+1821.841 1824.744 GIL I_eng feel_eng very_eng warm_eng with_eng them_eng 
+1824.741 1830.106 GIL um_eng I_eng just_eng love_eng it_eng when_eng we_eng can_eng just_eng be_eng together_eng and_eng bond_eng just_eng by_eng ourselves_eng 
+1830.099 1844.915 GIL and_eng you_eng know_eng I_eng love_eng bonding_eng with_eng my_eng parents_eng because_eng we_eng get_eng a_eng chance_eng to_eng chit_eng chat_eng and_eng talk_eng about_eng whats_eng going_eng on_eng with_eng each_eng other_eng and_eng _eng about_eng stuff_eng that_eng just_eng we_eng get_eng comfortable_eng around_eng 
+1844.919 1847.45 CHA it_eng looks_eng like_eng you_eng have_eng a_eng lot_eng of_eng confidence_eng 
+1847.445 1847.967 CHA and_eng 
+1847.578 1849.517 GIL _eng I_eng had_eng a_eng lot_eng of_eng self_eng confidence_eng 
+1848.994 1850.666 CHA yes_eng with_eng yourself_eng 

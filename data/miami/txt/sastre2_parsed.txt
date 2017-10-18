@@ -1,0 +1,1261 @@
+1781.477 1782.54 eng_eng because_eng thats_eng my_eng nap_eng time
+1.155 2.728 eng_eng and_eng when_eng its_eng the_eng afternoons_eng when_eng I_eng take_eng my_eng nap_eng 
+1.329 2.595 AVA _spa sí_spa claro_spa que_spa sí_spa 
+2.734 3.332 eng_eng so_eng what_eng 
+3.634 4.87 AVA claro_spa que_spa sí_spa 
+6.134 13.725 AVA entonces_spa estoy_spa ideando_spa coger_spa esas_spa _spa esos_spa _spa esos_spa carros_spa que_spa uno_spa llama_spa y_spa por_spa dos_spa cincuenta_spa te_spa llevan_spa al_spa lugar_spa que_spa tú_spa quieres_spa 
+13.939 15.129 eng_eng oh_eng the_eng S_T_S_eng cars_eng 
+15.13 15.444 AVA sí_spa 
+15.728 16.106 eng_eng oh_eng 
+16.899 18.754 AVA pero_spa me_spa dieron_spa el_spa pe_spa _spa me_spa dieron_spa _spa 
+16.975 18.31 LUI _spa por_spa dos_spa _spa por_spa dos_spa pesos_spa te_spa llevan_spa 
+18.76 19.962 LUI coño_spa 
+18.76 19.962 AVA _spa por_spa dos_spa cincuenta_spa 
+20.086 20.69 AVA _spa me_spa llevan_spa 
+20.672 22.148 AVA y_spa dos_spa cincuenta_spa el_spa regreso_spa 
+20.697 21.632 LUI _spa _spa eng_spa just_spa like_spa the_spa bus_spa 
+22.479 22.955 LUI coño_spa 
+23.208 25.357 AVA por_spa cinco_spa pesos_spa me_spa llevan_spa donde_spa yo_spa quiera_spa ir_spa 
+25.692 26.592 LUI ida_spa y_spa vuelta_spa ah_engspa per_spa _spa 
+26.574 27.619 LUI y_spa una_spa propinita_spa 
+26.932 27.397 AVA _spa aha_engspa 
+27.608 29.309 LUI siete_spa pesos_spa ya_spa y_spa ya_spa está_spa 
+27.922 29.309 AVA _spa _spa eng_spa right_spa right_spa 
+29.871 31.694 AVA pero_spa me_spa dieron_spa el_spa teléfono_spa donde_spa llamar_spa 
+31.586 32.625 AVA y_spa me_spa lo_spa dieron_spa mal_spa 
+34.282 37.085 AVA y_spa tengo_spa que_spa pedírselo_spa a_spa Luisa_engspa que_spa tiene_spa ese_spa servicio_spa 
+39.945 41.622 AVA porque_spa Pepe_engspa se_spa brinda_spa a_spa llevarme_spa 
+41.535 44.014 AVA ya_spa me_spa ve_spa _spa se_spa brindó_spa a_spa llevarme_spa a_spa ver_spa a_spa Susana_engspa 
+43.904 44.705 eng_eng Ill_eng take_eng you_eng 
+44.809 46.046 eng_eng Ill_eng take_eng you_eng anywhere_eng you_eng wanna_eng go_eng 
+46.052 46.684 eng_eng what_eng the_eng hell_eng 
+46.137 46.581 AVA _spa sí_spa 
+46.544 49.967 AVA pero_spa es_spa que_spa te_spa quedas_spa a_spa dormir_spa te_spa quedas_spa xxx_spa 
+47.775 48.309 LUI _spa _spa eng_spa so_spa what_spa 
+48.297 48.704 LUI _spa _spa eng_spa well_spa go_spa 
+48.692 51.566 eng_eng one_eng sunday_eng morning_eng Ill_eng come_eng sunday_eng m_eng morning_eng and_eng well_eng go_eng there_eng first_eng 
+51.942 54.043 eng_eng xxx_eng sleep_eng until_eng one_eng two_eng oclock_eng in_eng the_eng afternoon_eng 
+54.752 56.145 AVA entonces_spa 
+56.408 58.579 AVA y_spa me_spa da_spa vergüenza_spa que_spa más_spa nunca_spa la_spa 
+58.55 59.994 AVA una_spa sola_spa vez_spa la_spa he_spa ido_spa a_spa ver_spa 
+60.901 62.776 AVA la_spa mermelada_spa de_spa 
+62.799 70.104 AVA Billy_engspa me_spa trajo_spa una_spa caja_spa de_spa mangos_spa de_spa que_spa una_spa amiga_spa de_spa ella_spa se_spa los_spa dio_spa para_spa que_spa yo_spa hiciera_spa la_spa mermelada_spa para_spa ella_spa 
+70.475 71.102 eng_eng really_eng 
+70.763 72.095 AVA _spa la_spa hice_spa la_spa mermelada_spa 
+72.043 73.419 AVA y_spa la_spa boté_spa los_spa otros_spa días_spa 
+74.122 76.049 AVA pues_spa tuvo_spa más_spa de_spa un_spa año_spa en_spa la_spa nevera_spa 
+76.246 76.844 eng_eng oh_eng 
+76.859 78.409 AVA yo_spa eso_spa no_spa se_spa lo_spa iba_spa a_spa llevar_spa 
+79.024 79.605 eng_eng oh_eng 
+79.681 80.836 AVA y_spa la_spa anoté_spa _spa 
+80.087 80.981 LUI _spa _spa eng_spa how_spa do_spa you_spa do_spa that_spa 
+81.111 82.075 AVA dos_spa pomos_spa 
+82.365 84.455 AVA oj_spa pero_spa hay_spa que_spa usar_spa una_spa de_spa mango_spa 
+85.284 85.569 LUI pero_spa es_spa 
+85.545 87.676 LUI tú_spa pones_spa mango_spa entero_spa en_spa agua_spa hirviendo_spa 
+87.517 88.092 AVA no_spa 
+88.158 89.29 AVA los_spa pongo_spa en_spa la_spa batidora_spa 
+89.247 90.64 AVA los_spa pelo_spa 
+90.544 92.245 AVA los_spa hago_spa pedazos_spa 
+92.11 94.495 AVA los_spa pongo_spa en_spa el_spa _spa en_spa el_spa blender_eng 
+94.565 96.016 LUI con_spa leche_spa o_spa agua_spa o_spa what_eng 
+96.11 97.178 AVA eh_spa 
+97.114 98.036 AVA con_spa leche_spa 
+97.328 97.85 LUI _spa con_spa qué_spa 
+98.402 99.516 LUI ah_engspa o_k_engspa así_spa que_spa 
+98.645 100.201 AVA _spa no_spa yo_spa no_spa le_spa echo_spa leche_spa 
+100.213 100.648 LUI no_spa 
+100.792 102.115 AVA es_spa mango_spa puro_spa 
+102.71 104.301 LUI sin_spa agua_spa sin_spa nada_spa 
+103.314 105.334 AVA _spa por_spa eso_spa saben_spa tanto_spa a_spa mango_spa 
+105.555 106.826 eng_eng oh_eng well_eng I_eng see_eng 
+105.885 107.086 AVA _spa es_spa puro_spa mango_spa 
+107.487 109.803 AVA pero_spa hay_spa que_spa hacerlo_spa en_spa la_spa batidora_spa 
+109.751 111.446 AVA y_spa después_spa colarlo_spa 
+112.979 115.327 AVA entonces_spa después_spa se_spa le_spa echa_spa el_spa azúcar_spa 
+115.314 118.699 AVA y_spa cuando_spa está_spa espesito_spa se_spa pone_spa en_spa pomo_spa 
+119.833 121.574 AVA pero_spa yo_spa no_spa pude_spa ir_spa a_spa verla_spa 
+121.63 124.335 AVA y_spa se_spa me_spa hicieron_spa viejos_spa _spa en_spa la_spa nevera_spa 
+124.056 125.194 AVA los_spa tuve_spa que_spa botar_spa 
+125.757 127.284 eng_eng and_eng Billy_engspa gave_eng _eng gave_eng you_eng that_eng 
+127.269 129.4 AVA me_spa trajo_spa una_spa caja_spa de_spa mangos_spa Lini_spa 
+129.312 129.864 LUI wow_engspa 
+129.812 133.402 LUI y_spa de_spa _spa de_spa una_spa caja_spa de_spa mangos_spa nada_spa más_spa hiciste_spa dos_spa _spa dos_spa _spa dos_spa jarros_spa _spa nada_spa más_spa 
+133.393 136.806 AVA como_spa los_spa _spa como_spa ka_spa _spa como_spa quince_spa mangos_spa eché_spa a_spa perder_spa 
+136.747 137.565 LUI wow_engspa 
+138.167 138.422 LUI oh_engspa 
+138.486 139.769 AVA y_spa mangos_spa grandes_spa 
+138.855 140.649 LUI _spa pero_spa quince_spa mangos_spa te_spa dieron_spa nada_spa más_spa 
+140.649 141.36 eng_eng two_eng jars_eng 
+141.724 142.037 AVA aha_engspa 
+142.035 144.166 AVA mira_spa como_spa _spa _spa mira_spa así_spa eran_spa de_spa grandes_spa 
+144.198 145.005 LUI y_spa eran_spa dulces_spa 
+145.467 147.714 AVA grandes_spa y_spa rindísimos_spa _spa riquísimos_spa 
+147.197 147.841 LUI _spa _spa eng_spa really_spa 
+147.794 148.374 eng_eng shit_eng 
+148.09 153.821 AVA _spa una_spa amiga_spa de_spa ella_spa que_spa trabaja_spa en_spa la_spa corte_spa con_spa tu_spa hermana_spa _spa e_spa se_spa los_spa regaló_spa 
+153.904 158.424 LUI tú_spa no_spa sabes_spa que_spa ya_spa _spa la_spa mata_spa mía_spa del_spa mango_spa ya_spa no_spa tiene_spa _spa ya_spa no_spa la_spa queda_spa ni_spa the_eng stump_eng 
+158.669 159.146 LUI le_spa 
+158.947 160.108 LUI ella_spa _spa ella_spa 
+159.717 161.697 AVA _spa sí_spa ya_spa yo_spa la_spa vi_spa que_spa la_spa habían_spa cortado_spa eh_spa 
+161.382 161.742 LUI _spa ello_spa k_spa 
+161.758 164.875 LUI e_spa Susie_engspa consiguió_spa un_spa par_spa de_spa negros_spa trabajadores_spa de_spa barrio_spa 
+164.564 166.16 LUI y_spa tumbaron_spa el_spa shed_eng 
+166.151 169.408 LUI ya_spa no_spa tenemos_spa shed_eng ni_spa _spa ni_spa eso_spa ni_spa de_spa 
+169.361 171.416 LUI toda_spa esa_spa selva_spa que_spa te_spa había_spa atrás_spa lo_spa quitaron_spa todo_spa 
+169.495 170.331 AVA _spa sí_spa 
+171.632 172.677 AVA sí_spa yo_spa lo_spa vi_spa 
+172.956 176.961 AVA pero_spa óyeme_spa la_spa mata_spa de_spa mango_spa esa_spa que_spa estaba_spa muerta_spa cuando_spa yo_spa la_spa traje_spa de_spa tu_spa casa_spa 
+177.01 177.41 eng_eng yeah_eng 
+177.661 178.851 AVA _spa está_spa bien_spa viva_spa 
+179.014 179.478 eng_eng really_eng 
+179.667 180.416 AVA aha_engspa 
+180.422 180.985 eng_eng really_eng 
+181.014 181.78 LUI coño_spa 
+181.749 184.483 AVA mira_spa si_spa hubiera_spa sabido_spa la_spa hubiéramos_spa claps_hands_spa traído_spa 
+184.356 185.355 eng_eng yeah_eng we_eng didnt_eng think_eng about_eng it_eng 
+185.355 186.249 eng_eng well_eng do_eng it_eng next_eng time_eng 
+187.403 189.737 LUI porque_spa yo_spa tengo_spa _spa yo_spa tengo_spa una_spa _spa una_spa cosa_spa 
+187.583 188.599 AVA _spa porque_spa yo_spa necesito_spa 
+189.777 191.466 AVA _spa yo_spa necesito_spa sembrarla_spa 
+191.478 192.685 AVA tú_spa no_spa sabes_spa sembrarla_spa 
+192.681 197.237 LUI _spa yo_spa tengo_spa una_spa cosa_spa con_spa t_spa _spa con_spa tres_spa pibos_spa _spa así_spa que_spa es_spa como_spa un_spa _spa como_spa una_spa pala_spa 
+198.72 199.759 LUI que_spa yo_spa pienso_spa vaya_spa 
+199.747 201.303 LUI uno_spa puede_spa cogerlo_spa 
+201.397 202.181 LUI y_spa meterlo_spa en_spa la_spa tierra_spa 
+202.198 203.092 LUI y_spa hacerle_spa así_spa 
+203.318 205.477 LUI y_spa hacer_spa un_spa hueco_spa así_spa you_eng know_eng 
+204.984 205.431 AVA _spa sí_spa 
+205.711 206.883 LUI entonces_spa meterlo_spa así_spa 
+207.713 208.131 AVA no_spa 
+208.05 210.134 AVA y_spa ya_spa 
+208.05 210.134 LUI _spa no_spa verdad_spa que_spa yo_spa no_spa soy_spa curioso_spa para_spa esas_spa mierdas_spa 
+210.153 211.047 AVA no_spa ya_spa no_spa no_spa 
+210.978 212.673 AVA y_spa que_spa hay_spa que_spa saber_spa sembrar_spa 
+212.392 214.412 AVA la_spa mata_spa se_spa siembra_spa 
+214.42 216.967 AVA según_spa la_spa raíz_spa que_spa tenga_spa hay_spa que_spa abrir_spa el_spa hueco_spa 
+216.91 217.369 eng_eng right_eng 
+217.35 222.59 AVA entonces_spa se_spa le_spa echa_spa tierra_spa buena_spa como_spa la_spa que_spa yo_spa compro_spa Miracle_Grow_engspa 
+223.413 225.741 AVA entonces_spa se_spa le_spa echa_spa tierra_spa buena_spa 
+225.872 227.927 LUI tú_spa les_spa pones_spa Miracle_Grow_engspa a_spa todo_spa alrededor_spa 
+227.834 228.896 LUI al_spa otro_spa también_spa 
+228.865 229.596 AVA sí_spa 
+229.228 229.937 LUI _spa de_spa hueco_spa 
+229.995 233.783 AVA sí_spa porque_spa _spa para_spa que_spa abajo_spa _spa con_spa _spa donde_spa va_spa a_spa ir_spa la_spa raíz_spa 
+233.453 236.315 LUI _spa y_spa eso_spa viene_spa ya_spa con_spa su_spa abono_spa ahí_spa _spa ahí_spa hecho_spa 
+235.322 235.711 AVA _spa sí_spa 
+236.402 236.681 AVA sí_spa 
+236.977 238.95 LUI y_spa mierda_spa _spa mierda_spa de_spa gato_spa no_spa sirve_spa 
+237.859 238.637 AVA _spa sí_spa 
+238.776 239.287 AVA no_spa 
+239.538 240.101 AVA calla_spa 
+240.009 243.515 AVA oh_engspa no_engspa 
+240.009 243.515 LUI _spa laugh_spa 
+243.527 244.659 AVA no_spa hombre_spa no_spa _spa laughs_spa 
+244.328 245.751 LUI _spa laugh_spa 
+245.802 250.681 AVA entonces_spa después_spa que_spa le_spa pongas_spa el_spa Miracle_Grow_engspa le_spa pones_spa ahí_spa la_spa _spa la_spa de_spa esto_spa 
+250.888 252.788 AVA que_spa te_spa quede_spa bien_spa derechita_spa 
+253.119 256.694 AVA y_spa se_spa le_spa echa_spa más_spa Miracle_Grow_engspa por_spa arriba_spa 
+256.7 257.849 AVA agua_spa 
+257.838 262.244 AVA primero_spa cuanto_spa _spa en_spa cuanto_spa se_spa hace_spa el_spa hueco_spa primero_spa es_spa echar_spa un_spa poco_spa de_spa agua_spa 
+261.734 263.249 LUI _spa agua_spa entonces_spa Miracle_Grow_spa 
+263.237 264.2 AVA no_spa _spa así_spa 
+264.19 265.095 LUI y_spa entonces_spa la_spa mata_spa 
+265.084 267.028 AVA y_spa después_spa _spa y_spa después_spa agua_spa otra_spa vez_spa 
+267.022 269.977 AVA después_spa del_spa Miracle_Grow_engspa agua_spa 
+269.971 274.151 AVA y_spa después_spa le_spa puedes_spa echar_spa cualquier_spa tierra_spa que_spa no_spa esté_spa con_spa vitaminas_spa ni_spa nada_spa 
+274.134 276.839 LUI tú_spa has_spa crecido_spa tomates_spa mucho_spa 
+276.826 279.572 AVA aaaa_spa una_spa vez_spa en_spa _spa en_spa Nueva_York_spa 
+279.386 284.119 LUI pero_spa cuando_spa tú_spa sacas_spa _spa ya_spa la_spa fruta_spa _spa o_spa el_spa vegetal_spa lo_spa que_spa sea_spa 
+283.213 283.956 AVA _spa está_spa guindada_spa _spa 
+283.994 284.504 eng_eng right_eng 
+284.31 285.152 AVA normal_spa 
+284.516 285.451 LUI _spa y_spa tú_spa la_spa sacas_spa 
+285.732 287.665 LUI te_spa dan_spa más_spa más_spa tarde_spa o_spa no_spa 
+287.648 288.298 AVA no_spa 
+288.296 290.311 LUI ya_spa que_spa tú_spa la_spa sacas_spa ya_spa se_spa jodió_spa la_spa cosa_spa 
+289.544 290.415 AVA _spa no_spa ya_spa 
+290.775 291.744 LUI oh_engspa 
+292.275 294.109 AVA ellos_spa pueden_spa parir_spa dos_spa veces_spa 
+294.092 295.276 AVA pero_spa no_spa es_spa 
+295.259 296.478 LUI no_spa es_spa constantemente_spa 
+296.466 297.174 AVA no_spa 
+297.133 299.177 LUI como_spa una_spa mata_spa de_spa _spa de_spa _spa de_spa naranjas_spa 
+298.643 300.187 AVA _spa como_spa los_spa strawberries_eng cuando_spa 
+300.513 304.049 AVA yo_spa compré_spa en_spa Nueva_York_spa catorce_spa matas_spa de_spa strawberries_eng por_spa correo_spa 
+304.277 306.749 eng_eng really_eng 
+304.277 306.749 AVA _spa se_spa _spa no_spa se_spa me_spa murió_spa ni_spa una_spa 
+306.691 307.394 eng_eng really_eng 
+307.509 314.241 AVA y_spa cuando_spa nosotros_spa vinimos_spa para_spa acá_spa en_spa el_spa ochenta_spa y_spa dos_spa _spa habían_spa más_spa de_spa cincuenta_spa matas_spa de_spa strawberry_eng 
+314.467 316.231 LUI porque_spa ellas_spa mismas_spa echan_spa sus_spa babies_eng 
+315.792 318.671 AVA _spa la_spa p_spa _spa la_spa _spa la_spa _spa la_spa _spa el_spa strawberry_eng echa_spa una_spa rama_spa 
+319.422 320.752 AVA esa_spa rama_spa va_spa a_spa b_spa 
+320.655 322.164 AVA cae_spa al_spa piso_spa 
+321.866 323.503 AVA y_spa enseguida_spa es_spa otra_spa mata_spa 
+323.419 324.005 eng_eng really_eng 
+324.522 330.833 AVA oye_spa pero_spa como_spa yo_spa tenía_spa strawberry_eng _spa el_spa señor_spa de_spa la_spa imprenta_spa el_spa que_spa era_spa italiano_spa él_spa 
+330.672 332.227 LUI sí_spa _spa I_eng remember_eng 
+331.471 334.118 AVA _spa el_spa viejito_spa metía_spa así_spa las_spa manitos_spa de_spa él_spa por_spa las_spa 
+333.644 334.921 LUI _spa laugh_spa por_spa las_spa rejas_spa 
+334.91 336.977 AVA _spa por_spa las_spa rejas_spa pobrecito_spa 
+336.147 337.4 LUI _spa laugh_spa 
+337.183 338.483 AVA y_spa me_spa decía_spa _spa me_spa dice_spa 
+338.381 340.029 AVA _spa strawberries_eng laugh_spa 
+339.595 341.894 LUI _spa laugh_spa 
+339.595 341.894 AVA el_spa buenos_spa días_spa 
+341.85 342.285 LUI laugh_spa 
+341.917 343.42 AVA y_spa yo_spa le_spa daba_spa los_spa buenos_spa días_spa 
+343.23 343.834 AVA y_spa le_spa decía_spa 
+343.935 346.442 AVA _spa mire_spa _spa váyase_spa a_spa trabajar_spa 
+346.525 349.677 AVA laugh_spa porque_spa él_spa solito_spa _spa solito_spa en_spa la_spa imprenta_spa 
+349.842 350.254 eng_eng right_eng 
+350.46 352.73 AVA él_spa no_spa tenía_spa quien_spa lo_spa ayudara_spa 
+352.735 353.188 AVA le_spa decía_spa 
+353.125 356.678 AVA _spa váyase_spa a_spa trabajar_spa que_spa cuando_spa e_spa yo_spa le_spa tenga_spa su_spa 
+356.214 358.164 AVA yo_spa le_spa ponía_spa una_spa bolsita_spa 
+358.178 359.849 AVA y_spa se_spa la_spa daba_spa a_spa él_spa 
+359.081 359.812 LUI _spa you_eng know_eng the_spa _spa 
+359.81 363.449 LUI oye_spa no_spa hay_spa nada_spa más_spa fresco_spa que_spa eso_spa right_eng _spa right_eng there_eng from_eng the_eng vine_eng man_eng 
+361.677 364.19 AVA _spa ah_engspa sí_spa sí_spa 
+365.012 366.44 AVA pero_spa le_spa encantaban_spa 
+366.493 367.491 AVA Ave_María_spa 
+368.114 371.257 AVA y_spa yo_spa lo_spa que_spa me_spa llevaba_spa para_spa arriba_spa lo_spa hacía_spa almíbar_spa para_spa mamá_spa 
+371.292 372.929 AVA mamá_spa le_spa _spa le_spa gustaba_spa 
+372.967 373.896 LUI tú_spa lo_spa hacías_spa qué_spa 
+374.361 376.161 AVA no_spa mamá_spa no_spa los_spa comía_spa así_spa 
+376.132 376.997 AVA tú_spa sabes_spa 
+376.877 377.858 eng_eng you_eng have_eng to_eng mash_eng it_eng up_eng 
+378.097 380.297 AVA eh_spa tenía_spa que_spa ponerlos_spa en_spa el_spa blender_eng 
+380.555 381.484 LUI hacerle_spa un_spa puré_spa 
+381.394 382.67 AVA y_spa le_spa ponía_spa azúcar_spa 
+382.497 385.225 AVA y_spa le_spa hacía_spa como_spa una_spa 
+385.265 387.767 LUI coño_spa más_spa azúcar_spa todavía_spa que_spa ya_spa tenía_spa la_spa mata_spa 
+388.242 388.817 AVA no_spa 
+388.469 389.346 LUI _spa porque_spa strawberry_eng 
+388.823 390.385 AVA _spa eran_spa dulces_spa pero_spa no_spa 
+389.746 390.437 LUI _spa _spa eng_spa yeah_spa I_spa know_spa 
+390.756 391.476 AVA no_spa 
+391.174 394.141 AVA para_spa hacer_spa mermelada_spa hay_spa que_spa echar_spa un_spa poquito_spa de_spa azúcar_spa 
+393.318 395.065 LUI _spa _spa eng_spa oh_spa oh_spa oh_spa oh_spa 
+394.943 396.678 AVA entonces_spa yo_spa cogía_spa las_spa tostadas_spa 
+396.217 397.633 AVA y_spa se_spa las_spa embarraba_spa así_spa 
+397.591 400.082 LUI coño_spa qué_spa vida_spa 
+397.591 400.082 AVA _spa ella_spa le_spa gustaba_spa eso_spa 
+400.463 401.519 LUI coño_spa cualquiera_spa 
+401.165 404.039 AVA le_spa hacían_spa daño_spa si_spa se_spa lo_spa comía_spa _spa crudo_spa 
+404.03 404.622 eng_eng oh_eng really_eng 
+404.709 407.275 LUI así_spa como_spa strawberry_eng jam_eng es_spa lo_spa que_spa tú_spa estabas_spa haciendo_spa 
+406.683 407.403 AVA alright_eng _spa 
+407.304 407.879 LUI wow_engspa 
+407.954 409.289 AVA sí_spa y_spa 
+408.854 413.2 LUI ten_spa cuidado_spa que_spa los_spa _spa que_spa los_spa jíbaros_spa _spa de_spa aquí_spa los_spa americanos_spa de_spa hillbilly_spa se_spa hacen_spa eso_spa todo_spa el_spa tiempo_spa 
+413.562 414.183 AVA claro_spa 
+413.678 414.7 LUI _spa _spa eng_spa jams_spa you_spa know_spa 
+414.673 416.856 AVA yo_spa sé_spa pero_spa yo_spa lo_spa 
+414.673 416.856 LUI _spa de_spa jelly_eng de_spa todo_spa 
+416.48 420.085 AVA _spa yo_spa lo_spa necesitaba_spa aprovechar_spa porque_spa se_spa me_spa hicieron_spa muchas_spa matas_spa 
+420.031 420.489 eng_eng yeah_eng 
+420.198 427.283 AVA de_spa catorce_spa que_spa yo_spa compré_spa _spa aquello_spa era_spa que_spa todo_spa aquello_spa en_spa pedazos_spa se_spa había_spa _spa lo_spa había_spa cogido_spa de_spa la_spa mata_spa 
+427.616 429.201 LUI y_spa eso_spa sigue_spa como_spa un_spa vine_eng 
+429.473 430.129 AVA no_spa 
+429.473 430.129 LUI _spa no_spa 
+430.086 430.69 AVA en_spa todo_spa 
+430.729 433.197 AVA no_spa mira_spa así_spa es_spa como_spa crecen_spa pequeñas_spa 
+433.205 434.545 LUI no_spa _spa no_spa van_spa por_spa la_spa pared_spa 
+434.017 435.623 AVA _spa no_spa ni_spa dos_spa pies_spa 
+436.059 437.098 AVA ni_spa dos_spa pies_spa no_spa 
+436.256 436.749 LUI _spa _spa eng_spa really_spa 
+437.107 440.056 LUI coño_spa entonces_spa uno_spa tiene_spa que_spa estar_spa agachado_spa cogiendo_spa 
+438.636 439.919 AVA _spa son_spa bajitas_spa 
+440.434 441.949 AVA pero_spa cómo_spa paren_spa 
+442.147 442.623 eng_eng yeah_eng 
+442.621 445.181 AVA tú_spa las_spa veías_spa todas_spa coloraditas_spa por_spa donde_spa quieras_spa 
+446.439 451.251 AVA pero_spa fíjate_spa aquí_spa _spa Juan_spa me_spa desilusionó_spa _spa porque_spa me_spa dijo_spa que_spa aquí_spa no_spa 
+446.607 446.955 LUI _spa wow_engspa 
+451.127 454.245 AVA porque_spa aquí_spa claro_spa como_spa sembraba_spa se_spa lo_spa comían_spa los_spa gusanos_spa 
+454.494 457.396 AVA si_spa uno_spa no_spa tiene_spa la_spa _spa la_spa tierra_spa acondicionada_spa así_spa 
+457.05 458.072 LUI _spa right_eng claro_spa 
+458.121 459.88 AVA pero_spa yo_spa siempre_spa estoy_spa echando_spa 
+460.201 464.885 AVA si_spa yo_spa sé_spa que_spa tengo_spa hormigas_spa le_spa echo_spa cosas_spa para_spa las_spa hormigas_spa las_spa compro_spa 
+463.042 464.76 LUI _spa vale_spa y_spa tú_spa _spa qué_spa tú_spa le_spa echas_spa para_spa las_spa hormigas_spa 
+464.879 466.231 AVA unos_spa _spa unos_spa sobres_spa así_spa 
+466.696 468.263 AVA ustedes_spa tienen_spa hormigas_spa allá_spa 
+468.854 470.044 eng_eng not_eng _eng not_eng very_eng many_eng no_eng 
+470.219 474.375 AVA no_spa pero_spa yo_spa re_spa _spa tengo_spa todavía_spa en_spa la_spa casa_spa un_spa sobre_spa así_spa 
+471.728 474.218 LUI _spa e_spa va_spa vaya_spa yo_spa tengo_spa 
+474.357 478.76 LUI las_spa chiquititas_spa entran_spa a_spa la_spa casa_spa cada_spa rato_spa para_spa you_eng know_eng joder_spa el_spa parque_spa xxx_spa 
+477.505 478.462 AVA _spa ah_spa sí_spa esas_spa sí_spa 
+478.817 482.621 AVA pero_spa yo_spa te_spa digo_spa las_spa hormigas_spa grandes_spa las_spa coloradas_spa que_spa _spa tú_spa 
+481.852 483.473 LUI _spa que_spa pican_spa con_spa cojones_spa 
+482.614 485.104 AVA _spa a_spa ti_spa te_spa infectan_spa la_spa _spa la_spa picada_spa 
+484.256 485.034 LUI _spa _spa eng_spa yeah_spa I_spa know_spa 
+485.195 487.006 AVA porque_spa a_spa mí_spa se_spa me_spa infecta_spa también_spa 
+487.418 489.044 AVA yo_spa eso_spa no_spa lo_spa puedo_spa 
+489.01 489.678 AVA veo_spa una_spa 
+489.649 491.152 AVA y_spa me_spa _spa me_spa _spa me_spa erizo_spa 
+491.075 493.519 AVA a_spa hasta_spa las_spa sigo_spa a_spa ver_spa dónde_spa se_spa meten_spa 
+493.58 494.776 LUI laugh_spa 
+494.1 495.79 AVA _spa para_spa ver_spa dónde_spa tienen_spa el_spa hueco_spa 
+495.93 498.548 LUI no_spa porque_spa yo_spa tengo_spa un_spa hombre_spa que_spa viene_spa the_eng cucaracha_spa guy_eng 
+499.372 501.166 LUI y_spa _spa y_spa _spa y_spa 
+499.429 501.693 AVA _spa oh_spa que_spa _spa que_spa mata_spa todo_spa eso_spa sí_spa 
+501.786 504.027 LUI y_spa por_spa el_spa hallsspa_spa de_spa la_spa casa_spa y_spa adentro_spa y_spa afuera_spa 
+503.025 503.657 AVA _spa sí_spa pero_spa 
+504.041 505.788 AVA sí_spa pero_spa donde_spa yo_spa vivo_spa 
+505.998 507.982 LUI es_spa un_spa veneno_spa del_spa carajo_spa mi_spa hombre_spa 
+507.589 508.042 AVA _spa sí_spa 
+508.044 510.482 LUI al_spa cruzar_spa eso_spa ya_spa se_spa están_spa muriendo_spa los_spa maricones_spa 
+510.529 511.098 AVA sí_spa 
+511.215 513.96 LUI al_spa cruzarlo_spa ya_spa se_spa están_spa muriendo_spa forget_eng it_eng I_eng laugh_spa 
+514.011 515.462 AVA laugh_spa 
+515.434 516.886 AVA no_spa pues_spa yo_spa no_spa 
+516.276 519.132 LUI _spa oye_spa más_spa Ellen_engspa tiene_spa un_spa miedo_spa a_spa esas_spa cucarachas_spa 
+519.167 519.724 AVA ah_spa sí_spa 
+519.91 520.729 LUI coño_spa 
+520.584 522.447 AVA oye_spa un_spa día_spa me_spa llamó_spa llorando_spa 
+522.611 523.151 LUI no_spa 
+523.042 524.627 LUI y_spa dando_spa gritos_spa 
+523.042 524.627 AVA _spa y_spa dando_spa gritos_spa 
+524.383 526.066 eng_eng yeah_eng man_eng yeah_eng 
+524.597 525.88 AVA _spa a_spa _spa a_spa 
+525.953 526.853 AVA yo_spa le_spa digo_spa 
+526.666 527.381 AVA _spa oye_spa pero_spa mátala_spa 
+527.364 528.119 AVA _spa coge_spa una_spa escoba_spa 
+528.101 529.471 AVA _spa y_spa mátala_spa 
+529.459 531.328 AVA entonces_spa no_spa sabes_spa lo_spa que_spa me_spa dijo_spa 
+531.276 533.795 AVA que_spa estaba_spa en_spa la_spa cocina_spa y_spa que_spa ella_spa no_spa podía_spa usar_spa la_spa escoba_spa 
+533.692 534.267 AVA le_spa digo_spa 
+534.215 536.45 AVA _spa bueno_spa pues_spa usa_spa cualquier_spa cosa_spa 
+534.246 535.378 LUI _spa laugh_spa 
+536.46 536.872 LUI no_spa 
+536.71 538.504 AVA _spa usa_spa cualquier_spa cosa_spa 
+537.685 539.821 LUI _spa una_spa cobarde_spa con_spa la_spa movida_spa de_spa esa_spa mierda_spa boy_eng 
+539.16 539.624 AVA _spa aha_engspa 
+540.119 541.692 LUI tú_spa no_spa sabes_spa que_spa un_spa día_spa yo_spa pasé_spa 
+540.804 543.637 AVA _spa no_spa pero_spa te_spa _spa te_spa voy_spa a_spa decir_spa una_spa cosa_spa que_spa un_spa día_spa 
+544.052 552.763 AVA _spa cuando_spa Juan_spa era_spa un_spa xxx_spa undercover_spa _spa xxx_spa cuando_spa vivíamos_spa en_spa la_spa ciento_spa treinta_spa y_spa cuatro_spa _spa eh_spa nos_spa _spa nos_spa levantamos_spa tu_spa padre_spa y_spa yo_spa 
+552.734 558.115 AVA y_spa vemos_spa a_spa Juan_engspa durmiendo_spa en_spa un_spa mattress_eng _spa en_spa la_spa sala_spa en_spa el_spa piso_spa de_spa la_spa sala_spa 
+558.173 558.84 AVA y_spa le_spa digo_spa 
+558.819 559.585 AVA _spa Juan_engspa 
+559.626 561.913 AVA _spa qué_spa tú_spa haces_spa ahí_spa muchacho_spa 
+561.925 562.883 AVA porque_spa tú_spa te_spa haces_spa 
+562.767 564.445 AVA xxx_spa yo_spa me_spa asusté_spa 
+564.803 566.086 AVA xxx_spa me_spa dice_spa 
+566.032 568.511 AVA _spa no_spa más_spa porque_spa mira_spa yo_spa no_spa entro_spa más_spa a_spa ese_spa cuarto_spa 
+568.282 573.778 AVA _spa yo_spa no_spa voy_spa a_spa entrar_spa más_spa en_spa mi_spa cuarto_spa porque_spa yo_spa _spa una_spa cucaracha_spa estaba_spa caminando_spa por_spa mi_spa cama_spa 
+574.294 575.444 LUI who_eng was_eng that_eng Juan_engspa 
+575.392 576.141 AVA Juan_engspa 
+576.239 577.151 AVA Juan_engspa 
+577.114 578.368 AVA tu_spa hermano_spa Juan_engspa 
+578.176 579.66 AVA o_spa sea_spa yo_spa no_spa me_spa extrañé_spa 
+578.958 579.793 LUI _spa ya_spa hombre_spa 
+580.305 582.058 AVA claro_spa si_spa era_spa undercover_eng 
+582.279 583.15 eng_eng oh_eng my_eng God_eng 
+582.467 583.042 AVA _spa cuando_spa 
+583.163 584.086 LUI qué_spa maricón_spa 
+584.082 584.657 AVA aha_engspa 
+584.222 585.615 LUI _spa laugh_spa 
+584.784 586.417 AVA no_spa pues_spa entonces_spa le_spa digo_spa 
+586.343 588.497 LUI _spa y_spa como_spa xxx_spa hijo_spa puta_spa ese_spa 
+586.379 587.819 AVA _spa muchacho_spa 
+588.503 589.652 AVA sí_spa ahora_spa se_spa ríe_spa 
+588.868 589.652 LUI _spa xxx_spa 
+589.629 592.011 AVA pues_spa mira_spa que_spa yo_spa se_spa lo_spa voy_spa a_spa decir_spa para_spa que_spa se_spa abochorne_spa 
+591.414 592.099 LUI _spa _spa eng_spa yeah_spa good_spa 
+592.116 593.062 LUI tell_eng her_eng in_eng front_eng of_eng Ellen_engspa 
+592.714 594.131 AVA _spa para_spa que_spa se_spa abochorne_spa 
+594.009 594.775 LUI tell_eng her_eng tonight_eng 
+594.756 595.604 LUI tell_eng them_eng tonight_eng 
+595.037 595.635 AVA _spa tú_spa me_spa _spa tú_spa me_spa puedes_spa 
+595.617 597.196 AVA aha_engspa pues_spa mira_spa sí_spa 
+597.158 598.167 AVA acuérdamelo_spa 
+598.294 601.247 AVA tú_spa sabes_spa que_spa _spa eh_spa le_spa digo_spa yo_spa _spa me_spa dice_spa 
+601.147 601.57 AVA _spa mami_spa 
+601.595 603.261 AVA _spa y_spa no_spa me_spa entren_spa en_spa el_spa mattress_engspa 
+603.25 604.724 AVA _spa no_spa me_spa entren_spa _spa tú_spa y_spa papá_spa no_spa 
+604.774 610.502 AVA _spa no_spa me_spa entren_spa en_spa el_spa mattress_engspa por_spa favor_spa porque_spa yo_spa ya_spa no_spa voy_spa a_spa dormir_spa más_spa en_spa ese_spa cuarto_spa hasta_spa que_spa tú_spa no_spa mates_spa esa_spa cucaracha_spa 
+610.509 611.786 LUI hasta_spa que_spa tú_spa no_spa la_spa matas_spa 
+611.675 613.351 AVA sí_spa yo_spa era_spa la_spa 
+612.458 613.37 LUI _spa _spa eng_spa what_spa about_spa him_spa 
+613.418 615.514 AVA ah_spa bueno_spa él_spa tenía_spa que_spa irse_spa a_spa trabajar_spa 
+615.618 615.868 LUI dental_click_spa 
+615.893 616.938 AVA entonces_spa él_spa se_spa va_spa 
+616.821 617.332 LUI sí_spa 
+617.355 618.29 AVA y_spa le_spa digo_spa yo_spa 
+618.23 619.124 AVA _spa Tito_spa yo_spa he_spa buscado_spa 
+619.039 619.811 AVA _spa yo_spa he_spa buscado_spa 
+619.799 621.436 AVA _spa y_spa no_spa encuentro_spa la_spa cucaracha_spa 
+621.546 622.445 AVA imagínate_spa 
+621.691 622.295 LUI _spa laugh_spa 
+622.416 623.67 AVA pero_spa era_spa de_spa las_spa largas_spa 
+622.649 623.428 LUI _spa laugh_spa 
+623.631 625.042 eng_eng yeah_eng I_eng know_eng the_eng palmetto_bugs_eng 
+624.2 625.221 AVA _spa de_spa las_spa grandes_spa 
+625.327 626.789 AVA entonces_spa le_spa digo_spa 
+626.76 628.467 AVA _spa Tito_spa yo_spa no_spa la_spa encuentro_spa 
+628.506 630.875 AVA _spa ya_spa yo_spa estoy_spa aburrida_spa de_spa buscar_spa 
+630.976 631.748 AVA me_spa dice_spa 
+631.498 633.327 AVA _spa mira_spa tú_spa sabes_spa lo_spa que_spa tú_spa puedes_spa hacer_spa 
+633.675 637.146 AVA _spa te_spa vas_spa a_spa ir_spa _spa vamos_spa a_spa ir_spa a_spa _spa a_spa la_spa _spa _spa al_spa rincón_spa 
+637.128 641.366 AVA donde_spa le_spa _spa ellos_spa ponían_spa los_spa _spa las_spa hojas_spa secas_spa y_spa esas_spa cosas_spa 
+640.587 641.26 LUI _spa _spa eng_spa yeah_spa right_spa 
+641.777 646.627 AVA y_spa ahí_spa tú_spa sabes_spa tú_spa te_spa acuerdas_spa que_spa tú_spa movías_spa para_spa recoger_spa la_spa basura_spa y_spa siempre_spa salían_spa 
+646.889 648.857 AVA porque_spa aquello_spa era_spa un_spa cucarachero_spa allá_spa 
+648.857 649.455 eng_eng right_eng 
+649.528 650.677 AVA y_spa entonces_spa digo_spa 
+650.679 651.538 AVA _spa ay_spa sí_spa verdad_spa 
+651.683 652.559 AVA yo_spa cojo_spa una_spa 
+652.563 653.417 AVA la_spa mato_spa 
+653.555 655.244 AVA y_spa la_spa pongo_spa para_spa acá_spa 
+654.929 656.862 AVA y_spa le_spa dijo_spa _spa que_spa la_spa encontré_spa 
+654.978 658.119 LUI _spa laugh_spa y_spa le_spa cogiste_spa de_spa pendejo_spa entonces_spa 
+657.608 660.172 AVA _spa oi_spa no_spa sí_spa pero_spa no_spa _spa no_spa él_spa no_spa lo_spa sabe_spa 
+658.631 659.935 LUI _spa laugh_spa 
+660.356 661.853 eng_eng you_eng tell_eng them_eng that_eng tonight_eng too_eng 
+660.425 663.483 AVA _spa hasta_spa esta_spa _spa hasta_spa esta_spa noche_spa no_spa lo_spa sabe_spa él_spa 
+663.169 664.498 eng_eng good_eng tell_eng them_eng tonight_eng too_eng 
+664.766 665.567 AVA pobrecito_spa 
+665.002 667.219 LUI _spa _spa eng_spa so_spa you_spa killed_spa a_spa roach_spa in_spa the_spa backyard_spa and_spa brought_spa it_spa in_spa the_spa house_spa 
+667.144 667.829 AVA ay_spa sí_spa 
+667.637 669.747 LUI lo_spa cogiste_spa de_spa comemierda_spa a_eng bit_eng 
+669.3 671.431 AVA _spa sí_spa laugh_spa 
+669.863 671.924 LUI _spa laugh_spa 
+672.515 675.139 AVA oye_spa y_spa ese_spa xxx_spa se_spa reía_spa 
+675.132 676.404 LUI laugh_spa 
+675.539 677.501 AVA _spa porque_spa tu_spa padre_spa le_spa gustaban_spa esas_spa cosas_spa 
+677.38 677.931 LUI _spa claro_spa 
+677.827 678.858 AVA a_spa mí_spa no_spa se_spa me_spa había_spa ocurrido_spa 
+678.813 684.06 AVA yo_spa sabía_spa que_spa yo_spa tenía_spa que_spa encontrar_spa una_spa _spa encontrar_spa la_spa maldita_spa cucaracha_spa que_spa él_spa vio_spa 
+684.293 685.012 LUI y_spa matarla_spa 
+684.664 685.895 AVA _spa pero_spa yo_spa no_spa lo_spa vi_spa 
+686.135 686.802 AVA no_spa la_spa vi_spa 
+687.54 688.759 AVA laugh_spa no_spa no_spa 
+689.015 690.356 AVA eso_spa fue_spa de_spa _spa de_spa 
+690.528 694.139 AVA y_spa bueno_spa y_spa enseguida_spa que_spa i_spa a_spa él_spa se_spa le_spa ocurrió_spa eso_spa fuimos_spa 
+694.11 695.288 AVA lo_spa hicimos_spa 
+695.456 695.906 AVA y_spa digo_spa 
+695.714 697.525 AVA _spa ah_spa bueno_spa _spa pues_spa vámonos_spa a_spa traer_spa el_spa kwe_spa 
+697.473 702.492 AVA imagínate_spa tú_spa en_spa esa_spa casa_spa que_spa se_spa _spa a_spa cada_spa rato_spa entraba_spa uno_spa _spa uno_spa xxx_spa 
+700.812 701.857 LUI _spa cualquier_spa cosa_spa 
+702.101 702.821 AVA laugh_spa 
+702.38 703.674 LUI _spa cualquier_spa cosa_spa ya_spa 
+703.134 707.734 AVA y_spa _spa y_spa _spa y_spa a_spa mí_spa me_spa iba_spa a_spa dar_spa vergüenza_spa que_spa vieran_spa ese_spa xxx_spa matress_engspa tirado_spa en_spa el_spa piso_spa 
+708.319 709.898 AVA no_spa pues_spa yo_spa cogí_spa 
+709.865 712.508 AVA y_spa le_spa _spa _spa le_spa pusimos_spa el_spa matress_engspa 
+712.503 715.028 AVA le_spa metí_spa la_spa cama_spa de_spa limpio_spa y_spa ya_spa 
+715.111 716.382 LUI laugh_spa 
+715.121 716.903 AVA _spa y_spa a_spa lo_spa _spa cuando_spa él_spa llegó_spa digo_spa 
+716.915 718.384 AVA _spa mira_spa fíjate_spa mira_spa él_spa 
+718.592 721.249 AVA ay_spa él_spa se_spa puso_spa de_spa lo_spa más_spa contento_spa _spa laughs_spa and_spa claps_hands_spa 
+721.363 722.977 AVA tú_spa verás_spa esta_spa noche_spa 
+722.988 725.02 LUI laugh_spa 
+723.255 724.584 AVA _spa laugh_spa 
+725.097 728.267 AVA a_spa lo_spa mejor_spa me_spa va_spa a_spa insultar_spa laugh_spa 
+727.175 728.493 LUI laugh_spa 
+728.375 729.739 AVA pero_spa lo_spa engañé_spa co_spa 
+729.78 733.594 AVA oye_spa porque_spa _spa y_spa ahora_spa él_spa _spa él_spa tanto_spa _spa tanto_spa que_spa dice_spa de_spa Ellen_engspa 
+733.872 735.729 AVA ese_spa día_spa ella_spa se_spa me_spa dio_spa las_spa quejas_spa 
+735.38 737.442 AVA me_spa llamó_spa para_spa darme_spa las_spa quejas_spa de_spa él_spa 
+737.721 738.134 LUI de_spa él_spa 
+737.733 738.18 AVA _spa qué_spa sé_spa _spa 
+738.317 740.312 AVA sí_spa _spa porque_spa ya_spa estaba_spa 
+740.237 741.015 AVA pero_spa yo_spa le_spa decía_spa 
+740.997 741.81 AVA _spa oye_spa coge_spa una_spa escoba_spa 
+741.787 742.878 AVA _spa y_spa mátala_spa 
+744.083 744.625 AVA entonces_spa dice_spa 
+744.501 747.444 AVA _spa sí_spa pero_spa es_spa que_spa no_spa puedo_spa coger_spa la_spa escoba_spa porque_spa está_spa en_spa la_spa cocina_spa 
+747.487 749.867 AVA y_spa yo_spa no_spa sé_spa dónde_spa se_spa había_spa metido_spa la_spa condenada_spa 
+748.352 750.064 LUI _spa laugh_spa 
+750.409 751.106 AVA eso_spa es_spa que_spa 
+750.554 754.281 LUI _spa yo_spa creo_spa que_spa ese_spa fue_spa el_spa día_spa que_spa ella_spa cogió_spa una_spa caja_spa y_spa le_spa tiró_spa la_spa caja_spa arriba_spa 
+754.776 756.39 LUI él_spa le_spa metió_spa uno_spa _spa una_spa patada_spa 
+756.393 757.037 LUI pues_spa no_spa lo_spa mató_spa 
+757.02 758.741 LUI estaba_spa todavía_spa moving_eng a_eng little_eng bit_eng 
+758.143 759.072 AVA _spa na_spa ha_engspa ha_engspa 
+759.283 761.344 AVA esas_spa no_spa son_spa fáciles_spa de_spa matar_spa no_spa 
+760.354 764.806 eng_eng she_eng took_eng a_eng box_eng and_eng she_eng put_eng a_eng box_eng over_eng it_eng and_eng put_eng some_eng shoes_eng on_eng top_eng of_eng it_eng to_eng hold_eng the_eng box_eng down_eng 
+764.883 765.875 eng_eng I_eng swear_eng to_eng God_eng 
+765.904 766.839 eng_eng in_eng the_eng middle_eng of_eng the_eng kitchen_eng 
+766.786 767.732 AVA y_spa quién_spa hizo_spa eso_spa 
+767.755 768.701 LUI e_spa Ellen_engspa _spa Ellen_engspa 
+768.73 769.595 AVA tú_spa no_spa me_spa digas_spa 
+769.519 770.082 eng_eng yes_eng 
+770.227 771.69 eng_eng I_eng know_eng because_eng I_eng was_eng there_eng 
+772.208 773.171 AVA de_spa veras_spa 
+773.288 776.324 LUI tenía_spa tanto_spa pánico_spa que_spa that_eng I_eng went_eng to_eng her_eng fucking_eng house_eng belch_spa 
+776.463 777.846 LUI el_spa pánico_spa que_spa tenía_spa la_spa cabrona_spa 
+776.621 777.712 AVA _spa qué_spa barbaridad_spa 
+777.875 779.738 AVA qué_spa barbaridad_spa 
+780.858 784.474 AVA no_spa eh_spa bueno_spa pero_spa Billy_engspa es_spa igual_spa Billy_engspa se_spa pone_spa en_spa veta_spa colorada_spa 
+784.133 785.921 LUI no_spa no_spa no_spa no_spa Billy_engspa 
+786.007 790.361 LUI un_spa abogado_spa le_spa estaba_spa atravesándole_spa el_spa fondillo_spa para_spa que_spa trabajara_spa con_spa ellos_spa 
+791.118 794.984 LUI ella_spa miró_spa para_spa arriba_spa así_spa en_spa la_spa oficina_spa and_eng saw_eng a_eng dead_eng roach_eng inside_eng the_eng glass_eng there_eng 
+795.104 795.766 AVA allí_spa 
+795.781 796.061 LUI dice_spa 
+795.986 798.749 LUI hasta_spa que_spa tú_spa no_spa arregles_spa eso_spa no_spa paso_spa aquí_spa otra_spa vez_spa 
+798.885 803.708 LUI el_spa abogado_spa tented_eng the_eng entire_eng building_eng _spa para_spa matar_spa cuanta_spa mierda_spa _spa _spa cuanta_spa mierda_spa había_spa 
+804.404 806.447 LUI para_spa que_spa ella_spa se_spa quedara_spa satisfecha_spa mira_spa lo_spa que_spa 
+806.238 807.207 LUI _spa _spa eng_spa look_spa I_spa tented_spa the_spa entire_spa 
+807.224 808.728 LUI le_spa costó_spa miles_spa de_spa pesos_spa hacer_spa eso_spa 
+809.321 812.34 eng_eng and_eng then_eng _eng then_eng he_eng went_eng to_eng work_eng there_eng _eng after_eng he_eng was_eng done_eng tenting_eng the_eng building_eng 
+812.502 813.942 AVA ah_spa mira_spa xxx_spa 
+813.564 814.946 LUI _spa pues_spa ya_spa esa_spa es_spa otra_spa buena_spa 
+814.754 817.291 AVA esa_spa pues_spa _spa no_spa pero_spa ella_spa se_spa pone_spa en_spa veta_spa colorada_spa 
+817.314 818.475 LUI laugh_spa 
+818.474 822.038 AVA se_spa le_spa pone_spa toda_spa la_spa piel_spa llena_spa de_spa vetas_spa coloradas_spa pobrecita_spa 
+822.972 824.452 eng_eng I_eng dont_eng know_eng why_eng shes_eng so_eng afraid_eng of_eng roaches_eng 
+823.145 824.416 AVA _spa la_spa verdad_spa es_spa que_spa no_spa 
+824.429 827.401 LUI in_eng Stanley_Avenue_engspa thats_eng all_eng we_eng had_eng was_eng roaches_eng in_eng that_eng motherfucker_eng boy_eng 
+826.838 828.282 AVA _spa da_spa lástima_spa 
+829.083 832.366 AVA no_spa pero_spa allá_spa eran_spa las_spa americanas_spa _spa las_spa alemanas_spa que_spa le_spa llamaban_spa 
+831.204 832.319 LUI _spa _spa eng_spa the_spa German_spa roaches_spa 
+832.29 832.951 eng_eng right_eng I_eng know_eng 
+833.789 834.411 AVA sí_spa 
+835.365 837.217 AVA y_spa era_spa por_spa los_spa vecinos_spa de_spa abajo_spa 
+837.832 848.011 AVA en_spa cuanto_spa se_spa mudó_spa aquella_spa ba_spa cojita_spa _spa se_spa acabaron_spa las_spa cucarachas_spa en_spa mi_spa casa_spa y_spa en_spa todo_spa el_spa verde_spa _spa porque_spa era_spa el_spa apartamento_spa de_spa la_spa cojita_spa y_spa el_spa apartamento_spa de_spa nosotros_spa 
+844.209 844.592 LUI _spa _spa eng_spa oh_spa yeah_spa 
+848.844 852.164 AVA y_spa entonces_spa se_spa _spa sí_spa yo_spa hacía_spa cosas_spa para_spa matarlas_spa 
+852.449 853.724 AVA se_spa iban_spa para_spa abajo_spa 
+852.524 853.592 LUI _spa _spa eng_spa the_spa one_spa downstairs_spa 
+853.713 855.646 AVA y_spa después_spa volvían_spa y_spa así_spa 
+854.878 855.348 LUI _spa _spa eng_spa mmhm_spa 
+856.236 856.886 AVA y_spa no_spa 
+856.509 858.517 LUI _spa _spa eng_spa they_spa went_spa up_spa and_spa down_spa and_spa up_spa and_spa down_spa 
+857.495 858.993 AVA _spa pero_spa ella_spa me_spa lo_spa dijo_spa 
+858.54 860.281 AVA ella_spa fue_spa la_spa que_spa tuvo_spa la_spa idea_spa 
+860.375 860.926 AVA m_spa m_spa me_spa dice_spa 
+860.94 862.746 AVA _spa Luisita_spa cuando_spa usted_spa lo_spa 
+862.242 863.787 LUI _spa _spa eng_spa we_spa have_spa to_spa do_spa it_spa both_spa at_spa the_spa same_spa time_spa 
+863.717 864.083 AVA sí_spa 
+864.566 867.817 AVA _spa usted_spa lo_spa hace_spa a_spa las_spa siete_spa un_spa día_spa usted_spa me_spa avisa_spa claps_hands_spa 
+867.911 869.31 AVA _spa y_spa yo_spa lo_spa hago_spa en_spa mi_spa casa_spa 
+869.304 870.593 AVA _spa y_spa así_spa acabamos_spa 
+870.606 871.595 AVA y_spa se_spa acabaron_spa 
+871.584 874.062 AVA no_spa habían_spa _spa ni_spa en_spa el_spa hall_engspa se_spa veía_spa una_spa así_spa 
+872.428 873.044 LUI _spa _spa eng_spa yeah_spa 
+873.294 874.101 LUI ah_engspa good_eng 
+874.068 877.203 AVA se_spa acabaron_spa por_spa completo_spa gracias_spa a_spa Dios_spa 
+877.735 881.555 AVA pero_spa tuvo_spa que_spa mudarse_spa esa_spa mujer_spa para_spa que_spa yo_spa no_spa tuviera_spa una_spa 
+881.722 886.076 AVA porque_spa eran_spa mal_spa _spa eran_spa terribles_spa para_spa _spa para_spa terminarlas_spa 
+884.643 885.305 LUI _spa _spa eng_spa I_spa know_spa 
+886.634 887.144 eng_eng I_eng know_eng 
+887.226 888.12 AVA terribles_spa 
+888.817 890.448 AVA horribles_spa horribles_spa 
+891.167 896.021 AVA no_spa yo_spa ya_spa gracias_spa a_spa Dios_spa hace_spa diecisiete_spa años_spa que_spa vivo_spa ahí_spa 
+896.067 897.292 AVA y_spa ya_spa no_spa se_spa me_spa van_spa 
+897.221 900.432 AVA ahora_spa las_spa grandes_spa me_spa pasan_spa cuando_spa llueve_spa 
+899.134 900.376 LUI _spa _spa eng_spa because_spa they_spa come_spa inside_spa 
+900.359 901.299 AVA cuando_spa llueve_spa 
+901.275 902.517 eng_eng they_eng come_eng inside_eng yeah_eng 
+902.448 904.009 AVA cuando_spa hay_spa bastante_spa lluvia_spa 
+904.201 904.775 AVA allí_spa _spa 
+904.326 905.435 LUI _spa _spa eng_spa you_spa know_spa where_spa they_spa come_spa from_spa too_spa 
+905.685 906.068 AVA eh_engspa 
+906.064 907.132 eng_eng from_eng the_eng _eng from_eng the_eng sink_eng 
+908.41 910.854 LUI porque_spa the_eng sewer_eng system_eng has_eng them_eng in_eng there_eng porque_spa 
+908.49 909.314 AVA _spa _spa eng_spa I_spa know_spa I_spa know_spa 
+910.388 913.417 AVA yo_spa nunca_spa las_spa he_spa visto_spa por_spa ahí_spa _spa xxx_spa 
+912.082 913.388 LUI _spa lo_spa ponen_spa ahí_spa 
+913.436 914.876 LUI lo_spa ponen_spa ahí_spa 
+915.031 919.048 LUI la_spa única_spa manera_spa que_spa una_spa cucaracha_spa _spa xxx_spa esa_spa cucaracha_spa puede_spa estar_spa en_spa mi_spa casa_spa sin_spa morirse_spa 
+919.168 922.68 LUI porque_spa en_spa el_spa piso_spa _spa por_spa todo_spa el_spa piso_spa yo_spa _spa ellos_spa tienen_spa el_spa veneno_spa dos_spa meses_spa _spa 
+922.779 923.556 AVA sí_spa 
+923.63 927.875 LUI yo_spa encuentro_spa una_spa buena_spa y_spa sana_spa en_spa mi_spa casa_spa es_spa porque_spa entró_spa por_spa _spa por_spa el_spa sink_eng 
+927.834 929.059 LUI te_spa lo_spa aseguro_spa 
+929.013 930.517 AVA no_spa yo_spa por_spa el_spa sink_eng no_spa 
+929.199 930.778 LUI _spa yo_spa lo_spa _spa yo_spa lo_spa he_spa visto_spa salir_spa del_spa sink_eng 
+931.23 932.716 LUI yo_spa voy_spa xxx_spa antes_spa _spa 
+931.668 934.898 AVA _spa tú_spa sabes_spa lo_spa que_spa se_spa meten_spa p_spa por_spa _spa por_spa el_spa 
+934.851 939.493 AVA no_spa de_spa _spa no_spa de_spa la_spa cocina_spa _spa pero_spa por_spa el_spa _spa por_spa el_spa sink_eng del_spa baño_spa 
+939.47 939.876 eng_eng what_eng 
+939.971 941.509 AVA se_spa meten_spa las_spa culebras_spa 
+942.38 944.4 AVA a_spa dos_spa personas_spa les_spa ha_spa pasado_spa eso_spa 
+944.197 944.899 eng_eng the_eng sink_eng 
+944.958 946.438 AVA gracias_spa a_spa Dios_spa que_spa a_spa mí_spa no_spa me_spa pasa_spa 
+945.706 947.906 LUI _spa _spa eng_spa maybe_spa in_spa your_spa place_spa but_spa not_spa generally_spa 
+948.493 951.059 LUI quizás_spa from_eng the_eng toilet_eng but_eng not_eng from_eng the_eng sink_eng 
+951.269 951.92 LUI porque_spa no_spa tiene_spa 
+951.467 953.202 AVA _spa oye_spa pero_spa si_spa la_spa gente_spa las_spa ve_spa 
+953.192 955.102 LUI no_spa pueden_spa _spa no_spa pueden_spa nadar_spa allí_spa más_spa 
+955.161 956.427 AVA chiquito_spa _spa chiquito_spa 
+956.456 959.776 AVA sí_spa sí_spa _spa por_spa el_spa single_eng baño_spa 
+959.773 962.316 AVA les_spa _spa le_spa salió_spa a_spa un_spa señor_spa que_spa le_spa llamaban_spa Alberto_engspa 
+962.264 962.775 eng_eng yeah_eng 
+962.699 964.905 AVA y_spa el_spa hombre_spa por_spa poco_spa se_spa le_spa da_spa un_spa ataque_spa 
+964.947 965.597 eng_eng really_eng 
+965.614 969.207 AVA sí_spa porque_spa vio_spa la_spa mitad_spa de_spa la_spa _spa del_spa snake_eng ya_spa saliendo_spa 
+970.226 971.242 AVA llamó_spa a_spa la_spa oficina_spa 
+970.35 971.064 LUI _spa _spa eng_spa really_spa 
+971.192 971.97 AVA y_spa vinieron_spa 
+971.866 973.108 AVA y_spa se_spa la_spa mataron_spa 
+973.229 975.743 AVA y_spa total_spa dicen_spa que_spa era_spa de_spa jardín_spa 
+975.778 976.718 eng_eng a_eng garden_eng snake_eng 
+976.37 978.919 AVA pero_spa entonces_spa a_spa una_spa señora_spa se_spa estaba_spa bañando_spa 
+978.872 981.576 AVA y_spa por_spa la_spa bañadera_spa le_spa _spa le_spa _spa le_spa salió_spa una_spa 
+981.318 983.019 LUI _spa que_spa tú_spa haces_spa xxx_spa 
+982.485 983.57 AVA _spa no_spa me_spa muero_spa 
+983.414 985.196 eng_eng I_eng know_eng laugh_eng 
+984.372 985.301 AVA _spa no_spa me_spa muero_spa 
+985.392 987.342 LUI o_spa te_spa rompes_spa las_spa dos_spa patas_spa xxx_spa 
+986.608 988.878 AVA _spa el_spa día_spa del_spa accidente_spa yo_spa tuve_spa m_spa 
+988.901 993.175 AVA porque_spa por_spa eso_spa fue_spa que_spa no_spa me_spa pudieron_spa llevar_spa en_spa el_spa helicóptero_spa con_spa Pablo_engspa 
+993.397 996.341 AVA porque_spa yo_spa tenía_spa en_spa trescientas_spa quince_spa mi_spa _spa presión_spa 
+996.608 997.037 LUI wow_engspa 
+996.964 1000.488 AVA me_spa abrie_spa _spa eh_spa como_spa _spa la_spa presión_spa mía_spa es_spa emotiva_spa _spa emocional_spa 
+1000.946 1001.225 eng_eng oh_eng 
+1001.305 1006.09 AVA y_spa parece_spa que_spa del_spa susto_spa cuando_spa yo_spa me_spa di_spa cuenta_spa de_spa lo_spa que_spa me_spa m_spa verdad_spa había_spa pasado_spa 
+1006.196 1009.621 AVA porque_spa como_spa perdí_spa el_spa _spa el_spa _spa el_spa conocimiento_spa yo_spa no_spa supe_spa nada_spa 
+1009.971 1013.799 AVA pero_spa cuando_spa yo_spa vi_spa todo_spa el_spa carro_spa roto_spa _spa yo_spa dije_spa 
+1013.381 1014.89 AVA _spa ah_spa no_spa entonces_spa fue_spa un_spa accidente_spa 
+1015.078 1024.796 AVA cuando_spa vuelvo_spa _spa vengo_spa para_spa _spa donde_spa yo_spa estaba_spa sentado_spa adelante_spa con_spa Pablo_engspa veo_spa que_spa Pablo_spa no_spa es_spa _spa no_spa puede_spa hablar_spa ni_spa _spa ni_spa _spa ni_spa podía_spa abrir_spa los_spa ojos_spa ni_spa nada_spa 
+1025.104 1028.413 AVA pero_spa _spa por_spa qué_spa te_spa empecé_spa yo_spa a_spa decir_spa esto_spa 
+1029.667 1030.688 LUI por_spa la_spa presión_spa 
+1029.794 1031.326 AVA _spa oh_spa por_spa la_spa presión_spa 
+1032.21 1036.558 AVA todo_spa cuando_spa yo_spa me_spa quejé_spa y_spa llorando_spa le_spa decía_spa al_spa _spa al_spa hombre_spa del_spa _spa del_spa rescue_eng 
+1036.896 1041.376 AVA _spa usted_spa _spa dos_spa de_spa ustedes_spa me_spa dijeron_spa que_spa me_spa iban_spa a_spa poner_spa en_spa el_spa helicóptero_spa con_spa mi_spa esposo_spa 
+1041.371 1043.322 AVA _spa y_spa yo_spa no_spa me_spa quiero_spa separar_spa de_spa mi_spa esposo_spa 
+1043.601 1044.042 AVA me_spa dicen_spa 
+1043.815 1049.303 AVA _spa señora_spa usted_spa tiene_spa la_spa presión_spa _spa usted_spa tiene_spa tan_spa alta_spa la_spa presión_spa que_spa no_spa podíamos_spa ponerla_spa en_spa eso_spa 
+1050.438 1050.763 eng_eng hmm_eng 
+1050.566 1050.942 AVA _spa le_spa digo_spa 
+1050.907 1051.911 AVA _spa qué_spa alta_spa la_spa tengo_spa 
+1051.9 1054.065 AVA porque_spa yo_spa no_spa _spa no_spa _spa no_spa pensaba_spa 
+1053.375 1054.745 LUI _spa y_spa no_spa te_spa sentiste_spa nada_spa 
+1054.946 1059.736 AVA no_spa no_spa es_spa que_spa yo_spa _spa cuando_spa me_spa sube_spa mucho_spa la_spa presión_spa lo_spa sé_spa enseguida_spa 
+1060.736 1063.546 AVA pero_spa ese_spa día_spa como_spa estaba_spa tan_spa nerviosa_spa yo_spa no_spa 
+1064.125 1064.935 AVA y_spa entonces_spa me_spa dice_spa 
+1064.951 1067.732 AVA _spa usted_spa tiene_spa trescientas_spa quince_spa de_spa presión_spa señora_spa 
+1068.625 1071.777 AVA y_spa ahí_spa fue_spa donde_spa me_spa di_spa cuenta_spa que_spa ellos_spa no_spa me_spa podían_spa poner_spa el_spa xxx_spa 
+1071.539 1072.055 LUI _spa _spa eng_spa right_spa 
+1073.314 1074.631 AVA pero_spa qué_spa va_spa no_spa 
+1075.519 1076.895 AVA fue_spa terrible_spa 
+1077.764 1082.904 AVA y_spa el_spa día_spa primero_spa de_spa este_spa mes_spa cumplíamos_spa nosotros_spa _spa dos_spa años_spa de_spa casados_spa _spa 
+1081.329 1082.838 LUI _spa dos_spa años_spa de_spa I_eng know_eng 
+1083.989 1084.476 eng_eng I_eng know_eng 
+1084.54 1085.382 AVA qué_spa cosa_spa 
+1085.515 1086.816 eng_eng yeah_eng what_eng you_eng gonna_eng do_eng 
+1088.887 1090.356 LUI ay_spa coño_spa 
+1091.186 1092.712 AVA sí_spa _spa fue_spa duro_spa 
+1093.136 1094.169 eng_eng yeah_eng it_eng was_eng 
+1095.613 1096.258 AVA duro_spa 
+1098.652 1100.562 LUI te_spa digo_spa lo_spa mismo_spa que_spa digo_spa _spa digo_spa _spa le_spa digo_spa a_spa Susie_engspa 
+1100.515 1104.706 LUI _spa ya_spa le_spa _spa vaya_spa coñada_spa Susie_spa ya_spa estamos_spa juntos_spa veintiséis_spa veintiocho_spa años_spa 
+1104.792 1106.952 LUI _spa casados_spa veintiseis_spa y_spa juntos_spa veintiocho_spa 
+1107.723 1109.61 LUI _spa ya_spa olvídate_spa ya_spa no_spa hay_spa remedio_spa 
+1109.883 1112.425 eng_eng laugh_eng Im_eng stuck_eng with_eng that_eng bitch_eng now_eng 
+1112.865 1114.844 LUI pero_spa yo_spa le_spa dije_spa oye_spa por_spa lo_spa plano_spa 
+1114.801 1116.293 LUI _spa escúchame_spa bien_spa 
+1116.316 1120.002 LUI _spa si_spa tú_spa me_spa faltas_spa un_spa día_spa _spa por_spa divorcio_spa o_spa muerte_spa 
+1120.049 1123.282 LUI _spa te_spa digo_spa eh_spa desde_spa este_spa momento_spa en_spa tu_spa cara_spa escúchame_spa bien_spa 
+1123.17 1125.115 LUI _spa voy_spa a_spa Guatemala_engspa 
+1125.071 1130.051 LUI _spa compro_spa veinte_spa treinta_spa chivas_spa _spa o_spa chivos_spa o_spa whatever_eng the_eng fuck_eng 
+1130.293 1139.982 LUI y_spa voy_spa _spa y_spa voy_spa _spa para_spa un_spa _spa para_spa un_spa _spa para_spa un_spa _spa un_spa _spa un_spa finca_spa por_spa ahí_spa _spa con_spa un_spa _spa un_spa _spa un_spa _spa un_spa _spa un_spa ranchero_spa que_spa tenga_spa una_spa hija_spa que_spa tiene_spa diecinueve_spa veinte_spa años_spa por_spa ahí_spa 
+1139.744 1141.474 LUI y_spa la_spa compro_spa 
+1141.67 1142.581 AVA ay_spa no_spa 
+1142.221 1143.609 LUI _spa _spa eng_spa yeah_spa and_spa Ill_spa bring_spa her_spa back_spa home_spa 
+1142.692 1144.166 AVA _spa podías_spa mira_spa eso_spa eh_spa 
+1144.119 1146.447 AVA eso_spa es_spa una_spa cosa_spa muy_spa ofensiva_spa 
+1146.424 1148.003 AVA tú_spa no_spa vas_spa a_spa comprar_spa un_spa ser_spa humano_spa 
+1148.864 1149.27 AVA no_spa 
+1148.997 1150.1 LUI _spa no_spa vaya_spa 
+1149.479 1151.285 AVA _spa no_spa no_spa no_spa no_spa no_spa no_spa 
+1150.193 1153.107 LUI _spa pues_spa yo_spa _spa yo_spa _spa yo_spa _spa yo_spa _spa eh_spa yo_spa _spa yo_spa me_spa porto_spa bien_spa con_spa ella_spa 
+1153.309 1154.784 AVA no_spa mira_spa un_spa día_spa 
+1154.277 1160.339 LUI _spa lo_spa único_spa que_spa no_spa puede_spa mirar_spa televisión_spa ni_spa hablar_spa por_spa teléfono_spa _spa ni_spa hablar_spa con_spa los_spa vecinos_spa porque_spa si_spa no_spa la_spa ru_spa _spa la_spa _spa la_spa va_spa 
+1160.33 1162.449 LUI nosspa_spa this_eng is_eng how_eng to_eng rule_eng her_eng man_eng 
+1163.257 1167.935 LUI el_spa momento_spa que_spa _spa que_spa _spa que_spa sabe_spa de_spa novelas_spa y_spa de_spa jodiendas_spa y_spa esto_spa no_spa hay_spa no_spa no_spa 
+1166.85 1168.214 AVA _spa ay_spa no_spa no_spa hombre_spa no_spa 
+1168.839 1169.96 AVA qué_spa tú_spa te_spa crees_spa 
+1170.564 1171.736 AVA es_spa un_spa ser_spa humano_spa 
+1171.941 1172.492 eng_eng I_eng know_eng 
+1172.481 1174.419 eng_eng j_eng Ill_eng be_eng nice_eng to_eng her_eng dont_eng worry_eng 
+1174.896 1177.694 AVA na_spa el_spa _spa el_spa hombre_spa que_spa se_spa queda_spa solo_spa 
+1175.349 1176.58 LUI _spa _spa eng_spa Ill_spa feed_spa her_spa every_spa day_spa 
+1178.267 1180.954 AVA mira_spa Pablo_engspa pasó_spa diez_spa años_spa viudo_spa 
+1181.919 1186.482 AVA ese_spa hombre_spa estaba_spa delgadito_spa _spa mal_spa atendido_spa 
+1187.287 1189.441 AVA toda_spa la_spa ropa_spa lo_spa mandaba_spa al_spa dry_cleaner_eng 
+1190.421 1191.779 LUI cuándo_spa se_spa iba_spa a_spa lavarlo_spa 
+1191.895 1192.452 AVA eh_spa 
+1192.737 1194.141 LUI porque_spa no_spa sabía_spa lavarlo_spa 
+1194.569 1196.45 AVA no_spa no_spa sabía_spa poner_spa la_spa máquina_spa de_spa lavar_spa 
+1196.444 1197.3 LUI ni_spa yo_spa tampoco_spa 
+1197.27 1199.354 LUI cuando_spa _spa coño_spa cuando_spa Patty_engspa me_spa dejó_spa 
+1198.368 1201.961 AVA _spa no_spa mira_spa la_spa esposa_spa de_spa López_engspa fue_spa muy_spa buena_spa mujer_spa 
+1202.075 1208.158 AVA por_spa eso_spa yo_spa _spa el_spa día_spa veinte_spa de_spa marzo_spa que_spa ella_spa cumple_spa años_spa de_spa _spa ella_spa hubiera_spa cumplido_spa años_spa no_spa 
+1206.591 1207.868 LUI _spa _spa eng_spa you_spa wanna_spa bring_spa her_spa flowers_spa 
+1208.177 1210.435 AVA porque_spa ella_spa nació_spa el_spa día_spa veinte_spa de_spa marzo_spa 
+1210.57 1214.546 AVA yo_spa voy_spa a_spa ir_spa al_spa cementerio_spa a_spa llevarle_spa flores_spa como_spa antes_spa yo_spa lo_spa 
+1215.247 1221.702 AVA eh_spa _spa siempre_spa teníamos_spa bien_spa la_spa tumba_spa _spa porque_spa ella_spa fue_spa muy_spa buena_spa con_spa él_spa 
+1222.495 1224.765 AVA ella_spa le_spa picaba_spa hasta_spa el_spa bisté_spa 
+1224.947 1225.592 eng_eng really_eng 
+1225.632 1226.876 AVA él_spa tenía_spa sus_spa dos_spa manos_spa 
+1226.712 1230.195 AVA pero_spa ella_spa le_spa _spa ella_spa no_spa ella_spa le_spa picaba_spa el_spa bisté_spa 
+1230.997 1232.494 LUI y_spa ella_spa se_spa murió_spa de_spa cancer_engspa no_spa 
+1232.518 1234.578 AVA ella_spa murió_spa de_spa cancer_engspa en_spa el_spa esófago_spa 
+1234.659 1236.156 LUI you_eng know_eng who_eng Patrick_Swayze_engspa is_eng 
+1236.365 1236.929 AVA eh_engspa 
+1237.314 1239.491 LUI es_spa un_spa actor_spa muy_spa buena_spa gente_spa 
+1239.456 1240.815 LUI se_spa llama_spa Patrick_Swayze_engspa 
+1241.498 1243.478 LUI dicen_spa que_spa tiene_spa pancreatic_eng cancer_engspa 
+1243.484 1244.894 AVA oh_spa sí_spa ese_spa no_spa dura_spa mucho_spa 
+1244.805 1245.833 eng_eng ooh_eng thats_eng bad_eng 
+1245.886 1257.835 AVA no_spa dura_spa mucho_spa porque_spa mira_spa Rosana_engspa cuando_spa vino_spa de_spa Cuba_engspa del_spa último_spa viaje_spa _spa me_spa dice_spa una_spa carta_spa bueno_spa _spa me_spa decía_spa que_spa había_spa venido_spa con_spa un_spa dolor_spa _spa pero_spa que_spa iba_spa a_spa ir_spa al_spa otro_spa día_spa al_spa médico_spa 
+1259.0 1261.391 AVA cuando_spa tuvo_spa el_spa resultado_spa me_spa llamó_spa 
+1261.235 1262.204 AVA y_spa me_spa dijo_spa lo_spa que_spa era_spa 
+1262.164 1263.371 AVA era_spa cancer_engspa 
+1264.876 1268.475 AVA y_spa le_spa _spa el_spa médico_spa le_spa dijo_spa a_spa Pedro_engspa que_spa era_spa _spa que_spa es_spa médico_spa 
+1269.418 1273.436 AVA ah_engspa que_spa es_spa el_spa _spa casado_spa con_spa la_spa sobrina_spa de_spa _spa de_spa Rosana_engspa 
+1273.676 1274.193 AVA le_spa dijo_spa 
+1274.178 1286.142 AVA _spa si_spa fuera_spa mi_spa abuela_spa noise_spa le_spa daba_spa dinero_spa para_spa que_spa se_spa fuera_spa a_spa viajar_spa si_spa le_spa gusta_spa viajar_spa _spa porque_spa ella_spa lo_spa que_spa le_spa quedarán_spa _spa de_spa _spa de_spa largo_spa tres_spa meses_spa de_spa vida_spa 
+1286.477 1288.736 AVA nunca_spa les_spa dan_spa mucho_spa más_spa de_spa tres_spa meses_spa 
+1288.957 1291.935 AVA a_spa ningún_spa paciente_spa de_spa cancer_engspa 
+1293.284 1295.002 AVA a_spa ningún_spa paciente_spa de_spa cancer_engspa 
+1295.296 1298.379 AVA ay_spa ese_spa hombre_spa que_spa tú_spa dices_spa que_spa tiene_spa cancer_engspa ahora_spa 
+1298.64 1299.929 AVA el_spa artista_spa ese_spa 
+1300.474 1302.146 AVA _spa ese_spa no_spa dura_spa ni_spa seis_spa meses_spa 
+1302.215 1302.662 LUI grunt_spa 
+1303.207 1305.246 LUI thats_eng too_eng bad_eng porque_spa es_spa buena_spa gente_spa el_spa maricón_spa 
+1305.374 1308.543 LUI no_spa es_spa uno_spa de_spa esos_spa que_spa _spa que_spa forma_spa problemas_spa y_spa jodiendas_spa you_eng know_eng 
+1308.836 1312.134 AVA sí_spa pero_spa es_spa _spa pero_spa es_spa que_spa el_spa cancer_engspa eh_spa del_spa páncreas_spa 
+1308.877 1309.817 LUI _spa el_spa _spa nombre_spa 
+1312.061 1313.976 AVA el_spa páncreas_spa es_spa el_spa que_spa hace_spa la_spa insulina_spa 
+1313.954 1314.343 eng_eng right_eng 
+1315.126 1317.726 AVA por_spa eso_spa son_spa los_spa diabéticos_spa _spa cuando_spa 
+1316.763 1317.419 LUI _spa _spa eng_spa right_spa I_spa know_spa 
+1318.025 1319.894 AVA entonces_spa 
+1320.202 1324.224 AVA eh_spa el_spa páncreas_spa eh_spa como_spa que_spa lo_spa _spa que_spa los_spa um_eng 
+1325.401 1327.821 AVA como_spa que_spa el_spa cancer_engspa en_spa el_spa páncreas_spa avanza_spa más_spa rápido_spa 
+1327.795 1332.671 AVA hace_spa más_spa daño_spa _spa e_spa que_spa en_spa otros_spa órganos_spa de_spa la_spa persona_spa 
+1332.781 1333.228 LUI grunt_spa 
+1334.166 1338.107 AVA porque_spa por_spa ejemplo_spa el_spa _spa el_spa hígado_spa se_spa puede_spa poner_spa un_spa pedazo_spa 
+1338.203 1338.685 eng_eng right_eng 
+1338.752 1339.965 AVA te_spa quitan_spa un_spa pedazo_spa 
+1339.948 1341.463 AVA y_spa el_spa hígado_spa crece_spa otra_spa vez_spa 
+1340.033 1341.85 LUI _spa _spa eng_spa when_spa you_spa can_spa live_spa right_spa right_spa 
+1342.712 1343.809 AVA pero_spa el_spa páncreas_spa no_spa 
+1343.797 1344.192 LUI grunt_spa 
+1345.383 1348.108 AVA y_spa ese_spa hombre_spa yo_spa lo_spa vi_spa anoche_spa en_spa la_spa televisión_spa 
+1348.143 1350.517 AVA no_spa yo_spa no_spa creo_spa que_spa dure_spa ni_spa seis_spa meses_spa 
+1350.792 1351.918 LUI ah_engspa thats_eng too_eng bad_eng 
+1352.803 1354.26 AVA ni_spa seis_spa meses_spa va_spa a_spa durar_spa 
+1354.597 1358.132 AVA él_spa dice_spa que_spa le_spa va_spa bien_spa el_spa tratamiento_spa pero_spa 
+1358.775 1360.859 LUI así_spa dicen_spa los_spa doctores_spa pero_spa you_eng know_eng 
+1360.862 1361.669 AVA sí_spa 
+1362.4 1364.943 AVA ojalá_spa que_spa viva_spa muchos_spa años_spa más_spa 
+1366.775 1370.095 AVA xxx_spa eh_spa la_spa señora_spa de_spa _spa de_spa Pablo_engspa no_spa duró_spa mucho_spa 
+1370.159 1370.693 LUI no_engspa 
+1370.953 1371.214 AVA no_spa 
+1371.141 1372.378 AVA ella_spa fue_spa al_spa médico_spa 
+1372.935 1378.83 AVA cuando_spa llegó_spa le_spa dijo_spa _spa a_spa él_spa que_spa lo_spa que_spa tenía_spa _spa ella_spa le_spa dijo_spa a_spa él_spa que_spa lo_spa que_spa tenía_spa era_spa cancer_engspa 
+1379.912 1382.594 AVA y_spa no_spa duró_spa ni_spa cuatro_spa _spa ni_spa cuatro_spa meses_spa duró_spa 
+1384.005 1384.992 LUI la_spa esposa_spa de_spa Pablo_engspa 
+1384.063 1384.789 AVA _spa qué_spa duro_spa 
+1385.323 1386.031 AVA sí_spa 
+1387.544 1390.778 AVA y_spa él_spa se_spa deshizo_spa de_spa todo_spa porque_spa tenía_spa una_spa compañía_spa 
+1390.778 1394.04 AVA ellos_spa tenían_spa dos_spa de_spa esos_spa _spa grandes_spa para_spa cortar_spa hierba_spa 
+1394.632 1397.012 AVA y_spa hicieron_spa bastante_spa dinero_spa pero_spa bueno_spa 
+1397.663 1402.196 AVA tú_spa sabes_spa que_spa Pablo_engspa tuvo_spa siete_spa casas_spa propias_spa 
+1402.112 1402.57 LUI wow_engspa 
+1403.34 1404.646 AVA que_spa las_spa alquilaban_spa 
+1404.843 1405.186 LUI grunt_spa 
+1405.651 1410.48 AVA con_spa todo_spa eso_spa _spa parece_spa que_spa lo_spa vendieron_spa 
+1411.329 1414.992 AVA y_spa el_spa hijo_spa se_spa ha_spa quedado_spa con_spa todo_spa el_spa dinero_spa con_spa la_spa casa_spa de_spa xxx_spa 
+1415.076 1417.961 AVA pero_spa la_spa de_spa xxx_spa ya_spa le_spa había_spa hecho_spa un_spa traspaso_spa a_spa la_spa hija_spa 
+1419.987 1421.067 AVA unos_spa criminales_spa 
+1421.015 1422.869 AVA valga_spa que_spa ni_spa me_spa han_spa llamado_spa por_spa teléfono_spa 
+1422.829 1424.472 AVA a_spa mí_spa que_spa no_spa me_spa molesten_spa 
+1426.639 1430.059 AVA porque_spa no_spa _spa yo_spa no_spa quiero_spa saber_spa ya_spa de_spa esa_spa gente_spa 
+1431.766 1436.532 AVA pero_spa el_spa dinero_spa que_spa tengo_spa perdido_spa en_spa esa_spa cuenta_spa _spa yo_spa voy_spa a_spa ir_spa a_spa esa_spa corte_spa 
+1436.98 1438.216 AVA aunque_spa vaya_spa sola_spa 
+1438.977 1441.682 AVA porque_spa me_spa dice_spa Juan_engspa que_spa es_spa un_spa barrio_spa muy_spa malo_spa que_spa 
+1442.57 1442.803 LUI la_spa corte_spa 
+1442.774 1445.287 LUI la_spa misma_spa corte_spa donde_spa tú_spa _spa donde_spa tú_spa te_spa casaste_spa 
+1445.23 1446.612 LUI o_spa you_eng wanna_eng go_eng to_eng Flagler_Street_engspa 
+1446.909 1449.051 AVA no_spa es_spa que_spa tengo_spa que_spa ir_spa a_spa Flagler_Street_engspa 
+1449.028 1449.846 eng_eng oh_eng really_eng 
+1450.108 1453.254 AVA yo_spa fui_spa a_spa la_spa corte_spa _spa a_spa la_spa corte_spa donde_spa yo_spa me_spa casé_spa _spa con_spa Pablo_engspa 
+1453.254 1454.258 eng_eng and_eng they_eng couldnt_eng do_eng it_eng there_eng 
+1454.231 1461.76 AVA pero_spa allí_spa me_spa dijeron_spa que_spa no_spa que_spa no_spa me_spa podían_spa ayudar_spa en_spa eso_spa pero_spa que_spa me_spa iban_spa a_spa dar_spa la_spa dirección_spa de_spa donde_spa yo_spa tenía_spa que_spa ir_spa 
+1462.224 1463.977 AVA que_spa yo_spa tenía_spa que_spa ir_spa al_spa civil_eng court_eng 
+1464.386 1464.641 AVA y_spa yo_spa le_spa dije_spa 
+1464.647 1466.455 AVA _spa pero_spa yo_spa no_spa sé_spa dónde_spa está_spa el_spa civil_eng court_eng 
+1467.741 1468.002 AVA y_spa me_spa dijo_spa 
+1467.933 1470.034 AVA _spa mire_spa yo_spa le_spa voy_spa a_spa dar_spa la_spa dirección_spa 
+1469.895 1470.476 AVA y_spa vino_spa 
+1470.048 1471.68 LUI _spa _spa eng_spa one_spa forty_spa Flagler_engspa I_spa think_spa it_spa is_spa 
+1471.724 1472.392 AVA ah_engspa 
+1472.937 1478.783 AVA entonces_spa cuando_spa Juan_engspa me_spa fue_spa a_spa llevar_spa a_spa casa_spa _spa fue_spa a_spa casa_spa _spa para_spa llevarme_spa a_spa la_spa corte_spa esa_spa _spa me_spa dice_spa 
+1478.766 1480.786 AVA _spa mami_spa yo_spa he_spa venido_spa a_spa llevarte_spa 
+1481.177 1483.499 AVA _spa pero_spa una_spa cosa_spa tú_spa eres_spa muy_spa nerviosa_spa 
+1483.304 1491.474 AVA tú_spa sabes_spa como_spa te_spa dije_spa hoy_spa _spa cuando_spa xxx_spa nosotros_spa estábamos_spa buscando_spa aquella_spa noche_spa un_spa lugar_spa para_spa comer_spa y_spa yo_spa vi_spa tanta_spa gente_spa maleante_spa 
+1490.989 1492.307 LUI laugh_spa 
+1492.254 1494.756 AVA porque_spa no_spa sé_spa se_spa lo_spa conozco_spa en_spa la_spa cara_spa a_spa la_spa gente_spa 
+1493.456 1494.89 LUI _spa _spa eng_spa yeah_spa I_spa know_spa yeah_spa I_spa know_spa _spa 
+1495.438 1497.049 AVA y_spa yo_spa vi_spa tanta_spa gente_spa maleante_spa 
+1496.822 1499.179 AVA y_spa tú_spa me_spa decías_spa que_spa eran_spa hasta_spa prostitutas_spa 
+1499.272 1500.341 LUI es_spa claro_spa _spa 
+1499.525 1499.809 AVA _spa yo_spa dije_spa 
+1499.798 1502.705 AVA _spa ahí_spa yo_spa me_spa voy_spa a_spa pegar_spa una_spa cosa_spa como_spa esta_spa no_spa _spa no_spa 
+1503.177 1504.974 AVA y_spa cogí_spa esa_spa _spa esa_spa 
+1504.875 1509.081 AVA no_spa te_spa dije_spa nada_spa _spa cuando_spa tú_spa me_spa dijiste_spa que_spa eran_spa prostitutas_spa algunas_spa de_spa ellas_spa 
+1509.25 1509.65 AVA yo_spa dije_spa 
+1509.58 1510.84 AVA _spa ahí_spa no_spa yo_spa no_spa 
+1510.841 1512.083 AVA pero_spa no_spa te_spa dije_spa nada_spa 
+1512.031 1516.312 AVA pero_spa se_spa me_spa hizo_spa una_spa cosa_spa en_spa el_spa estómago_spa que_spa el_spa hambre_spa se_spa me_spa fue_spa lejos_spa 
+1516.3 1519.742 LUI laugh_spa ya_spa no_spa tenías_spa hambre_spa laugh_spa 
+1517.942 1520.404 AVA _spa no_spa no_spa comí_spa nada_spa no_spa comí_spa nada_spa 
+1520.857 1521.165 AVA no_spa 
+1521.107 1523.289 AVA creo_spa que_spa lo_spa que_spa pedí_spa fue_spa un_spa helado_spa 
+1522.209 1524.688 LUI _spa we_eng stopped_eng at_eng a_eng Pollo_Tropical_engspa finally_eng didnt_eng we_eng 
+1524.653 1525.484 AVA no_spa p_spa 
+1525.153 1525.635 eng_eng yes_eng 
+1525.714 1528.997 AVA no_spa pe_spa _spa fuimos_spa a_spa un_spa lugar_spa _spa donde_spa había_spa 
+1528.148 1529.129 LUI _spa un_spa Pollo_Tropical_engspa 
+1529.134 1529.535 eng_eng I_eng remember_eng 
+1529.183 1529.502 AVA _spa no_spa 
+1529.547 1530.841 eng_eng you_eng went_eng outside_eng to_eng smoke_eng 
+1530.878 1532.311 eng_eng you_eng were_eng still_eng smoking_eng back_eng then_eng 
+1532.478 1533.279 eng_eng and_eng I_eng took_eng you_eng out_eng 
+1533.291 1534.162 eng_eng you_eng went_eng outside_eng to_eng smoke_eng 
+1534.176 1534.948 eng_eng I_eng left_eng you_eng in_eng the_eng corner_eng 
+1534.948 1535.343 eng_eng I_eng said_eng 
+1535.633 1537.282 LUI _spa párate_spa ahí_spa so_eng I_spa _spa watch_eng you_eng from_eng the_eng window_eng 
+1537.282 1537.816 eng_eng remember_eng 
+1537.817 1538.99 AVA y_spa fue_spa horrible_spa 
+1539.071 1540.197 AVA horrible_spa esa_spa noche_spa 
+1540.221 1542.101 AVA ya_spa _spa ya_spa se_spa me_spa quitó_spa el_spa hambre_spa 
+1542.862 1544.83 AVA entonces_spa _spa él_spa me_spa dice_spa 
+1544.798 1547.23 AVA _spa tú_spa eres_spa una_spa persona_spa muy_spa _spa muy_spa nerviosa_spa mamá_spa 
+1547.546 1549.549 AVA _spa y_spa no_spa te_spa gustan_spa las_spa cosas_spa 
+1549.47 1551.107 AVA a_spa mí_spa un_spa barrio_spa _spa un_spa barrio_spa no_spa me_spa gusta_spa 
+1551.113 1552.552 AVA no_spa me_spa gusta_spa pasar_spa por_spa ahí_spa 
+1552.907 1555.119 AVA me_spa parece_spa como_spa que_spa 
+1554.916 1557.017 AVA no_spa es_spa que_spa me_spa hagan_spa algo_spa 
+1557.008 1560.752 AVA es_spa que_spa si_spa se_spa reúnen_spa varias_spa personas_spa yo_spa no_spa puedo_spa defenderme_spa 
+1562.01 1563.926 AVA con_spa una_spa sola_spa no_spa me_spa importa_spa 
+1564.297 1565.255 eng_eng will_eng you_eng kick_eng his_eng ass_eng 
+1565.389 1567.473 AVA pero_spa eh_spa sí_spa pero_spa a_spa ella_spa no_spa 
+1566.524 1567.981 LUI _spa laugh_spa 
+1567.758 1568.821 AVA pero_spa barrios_spa no_spa 
+1568.919 1569.86 AVA no_spa no_spa no_spa no_spa 
+1569.064 1569.825 LUI _spa ah_engspa o_k_engspa 
+1570.034 1570.533 AVA no_spa 
+1570.648 1572.64 LUI how_eng many_eng can_eng you_eng beat_eng up_eng at_eng one_eng time_eng ma_engspa 
+1573.345 1576.462 eng_eng laugh_eng I_eng dont_eng know_eng laugh_eng 
+1574.378 1575.116 LUI _spa laugh_spa 
+1576.437 1577.394 eng_eng I_eng beat_eng up_eng 
+1578.11 1581.03 eng_eng at_eng one_eng time_eng I_eng beat_eng up_eng six_eng guys_eng one_eng time_eng when_eng I_eng was_eng a_eng transit_eng cop_eng 
+1581.001 1582.435 AVA sí_spa pero_spa tú_spa eras_spa grande_spa 
+1582.327 1584.62 AVA y_spa tenías_spa un_spa palo_spa así_spa para_spa defenderte_spa _spa laughs_spa 
+1583.624 1584.942 LUI _spa laugh_spa 
+1584.915 1585.809 AVA laugh_spa 
+1585.443 1587.945 LUI yo_spa metí_spa balazos_spa coño_spa 
+1586.008 1588.074 AVA _spa laugh_spa 
+1588.253 1591.156 LUI coño_spa cual_spa _spa como_spa yo_spa metí_spa balazos_spa cojones_spa 
+1590.472 1591.784 AVA laugh_spa 
+1592.437 1594.405 AVA como_spa van_spa a_spa aprender_spa malas_spa palabras_spa 
+1593.349 1599.362 LUI _spa hoy_spa en_spa _spa hoy_spa en_spa _spa hoy_spa en_spa día_spa _spa hay_spa uno_spa hijo_spa de_spa puta_spa ma_spa _spa caminando_spa por_spa allá_spa en_spa Brooklyn_engspa 
+1599.539 1602.905 LUI todos_spa _spa todos_spa cogidos_spa _spa todos_spa jodidos_spa de_spa las_spa _spa las_spa palizas_spa que_spa yo_spa las_spa he_spa _spa metido_spa 
+1603.004 1603.492 AVA sí_spa 
+1603.225 1603.84 LUI _spa _spa eng_spa trust_spa me_spa 
+1603.828 1604.734 eng_eng oh_eng yeah_eng 
+1605.361 1605.977 eng_eng oh_eng yeah_eng 
+1606.532 1609.638 AVA no_spa una_spa vez_spa yo_spa llevaba_spa un_spa Mace_eng en_spa la_spa cartera_spa 
+1609.859 1610.956 eng_eng yeah_eng and_eng 
+1611.224 1616.145 AVA y_spa siempre_spa siempre_spa que_spa yo_spa me_spa lucía_spa _spa a_spa alguien_spa que_spa estaba_spa tú_spa sabes_spa peligroso_spa _spa 
+1615.21 1616.238 LUI _spa _spa eng_spa little_spa bit_spa funny_spa 
+1616.472 1620.332 AVA sí_spa en_spa Nueva_York_spa yo_spa _spa todo_spa era_spa con_spa _spa abrigo_spa no_spa 
+1616.472 1620.332 LUI ahasengspa
+1620.787 1622.352 AVA y_spa tenía_spa siempre_spa bolsillos_spa 
+1622.254 1623.479 AVA yo_spa sacaba_spa mi_spa Mace_eng 
+1623.17 1624.894 AVA y_spa me_spa lo_spa metía_spa así_spa en_spa el_spa bolsillo_spa 
+1625.056 1625.526 AVA decía_spa 
+1625.338 1629.263 AVA _spa si_spa este_spa desgraciado_spa me_spa viene_spa a_spa hacer_spa algo_spa _spa va_spa a_spa saber_spa quién_spa soy_spa yo_spa 
+1629.238 1630.225 LUI laugh_spa 
+1630.108 1630.851 AVA aha_engspa 
+1631.593 1633.169 AVA porque_spa no_spa es_spa lo_spa que_spa me_spa lleven_spa 
+1633.111 1634.527 AVA es_spa lo_spa que_spa me_spa pueden_spa hacer_spa 
+1634.47 1634.964 eng_eng right_eng 
+1635.781 1639.583 AVA porque_spa si_spa te_spa llevan_spa una_spa prenda_spa la_spa prenda_spa xxx_spa yo_spa puedo_spa comprar_spa otra_spa vez_spa 
+1639.624 1640.03 eng_eng right_eng 
+1640.289 1643.755 AVA pero_spa no_spa _spa no_spa si_spa me_spa no_spa _spa si_spa me_spa tiran_spa al_spa piso_spa 
+1644.295 1653.618 AVA mira_spa _spa hace_spa como_spa dos_spa años_spa una_spa señora_spa donde_spa yo_spa vivo_spa _spa se_spa fue_spa a_spa _spa a_spa holy_spa _spa a_spa holy_eng rosary_eng _spa a_spa la_spa misa_spa de_spa siete_spa 
+1653.755 1660.019 AVA y_spa tú_spa me_spa puedes_spa creer_spa que_spa la_spa han_spa cogido_spa dos_spa personas_spa _spa dos_spa hombres_spa esperando_spa a_spa una_spa pobre_spa mujer_spa vieja_spa ya_spa 
+1661.521 1664.052 AVA yo_spa no_spa me_spa sé_spa _spa no_spa sé_spa la_spa verdad_spa qué_spa tendría_spa 
+1664.029 1665.289 AVA pero_spa no_spa era_spa ninguna_spa joven_spa 
+1665.256 1665.86 LUI grunt_spa 
+1665.793 1667.581 AVA vive_spa _spa vive_spa en_spa xxx_River_engspa 
+1668.157 1674.834 AVA entonces_spa _spa pues_spa _spa la_spa _spa la_spa _spa le_spa quitaron_spa unas_spa llaves_spa a_spa la_spa fuerza_spa 
+1675.448 1677.874 AVA la_spa esperaron_spa que_spa ella_spa estaba_spa para_spa abrir_spa el_spa carro_spa 
+1678.159 1679.314 AVA ahí_spa la_spa atacaron_spa 
+1679.874 1681.894 AVA le_spa cogieron_spa la_spa cartera_spa hiccup_spa 
+1682.016 1686.022 AVA como_spa ella_spa no_spa quiso_spa dejar_spa la_spa cartera_spa _spa no_spa quería_spa dejar_spa la_spa cartera_spa la_spa tiraron_spa al_spa piso_spa 
+1686.047 1686.784 eng_eng oh_eng my_eng god_eng 
+1686.606 1688.91 AVA y_spa le_spa partieron_spa un_spa brazo_spa en_spa dos_spa partes_spa 
+1688.51 1689.323 LUI _spa _spa eng_spa oh_spa shit_spa 
+1689.642 1691.302 AVA tú_spa sabes_spa cómo_spa esa_spa mujer_spa sufrió_spa 
+1691.337 1691.673 LUI grunt_spa 
+1691.75 1694.734 AVA y_spa eso_spa es_spa lo_spa que_spa yo_spa trato_spa de_spa evitar_spa que_spa me_spa hagan_spa daño_spa a_spa mí_spa 
+1695.016 1697.183 AVA si_spa _spa como_spa tú_spa una_spa vez_spa me_spa dijiste_spa en_spa Nueva_York_spa 
+1697.35 1697.982 AVA _spa mami_spa 
+1699.321 1700.644 AVA _spa no_spa usar_spa bar_spa _spa carteras_spa caras_spa 
+1701.772 1711.651 AVA y_spa era_spa verdad_spa porque_spa Rosana_spa como_spa costaban_spa _spa le_spa _spa le_spa valían_spa hasta_spa doscientos_spa y_spa pico_spa pesos_spa y_spa trescientos_spa una_spa cartera_spa _spa la_spa carteriaron_spa _spa tres_spa veces_spa en_spa el_spa _spa en_spa el_spa _spa en_spa el_spa 
+1710.652 1711.477 LUI _spa en_spa el_spa subway_eng 
+1711.809 1712.297 AVA _spa en_spa el_spa subway_eng 
+1712.204 1714.933 AVA y_spa era_spa porque_spa veían_spa que_spa las_spa carteras_spa eran_spa buenas_spa 
+1714.1 1715.325 LUI _spa eran_spa caras_spa right_eng 
+1715.316 1715.932 AVA pues_spa tenían_spa que_spa 
+1715.932 1719.58 AVA una_spa vez_spa le_spa robaron_spa hasta_spa un_spa sobre_spa con_spa prendas_spa que_spa tenía_spa 
+1719.581 1720.354 eng_eng oh_eng shit_eng 
+1720.481 1721.004 AVA allí_spa 
+1720.978 1724.386 LUI tú_spa no_spa sabes_spa que_spa yo_spa tuve_spa un_spa caso_spa un_spa día_spa _spa una_spa vieja_spa americana_spa 
+1725.046 1726.814 LUI entrando_spa en_spa su_spa casa_spa lo_spa mismo_spa le_spa pasó_spa 
+1726.355 1728.578 LUI la_spa tiraron_spa _spa la_spa tumbaron_spa al_spa piso_spa 
+1728.745 1729.662 LUI entonces_spa le_spa robaron_spa la_spa carro_spa 
+1729.656 1732.019 LUI la_spa _spa la_spa arrollaron_spa with_eng the_eng car_eng 
+1731.314 1732.022 AVA _spa _spa eng_spa I_spa know_spa 
+1731.941 1732.661 eng_eng wait_eng a_eng minute_eng 
+1732.748 1734.1 LUI mira_spa el_spa brazo_spa aquí_spa 
+1735.081 1737.22 LUI este_spa tiene_spa el_spa brazo_spa más_spa grueso_spa que_spa este_spa belches_spa 
+1737.626 1739.82 LUI la_spa goma_spa pasó_spa por_spa arriba_spa 
+1740.063 1741.044 AVA gasp_spa 
+1740.754 1742.64 LUI y_spa es_spa _spa y_spa el_spa brazo_spa se_spa le_spa explotó_spa 
+1742.871 1743.481 LUI se_spa explotó_spa 
+1743.393 1745.169 LUI estábamos_spa todo_spa ripiado_spa para_spa siempre_spa 
+1744.77 1746.25 AVA _spa probablemente_spa lo_spa perdió_spa 
+1745.774 1746.186 LUI _spa _spa eng_spa but_spa it_spa 
+1746.18 1747.457 eng_eng no_eng they_eng saved_eng it_eng 
+1747.688 1749.633 LUI ella_spa tenía_spa _spa e_spa era_spa vieja_spa como_spa ella_spa sola_spa 
+1749.581 1751.212 LUI ochenta_spa y_spa pico_spa años_spa tenía_spa 
+1751.518 1755.025 LUI y_spa la_spa arrollaron_spa _spa con_spa el_spa mismo_spa carro_spa de_spa ella_spa la_spa _spa la_spa arrollaron_spa el_spa brazo_spa 
+1755.029 1756.614 eng_eng and_eng the_eng arm_eng exploded_eng 
+1756.832 1759.154 LUI la_spa carne_spa la_spa sangre_spa everything_eng went_eng flying_eng out_eng like_eng this_eng 
+1758.718 1760.181 AVA _spa qué_spa criminales_spa 
+1759.357 1761.116 LUI _spa y_spa esto_spa estaba_spa todo_spa ripiado_spa así_spa 
+1761.41 1762.85 AVA qué_spa criminales_spa 
+1761.979 1764.476 LUI _spa me_spa dio_spa una_spa rabia_spa coño_spa 
+1764.436 1766.073 LUI vaya_spa que_spa yo_spa _spa como_spa 
+1766.098 1767.85 eng_eng I_eng hated_eng those_eng sons_eng of_eng bitches_eng 
+1768.052 1768.836 eng_eng Ill_eng tell_eng you_eng the_eng truth_eng 
+1768.836 1769.793 eng_eng I_eng hated_eng them_eng 
+1770.179 1771.607 eng_eng and_eng they_eng didnt_eng like_eng me_eng very_eng much_eng either_eng 
+1771.603 1773.594 eng_eng but_eng I_eng hated_eng them_eng with_eng a_eng passion_eng boy_eng 
+1774.181 1776.462 LUI por_spa eso_spa y_spa eh_engspa Susie_engspa eh_engspa Susie_engspa saw_eng it_eng 
+1777.045 1777.527 eng_eng I_eng said_eng 
+1777.51 1777.893 LUI _spa _spa eng_spa look_spa 
+1780.178 1782.651 LUI when_eng Susie_engspa saw_eng that_eng I_eng was_eng going_eng after_eng somebody_eng she_eng says_eng 
+1782.697 1783.208 LUI _spa _spa eng_spa goodbye_spa 
+1783.214 1784.433 LUI _spa _spa eng_spa Ill_spa see_spa you_spa when_spa you_spa catch_spa them_spa 
+1784.679 1787.123 eng_eng because_eng I_eng would_eng not_eng come_eng home_eng until_eng I_eng got_eng that_eng son_eng of_eng bitch_eng in_eng jail_eng 
+1787.123 1788.278 eng_eng I_eng would_eng not_eng come_eng home_eng 
+1788.729 1790.122 eng_eng I_eng would_eng not_eng come_eng home_eng until_eng I_eng kwa_eng 
+1790.116 1791.87 eng_eng I_eng would_eng sleep_eng in_eng the_eng van_eng like_eng a_eng bum_eng 
+1792.115 1793.845 eng_eng I_eng would_eng sleep_eng in_eng my_eng van_eng like_eng a_eng bum_eng 
+1793.999 1795.717 eng_eng shave_eng in_eng the_eng courthouse_eng and_eng shit_eng 
+1795.717 1796.652 eng_eng Im_eng serious_eng 
+1797.208 1798.781 eng_eng I_eng would_eng take_eng a_eng change_eng of_eng clothing_eng 
+1798.589 1800.192 LUI y_spa _spa y_spa me_spa lavaba_spa los_spa sobacos_spa no_eng shit_eng 
+1800.291 1801.458 eng_eng and_eng Id_eng keep_eng on_eng fucking_eng going_eng 
+1800.372 1800.738 AVA _spa sí_spa 
+1801.433 1802.164 eng_eng no_eng no_eng no_eng 
+1802.673 1804.269 eng_eng until_eng I_eng caught_eng those_eng sons_eng of_eng bitches_eng 
+1803.122 1804.125 AVA _spa pero_spa qué_spa criminal_spa 
+1803.715 1808.746 AVA bueno_spa esa_spa señora_spa sufrió_spa bastante_spa porque_spa imagínate_spa dos_spa fracturas_spa en_spa un_spa solo_spa brazo_spa 
+1809.506 1810.638 AVA entonces_spa 
+1810.569 1812.972 LUI y_spa ya_spa después_spa de_spa viejo_spa eso_spa no_spa es_spa _spa eso_spa no_spa es_spa ningún_spa relajo_spa 
+1812.722 1813.384 AVA laugh_spa 
+1813.833 1815.069 LUI eso_spa es_spa ningún_spa relajo_spa 
+1814.088 1816.398 AVA _spa pero_spa los_spa viejos_spa no_spa nos_spa curamos_spa fácil_spa mi_spa hijo_spa 
+1816.786 1818.516 AVA como_spa mucho_spa un_spa niño_spa se_spa rompe_spa una_spa pierna_spa 
+1818.469 1821.981 AVA y_spa a_spa _spa y_spa al_spa _spa y_spa a_spa los_spa tres_spa meses_spa ya_spa está_spa caminando_spa como_spa si_spa nada_spa 
+1819.52 1820.176 LUI _spa laugh_spa 
+1822.605 1825.089 AVA porque_spa esos_spa huesos_spa están_spa jovencitos_spa están_spa 
+1824.73 1826.748 LUI right_eng y_spa se_spa _spa y_spa se_spa _spa y_spa se_spa curan_spa de_spa nada_spa 
+1826.73 1827.99 AVA pero_spa los_spa viejos_spa no_spa 
+1828.685 1829.533 AVA y_spa yo_spa les_spa tengo_spa terror_spa 
+1829.509 1831.32 AVA mira_spa los_spa otros_spa días_spa 
+1831.494 1839.355 AVA como_spa ya_spa veo_spa que_spa las_spa cosas_spa se_spa están_spa poniendo_spa tan_spa mal_spa hasta_spa _spa hasta_spa esperando_spa una_spa guagua_spa una_spa muere_spa en_spa estado_spa que_spa la_spa cojan_spa y_spa la_spa ultrajen_spa 
+1838.708 1839.706 LUI _spa _spa eng_spa no_spa I_spa know_spa 
+1839.689 1841.401 AVA no_spa eso_spa _spa de_spa eso_spa no_spa tiene_spa 
+1841.371 1843.658 AVA está_spa habiendo_spa tantas_spa mujeres_spa botadas_spa por_spa ahí_spa 
+1843.784 1847.859 AVA entonces_spa _spa ah_spa _spa me_spa fui_spa a_spa un_spa lugar_spa 
+1847.598 1852.352 AVA y_spa veo_spa un_spa _spa _spa como_spa el_spa que_spa tú_spa me_spa regalaste_spa el_spa mismo_spa pito_spa que_spa tú_spa me_spa regalaste_spa en_spa Nueva_York_spa 
+1852.411 1853.619 eng_eng oh_eng yeah_eng the_eng metal_eng one_eng 
+1853.282 1854.771 AVA me_spa _spa compré_spa uno_spa 
+1854.771 1855.189 eng_eng yeah_eng 
+1855.022 1857.338 AVA que_spa es_spa de_spa _spa es_spa de_spa bronce_spa 
+1858.018 1858.622 AVA pero_spa está_spa 
+1858.134 1858.878 LUI _spa _spa eng_spa where_spa did_spa you_spa buy_spa it_spa 
+1859.374 1860.599 LUI dónde_spa lo_spa conseguiste_spa 
+1859.798 1862.416 AVA _spa en_spa la_spa Vía_Rica_spa en_spa la_spa Vía_Amiga_María_spa _spa de_spa al_spa lado_spa 
+1861.574 1862.474 LUI _spa _spa eng_spa oh_spa really_spa 
+1862.52 1863.298 LUI ah_engspa o_k_engspa 
+1863.294 1866.15 AVA sí_spa hecho_spa mejor_spa xxx_spa hecho_spa en_spa Inglaterra_spa no_spa 
+1866.453 1867.632 AVA en_spa Inglaterra_spa está_spa hecho_spa 
+1867.899 1871.399 AVA entonces_spa lo_spa voy_spa a_spa limpiar_spa bien_spa para_spa ponérmelo_spa en_spa la_spa cadena_spa gruesa_spa 
+1871.727 1874.833 AVA y_spa lo_spa voy_spa a_spa guindar_spa en_spa la_spa cadena_spa gruesa_spa que_spa tengo_spa ves_spa 
+1874.858 1875.857 AVA aquí_spa lo_spa voy_spa a_spa 
+1875.781 1876.043 AVA mira_spa _spa laughs_spa 
+1875.944 1879.619 AVA aquí_spa como_spa tengo_spa esa_spa xxx_spa de_spa cada_spa día_spa lo_spa xxx_spa 
+1880.482 1888.904 AVA entonces_spa _spa si_spa algo_spa pasa_spa si_spa ya_spa yo_spa como_spa hacía_spa con_spa el_spa Mace_eng en_spa Nueva_York_spa que_spa enseguida_spa me_spa lo_spa sacaba_spa _spa de_spa la_spa cartera_spa y_spa me_spa lo_spa ponía_spa 
+1889.165 1892.054 AVA xxx_spa lo_spa voy_spa a_spa tener_spa aquí_spa en_spa esta_spa cadena_spa 
+1892.181 1894.058 AVA y_spa empiezo_spa a_spa silbar_spa como_spa si_spa 
+1893.774 1894.192 LUI _spa noise_spa 
+1894.169 1895.428 AVA aha_engspa 
+1895.432 1896.181 LUI noise_spa 
+1896.105 1896.668 AVA no_spa 
+1897.448 1898.389 LUI ay_spa coño_spa 
+1897.582 1899.608 AVA _spa por_spa lo_spa menos_spa tratar_spa de_spa 
+1900.492 1905.083 AVA porque_spa a_spa lo_spa mejor_spa se_spa amedrenta_spa la_spa persona_spa si_spa uno_spa _spa uno_spa empieza_spa a_spa sonar_spa un_spa pito_spa 
+1905.147 1906.227 AVA la_spa persona_spa ves_spa _spa laughs_spa 
+1906.279 1908.903 AVA voy_spa a_spa la_spa comandancia_spa con_spa unos_spa perros_spa _spa claps_hands_spa 
+1913.353 1914.491 AVA no_spa 
+1915.497 1919.636 AVA ayer_spa mismo_spa _spa yo_spa estoy_spa planchando_spa en_spa la_spa sala_spa 
+1921.275 1925.973 AVA y_spa así_spa tú_spa verás_spa la_spa _spa la_spa _spa la_spa puerta_spa está_spa aquí_spa y_spa yo_spa aquí_spa parada_spa planchando_spa 
+1925.555 1926.008 LUI _spa _spa eng_spa right_spa 
+1926.433 1931.167 AVA siento_spa una_spa cosa_spa como_spa que_spa _spa se_spa me_spa hubieran_spa tirado_spa algo_spa en_spa la_spa puerta_spa _spa claps_hands_spa 
+1932.696 1934.339 LUI podía_spa ser_spa el_spa viento_spa también_spa 
+1933.776 1937.247 AVA y_spa yo_spa pensé_spa no_spa pensé_spa que_spa era_spa el_spa gato_spa _spa que_spa se_spa había_spa pirado_spa 
+1937.177 1938.681 AVA pero_spa él_spa nunca_spa hace_spa eso_spa 
+1939.193 1942.583 AVA cuando_spa m_spa fui_spa a_spa la_spa ventana_spa y_spa miré_spa no_spa estaba_spa el_spa gato_spa por_spa ahí_spa 
+1942.823 1943.897 AVA lo_spa que_spa fue_spa no_spa sé_spa 
+1943.825 1944.69 eng_eng it_eng was_eng the_eng wind_eng 
+1944.673 1945.996 eng_eng the_eng wind_eng does_eng that_eng a_eng lot_eng 
+1946.721 1947.957 eng_eng happens_eng at_eng my_eng house_eng all_eng the_eng time_eng 
+1947.986 1950.848 LUI you_eng feel_eng the_eng door_eng como_spa si_spa alguien_spa está_spa tratando_spa de_spa abrir_spa la_spa puerta_spa 
+1950.969 1951.776 AVA aha_engspa 
+1951.387 1952.879 eng_eng but_eng just_eng pushing_eng on_eng it_eng you_eng know_eng 
+1952.728 1953.529 AVA aha_engspa 
+1953.175 1953.959 LUI es_spa descarado_spa 
+1954.027 1955.205 AVA pues_spa yo_spa enseguida_spa fui_spa 
+1955.182 1956.227 AVA y_spa miré_spa 
+1957.218 1958.872 AVA entonces_spa no_spa no_spa había_spa nadie_spa 
+1958.912 1960.37 AVA no_spa había_spa nadie_spa 
+1961.547 1964.13 AVA pero_spa era_spa diferente_spa cuando_spa yo_spa tenía_spa a_spa Mac_engspa 
+1964.476 1967.848 AVA cuando_spa yo_spa tenía_spa el_spa perrito_spa _spa enseguida_spa ladraba_spa 
+1965.013 1966.087 LUI _spa normal_spa 
+1969.382 1972.488 AVA y_spa tú_spa _spa y_spa tú_spa sabías_spa que_spa estaba_spa alguien_spa _spa alguien_spa tocando_spa 
+1973.433 1975.934 AVA pero_spa ahora_spa sin_spa el_spa perro_spa grunt_spa 
+1979.837 1981.514 AVA veremos_spa a_spa ver_spa si_spa algún_spa día_spa 
+1980.905 1983.082 LUI _spa tú_spa nunca_spa has_spa visto_spa los_spa perros_spa de_spa Herbert_Dole_engspa 
+1983.615 1984.196 AVA no_spa 
+1984.346 1986.61 LUI ma_spa son_spa así_spa de_spa _spa de_spa chiquitos_spa 
+1986.982 1987.922 LUI son_spa como_spa Mac_engspa 
+1987.946 1990.099 LUI pero_spa parecen_spa _spa parecen_spa ratones_spa 
+1990.274 1991.418 AVA de_spa veras_spa 
+1991.447 1994.013 eng_eng little_eng itty_bitty_eng man_eng they_eng call_eng teacup_eng _eng 
+1994.925 2001.972 AVA oye_spa pero_spa tú_spa te_spa acuerdas_spa aquella_spa señora_spa que_spa tenía_spa un_spa perrito_spa así_spa y_spa yo_spa le_spa pregunté_spa si_spa _spa si_spa lo_spa vendía_spa 
+2001.885 2002.924 AVA y_spa me_spa dijo_spa que_spa no_spa 
+2003.349 2003.849 LUI no_spa 
+2004.321 2006.573 AVA eso_spa _spa eso_spa _spa después_spa que_spa salimos_spa de_spa allí_spa tú_spa me_spa dices_spa 
+2006.562 2008.843 AVA _spa ese_spa perro_spa vale_spa mil_spa y_spa pico_spa pesos_spa laugh_spa 
+2009.127 2012.308 eng_eng oh_eng yeah_eng yeah_eng yeah_eng laugh_eng 
+2010.091 2012.308 AVA laugh_spa claps_hands_spa 
+2012.896 2016.489 LUI we_eng saw_eng one_eng at_eng the_eng flea_eng market_eng e_spa near_eng Sallys_spa house_eng 
+2016.868 2019.712 LUI uno_spa negro_spa parecía_spa _spa parecía_spa pelo_spa de_spa yuppie_engspa 
+2020.037 2021.599 LUI negro_spa chiquitito_spa así_spa 
+2021.61 2023.224 LUI mil_spa cuatrocientos_spa pesos_spa 
+2021.735 2022.263 AVA _spa ah_engspa 
+2023.918 2025.27 LUI mil_spa cuatrocientos_spa pesos_spa 
+2024.307 2025.793 AVA _spa oh_engspa wow_engspa 
+2025.735 2027.43 LUI y_spa el_spa hermano_spa mil_spa quinientos_spa 
+2028.06 2032.981 LUI y_spa tenía_spa un_spa _spa tenía_spa un_spa _spa otro_spa perrito_spa que_spa era_spa blanco_spa pero_spa estaba_spa rosado_spa rosado_spa rosado_spa pink_eng 
+2033.978 2034.727 AVA sí_spa 
+2035.009 2037.087 LUI y_spa _spa y_spa dijimos_spa _spa dijimos_spa nosotros_spa 
+2037.093 2038.567 LUI _spa _spa eng_spa hey_spa where_spa did_spa that_spa pink_spa dog_spa come_spa from_spa 
+2038.573 2039.653 LUI _spa _spa eng_spa no_spa that_spa dog_spa is_spa white_spa 
+2040.366 2043.315 LUI _spa _spa eng_spa but_spa I_spa was_spa baking_spa a_spa cake_spa the_spa other_spa day_spa sonofabitch_spa fell_spa on_spa the_spa filling_spa 
+2043.873 2045.087 eng_eng she_eng had_eng a_eng big_eng thing_eng of_eng 
+2045.127 2049.13 LUI porque_spa the_eng icing_eng of_eng the_eng cake_eng _spa was_eng pink_eng was_eng for_eng a_eng girls_eng birthday_eng 
+2046.935 2047.881 AVA _spa sí_spa 
+2049.46 2052.311 eng_eng and_eng the_eng dog_eng was_eng la_eng la_eng la_eng licking_eng it_eng and_eng fell_eng in_eng the_eng fucking_eng pot_eng 
+2052.402 2053.336 AVA o_spa i_spa 
+2052.808 2054.596 LUI _spa laugh_spa 
+2054.718 2057.429 AVA no_spa este_spa a_spa mí_spa me_spa gustaría_spa uno_spa chiquito_spa 
+2057.965 2061.709 AVA pero_spa no_spa donde_spa yo_spa vivo_spa porque_spa donde_spa yo_spa vivo_spa tendría_spa que_spa _spa iba_spa a_spa 
+2062.279 2063.689 AVA la_spa gente_spa es_spa descarada_spa tú_spa sabes_spa 
+2063.374 2064.942 AVA pasa_spa por_spa ahí_spa 
+2064.886 2065.553 AVA un_spa día_spa yo_spa salí_spa 
+2065.547 2066.017 AVA y_spa le_spa digo_spa 
+2066.0 2067.59 AVA _spa señora_spa usted_spa no_spa está_spa en_spa su_spa puerta_spa 
+2067.677 2069.894 AVA _spa ni_spa con_spa leash_eng pasaba_spa ese_spa perro_spa por_spa aquí_spa 
+2069.97 2072.832 AVA _spa es_spa por_spa aquella_spa cerca_spa que_spa usted_spa está_spa su_spa puerta_spa pasa_spa 
+2073.102 2078.31 AVA _spa porque_spa si_spa ese_spa perro_spa hace_spa sus_spa necesidades_spa aquí_spa usted_spa no_spa tiene_spa nada_spa en_spa sus_spa manos_spa para_spa recogerlo_spa 
+2078.728 2079.768 AVA lo_spa va_spa a_spa dejar_spa ahí_spa 
+2079.53 2081.103 LUI claro_spa _spa laughs_spa qué_spa tú_spa crees_spa 
+2081.167 2083.007 AVA no_spa pues_spa no_spa no_spa es_spa tan_spa supuesto_spa 
+2083.035 2086.913 AVA tú_spa sabes_spa que_spa en_spa Nueva_York_spa tú_spa tienes_spa que_spa ir_spa con_spa un_spa periódico_spa o_spa con_spa uno_spa 
+2086.814 2087.842 eng_eng oh_eng a_eng scooper_eng thing_eng 
+2087.476 2088.544 AVA grunt_spa aha_engspa 
+2088.941 2091.049 AVA porque_spa no_spa eso_spa no_spa es_spa _spa eso_spa no_spa está_spa bien_spa 
+2091.072 2092.494 AVA eso_spa no_spa está_spa bien_spa 
+2092.523 2095.478 AVA y_spa es_spa no_spa respetar_spa al_spa _spa a_spa los_spa demás_spa personas_spa 
+2095.728 2096.483 AVA no_spa 
+2096.65 2097.486 AVA y_spa no_spa la_spa he_spa visto_spa más_spa 
+2097.445 2098.821 AVA nunca_spa pasó_spa 
+2098.835 2099.322 eng_eng yeah_eng 
+2099.421 2100.518 eng_eng thats_eng the_eng last_eng time_eng huh_eng 
+2099.758 2101.47 AVA _spa más_spa nunca_spa pasó_spa por_spa ahí_spa 
+2101.894 2104.553 AVA eh_spa oye_spa el_spa _spa eso_spa tiene_spa catorce_spa buildings_eng 
+2104.512 2107.228 AVA que_spa se_spa vaya_spa por_spa otro_spa building_eng a_spa hacer_spa esa_spa gracia_spa 
+2107.166 2107.596 eng_eng hmm_eng 
+2107.811 2108.943 AVA e_spa e_spa cuando_spa yo_spa me_spa mudé_spa ahí_spa 
+2108.583 2112.739 AVA yo_spa todavía_spa tengo_spa esos_spa papeles_spa _spa de_spa tantos_spa años_spa que_spa he_spa vivido_spa ahí_spa 
+2113.163 2116.304 AVA que_spa nos_spa dijeron_spa a_spa mí_spa y_spa a_spa tu_spa padre_spa que_spa en_spa paz_spa descanse_spa mire_spa 
+2116.195 2117.49 AVA _spa usted_spa tiene_spa que_spa cruzar_spa 
+2117.478 2124.629 AVA _spa los_spa perros_spa se_spa pasean_spa _spa se_spa pasean_spa por_spa la_spa _spa por_spa el_spa _spa _spa por_spa el_spa fence_eng más_spa alto_spa que_spa hay_spa 
+2124.844 2126.469 AVA que_spa ese_spa es_spa de_spa ocho_spa pies_spa 
+2126.621 2127.214 eng_eng right_eng 
+2127.317 2131.454 AVA pues_spa por_spa qué_spa la_spa gente_spa no_spa se_spa lo_spa dicen_spa a_spa todo_spa el_spa mundo_spa y_spa que_spa todo_spa el_spa mundo_spa obedezca_spa eso_spa 
+2131.419 2131.75 AVA claps_hands_spa 
+2132.263 2133.918 AVA ah_spa no_spa pues_spa que_spa lo_spa pasan_spa por_spa allí_spa 
+2133.059 2135.758 LUI _spa porque_spa la_spa gente_spa hacen_spa lo_spa que_spa sale_spa de_spa los_spa huevos_spa thats_eng why_eng 
+2135.143 2135.787 AVA _spa ah_engspa 
+2136.136 2136.647 LUI no_spa 
+2136.217 2138.874 AVA _spa no_spa pero_spa eso_spa e_spa eso_spa es_spa ahí_spa chunguero_spa _spa 
+2139.7 2140.303 LUI tú_spa crees_spa 
+2140.338 2141.807 AVA sí_spa sí_spa sí_spa _spa ya_spa 
+2141.841 2145.149 AVA vamos_spa mira_spa cuando_spa me_spa _spa me_spa dijeron_spa de_spa eso_spa de_spa la_spa estufa_spa yo_spa les_spa dije_spa 
+2145.125 2147.25 AVA _spa pues_spa mire_spa yo_spa le_spa tengo_spa miedo_spa a_spa esa_spa estufa_spa 
+2147.314 2151.132 AVA _spa yo_spa no_spa voy_spa a_spa que_spa un_spa día_spa me_spa coja_spa la_spa corriente_spa _spa o_spa que_spa haya_spa un_spa accidente_spa aquí_spa 
+2151.021 2151.863 LUI porque_spa eso_spa es_spa dos_spa veinte_spa 
+2151.869 2152.913 eng_eng thats_eng not_eng one_eng twenty_eng 
+2152.85 2153.379 AVA aha_engspa 
+2153.667 2156.001 AVA entonces_spa me_spa puedo_spa electrocutar_spa con_spa eso_spa 
+2155.995 2158.317 AVA no_spa yo_spa no_spa voy_spa a_spa limpiar_spa esa_spa estufa_spa por_spa dentro_spa 
+2158.405 2161.969 AVA nada_spa más_spa por_spa dentro_spa limpio_spa esta_spa parte_spa que_spa usted_spa ve_spa limpia_spa 
+2162.101 2164.296 AVA lo_spa demás_spa no_spa lo_spa limpio_spa porque_spa ahí_spa están_spa los_spa cables_spa y_spa 
+2164.22 2164.899 AVA yo_spa no_spa voy_spa a_spa 
+2165.362 2166.767 AVA no_spa no_spa no_spa no_spa no_spa 
+2167.029 2168.509 AVA se_spa ha_spa cogido_spa candela_spa dos_spa veces_spa 
+2168.501 2170.678 eng_eng remind_eng me_eng the_eng next_eng time_eng Im_eng at_eng your_eng house_eng I_eng have_eng to_eng measure_eng it_eng 
+2170.722 2173.085 LUI tú_spa tienes_spa _spa algo_spa para_spa medir_spa en_spa la_spa casa_spa 
+2172.371 2173.642 AVA _spa sí_spa yo_spa tengo_spa 
+2174.428 2176.965 AVA y_spa ellos_spa me_spa dijeron_spa que_spa eran_spa veintitrés_spa y_spa no_spa sé_spa qué_spa 
+2177.08 2180.325 AVA pero_spa ahora_spa cuando_spa le_spa llevo_spa el_spa xxx_spa de_spa esto_spa de_spa Home_Depot_engspa 
+2180.583 2184.612 AVA me_spa dice_spa enseguida_spa el_spa que_spa me_spa había_spa dicho_spa que_spa era_spa de_spa veintitrés_spa no_spa sé_spa cuánto_spa 
+2185.181 2186.168 AVA eh_spa me_spa dice_spa él_spa 
+2186.098 2189.186 AVA _spa sí_spa pero_spa es_spa que_spa esta_spa estufa_spa es_spa grande_spa 
+2189.616 2192.432 AVA ya_spa me_spa había_spa dicho_spa que_spa Macy_engspa _spa no_spa la_spa tenía_spa chiquita_spa 
+2193.186 2193.807 LUI en_spa Sears_engspa 
+2193.747 2196.22 AVA que_spa solamente_spa eran_spa grandes_spa en_spa ri_spa _spa en_spa Sears_engspa 
+2196.581 2196.952 AVA digo_spa 
+2196.917 2199.216 AVA _spa bueno_spa si_spa eso_spa es_spa donde_spa yo_spa tengo_spa crédito_spa 
+2199.396 2201.636 AVA be_spa entonces_spa yo_spa voy_spa a_spa Home_Depot_engspa 
+2202.471 2204.59 AVA mi_spa hijo_spa me_spa la_spa compra_spa en_spa Home_Depot_engspa 
+2204.671 2206.611 AVA y_spa yo_spa le_spa podía_spa _spa pagando_spa lo_spa que_spa sea_spa 
+2206.593 2208.107 LUI tampoco_spa Home_Depot_engspa _spa las_spa tienen_spa chiquita_spa 
+2208.107 2208.879 eng_eng theyre_eng all_eng big_eng 
+2209.575 2210.614 AVA mira_spa para_spa ese_spa _spa claps_hands_spa 
+2210.29 2211.642 LUI _spa donde_spa tú_spa _spa tú_spa puedes_spa conseguir_spa eso_spa 
+2211.544 2212.525 LUI en_spa Brands_Mart_engspa 
+2213.268 2219.428 LUI lo_spa bueno_spa es_spa que_spa _spa es_spa que_spa _spa que_spa _spa que_spa vaya_spa _spa uno_spa tiene_spa que_spa usar_spa una_spa tarjeta_spa de_spa crédito_spa normal_spa para_spa pagarlo_spa cash_eng 
+2219.852 2221.205 LUI pero_spa eb_spa eb_spa son_spa baratos_spa 
+2221.151 2224.872 LUI fíjate_spa yo_spa he_spa comprado_spa un_spa freezer_eng right_eng el_spa freezer_eng que_spa tengo_spa en_spa la_spa casa_spa ahora_spa 
+2222.989 2223.912 AVA _spa bueno_spa no_spa 
+2225.102 2226.983 LUI por_spa menos_spa de_spa _spa menos_spa de_spa doscientos_spa pesos_spa 
+2227.516 2228.962 LUI un_spa _spa un_spa freezer_eng así_spa 
+2230.471 2232.3 AVA pero_spa es_spa una_spa tienda_spa de_spa nueva_spa 
+2232.439 2233.751 LUI yeah_eng Brands_Mart_engspa 
+2233.819 2234.841 AVA de_spa veras_spa 
+2234.829 2236.669 eng_eng one_eng ninety_eng seven_eng we_eng paid_eng for_eng that_eng thing_eng 
+2237.61 2239.52 eng_eng they_eng come_eng xxx_eng two_eng hundred_eng dollars_eng 
+2238.632 2239.538 AVA _spa aha_engspa pues_spa sí_spa 
+2239.648 2241.895 AVA mira_spa _spa tú_spa sabes_spa otra_spa cosa_spa que_spa yo_spa necesito_spa 
+2241.906 2243.752 AVA la_spa televisión_spa de_spa la_spa sala_spa _spa claps_hands_spa 
+2244.632 2245.271 AVA la_spa televisión_spa de_spa la_spa sala_spa 
+2245.387 2245.962 AVA me_spa da_spa pena_spa 
+2246.117 2252.089 AVA me_spa da_spa lástima_spa _spa porque_spa esa_spa televisión_spa en_spa un_spa especial_spa costó_spa cuatrocientos_spa y_spa pico_spa pesos_spa 
+2252.358 2252.886 eng_eng really_eng 
+2252.828 2253.847 AVA y_spa la_spa compró_spa tu_spa 
+2252.97 2254.062 LUI _spa y_spa cuántos_spa años_spa tiene_spa 
+2254.026 2257.254 AVA la_spa compró_spa tu_spa padre_spa como_spa dos_spa años_spa _spa dos_spa meses_spa antes_spa de_spa morir_spa 
+2257.72 2259.751 LUI so_eng él_spa está_spa muerto_spa tres_spa años_spa no_spa 
+2258.219 2258.939 AVA _spa ya_spa está_spa 
+2259.73 2260.502 AVA cinco_spa 
+2260.653 2261.547 LUI cinco_spa años_spa ya_spa 
+2261.541 2262.116 LUI coño_spa 
+2262.083 2263.673 AVA cinco_spa años_spa y_spa dos_spa meses_spa 
+2263.941 2264.655 LUI wow_engspa 
+2264.696 2266.681 LUI así_spa la_spa televisión_spa tiene_spa siete_spa años_spa 
+2266.834 2268.048 LUI o_spa ocho_spa años_spa por_spa ahí_spa _spa 
+2267.247 2268.901 AVA _spa como_spa seis_spa años_spa va_spa a_spa tener_spa 
+2268.942 2269.697 LUI bueno_spa 
+2269.968 2271.361 AVA no_spa seis_spa años_spa sí_spa 
+2271.338 2273.166 LUI y_spa ya_spa te_spa está_spa dando_spa los_spa problemas_spa no_spa 
+2273.386 2274.953 AVA muchas_spa veces_spa se_spa enciende_spa sola_spa 
+2274.981 2277.152 LUI laugh_spa coño_spa 
+2277.951 2279.17 LUI la_spa botamos_spa para_spa la_spa mierda_spa 
+2278.373 2279.963 AVA _spa entonces_spa no_spa puedo_spa 
+2280.079 2281.977 AVA dej_spa ya_spa le_spa dije_spa eso_spa a_spa Billy_engspa 
+2282.009 2282.479 LUI bwa_spa 
+2282.606 2287.453 AVA pero_spa como_spa me_spa dice_spa que_spa en_spa un_spa año_spa más_spa que_spa esa_spa televisión_spa _spa ya_spa no_spa hubiera_spa servido_spa para_spa nada_spa 
+2287.509 2287.857 eng_eng right_eng 
+2288.134 2289.56 AVA entonces_spa le_spa digo_spa _spa le_spa digo_spa 
+2289.144 2297.317 AVA _spa vamos_spa entonces_spa no_spa la_spa vendo_spa _spa no_spa la_spa boto_spa _spa porque_spa para_spa qué_spa hago_spa comprar_spa otra_spa así_spa que_spa en_spa un_spa año_spa _spa o_spa menos_spa de_spa un_spa año_spa ya_spa no_spa me_spa sirva_spa 
+2297.496 2299.946 LUI oh_engspa pues_spa de_spa H_D_eng and_eng the_eng digital_eng bullshit_eng era_spa eso_spa 
+2299.783 2300.434 eng_eng right_eng 
+2301.032 2302.588 LUI no_spa tú_spa tienes_spa cable_spa no_spa 
+2302.89 2303.325 AVA sí_spa 
+2303.813 2305.107 eng_eng but_eng that_eng doesnt_eng matter_eng 
+2305.078 2306.518 eng_eng the_eng cable_eng company_eng takes_eng care_eng of_eng that_eng 
+2306.524 2307.9 eng_eng you_eng can_eng have_eng any_eng T_V_eng you_eng want_eng 
+2309.61 2315.066 AVA entonces_spa _spa yo_spa estaba_spa pensando_spa en_spa comprarme_spa una_spa de_spa esas_spa que_spa son_spa flaquitas_spa 
+2315.721 2317.167 eng_eng oh_eng a_eng flat_eng screen_eng 
+2318.298 2321.235 AVA sí_spa de_spa las_spa pequeñas_spa mi_spa hijo_spa yo_spa no_spa la_spa quiero_spa grande_spa 
+2319.215 2319.842 LUI _spa coño_spa 
+2321.918 2322.847 LUI cara_spa baby_eng _spa 
+2323.096 2324.124 eng_eng very_eng expensive_eng 
+2325.722 2329.86 LUI muy_spa xxx_spa trescientos_spa xxx_spa _spa cuatrocientos_spa _spa cuatrocientos_spa pesos_spa facilito_spa 
+2330.085 2334.538 AVA bueno_spa trescientos_spa _spa cuatrocientos_spa y_spa pico_spa costó_spa eh_spa la_spa que_spa voy_spa a_spa tener_spa que_spa botar_spa 
+2332.837 2333.487 LUI _spa _spa eng_spa I_spa know_spa 
+2334.877 2336.717 eng_eng but_eng you_eng dont_eng have_eng that_eng kind_eng of_eng money_eng ma_eng 
+2339.027 2340.826 eng_eng you_eng cant_eng afford_eng a_eng T_V_eng like_eng that_eng 
+2341.608 2343.588 AVA cuatrocientos_spa y_spa pico_spa pesos_spa 
+2343.866 2344.383 eng_eng yeah_eng 
+2345.312 2347.733 LUI tú_spa no_spa _spa tú_spa no_spa encuentras_spa cuatrocientos_spa y_spa pico_spa pesos_spa caro_spa 
+2350.463 2353.319 AVA bueno_spa esa_spa costó_spa cuatrocientos_spa no_spa sé_spa cuánto_spa 
+2354.652 2355.297 AVA tu_spa padre_spa me_spa dijo_spa 
+2355.233 2355.761 AVA _spa vete_spa 
+2355.939 2362.456 AVA _spa y_spa sácame_spa _spa tráeme_spa _spa los_spa cuatrocientos_spa pesos_spa 
+2360.975 2361.568 LUI _spa treinta_spa 
+2362.855 2363.575 eng_eng from_eng the_eng bank_eng 
+2363.157 2364.208 AVA _spa se_spa los_spa dimos_spa a_spa 
+2364.202 2365.368 AVA no_spa _spa no_spa no_spa no_spa 
+2365.367 2367.637 AVA de_spa _spa del_spa banco_spa del_spa que_spa yo_spa tengo_spa la_spa xxx_spa _spa laughs_spa 
+2367.893 2368.926 eng_eng oh_eng that_eng bank_eng 
+2368.967 2369.414 LUI o_k_engspa 
+2369.16 2377.448 AVA entonces_spa _spa ah_engspa _spa él_spa se_spa los_spa dio_spa a_spa Dan_engspa que_spa era_spa el_spa jefe_spa de_spa in_spa _spa de_spa mantenimiento_spa allí_spa 
+2376.226 2377.585 LUI _spa I_eng remember_eng Dan_engspa yeah_eng 
+2377.802 2380.881 AVA y_spa Dan_engspa fue_spa a_spa _spa a_spa Keiman_engspa _spa porque_spa le_spa digo_spa 
+2380.852 2382.553 AVA _spa hay_spa un_spa especial_spa en_spa Keiman_engspa _spa 
+2382.65 2384.554 AVA _spa y_spa yo_spa quiero_spa esta_spa televisión_spa 
+2384.287 2386.08 AVA y_spa se_spa la_spa dio_spa _spa en_spa un_spa pedazo_spa periódico_spa 
+2386.344 2388.347 AVA y_spa Dan_engspa le_spa llevó_spa la_spa _spa la_spa televisión_spa 
+2388.396 2389.244 AVA rompió_spa la_spa caja_spa 
+2389.247 2391.784 AVA nos_spa instaló_spa la_spa televisión_spa 
+2392.064 2394.537 AVA y_spa todo_spa eso_spa se_spa le_spa dio_spa algo_spa a_spa él_spa por_spa eso_spa 
+2394.112 2396.022 LUI _spa se_spa portó_spa bien_spa entonces_spa el_spa Dan_engspa ese_spa 
+2395.709 2397.102 AVA oh_spa sí_spa claro_spa que_spa sí_spa 
+2397.113 2397.711 eng_eng oh_eng good_eng 
+2397.806 2399.112 AVA fue_spa una_spa gran_spa persona_spa 
+2399.05 2406.78 AVA y_spa el_spa día_spa que_spa él_spa fue_spa a_spa casa_spa y_spa vio_spa que_spa Tito_engspa tenía_spa oxígeno_spa la_spa máquina_spa de_spa oxígeno_spa _spa me_spa dijo_spa 
+2406.453 2407.307 AVA _spa ay_spa yo_spa no_spa sabía_spa 
+2406.848 2411.692 AVA _spa Mrs_Ava_engspa yo_spa no_spa sabía_spa que_spa Tito_engspa estaba_spa en_spa esas_spa condiciones_spa 
+2412.108 2412.671 AVA yo_spa le_spa decía_spa 
+2412.405 2417.868 AVA _spa hace_spa un_spa tiempito_spa que_spa _spa que_spa ya_spa él_spa necesita_spa _spa oxígeno_spa todo_spa el_spa tiempo_spa 
+2418.103 2418.637 AVA y_spa me_spa dice_spa 
+2418.561 2420.966 AVA oi_spa yo_spa _spa yo_spa vengo_spa _spa yo_spa vengo_spa ya_spa 
+2421.32 2426.649 AVA porque_spa él_spa había_spa ido_spa a_spa buscar_spa _spa a_spa buscar_spa _spa a_spa ver_spa el_spa _spa el_spa aire_spa acondicionado_spa porque_spa tu_spa padre_spa se_spa quejaba_spa de_spa calor_spa 
+2426.603 2427.201 eng_eng mmhm_eng 
+2427.301 2431.69 AVA entonces_spa _spa él_spa me_spa llevó_spa un_spa _spa un_spa _spa un_spa 
+2432.13 2435.828 AVA el_spa aire_spa acondicionado_spa lo_spa llevó_spa nuevo_spa 
+2437.145 2437.783 AVA y_spa me_spa dijo_spa 
+2437.638 2441.017 AVA _spa mire_spa le_spa traigo_spa uno_spa nuevo_spa _spa para_spa que_spa no_spa tenga_spa problemas_spa 
+2442.7 2446.224 AVA entonces_spa ese_spa _spa ese_spa _spa el_spa aire_spa tiene_spa más_spa de_spa cinco_spa años_spa 
+2446.31 2451.21 AVA el_spa aire_spa de_spa mi_spa cuarto_spa _spa tiene_spa más_spa de_spa cinco_spa años_spa _spa de_spa uso_spa 
+2451.298 2453.045 LUI en_spa el_spa cuarto_spa suyo_spa el_spa dormitorio_spa 
+2452.964 2453.492 AVA sí_spa 
+2453.953 2457.407 AVA pero_spa el_spa otro_spa no_spa quiero_spa que_spa se_spa lo_spa lleven_spa porque_spa _spa lo_spa habían_spa puesto_spa 
+2457.129 2458.238 LUI _spa el_spa otro_spa de_spa la_spa sala_spa 
+2458.242 2460.738 AVA _spa de_spa _spa sí_spa porque_spa lo_spa había_spa puesto_spa Andrés_engspa nuevo_spa 

@@ -1,0 +1,1002 @@
+0.6 0.958 MAT so_eng where_eng do_eng you_eng work_eng 
+0.64 6.822 REB _eng xxx_eng I_eng work_eng well_eng Im_eng currently_eng employed_eng by_eng 
+6.793 7.861 REB I_eng have_eng my_eng broker_eng 
+7.84 9.303 REB hes_eng a_eng real_eng estate_eng broker_eng 
+9.279 11.015 REB my_eng attorney_eng hes_eng a_eng real_eng estate_eng attorney_eng 
+9.279 11.015 MAT _eng mmhm_eng 
+11.0 12.539 REB I_eng work_eng for_eng a_eng title_eng _eng company_eng 
+12.514 15.577 REB I_eng work_eng because_eng um_eng 
+15.542 18.038 REB my_eng attorney_eng consolidated_eng with_eng the_eng broker_eng 
+18.032 19.182 REB he_eng owns_eng both_eng businesses_eng 
+19.145 22.042 REB but_eng like_eng his_eng business_eng partner_eng hes_eng the_eng broker_eng 
+21.996 25.311 REB and_eng his_eng business_eng has_eng been_eng so_eng bad_eng they_eng consolidated_eng 
+25.276 26.309 REB so_eng now_eng I_eng work_eng 
+26.299 27.53 MAT oh_eng I_eng see_eng 
+27.071 28.97 REB _eng for_eng both_eng of_eng them_eng together_eng simultaneously_eng 
+28.964 35.03 REB they_eng just_eng pay_eng me_eng _eng you_eng know_eng four_eng hours_eng one_eng pays_eng me_eng the_eng other_eng one_eng pays_eng me_eng four_eng hours_eng a_eng day_eng like_eng that_eng 
+28.964 34.983 MAT _eng mmhm_eng oh_eng ok_eng 
+35.458 37.281 REB but_eng I_eng 
+35.486 37.536 MAT _eng and_eng what_eng do_eng you_eng do_eng like_eng receptionist_eng or_eng 
+37.258 38.796 REB Im_eng like_eng the_eng office_eng bitch_eng 
+38.761 40.694 REB people_eng can_eng say_eng 
+38.761 40.694 MAT _eng laugh_eng 
+40.652 42.028 REB _eng pardon_eng my_eng French_eng 
+42.022 43.503 MAT no_eng its_eng all_eng right_eng 
+43.473 45.156 REB but_eng um_eng I_eng do_eng everything_eng 
+45.13 46.076 REB I_eng answer_eng phones_eng 
+46.035 47.162 REB I_eng get_eng the_eng mail_eng 
+47.13 48.953 REB I_eng _eng order_eng supplies_eng 
+48.941 52.774 REB I_eng babysit_eng the_eng realtors_eng because_eng they_eng dont_eng _eng half_eng of_eng them_eng dont_eng know_eng what_eng theyre_eng doing_eng 
+52.651 54.369 REB they_eng dont_eng know_eng any_eng of_eng the_eng forms_eng 
+54.331 55.579 REB they_eng dont_eng know_eng anything_eng 
+55.556 56.212 MAT mmhm_eng 
+56.178 57.792 REB so_eng Im_eng a_eng administrative_eng assistant_eng 
+57.775 59.046 REB Im_eng a_eng receptionist_eng 
+57.775 59.046 MAT _eng ok_eng 
+59.023 60.625 MAT ok_eng 
+59.023 60.608 REB Im_eng a_eng post_eng closer_eng 
+60.59 60.793 MAT wow_eng 
+60.782 62.837 REB I_eng am_eng the_eng head_eng of_eng the_eng post_eng closing_eng department_eng 
+62.814 66.303 REB I_eng deal_eng with_eng everything_eng that_eng has_eng to_eng do_eng 
+66.286 69.086 REB once_eng a_eng deal_eng closes_eng like_eng when_eng you_eng buy_eng a_eng house_eng 
+66.286 69.086 MAT _eng mmhm_eng 
+69.071 71.765 REB you_eng would_eng go_eng to_eng a_eng title_eng company_eng to_eng do_eng your_eng closing_eng 
+71.748 72.323 MAT right_eng 
+72.201 74.349 REB to_eng sign_eng all_eng the_eng paperwork_eng 
+74.335 76.709 REB after_eng that_eng I_eng do_eng the_eng package_eng 
+76.703 77.824 REB I_eng send_eng it_eng to_eng the_eng bank_eng 
+77.783 81.056 REB I_eng deal_eng with_eng you_eng know_eng funding_eng conditions_eng 
+81.049 83.272 REB then_eng Im_eng the_eng one_eng who_eng prepares_eng the_eng policy_eng 
+83.266 85.078 REB I_eng do_eng recordings_eng 
+85.04 87.814 REB you_eng know_eng I_eng send_eng the_eng stuff_eng to_eng be_eng recorded_eng to_eng the_eng court_eng 
+87.733 89.422 MAT xxx_eng you_eng do_eng a_eng lot_eng 
+89.397 90.523 REB yes_eng 
+90.497 91.82 REB I_eng do_eng a_eng lot_eng and_eng 
+91.64 92.795 MAT _eng and_eng where_eng is_eng that_eng at_eng 
+92.749 93.939 REB its_eng in_eng Doral_engspa _eng 
+93.937 95.859 MAT oh_eng ok_eng 
+95.823 97.228 REB but_eng um_eng 
+95.823 97.297 MAT you_eng live_eng here_eng in_eng Miami_engspa right_eng 
+97.292 97.924 REB yeah_eng 
+97.916 99.559 MAT where_eng 
+99.529 101.085 REB do_eng you_eng know_eng where_eng the_eng Mall_eng of_eng the_eng Americas_eng is_eng 
+101.044 101.793 MAT yeah_eng 
+101.805 103.018 REB and_eng the_eng Walmart_eng 
+102.997 107.629 MAT well_eng not_eng specifically_eng the_eng Walmart_engspa but_eng I_eng know_eng where_eng the_eng Mall_eng of_eng the_eng Americas_eng is_eng 
+107.618 108.523 REB its_eng by_eng there_eng 
+108.494 109.835 MAT right_eng by_eng the_eng Palmetto_engspa 
+109.818 110.172 REB yes_eng 
+110.169 111.063 MAT ok_eng 
+111.069 112.941 REB you_eng know_eng where_eng Chevys_engspa is_eng 
+112.907 114.946 REB no_eng 
+112.907 114.946 MAT _eng no_eng 
+114.916 115.717 REB laugh_eng 
+114.916 118.83 MAT _eng Ive_eng only_eng lived_eng here_eng for_eng like_eng a_eng year_eng well_eng a_eng year_eng as_eng of_eng December_eng 
+118.82 119.871 REB right_eng where_eng are_eng you_eng from_eng 
+119.848 120.306 MAT New_Jersey_engspa 
+120.3 121.049 REB right_eng 
+121.032 121.717 REB ok_eng 
+121.699 122.967 REB and_eng do_eng you_eng live_eng 
+122.955 124.133 MAT I_eng live_eng in_eng Miami_engspa yeah_eng 
+124.018 124.581 REB but_eng where_eng 
+124.682 125.891 MAT um_eng 
+125.868 127.516 REB you_eng have_eng to_eng tell_eng me_eng a_eng place_eng because_eng 
+125.868 127.522 MAT _eng xxx_eng yeah_eng 
+127.505 128.138 MAT um_eng 
+127.905 129.479 REB _eng you_eng know_eng how_eng women_eng are_eng in_eng directions_eng 
+129.442 130.417 MAT laugh_eng 
+129.68 131.218 REB _eng you_eng have_eng to_eng give_eng them_eng a_eng landmark_eng 
+131.178 131.822 MAT yeah_eng 
+131.809 132.801 MAT how_eng about_eng 
+132.784 133.84 MAT well_eng its_eng off_eng of_eng Bird_eng road_eng 
+133.811 135.669 MAT I_eng know_eng _eng Im_eng sure_eng you_eng know_eng where_eng Bird_eng road_eng is_eng right_eng 
+135.596 136.153 REB yes_eng 
+135.828 136.606 MAT xxx_eng right_eng 
+136.58 138.444 REB b_eng can_eng we_eng use_eng Bird_eng Bowl_eng 
+138.42 140.063 MAT Bird_eng what_eng Mall_eng 
+139.668 140.446 REB _eng Bird_eng Bowl_eng 
+140.43 143.582 MAT Bird_eng Bowl_eng um_eng yeah_eng yeah_eng 
+142.218 143.721 REB _eng youve_eng been_eng to_eng Bird_Bowl_engspa 
+143.705 145.516 MAT no_eng I_eng have_eng seen_eng it_eng but_eng 
+145.122 145.586 REB _eng uh_engspa 
+145.36 147.531 MAT _eng never_eng been_eng there_eng _eng laughs_eng 
+147.491 150.724 MAT um_eng Bird_Bowl_engspa farther_eng west_eng 
+150.746 151.802 REB er_engspa xxx_eng 
+151.251 156.327 MAT _eng way_eng farther_eng west_eng like_eng Bird_Bowl_engspa is_eng around_eng like_eng ninetieth_eng avenue_eng 
+156.262 157.249 REB ninety_eng second_eng 
+157.171 159.784 MAT yeah_eng I_eng _eng Im_eng around_eng one_eng fifty_eng second_eng 
+159.755 161.009 REB yeah_eng 
+160.981 162.27 REB laugh_eng 
+161.562 163.32 MAT see_eng thats_eng what_eng Im_eng saying_eng way_eng west_eng 
+163.309 164.11 REB ok_eng 
+164.087 164.412 MAT I_eng dont_eng 
+164.4 166.171 MAT Lakes_of_the_Meadow_engspa you_eng never_eng heard_eng of_eng it_eng 
+165.9 166.741 REB yes_eng 
+166.741 168.942 MAT thats_eng where_eng I_eng live_eng Lakes_of_the_Meadow_engspa 
+168.913 170.004 REB Ive_eng inputted_eng 
+169.992 171.972 REB oh_eng wait_eng I_eng havent_eng told_eng you_eng 
+171.972 172.303 MAT yeah_eng 
+172.297 173.266 REB job_eng description_eng 
+173.231 174.433 MAT laugh_eng 
+174.392 181.724 REB what_eng I_eng told_eng you_eng is_eng pretty_eng much_eng you_eng know_eng the_eng receptionist_eng the_eng administrative_eng assistant_eng stuff_eng is_eng mostly_eng for_eng ok_eng both_eng companies_eng do_eng that_eng 
+181.706 183.872 REB post_closers_eng for_eng the_eng title_eng company_eng 
+183.827 188.691 REB I_eng also_eng process_eng files_eng like_eng when_eng they_eng come_eng in_eng a_eng new_eng file_eng you_eng know_eng request_eng title_eng 
+188.651 189.399 MAT right_eng 
+189.392 199.782 REB ok_eng then_eng for_eng the_eng _eng the_eng broker_eng um_eng the_eng realtors_eng dont_eng have_eng to_eng input_eng their_eng own_eng listings_eng _eng I_eng input_eng them_eng for_eng them_eng 
+189.392 199.718 MAT _eng mmhm_eng 
+199.707 201.024 MAT oh_eng I_eng see_eng 
+200.995 207.92 REB so_eng if_eng a_eng house_eng is_eng going_eng up_eng for_eng sale_eng you_eng know_eng they_eng bring_eng me_eng the_eng listing_eng I_eng input_eng it_eng into_eng this_eng M_L_S_eng its_eng the_eng system_eng or_eng whatever_eng 
+207.891 209.59 MAT yeah_eng yeah_eng I_eng know_eng what_eng youre_eng doing_eng now_eng _eng 
+209.038 211.07 REB _eng and_eng um_eng 
+211.048 212.343 REB most_eng of_eng them_eng dont_eng know_eng what_eng theyre_eng doing_eng 
+212.209 213.759 REB they_eng dont_eng know_eng the_eng forms_eng 
+213.736 215.019 REB its_eng _eng its_eng really_eng bad_eng 
+215.012 215.877 REB because_eng I_eng 
+215.86 223.329 REB If_eng you_eng see_eng I_eng have_eng so_eng much_eng to_eng do_eng that_eng when_eng they_eng come_eng to_eng me_eng and_eng they_eng tell_eng me_eng you_eng know_eng how_eng to_eng do_eng their_eng job_eng it_eng annoys_eng me_eng 
+223.295 224.815 REB because_eng I_eng dont_eng have_eng time_eng to_eng babysit_eng them_eng 
+224.792 226.859 MAT laugh_eng 
+224.792 226.859 REB _eng what_eng happened_eng 
+226.853 228.647 MAT your_eng Cuban_eng comes_eng out_eng _eng laughs_eng 
+228.584 229.838 REB _eng yeah_eng 
+229.803 235.321 REB and_eng then_eng um_eng like_eng if_eng I_eng have_eng _eng if_eng I_eng have_eng to_eng go_eng to_eng the_eng bank_eng to_eng do_eng deposits_eng 
+235.268 256.22 REB yeah_eng actually_eng um_eng like_eng last_eng week_eng I_eng had_eng interviewed_eng um_eng back_eng in_eng November_eng I_eng had_eng interviewed_eng with_eng an_eng insurance_eng company_eng and_eng this_eng lady_eng she_eng emailed_eng me_eng _eng she_eng emailed_eng me_eng out_eng of_eng nowhere_eng last_eng week_eng and_eng told_eng me_eng oh_eng you_eng know_eng are_eng you_eng happy_eng where_eng you_eng are_eng because_eng you_eng know_eng the_eng girl_eng that_eng we_eng hired_eng back_eng in_eng November_eng she_eng has_eng been_eng promoted_eng 
+256.185 257.323 MAT mmhm_eng 
+257.301 261.301 REB _eng are_eng you_eng you_eng know_eng interested_eng in_eng and_eng I_eng was_eng like_eng 
+261.229 272.033 REB I_eng wrote_eng back_eng to_eng her_eng I_eng was_eng like_eng well_eng Im_eng not_eng really_eng happy_eng where_eng I_eng am_eng and_eng um_eng _eng um_eng she_eng goes_eng 
+272.022 276.149 REB oh_eng no_eng and_eng she_eng writes_eng back_eng to_eng me_eng and_eng she_eng is_eng like_eng oh_eng were_eng interested_eng you_eng know_eng eleven_eng dollars_eng an_eng hour_eng 
+276.122 278.628 REB Im_eng like_eng oh_eng really_eng you_eng know_eng 
+278.21 278.733 MAT _eng mmhm_eng 
+278.669 282.359 REB and_eng then_eng um_eng maybe_eng you_eng make_eng more_eng than_eng I_eng do_eng but_eng whatever_eng 
+282.312 288.837 MAT laugh_eng xxx_eng is_eng that_eng _eng thats_eng yeah_eng _eng that_eng _eng thats_eng not_eng xxx_eng it_eng doesnt_eng matter_eng 
+282.312 288.727 REB _eng no_eng 
+288.698 290.764 REB I_eng told_eng my_eng attorneys_eng and_eng the_eng broker_eng 
+290.747 293.835 REB I_eng sat_eng them_eng down_eng and_eng Im_eng like_eng look_eng this_eng is_eng whats_eng going_eng on_eng 
+293.807 298.184 REB and_eng they_eng are_eng like_eng oh_eng you_eng know_eng thank_eng you_eng for_eng letting_eng me_eng know_eng 
+298.155 299.218 MAT mmhm_eng 
+299.197 308.578 REB but_eng um_eng then_eng they_eng told_eng me_eng oh_eng no_eng you_eng know_eng well_eng raise_eng you_eng starting_eng next_eng week_eng youll_eng start_eng at_eng ten_eng and_eng then_eng in_eng two_eng months_eng well_eng start_eng you_eng at_eng eleven_eng 
+299.197 308.578 MAT _eng yeah_eng 
+308.578 310.535 REB so_eng its_eng good_eng because_eng I_eng dont_eng wanna_eng leave_eng where_eng I_eng am_eng 
+310.448 312.305 REB I_eng mean_eng Ive_eng been_eng there_eng for_eng two_eng years_eng 
+310.448 312.305 MAT _eng thats_eng not_eng bad_eng 
+312.28 314.033 REB I_eng know_eng my_eng job_eng like_eng the_eng back_eng of_eng my_eng hand_eng 
+314.016 318.988 REB and_eng then_eng if_eng I_eng leave_eng to_eng the_eng insurance_eng company_eng Id_eng be_eng learning_eng everything_eng from_eng scratch_eng 
+316.59 320.071 MAT _eng youd_eng have_eng to_eng start_eng over_eng yeah_eng I_eng know_eng and_eng you_eng should_eng stay_eng 
+319.375 322.123 REB _eng I_eng dont_eng know_eng the_eng people_eng so_eng I_eng dont_eng know_eng if_eng their_eng 
+322.1 323.923 MAT no_eng you_eng should_eng stay_eng 
+323.876 326.848 REB the_eng lady_eng seems_eng a_eng little_eng _eng anal_eng 
+325.826 326.627 MAT _eng yeah_eng 
+326.587 327.571 REB so_eng 
+327.542 328.57 MAT whats_eng your_eng major_eng by_eng the_eng way_eng 
+328.819 329.43 REB my_eng major_eng 
+329.448 330.017 MAT mmhm_eng 
+329.994 330.888 REB undecided_eng 
+330.869 331.763 MAT why_eng are_eng you_eng undecided_eng 
+331.467 333.978 REB declared_eng undecided_eng but_eng 
+333.81 334.396 MAT ok_eng 
+334.391 337.717 REB I_eng want_eng to_eng become_eng an_eng optometrist_eng 
+337.682 338.571 MAT oh_eng really_eng 
+338.559 339.11 REB yeah_eng 
+339.088 343.923 REB maybe_eng even_eng an_eng ophthalmologist_eng if_eng I_eng go_eng _eng the_eng nerve_eng to_eng go_eng to_eng med_eng school_eng 
+343.889 347.246 MAT you_eng can_eng help_eng me_eng out_eng because_eng _eng I_eng have_eng bad_eng eyes_eng 
+347.257 348.587 MAT I_eng have_eng contacts_eng 
+348.569 349.185 REB me_eng too_eng 
+349.15 349.608 MAT really_eng 
+349.585 350.711 REB whats_eng your_eng prescription_eng 
+350.665 353.817 MAT I_eng think_eng damn_eng you_eng know_eng I_eng dont_eng 
+353.766 359.536 MAT oh_eng wait_eng oh_eng no_eng no_eng no_eng yeah_eng negative_eng three_eng point_eng two_eng five_eng in_eng one_eng negative_eng three_eng point_eng five_eng in_eng the_eng other_eng 
+353.766 359.519 REB _eng mmhm_eng 
+359.478 360.773 REB you_eng think_eng youre_eng bad_eng hmm_eng 
+361.081 362.439 MAT laugh_eng 
+362.427 364.093 REB I_eng have_eng a_eng negative_eng six_eng 
+362.427 364.093 MAT _eng is_eng it_eng 
+364.099 365.603 MAT oh_eng my_eng God_eng really_eng 
+365.233 368.048 REB _eng point_eng seventy_eng five_eng 
+367.926 371.517 REB xxx_eng and_eng then_eng negative_eng five_eng point_eng 
+371.494 374.135 REB no_eng its_eng negative_eng six_eng point_eng five_eng and_eng negative_eng five_eng seventy_eng five_eng 
+374.129 376.138 spa_spa de_spa verdad_spa 
+376.085 380.269 REB so_eng if_eng you_eng think_eng youre_eng blind_eng you_eng should_eng have_eng my_eng eyes_eng for_eng a_eng few_eng days_eng laugh_eng 
+380.233 383.657 MAT so_eng when_eng you_eng take_eng your_eng contacts_eng out_eng you_eng cant_eng see_eng 
+382.503 384.088 REB _eng I_eng cant_eng see_eng crap_eng laughs_eng 
+383.653 384.518 MAT _eng really_eng 
+384.489 386.544 REB yeah_eng I_eng cant_eng see_eng anything_eng 
+384.767 386.561 MAT I_eng thought_eng I_eng was_eng the_eng only_eng one_eng on_eng that_eng boat_eng 
+386.538 387.647 MAT no_eng because_eng when_eng I_eng t_eng 
+387.627 387.935 MAT I_eng xxx_eng 
+387.923 389.644 MAT well_eng you_eng know_eng what_eng I_eng hate_eng the_eng most_eng is_eng um_eng 
+389.627 390.817 MAT and_eng I_eng should_eng get_eng glasses_eng 
+390.794 391.438 MAT I_eng had_eng glasses_eng 
+391.432 393.251 MAT I_eng I_eng loose_eng _eng I_eng _eng I_eng loose_eng things_eng so_eng 
+393.169 394.806 REB _eng laugh_eng 
+394.8 400.792 MAT but_eng um_eng like_eng when_eng I_eng _eng when_eng Im_eng watching_eng T_V_eng and_eng its_eng getting_eng late_eng I_eng just_eng wanna_eng fall_eng asleep_eng watching_eng T_V_eng 
+400.813 401.945 REB so_eng you_eng dont_eng wear_eng _eng 
+401.463 403.673 MAT _eng but_eng I_eng have_eng _eng yeah_eng I_eng have_eng to_eng take_eng them_eng out_eng you_eng know_eng 
+403.034 403.818 REB _eng yeah_eng 
+403.802 405.555 MAT so_eng that_eng _eng thats_eng what_eng sucks_eng you_eng know_eng 
+405.352 405.938 REB _eng yeah_eng 
+405.539 406.876 MAT _eng and_eng Im_eng looking_eng at_eng xxx_eng 
+406.847 408.419 REB well_eng what_eng sucks_eng for_eng me_eng 
+408.396 409.824 MAT squinting_eng you_eng know_eng 
+409.789 416.021 REB is_eng that_eng no_eng _eng when_eng I_eng get_eng home_eng I_eng take_eng off_eng my_eng not_eng really_eng before_eng I_eng go_eng to_eng bed_eng I_eng take_eng off_eng my_eng contacts_eng and_eng obviously_eng I_eng have_eng my_eng glasses_eng 
+416.018 421.572 REB but_eng I_eng put_eng them_eng on_eng and_eng then_eng if_eng I_eng take_eng them_eng off_eng and_eng I_eng put_eng them_eng down_eng somewhere_eng forget_eng it_eng I_eng lost_eng them_eng 
+420.508 421.588 MAT _eng mmhm_eng 
+421.536 422.865 REB I_eng cant_eng see_eng them_eng 
+422.835 425.448 REB _eng so_eng I_eng have_eng to_eng like_eng feel_eng around_eng for_eng them_eng so_eng 
+422.841 423.433 MAT _eng oh_eng ok_eng 
+425.424 427.512 MAT so_eng you_eng cant_eng see_eng up_eng close_eng _eng either_eng 
+427.506 428.696 REB no_eng I_eng cant_eng see_eng far_eng 
+428.631 429.101 MAT ok_eng 
+428.764 431.435 REB _eng I_eng mean_eng youd_eng have_eng to_eng be_eng like_eng right_eng here_eng for_eng me_eng to_eng see_eng you_eng 
+431.405 432.125 MAT really_eng 
+432.125 438.374 MAT I_eng have_eng twenty_eng twenty_eng from_eng _eng like_eng _eng close_eng like_eng if_eng I_eng didnt_eng have_eng them_eng on_eng I_eng could_eng see_eng _eng I_eng can_eng read_eng fine_eng you_eng know_eng 
+437.841 438.817 REB _eng oh_eng no_eng I_eng cant_eng 
+438.797 440.989 MAT like_eng I_eng if_eng you_eng know_eng I_eng can_eng read_eng that_eng 
+440.966 441.564 REB oh_eng no_eng 
+441.544 445.561 MAT but_eng you_eng know_eng if_eng like_eng if_eng you_eng were_eng to_eng say_eng what_eng does_eng that_eng say_eng I_eng would_eng _eng laughs_eng 
+442.487 444.931 REB _eng I_eng like_eng if_eng I_eng was_eng 
+445.366 449.937 REB no_eng if_eng I_eng had_eng to_eng read_eng this_eng like_eng I_eng had_eng to_eng be_eng like_eng _eng like_eng this_eng close_eng 
+449.907 450.401 MAT oh_eng really_eng 
+450.349 452.177 REB _eng to_eng be_eng able_eng to_eng see_eng it_eng yeah_eng its_eng really_eng bad_eng 
+450.349 452.148 MAT _eng oh_eng ok_eng 
+452.116 455.553 MAT oh_eng right_eng 
+454.131 457.051 REB _eng and_eng _eng Im_eng scared_eng to_eng do_eng Lasik_eng 
+457.016 458.761 MAT yeah_eng I_eng was_eng thinking_eng about_eng that_eng 
+458.75 460.261 MAT what_eng a_eng a_eng a_eng 
+459.558 462.994 REB they_eng well_eng they_eng recommend_eng you_eng to_eng wait_eng till_eng youre_eng twenty_eng five_eng 
+462.947 463.992 MAT oh_eng really_eng 
+462.947 466.366 REB _eng because_eng its_eng when_eng your_eng vision_eng kinda_eng just_eng balances_eng out_eng 
+465.933 466.967 MAT _eng oh_eng 
+466.926 469.723 REB because_eng at_eng first_eng they_eng told_eng me_eng it_eng was_eng twenty_eng one_eng 
+466.926 469.711 MAT _eng I_eng didnt_eng know_eng that_eng 
+469.694 474.199 REB but_eng Im_eng twenty_eng one_eng and_eng my_eng vision_eng keeps_eng _eng you_eng know_eng increasing_eng and_eng getting_eng worse_eng 
+473.264 476.172 MAT _eng yeah_eng it_eng xxx_eng it_eng keeps_eng getting_eng worse_eng yeah_eng 
+476.111 483.048 REB and_eng um_eng Id_eng say_eng decreasing_eng and_eng then_eng um_eng my_eng doctor_eng hes_eng like_eng oh_engspa wait_eng till_eng youre_eng twenty_eng five_eng 
+483.036 489.381 REB and_eng Im_eng scared_eng because_eng like_eng xxx_eng if_eng they_eng do_eng it_eng and_eng it_eng doesnt_eng come_eng out_eng right_eng you_eng cant_eng go_eng back_eng to_eng contacts_eng 
+489.226 489.812 MAT yeah_eng 
+489.505 491.899 REB _eng you_eng have_eng to_eng do_eng glasses_eng 
+491.891 493.702 REB so_eng 
+494.669 496.068 MAT why_eng cant_eng you_eng go_eng _eng to_eng contacts_eng because_eng 
+495.72 496.515 REB I_eng dont_eng know_eng 
+496.485 497.837 MAT I_eng guess_eng its_eng something_eng with_eng 
+497.419 499.73 REB _eng its_eng something_eng _eng yeah_eng something_eng they_eng do_eng that_eng 
+497.419 503.191 MAT because_eng they_eng cut_eng you_eng know_eng they_eng _eng they_eng like_eng cut_eng the_eng the_eng retina_eng _eng the_eng like_eng retina_eng off_eng 
+500.598 503.163 REB _eng if_eng they_eng laser_eng it_eng 
+503.192 506.42 REB yeah_eng but_eng theres_eng two_eng different_eng kinds_eng _eng of_eng Lasik_eng 
+506.367 507.295 MAT is_eng there_eng 
+507.278 509.784 REB yeah_eng theres_eng Lasik_eng and_eng then_eng there_eng is_eng another_eng procedure_eng 
+509.767 513.43 REB I_eng saw_eng it_eng on_eng _eng this_eng show_eng its_eng called_eng Ten_Years_Younger_engspa 
+513.412 514.858 MAT mmhm_eng mmhm_eng 
+514.71 516.602 REB on_eng T_L_C_engspa I_eng think_eng its_eng 
+515.604 516.585 MAT _eng yeah_eng yeah_eng 
+516.567 517.798 REB and_eng um_eng 
+517.792 518.907 MAT do_eng you_eng like_eng T_L_C_engspa 
+518.117 519.783 REB _eng the_eng yes_eng 
+519.778 521.76 MAT thats_eng good_eng I_eng like_eng T_L_C_engspa too_eng 
+521.701 524.127 MAT and_eng The_Discovery_Channel_engspa and_eng all_eng that_eng 
+523.053 524.116 REB _eng yeah_eng 
+524.057 525.444 MAT The_History_Channel_engspa more_eng 
+524.213 526.222 REB Im_eng a_eng _eng Im_eng a_eng T_V_eng buff_eng 
+526.21 527.569 MAT yeah_eng 
+527.05 528.647 REB I_eng have_eng a_eng lot_eng of_eng favorite_eng shows_eng 
+528.612 529.988 MAT yeah_eng like_eng what_eng 
+529.966 533.036 REB like_eng ok_eng definitely_eng Law_and_Order_S_V_U_engspa 
+533.025 534.685 MAT which_eng show_eng 
+534.668 537.548 REB all_eng the_eng _eng I_eng like_eng all_eng the_eng Law_and_Orders_engspa 
+536.659 538.442 MAT C_S_A_spa C_S_I_eng 
+537.728 538.534 REB _eng C_S_I_eng 
+538.513 540.481 REB I_eng love_eng New_York_eng and_eng Vegas_engspa 
+538.513 540.446 MAT _eng xxx_eng I_eng 
+540.399 541.723 MAT when_eng I_eng got_eng here_eng 
+540.399 541.735 REB _eng I_eng dont_eng like_eng Miami_eng 
+541.772 542.219 MAT no_eng 
+542.214 547.096 MAT when_eng I_eng got_eng here_eng thats_eng what_eng I_eng started_eng watching_eng C_S_I_Miami_engspa 
+547.096 547.845 REB C_S_I_Miami_engspa 
+547.125 549.258 MAT _eng and_eng I_eng was_eng like_eng wow_eng this_eng is_eng a_eng good_eng show_eng but_eng after_eng 
+548.678 549.717 REB have_eng you_eng ever_eng seen_eng Vegas_engspa 
+549.67 550.854 MAT yeah_eng Ive_eng seen_eng Vegas_engspa 
+550.82 553.659 MAT I_eng dont_eng know_eng everybody_eng tends_eng to_eng like_eng that_eng one_eng _eng better_eng 
+550.82 553.659 REB _eng xxx_eng 
+553.624 554.501 REB because_eng its_eng the_eng original_eng one_eng 
+554.479 555.042 MAT yeah_eng 
+555.025 555.629 REB mmhm_eng 
+555.428 559.715 MAT but_eng after_eng like_eng six_eng months_eng I_eng was_eng like_eng I_eng cant_eng take_eng it_eng 
+559.706 561.575 MAT its_eng too_eng _eng far_fetched_eng 
+561.564 562.934 MAT its_eng too_eng you_eng know_eng 
+562.51 563.549 REB _eng oh_eng but_eng I_eng love_eng it_eng 
+563.061 565.383 MAT _eng first_eng of_eng all_eng a_eng precinct_eng doesnt_eng look_eng like_eng that_eng 
+565.349 567.119 MAT the_eng employees_eng _eng dont_eng look_eng like_eng that_eng 
+566.614 567.299 REB obviously_eng 
+566.962 567.543 MAT _eng laugh_eng 
+567.102 568.327 REB _eng well_eng come_eng on_eng 
+568.286 569.354 REB its_eng cable_eng 
+569.365 570.096 MAT I_eng know_eng 
+569.382 571.141 REB _eng well_eng not_eng even_eng cable_eng because_eng at_eng all_eng 
+570.102 571.158 MAT _eng its_eng T_V_eng 
+571.164 572.232 REB its_eng T_V_eng 
+571.164 577.362 MAT _eng I_eng know_eng but_eng _eng I_eng like_eng Law_and_Order_engspa because_eng its_eng a_eng lot_eng _eng its_eng _eng w_eng its_eng _eng its_eng real_eng you_eng know_eng 
+576.927 577.38 REB _eng yeah_eng 
+577.264 578.436 REB I_eng love_eng it_eng like_eng 
+577.339 578.506 MAT _eng it_eng seems_eng real_eng 
+578.464 580.037 REB I_eng love_eng Without_a_Trace_engspa 
+579.998 581.96 MAT actually_eng _eng actually_eng I_eng havent_eng seen_eng that_eng 
+581.589 582.245 REB _eng Cold_Case_engspa 
+582.262 583.969 MAT Cold_Case_engspa is_eng good_eng 
+582.262 583.969 REB _eng Have_eng you_eng seen_eng that_eng 
+583.934 584.421 REB I_eng love_eng it_eng 
+584.416 585.176 REB I_eng love_eng House_engspa 
+585.17 586.784 MAT House_engspa is_eng really_eng good_eng 
+585.17 586.784 REB _eng xxx_eng 
+586.772 587.492 REB I_eng love_eng House_engspa 
+587.486 587.783 MAT yeah_eng 
+587.726 588.858 REB whats_eng another_eng one_eng 
+588.844 589.82 MAT what_eng er_engspa um_eng 
+589.808 596.492 MAT I_eng like_eng the_eng _eng on_eng A_and_E_engspa its_eng called_eng The_Justice_Files_engspa or_eng whatever_eng Cold_Case_Files_engspa but_eng real_eng ones_eng 
+595.76 596.48 REB _eng mmhm_eng 
+597.08 599.071 MAT you_eng know_eng that_eng I_eng love_eng 
+597.812 599.263 REB _eng xxx_eng you_eng know_eng what_eng xxx_eng 
+599.245 600.534 MAT I_eng love_eng that_eng 
+599.33 605.861 REB _eng the_eng _eng the_eng problem_eng with_eng that_eng is_eng that_eng when_eng I_eng watch_eng like_eng C_S_I_engspa and_eng Law_and_Order_engspa I_eng know_eng its_eng not_eng real_eng 
+605.844 609.086 REB so_eng once_eng you_eng put_eng me_eng like_eng 
+606.852 610.457 MAT _eng laugh_eng in_eng a_eng real_eng situation_eng 
+609.099 611.932 REB if_eng xxx_eng watching_eng the_eng real_eng things_eng it_eng affects_eng me_eng 
+610.875 611.909 MAT _eng yeah_eng 
+612.471 613.481 MAT oh_eng I_eng see_eng 
+613.469 614.044 REB yeah_eng 
+613.962 616.221 REB so_eng I_eng dont_eng _eng I_eng dont_eng know_eng why_eng 
+615.791 620.173 MAT wow_eng no_eng um_eng theres_eng _eng theres_eng nothing_eng _eng wrong_eng with_eng that_eng wow_eng thats_eng xxx_eng 
+620.149 620.869 REB so_eng I_eng dont_eng 
+620.826 624.611 REB because_eng _eng when_eng I_eng was_eng _eng senior_eng year_eng 
+624.594 625.279 MAT mmhm_eng 
+625.406 627.775 REB junior_eng and_eng senior_eng year_eng I_eng got_eng into_eng psychology_eng 
+627.748 630.334 REB and_eng I_eng specially_eng the_eng abnormal_eng psych_eng 
+630.328 631.251 MAT yeah_eng 
+630.622 636.25 REB _eng and_eng I_eng started_eng reading_eng a_eng lot_eng on_eng um_eng like_eng psychopaths_eng and_eng 
+636.215 637.045 MAT right_eng right_eng right_eng 
+636.598 637.283 REB _eng you_eng know_eng stuff_eng 
+637.278 638.389 MAT I_eng was_eng also_eng 
+638.365 639.538 MAT I_eng took_eng psychology_eng too_eng 
+639.521 642.144 MAT and_eng I_eng was_eng really_eng interested_eng in_eng that_eng stuff_eng too_eng 
+640.629 642.121 REB _eng did_eng you_eng take_eng A_P_engspa 
+642.121 643.619 MAT no_eng I_eng didnt_eng get_eng into_eng that_eng 
+643.706 644.762 REB I_eng took_eng A_P_engspa psych_eng 
+643.927 644.774 MAT _eng because_eng I_eng 
+644.757 645.935 REB it_eng was_eng crazy_eng 
+645.887 646.909 MAT yeah_eng 
+646.508 649.12 REB the_eng national_eng _eng was_eng crazy_eng 
+649.091 651.135 REB I_eng got_eng a_eng four_eng _eng which_eng is_eng good_eng 
+649.091 651.158 MAT _eng Howd_eng you_eng really_eng 
+651.132 653.646 REB I_eng thought_eng I_eng was_eng gonna_eng fail_eng it_eng but_eng I_eng got_eng a_eng four_eng 
+651.132 653.629 MAT _eng wow_eng 
+653.611 656.543 MAT its_eng good_eng so_eng why_eng dont_eng you_eng do_eng that_eng 
+656.531 657.942 REB I_eng cant_eng Ill_eng go_eng crazy_eng 
+656.926 659.677 MAT _eng you_eng watch_eng C_S_I_engspa xxx_eng 
+657.901 659.956 REB _eng Ill_eng go_eng crazy_eng along_eng with_eng them_eng 
+659.88 660.704 MAT no_eng 
+660.286 661.767 REB I_eng cant_eng do_eng it_eng its_eng too_eng much_eng 
+661.738 662.034 MAT really_eng 
+661.871 665.0 REB Im_eng not_eng _eng that_eng strong_eng psychologically_eng 
+662.725 665.331 MAT you_eng are_eng too_eng much_eng of_eng a_eng moral_eng person_eng 
+665.249 666.526 MAT it_eng impacts_eng you_eng 
+665.249 666.491 REB _eng no_eng 
+666.497 667.896 REB yeah_eng it_eng does_eng 
+667.821 669.644 MAT you_eng take_eng it_eng personally_eng 
+669.638 671.142 REB I_eng do_eng I_eng _eng I_eng _eng cant_eng _eng 
+671.093 676.158 REB even_eng with_eng T_V_eng sometimes_eng like_eng if_eng Im_eng watching_eng S_V_U_eng _eng or_eng anything_eng right_eng before_eng I_eng go_eng to_eng bed_eng 
+675.902 678.925 MAT _eng oh_eng yeah_eng well_eng thats_eng the_eng point_eng thats_eng what_eng makes_eng it_eng a_eng good_eng show_eng you_eng know_eng if_eng 
+678.647 679.192 REB _eng yeah_eng 
+679.152 680.44 MAT _eng if_eng you_eng kind_eng of_eng take_eng it_eng personal_eng 
+680.417 682.286 REB _eng but_eng imagine_eng just_eng having_eng their_eng jobs_eng 
+682.275 683.238 REB you_eng know_eng 
+682.6 684.127 MAT _eng oh_eng yeah_eng yeah_eng 
+684.145 685.492 REB I_eng _eng I_eng couldnt_eng be_eng able_eng to_eng do_eng it_eng 
+685.323 686.763 REB I_eng couldnt_eng be_eng able_eng to_eng handle_eng it_eng 
+685.515 686.751 MAT _eng no_eng of_eng course_eng 
+686.716 690.522 REB Ill_eng break_eng down_eng like_eng I_eng _eng Im_eng gonna_eng need_eng like_eng a_eng psychiatrist_eng 
+690.51 691.549 MAT laugh_eng 
+691.526 695.348 REB like_eng you_eng know_eng all_eng _eng all_eng the_eng like_eng the_eng psychologists_eng go_eng into_eng the_eng psychiatrists_eng 
+691.526 695.307 MAT _eng youll_eng need_eng therapy_eng after_eng _eng yeah_eng 
+695.194 697.156 MAT youll_eng need_eng therapy_eng after_eng the_eng case_eng _eng 
+695.194 697.495 REB _eng no_eng I_eng wouldnt_eng _eng yes_eng 
+697.462 699.442 REB I_eng wouldnt_eng be_eng able_eng to_eng 
+699.43 701.424 REB I_eng think_eng people_eng 
+699.43 701.371 MAT _eng xxx_eng 
+701.354 707.773 REB I_eng dont_eng know_eng either_eng you_eng have_eng experienced_eng something_eng that_eng _eng and_eng thats_eng why_eng youre_eng fighting_eng against_eng it_eng 
+707.761 709.305 MAT right_eng 
+709.288 715.871 REB or_eng youre_eng just_eng born_eng you_eng know_eng with_eng that_eng strength_eng to_eng deal_eng with_eng all_eng that_eng you_eng know_eng because_eng its_eng hard_eng 
+715.85 716.61 MAT yeah_eng 
+716.047 718.706 REB _eng I_eng wouldnt_eng be_eng able_eng to_eng do_eng it_eng 
+718.671 724.243 MAT yeah_eng well_eng um_eng its_eng like_eng an_eng outlook_eng its_eng your_eng perspective_eng you_eng know_eng what_eng Im_eng saying_eng I_eng _eng I_eng take_eng things_eng personally_eng 
+724.179 724.847 MAT but_eng 
+724.361 724.756 REB _eng mmhm_eng 
+724.748 733.287 MAT you_eng gotta_eng you_eng know_eng on_eng the_eng other_eng you_eng gotta_eng say_eng like_eng well_eng sometimes_eng you_eng know_eng I_eng think_eng you_eng have_eng to_eng understand_eng both_eng sides_eng first_eng before_eng you_eng take_eng it_eng personally_eng 
+733.392 734.297 REB _eng I_eng think_eng 
+733.42 734.54 MAT _eng would_eng you_eng take_eng it_eng personally_eng 
+734.523 740.416 REB but_eng the_eng thing_eng is_eng _eng is_eng _eng is_eng not_eng even_eng taking_eng it_eng personally_eng is_eng you_eng know_eng dont_eng bring_eng your_eng work_eng home_eng 
+737.943 740.294 MAT _eng its_eng just_eng no_eng I_eng know_eng 
+740.276 740.793 REB right_eng 
+740.789 741.172 MAT mmhm_eng 
+741.145 743.078 REB but_eng I_eng wouldnt_eng be_eng able_eng to_eng do_eng that_eng 
+743.034 746.162 MAT I_eng dont_eng think_eng anybody_eng that_eng does_eng that_eng can_eng go_eng by_eng that_eng 
+746.139 746.836 REB right_eng 
+746.866 748.299 MAT I_eng dont_eng think_eng anybodys_eng able_eng 
+748.265 749.838 MAT were_eng all_eng _eng were_eng humans_eng 
+749.823 750.868 MAT you_eng know_eng what_eng Im_eng saying_eng 
+749.823 750.868 REB _eng exactly_eng 
+750.863 753.521 MAT no_eng I_eng dont_eng think_eng anybody_eng can_eng just_eng xxx_eng say_eng no_eng 
+750.863 753.515 REB _eng mmhm_eng 
+753.515 754.787 MAT I_eng shut_eng it_eng off_eng at_eng night_eng 
+754.769 756.483 MAT you_eng know_eng its_eng not_eng something_eng that_eng 
+756.431 757.627 REB you_eng cant_eng its_eng easier_eng said_eng than_eng done_eng 
+757.628 758.104 MAT exactly_eng 
+757.779 758.237 REB _eng obviously_eng 
+758.23 759.752 REB and_eng we_eng cant_eng do_eng it_eng 
+759.731 762.39 REB its_eng like_eng youre_eng trying_eng to_eng sleep_eng and_eng your_eng brain_eng doesnt_eng wanna_eng shut_eng up_eng 
+759.731 762.251 MAT _eng yeah_eng 
+762.244 764.224 MAT exactly_eng 
+764.185 766.066 REB that_eng brain_eng chatter_eng is_eng what_eng its_eng called_eng 
+764.185 766.023 MAT _eng mmhm_eng 
+765.994 767.823 MAT what_eng other_eng shows_eng do_eng you_eng like_eng 
+767.794 769.832 REB I_eng love_eng _eng Heroes_engspa 
+769.82 771.486 MAT I_eng _eng I_eng havent_eng seen_eng that_eng one_eng 
+770.261 772.972 REB _eng aside_eng _eng aside_eng from_eng _eng that_eng kind_eng of_eng show_eng 
+773.32 774.429 MAT _eng I_eng havent_eng seen_eng that_eng one_eng 
+773.32 775.166 REB _eng I_eng love_eng Heroes_engspa 
+775.166 775.846 MAT Ive_eng heard_eng of_eng it_eng 
+775.836 776.782 MAT and_eng I_eng know_eng 
+775.836 776.782 REB _eng Chuck_engspa 
+776.786 777.993 MAT Chuck_engspa 
+777.732 779.34 REB _eng Im_eng an_eng N_B_C_engspa fan_eng 
+779.366 779.616 MAT yeah_eng 
+779.471 780.719 REB _eng Chuck_engspa 
+780.692 781.128 MAT no_eng 
+780.843 781.906 REB Journeyman_engspa 
+781.894 782.405 MAT no_eng 
+782.369 783.594 REB never_eng seen_eng it_eng oh_eng my_eng god_eng 
+782.369 783.919 MAT _eng never_eng seen_eng it_eng 
+783.907 784.673 REB theyre_eng so_eng good_eng 
+784.664 785.872 REB Bionic_Woman_engspa 
+784.664 785.872 MAT _eng laughs_eng 
+785.86 786.702 MAT yeah_eng Ive_eng seen_eng that_eng one_eng 
+786.667 787.178 REB Life_eng 
+787.153 787.826 REB laughs_eng 
+787.826 789.12 REB you_eng seen_eng Life_eng 
+787.826 789.097 MAT _eng Life_eng no_eng 
+789.075 791.774 MAT I_eng _eng I_eng _eng I_eng like_eng the_eng ʧi_eng 
+791.786 793.597 MAT I_eng guess_eng I_eng like_eng comedy_eng a_eng lot_eng 
+793.567 795.605 MAT like_eng I_eng need_eng it_eng every_eng day_eng 
+795.579 796.897 MAT the_eng I_eng dont_eng know_eng _eng I_eng dont_eng xxx_eng 
+795.678 797.019 REB _eng yeah_eng 
+796.984 797.982 MAT I_eng _eng Im_eng not_eng sure_eng why_eng 
+797.933 799.164 MAT I_eng just_eng 
+799.212 800.832 REB Will_and_Grace_engspa _eng laugh_eng 
+800.77 802.796 MAT well_eng _eng laugh_eng 
+802.777 807.841 MAT Will_and_Grace_eng is_eng alright_eng if_eng _eng if_eng you_eng are_eng ok_eng with_eng _eng homosexuality_eng 
+807.382 808.427 REB _eng you_eng are_eng not_eng ok_eng 
+807.945 808.729 MAT no_eng Im_eng fine_eng 
+808.729 810.134 REB oh_eng ok_eng 
+808.729 810.134 MAT _eng I_eng dont_eng care_eng you_eng know_eng what_eng Im_eng saying_eng 
+810.121 811.311 REB Im_eng very_eng pro_eng gay_eng 
+810.121 811.301 MAT _eng Im_eng just_eng saying_eng 
+811.22 812.787 REB so_eng _eng laugh_eng 
+811.22 814.093 MAT yeah_eng no_eng no_eng no_eng no_eng I_eng _eng I_eng dont_eng care_eng whatever_eng 
+814.059 814.349 REB ok_eng 
+814.314 820.564 MAT you_eng know_eng I_eng have_eng gay_eng friends_eng and_eng all_eng that_eng but_eng what_eng Im_eng saying_eng is_eng you_eng gotta_eng _eng you_eng gotta_eng be_eng _eng like_eng you_eng gotta_eng be_eng ok_eng with_eng that_eng 
+820.524 824.46 MAT you_eng know_eng what_eng Im_eng saying_eng you_eng gotta_eng see_eng the_eng fun_eng in_eng it_eng because_eng if_eng it_eng 
+823.549 824.478 REB you_eng dont_eng see_eng it_eng 
+824.447 825.73 MAT no_eng yeah_eng yeah_eng I_eng do_eng 
+824.447 825.73 REB laugh_eng oh_eng ok_eng 
+825.706 828.857 MAT Im_eng just_eng saying_eng like_eng other_eng people_eng I_eng dont_eng see_eng that_eng much_eng 
+828.828 830.523 MAT like_eng I_eng _eng I_eng see_eng how_eng its_eng funny_eng 
+830.494 833.745 MAT but_eng Im_eng like_eng it_eng _eng it_eng aint_eng that_eng funny_eng you_eng know_eng what_eng Im_eng saying_eng 
+830.494 833.699 REB laugh_eng 
+833.687 840.113 MAT but_eng like_eng for_eng me_eng comedy_eng like_eng really_eng _eng really_eng good_eng comedy_eng is_eng obviously_eng um_eng Comedy_Central_engspa 
+840.055 842.076 MAT I_eng like_eng The_Colbert_Report_engspa 
+840.055 842.935 REB _eng I_eng dont_eng watch_eng Comedy_Central_engspa 
+842.888 850.573 MAT I_eng never_eng used_eng to_eng watch_eng it_eng but_eng I_eng when_eng I_eng saw_eng The_Colbert_Report_engspa and_eng the_eng um_eng and_eng um_eng damn_eng um_eng Jon_engspa Stewart_engspa 
+850.495 851.743 REB John_engspa Stewart_engspa is_eng funny_eng 
+851.364 853.07 MAT _eng oh_eng my_eng god_eng 
+851.793 854.583 REB _eng well_eng actually_eng Im_eng just_eng saying_eng it_eng 
+853.079 854.641 MAT _eng The_Daily_Show_engspa 
+854.639 856.752 REB Jon_engspa Stewart_engspa at_eng the_eng Oscars_eng 
+856.752 857.274 MAT _eng yeah_eng 
+856.85 857.994 REB _eng he_eng was_eng hilarious_eng 
+857.971 859.161 MAT give_eng it_eng a_eng try_eng 
+859.167 863.642 MAT what_eng it_eng is_eng all_eng _eng all_eng that_eng show_eng is_eng like_eng The_Daily_Show_engspa and_eng The_Colbert_Report_engspa is_eng _eng is_eng like_eng 
+863.619 864.885 REB like_eng talk_eng shows_eng 
+864.055 866.123 MAT watching_eng the_eng no_eng no_eng no_eng its_eng not_eng a_eng talk_eng show_eng 
+865.881 867.042 REB _eng its_eng not_eng a_eng talk_eng show_eng 
+866.924 868.056 MAT its_eng like_eng watching_eng the_eng news_eng 
+868.033 870.61 MAT what_eng they_eng do_eng is_eng they_eng take_eng news_eng from_eng the_eng whole_eng _eng from_eng the_eng day_eng 
+870.562 871.235 REB ok_eng 
+870.951 874.422 MAT _eng like_eng from_eng C_N_N_engspa and_eng something_eng like_eng that_eng like_eng the_eng elections_eng whatever_eng 
+874.415 876.278 MAT and_eng they_eng _eng they_eng make_eng fun_eng of_eng it_eng 
+876.27 876.937 REB ok_eng 
+876.682 877.918 MAT everythings_eng funny_eng 
+877.901 878.313 REB ok_eng 
+877.93 878.58 MAT _eng you_eng know_eng what_eng Im_eng saying_eng 
+878.533 881.278 MAT they_eng _eng they_eng show_eng pictures_eng and_eng theyll_eng say_eng this_eng 
+880.209 882.392 REB its_eng like_eng The_Soup_engspa Have_eng you_eng ever_eng seen_eng The_Soup_engspa 
+882.391 883.267 MAT The_Soup_engspa 
+882.774 884.341 REB On_eng E_eng 
+884.341 885.926 REB with_eng Joel_eng 
+884.341 885.978 MAT _eng oh_eng yeah_eng yeah_eng yeah_eng 
+885.928 888.557 MAT somewhat_eng somewhat_eng yeah_eng xxx_eng 
+887.948 888.644 REB just_eng not_eng as_eng 
+888.174 890.988 MAT _eng but_eng it_eng _eng this_eng is_eng like_eng _eng exaggerating_eng 
+890.974 893.853 MAT I_eng mean_eng they_eng exaggerate_eng stuff_eng they_eng say_eng whatever_eng they_eng want_eng 
+893.85 895.891 MAT now_eng you_eng should_eng _eng you_eng should_eng watch_eng it_eng 
+895.107 896.436 REB _eng well_eng obviously_eng its_eng cable_eng 
+896.419 897.504 MAT yeah_eng give_eng 
+896.419 897.713 REB because_eng its_eng Comedy_Central_engspa 
+897.699 898.813 MAT right_eng but_eng give_eng it_eng a_eng try_eng 
+898.801 899.695 MAT youll_eng like_eng it_eng 
+899.069 901.779 REB _eng but_eng what_eng show_eng _eng what_eng comedy_eng show_eng do_eng you_eng like_eng that_eng is_eng not_eng on_eng 
+901.745 903.719 MAT thats_eng not_eng on_eng Comedy_Central_engspa 
+903.68 904.382 REB yeah_eng 
+904.371 905.236 MAT um_eng 
+904.371 906.611 REB like_eng just_eng a_eng regular_eng 
+905.363 908.127 MAT thats_eng like_eng oh_eng I_eng used_eng to_eng love_eng Everybody_loves_Raymond_engspa 
+908.121 912.072 REB you_eng know_eng I_eng like_eng him_eng but_eng I_eng cant_eng 
+912.055 916.216 REB it_eng has_eng to_eng be_eng certain_eng days_eng that_eng I_eng could_eng just_eng sit_eng through_eng a_eng whole_eng show_eng of_eng Everybody_loves_Raymond_engspa 
+914.939 916.494 MAT _eng really_eng 
+916.461 917.158 REB yeah_eng 
+917.158 918.719 MAT oh_eng thats_eng _eng thats_eng cool_eng 
+918.694 919.53 MAT its_eng a_eng certain_eng 
+918.694 919.53 REB _eng like_eng in_eng a_eng show_eng 
+919.53 921.399 MAT yeah_eng its_eng a_eng certain_eng kind_eng of_eng comedy_eng 
+919.53 921.364 REB _eng xxx_eng 
+921.352 923.193 MAT its_eng like_eng an_eng acquired_eng taste_eng 
+923.179 929.996 REB me_eng like_eng _eng I_eng dont_eng _eng I_eng like_eng comedy_eng like_eng that_eng that_eng its_eng innocent_eng and_eng its_eng just_eng everyday_eng 
+929.95 930.965 MAT yeah_eng right_eng 
+930.941 939.697 REB but_eng like_eng raunchy_eng comedy_eng like_eng people_eng that_eng use_eng like_eng I_eng dont_eng know_eng sex_eng or_eng insults_eng and_eng stuff_eng like_eng that_eng I_eng dont_eng think_eng thats_eng funny_eng 
+937.752 938.501 MAT _eng ok_eng 
+939.697 940.841 MAT no_eng _eng laughs_eng 
+940.249 941.056 REB _eng no_eng because_eng I_eng xxx_eng 
+941.528 944.656 MAT _eng well_eng yeah_eng no_eng its_eng and_eng its_eng not_eng its_eng just_eng not_eng right_eng 
+944.66 946.506 MAT its_eng what_eng you_eng see_eng 
+944.66 946.511 REB _eng have_eng you_eng ever_eng been_eng to_eng the_eng Renaissance_eng festival_eng 
+946.517 947.51 MAT no_eng 
+947.479 949.006 REB ok_eng well_eng this_eng is_eng the_eng Renaissance_eng 
+948.344 949.128 MAT _eng is_eng that_eng here_eng 
+949.116 949.453 REB _eng yeah_eng 
+949.435 949.824 MAT really_eng 
+949.795 953.08 REB its_eng in_eng um_eng _eng where_eng is_eng it_eng 
+953.038 957.278 REB its_eng further_eng I_eng dont_eng even_eng know_eng because_eng I_eng dont_eng know_eng directions_eng 
+957.253 960.58 REB but_eng um_eng laugh_eng Quiet_eng Waters_eng Park_eng 
+957.253 960.556 MAT _eng laugh_eng 
+960.544 965.553 REB its_eng _eng is_eng it_eng Penbroke_eng Pines_eng 
+965.518 966.964 MAT oh_eng ok_eng ok_eng 
+966.865 970.68 REB _eng I_eng dont_eng know_eng its_eng one_eng of_eng those_eng _eng that_eng you_eng have_eng to_eng drive_eng a_eng little_eng yeah_eng 
+968.503 970.849 MAT _eng one_eng of_eng those_eng little_eng cities_eng near_eng xxx_eng 
+970.854 972.242 REB so_eng its_eng a_eng Renaissance_eng festival_eng 
+972.114 972.497 MAT ok_eng 
+972.48 974.134 REB and_eng then_eng they_eng have_eng this_eng show_eng 
+974.122 976.311 REB the_eng guys_eng called_eng Christoph_eng the_eng insultor_eng 
+976.225 979.493 REB and_eng basically_eng you_eng pay_eng him_eng to_eng insult_eng you_eng 
+978.088 979.383 MAT _eng mmhm_eng 
+979.336 980.369 MAT really_eng 
+980.375 985.432 REB its_eng ridiculous_eng the_eng guy_eng walks_eng out_eng with_eng like_eng five_eng hundred_eng dollars_eng worth_eng of_eng people_eng you_eng know_eng 
+985.409 986.227 MAT yeah_eng yeah_eng 
+986.2 989.86 REB like_eng people_eng would_eng pay_eng for_eng or_eng its_eng a_eng group_eng that_eng they_eng pick_eng _eng one_eng person_eng 
+989.802 990.54 MAT yeah_eng 
+990.504 998.126 REB they_eng put_eng money_eng together_eng and_eng then_eng depending_eng on_eng you_eng know_eng how_eng much_eng they_eng give_eng him_eng hell_eng how_eng long_eng hell_eng insult_eng the_eng person_eng for_eng 
+996.565 998.15 MAT right_eng right_eng right_eng 
+998.104 1001.18 REB but_eng its_eng so_eng stupid_eng like_eng I_eng didnt_eng find_eng comedy_eng in_eng it_eng 
+1001.157 1001.697 MAT no_eng 
+1001.232 1003.165 REB I_eng like_eng like_eng Friends_engspa 
+1003.148 1003.792 REB have_eng you_eng ever_eng seen_eng that_eng 
+1003.583 1004.866 MAT Friends_engspa is_eng good_eng yeah_eng of_eng course_eng yeah_eng 
+1004.843 1006.549 REB xxx_eng you_eng know_eng Friends_engspa is_eng funny_eng 
+1006.538 1006.921 MAT yeah_eng 
+1006.915 1009.387 REB and_eng what_eng else_eng is_eng funny_eng 
+1008.261 1009.381 MAT mmhm_eng 
+1009.373 1010.703 MAT I_eng like_eng the_eng xxx_eng 
+1009.373 1010.662 REB _eng Dane_Cook_engspa 
+1010.61 1013.704 MAT no_eng Dane_Cook_engspa is_eng really_eng funny_eng but_eng he_eng is_eng vulgar_eng come_eng on_eng 
+1013.701 1014.392 REB well_eng but_eng 
+1013.823 1017.871 MAT _eng he_eng is_eng vulgar_eng oh_eng are_eng you_eng saying_eng you_eng dont_eng like_eng vulgarity_eng 
+1017.816 1020.736 REB well_eng xxx_eng I_eng havent_eng really_eng seen_eng his_eng _eng stand_ups_eng 
+1020.711 1021.872 REB Ive_eng seen_eng his_eng movies_eng like_eng 
+1021.849 1022.302 MAT _eng yeah_engspa 
+1022.174 1024.444 REB you_eng know_eng um_eng Good_Luck_Chuck_engspa 
+1022.174 1025.098 MAT _eng xxx_eng 
+1025.092 1027.989 REB well_eng that_eng _eng that_eng was_eng pretty_eng raunchy_eng ok_eng but_eng 
+1025.092 1030.094 MAT _eng thats_eng pretty_eng _eng laughs_eng the_eng xxx_eng specially_eng the_eng unrated_eng 
+1030.088 1031.214 REB thats_eng what_eng I_eng saw_eng 
+1030.82 1032.851 MAT xxx_eng _eng laughs_eng 
+1031.505 1032.892 REB ok_eng but_eng 
+1032.88 1034.105 MAT I_eng was_eng like_eng what_eng _eng 
+1032.88 1033.966 REB _eng I_eng think_eng that_eng 
+1033.954 1035.672 MAT thats_eng like_eng a_eng porno_eng 
+1035.663 1037.34 REB it_eng is_eng yeah_eng its_eng bad_eng 
+1037.329 1039.36 REB but_eng did_eng you_eng see_eng um_eng 
+1038.461 1041.328 MAT I_eng have_eng it_eng I_eng bought_eng it_eng too_eng what_eng a_eng damn_eng ass_eng 
+1039.337 1041.874 REB you_eng know_eng the_eng part_eng that_eng I_eng busted_eng out_eng laughing_eng 
+1041.839 1044.446 REB the_eng part_eng when_eng she_eng goes_eng like_eng this_eng 
+1044.423 1048.196 REB and_eng then_eng hes_eng like_eng what_eng happened_eng to_eng you_eng did_eng you_eng get_eng in_eng a_eng fight_eng with_eng a_eng stamp_eng 
+1048.178 1050.146 MAT oh_eng oh_eng yeah_eng yeah_eng yeah_eng 
+1048.178 1050.187 REB _eng you_eng know_eng that_eng part_eng is_eng 
+1050.172 1052.702 REB I_eng think_eng that_eng part_eng was_eng so_eng funny_eng 
+1050.172 1052.552 MAT _eng oh_eng yeah_eng she_eng was_eng xxx_eng 
+1052.496 1054.388 MAT yeah_eng xxx_eng 
+1052.803 1055.884 REB it_eng was_eng all_eng unexpected_eng to_eng me_eng and_eng I_eng cracked_eng up_eng I_eng was_eng 
+1055.896 1056.244 MAT really_eng 
+1056.226 1057.584 REB I_eng hadnt_eng laughed_eng like_eng that_eng in_eng a_eng while_eng 
+1057.567 1059.639 REB I_eng just_eng saw_eng it_eng the_eng other_eng day_eng 
+1059.633 1061.63 REB but_eng I_eng like_eng _eng comedy_eng like_eng that_eng 
+1059.633 1061.677 MAT _eng there_eng you_eng go_eng 
+1061.667 1063.072 MAT I_eng like_eng the_eng Family_Guy_engspa 
+1063.031 1063.919 REB Family_Guy_engspa 
+1063.913 1064.668 MAT a_eng lot_eng 
+1064.209 1065.405 REB _eng you_eng know_eng I_eng dont_eng 
+1065.336 1067.676 MAT a_eng lot_eng _eng laughs_eng like_eng a_eng lot_eng 
+1066.742 1069.099 REB _eng I_eng _eng if_eng I_eng watch_eng it_eng alone_eng 
+1069.11 1069.673 MAT yeah_eng 
+1069.284 1070.869 REB _eng I_eng dont_eng find_eng the_eng humor_eng in_eng it_eng 
+1070.767 1071.412 MAT no_eng 
+1071.185 1072.161 REB I_eng dont_eng 
+1072.143 1072.608 MAT wow_eng 
+1072.416 1073.92 REB maybe_eng its_eng just_eng 
+1073.9 1076.983 REB but_eng if_eng Im_eng with_eng other_eng people_eng I_eng see_eng I_eng dont_eng know_eng 
+1076.987 1078.037 MAT it_eng _eng the_eng thing_eng about_eng it_eng 
+1078.014 1078.339 REB coughs_eng 
+1078.332 1083.022 MAT _eng its_eng _eng its_eng really_eng subtle_eng _eng its_eng _eng its_eng well_eng its_eng not_eng even_eng subtle_eng _eng I_eng mean_eng its_eng like_eng in_eng your_eng face_eng 
+1082.964 1083.452 REB right_eng 
+1083.394 1084.253 MAT you_eng know_eng what_eng Im_eng saying_eng 
+1084.219 1085.966 REB I_eng guess_eng maybe_eng its_eng so_eng in_eng my_eng face_eng that_eng 
+1085.914 1087.8 MAT its_eng yeah_eng its_eng not_eng even_eng that_eng 
+1086.448 1087.963 REB _eng I_eng dont_eng get_eng it_eng _eng laugh_eng 
+1087.949 1092.975 MAT its_eng like_eng what_eng Peter_eng says_eng its_eng all_eng like_eng _eng its_eng all_eng _eng its_eng either_eng racial_eng 
+1092.528 1093.149 REB _eng right_eng 
+1093.015 1095.924 MAT against_eng _eng against_eng against_eng against_eng gender_eng or_eng where_eng youre_eng from_eng 
+1093.015 1095.806 REB _eng mmhm_eng 
+1095.776 1098.098 MAT political_eng I_eng mean_eng everything_eng 
+1095.776 1098.116 REB _eng ignorant_eng 
+1098.116 1099.979 MAT everything_eng its_eng _eng its_eng everything_eng 
+1099.959 1103.112 MAT thats_eng why_eng I_eng like_eng it_eng because_eng its_eng like_eng blatant_eng 
+1099.959 1103.108 REB _eng cough_eng 
+1103.074 1103.452 REB right_eng 
+1103.423 1103.974 MAT you_eng know_eng what_eng I_eng mean_eng 
+1103.933 1104.328 REB mmhm_eng 
+1103.944 1105.268 MAT _eng they_eng dont_eng care_eng you_eng know_eng 
+1105.239 1107.712 MAT whatever_eng its_eng _eng stereotypes_eng 
+1107.669 1110.368 REB like_eng me_eng I_eng watch_eng it_eng and_eng I_eng dont_eng laugh_eng 
+1110.328 1113.213 REB like_eng maybe_eng Ill_eng smile_eng whatever_eng but_eng I_eng wont_eng laugh_eng 
+1110.328 1113.166 MAT _eng xxx_eng 
+1113.154 1117.432 REB like_eng I_eng have_eng friends_eng _eng I_eng have_eng a_eng group_eng of_eng friends_eng that_eng are_eng addicted_eng to_eng Family_Guy_engspa 
+1113.154 1118.026 MAT _eng laugh_eng yeah_eng yeah_eng 
+1117.584 1120.998 REB _eng and_eng then_eng when_eng they_eng talk_eng about_eng it_eng and_eng they_eng say_eng things_eng that_eng they_eng say_eng in_eng the_eng show_eng 
+1117.584 1120.957 MAT _eng yeah_eng 
+1120.955 1121.913 REB I_eng laugh_eng 
+1121.909 1122.374 MAT yeah_eng 
+1122.368 1125.41 REB because_eng they_eng make_eng it_eng funny_eng and_eng because_eng I_eng dont_eng see_eng the_eng humor_eng 
+1125.38 1128.149 REB I_eng see_eng the_eng humor_eng in_eng what_eng they_eng are_eng doing_eng 
+1125.38 1128.845 MAT _eng specially_eng Stewie_engspa the_eng baby_eng 
+1128.357 1129.785 REB I_eng love_eng Stewie_engspa 
+1129.622 1132.984 MAT hes_eng _eng because_eng he_eng has_eng like_eng a_eng _eng an_eng accent_eng because_eng hes_eng so_eng smart_eng 
+1132.984 1133.332 REB yeah_eng 
+1133.303 1134.697 MAT you_eng know_eng what_eng Im_eng saying_eng 
+1134.679 1136.641 MAT he_eng is_eng always_eng trying_eng to_eng kill_eng his_eng mother_eng I_eng mean_eng 
+1136.438 1136.763 REB _eng cough_eng 
+1136.659 1137.344 MAT its_eng 
+1137.305 1139.735 MAT or_eng _eng or_eng another_eng thing_eng they_eng do_eng 
+1139.723 1143.688 MAT or_eng this_eng one_eng time_eng Peter_eng you_eng know_eng the_eng Peter_engspa _eng Peter_engspa right_eng the_eng fat_eng guy_eng 
+1143.584 1143.949 MAT he_eng 
+1143.705 1144.849 REB _eng yeah_eng I_eng know_eng who_eng they_eng are_eng 
+1143.769 1146.287 MAT _eng he_eng _eng he_eng tripped_eng _eng right_eng 
+1146.275 1148.057 MAT and_eng he_eng _eng he_eng like_eng banged_eng his_eng knee_eng 
+1147.962 1148.612 REB mmhm_eng 
+1148.078 1154.441 MAT _eng and_eng then_eng he_eng _eng he_eng _eng he_eng _eng he_eng _eng he_eng like_eng sat_eng on_eng the_eng floor_eng and_eng was_eng holding_eng his_eng knee_eng he_eng was_eng like_eng _eng gasp_eng moan_eng 
+1153.599 1155.195 REB _eng laugh_eng 
+1154.325 1156.49 MAT and_eng he_eng did_eng that_eng for_eng _eng I_eng think_eng a_eng minute_eng 
+1156.438 1159.915 MAT it_eng was_eng just_eng that_eng for_eng like_eng a_eng minute_eng _eng laugh_eng him_eng doing_eng that_eng noise_eng 
+1156.438 1159.897 REB _eng laugh_eng 
+1159.89 1160.343 REB mmhm_eng 
+1160.007 1162.186 MAT _eng thats_eng it_eng like_eng its_eng just_eng its_eng 
+1161.75 1162.197 REB _eng stupid_eng 
+1162.186 1162.72 MAT right_eng 
+1162.186 1162.72 REB _eng laugh_eng 
+1162.694 1166.836 MAT laugh_eng but_eng its_eng the_eng noise_eng its_eng like_eng all_eng right_eng go_eng on_eng you_eng know_eng 
+1165.855 1166.621 REB ok_eng 
+1166.737 1170.576 MAT yeah_eng that_eng now_eng but_eng that_eng family_eng is_eng _eng I_eng think_eng its_eng great_eng 
+1169.265 1170.449 REB cough_eng 
+1170.44 1172.21 MAT actually_eng you_eng know_eng what_eng I_eng used_eng to_eng do_eng 
+1170.44 1172.175 REB _eng well_eng 
+1172.124 1172.454 REB mmhm_eng 
+1172.437 1177.896 MAT I_eng had_eng a_eng D_V_D_eng player_eng _eng in_eng my_eng car_eng _eng like_eng an_eng In_Dash_engspa _eng when_eng I_eng lived_eng in_eng Hawaii_engspa and_eng 
+1177.879 1178.744 REB you_eng lived_eng in_eng Hawaii_engspa 
+1178.749 1179.133 MAT yeah_eng 
+1179.121 1179.62 REB wow_eng 
+1179.638 1179.968 MAT yeah_eng 
+1179.823 1180.537 REB _eng for_eng how_eng long_eng 
+1180.446 1181.392 MAT for_eng a_eng year_eng 
+1181.4 1182.775 REB was_eng it_eng beautiful_eng 
+1182.77 1183.954 MAT oh_eng yeah_eng 
+1183.936 1184.534 REB laugh_eng 
+1184.502 1187.178 MAT Ill_eng tell_eng you_eng about_eng that_eng though_eng but_eng 
+1187.137 1193.352 MAT every_eng morning_eng when_eng Id_eng go_eng to_eng base_eng when_eng Id_eng go_eng to_eng Port_Harbour_engspa I_eng would_eng play_eng it_eng _eng like_eng every_eng morning_eng 
+1193.341 1194.299 REB is_eng that_eng illegal_eng 
+1194.283 1196.763 MAT yeah_eng you_eng are_eng not_eng supposed_eng to_eng do_eng that_eng but_eng 
+1194.283 1196.048 REB _eng laugh_eng 
+1196.718 1197.792 MAT thats_eng how_eng much_eng I_eng liked_eng it_eng 
+1197.803 1198.39 MAT you_eng know_eng what_eng Im_eng saying_eng 
+1198.381 1199.333 MAT and_eng I_eng would_eng play_eng it_eng every_eng 
+1199.316 1199.977 MAT that_eng was_eng my_eng 
+1199.948 1200.552 REB Family_Guy_engspa 
+1200.192 1202.781 MAT _eng like_eng breakfast_eng yeah_eng Family_Guy_engspa 
+1200.192 1202.787 REB _eng laugh_eng 
+1202.755 1203.173 REB you_eng know_eng 
+1203.173 1205.46 REB I_eng guess_eng I_eng dont_eng watch_eng a_eng lot_eng of_eng comedy_eng because_eng 
+1207.134 1209.824 REB it_eng doesnt_eng 
+1209.814 1211.84 REB I_eng dont_eng know_eng you_eng cant_eng gain_eng knowledge_eng from_eng it_eng 
+1211.765 1213.03 MAT I_eng understand_eng 
+1212.998 1214.844 MAT and_eng you_eng feel_eng like_eng youre_eng wasting_eng your_eng time_eng 
+1214.903 1216.325 REB not_eng really_eng because_eng I_eng love_eng comedy_eng 
+1216.365 1217.143 REB I_eng love_eng laughing_eng 
+1217.094 1217.692 MAT yeah_eng 
+1217.675 1218.429 REB but_eng 
+1218.412 1221.901 REB if_eng Im_eng gonna_eng _eng put_eng time_eng 
+1220.764 1222.087 MAT _eng you_eng want_eng something_eng informative_eng 
+1222.01 1223.681 REB yeah_eng I_eng wanna_eng learn_eng something_eng 
+1223.676 1224.181 REB and_eng I_eng 
+1223.676 1225.789 MAT _eng something_eng thats_eng gonna_eng stimulate_eng your_eng brain_eng 
+1225.769 1226.419 REB yeah_eng 
+1226.39 1227.319 MAT no_eng I_eng know_eng 
+1227.298 1229.992 REB because_eng in_eng comedy_eng you_eng really_eng dont_eng have_eng to_eng figure_eng out_eng anything_eng 
+1229.998 1230.387 REB you_eng know_eng 
+1230.381 1230.99 REB yeah_eng yeah_eng 
+1230.98 1232.257 REB like_eng in_eng a_eng murder_eng 
+1230.98 1232.263 MAT _eng well_eng 
+1232.211 1232.867 REB like_eng 
+1232.886 1236.59 MAT well_eng actually_eng with_eng _eng like_eng with_eng the_eng Family_Guy_engspa you_eng gotta_eng be_eng quick_eng 
+1236.498 1237.77 MAT because_eng if_eng you_eng dont_eng you_eng know_eng 
+1236.498 1237.741 REB _eng xxx_eng 
+1237.725 1238.364 MAT if_eng you_eng are_eng not_eng 
+1237.725 1238.776 REB _eng Im_eng not_eng quick_eng 
+1238.725 1239.602 MAT if_eng you_eng are_eng not_eng quick_eng 
+1239.573 1242.278 MAT and_eng you_eng are_eng not_eng informed_eng like_eng on_eng different_eng cultures_eng 
+1242.284 1243.021 MAT you_eng wont_eng get_eng it_eng 
+1242.284 1243.021 REB _eng right_eng 
+1243.042 1243.646 REB right_eng 
+1243.64 1245.062 REB I_eng think_eng thats_eng my_eng problem_eng 
+1243.64 1245.056 MAT _eng you_eng you_eng understand_eng 
+1245.012 1247.625 MAT you_eng know_eng like_eng _eng like_eng this_eng one_eng time_eng they_eng had_eng a_eng plane_eng 
+1247.615 1248.979 MAT and_eng it_eng had_eng a_eng banner_eng on_eng it_eng 
+1248.932 1250.952 MAT it_eng said_eng _eng it_eng said_eng one_eng thing_eng 
+1250.97 1252.328 MAT and_eng then_eng it_eng _eng the_eng banner_eng flew_eng off_eng 
+1252.327 1253.667 MAT and_eng it_eng said_eng Colombian_eng drugs_eng 
+1253.638 1254.991 REB laugh_eng 
+1253.638 1254.991 MAT _eng you_eng know_eng what_eng I_eng mean_eng 
+1254.99 1256.307 MAT it_eng _eng its_eng _eng its_eng like_eng that_eng 
+1254.99 1256.836 REB _eng laugh_eng ok_eng 
+1256.528 1259.105 MAT _eng if_eng you_eng dont_eng know_eng then_eng you_eng are_eng not_eng gonna_eng laugh_eng 
+1259.091 1259.619 REB ok_eng 
+1259.602 1260.908 MAT like_eng that_eng you_eng know_eng 
+1260.886 1262.5 MAT they_eng _eng they_eng make_eng fun_eng of_eng everybody_eng 
+1262.454 1262.785 REB right_eng 
+1262.769 1263.43 MAT everything_eng 
+1263.419 1267.322 MAT like_eng this_eng one_eng time_eng Peter_engspa is_eng um_eng was_eng like_eng I_eng need_eng to_eng be_eng rich_eng 
+1267.253 1269.987 MAT and_eng he_eng then_eng _eng he_eng then_eng _eng he_eng started_eng singing_eng a_eng song_eng like_eng I_eng need_eng a_eng Jew_eng 
+1269.99 1271.157 REB what_eng 
+1270.326 1271.226 MAT _eng do_eng you_eng know_eng what_eng I_eng mean_eng 
+1271.226 1275.17 MAT because_eng Jewish_eng people_eng are_eng rich_eng so_eng hes_eng like_eng I_eng need_eng a_eng Jew_eng you_eng know_eng _eng laugh_eng 
+1271.226 1275.164 REB _eng mmhm_eng 
+1275.166 1276.786 MAT thats_eng what_eng Im_eng talking_eng about_eng 
+1275.166 1276.85 REB _eng you_eng see_eng I_eng wouldnt_eng get_eng it_eng 
+1276.687 1278.109 MAT its_eng cultural_eng thats_eng what_eng Im_eng saying_eng 
+1276.687 1278.104 REB _eng because_eng 
+1278.104 1280.17 MAT and_eng its_eng like_eng _eng its_eng like_eng what_eng 
+1280.163 1280.743 MAT you_eng know_eng 
+1280.726 1281.515 REB you_eng know_eng yeah_eng 
+1280.726 1281.504 MAT _eng yeah_eng 
+1281.492 1283.942 REB I_eng wouldnt_eng _eng I_eng wouldnt_eng catch_eng onto_eng it_eng 
+1283.771 1284.363 MAT _eng yeah_eng 
+1284.264 1286.342 REB I_eng guess_eng thats_eng why_eng I_eng dont_eng _eng find_eng it_eng funny_eng 
+1286.333 1286.733 MAT yeah_eng 
+1286.71 1290.449 REB I_eng have_eng to_eng have_eng someone_eng next_eng to_eng me_eng explaining_eng these_eng things_eng so_eng 
+1288.035 1292.094 MAT _eng laugh_eng yeah_eng no_eng but_eng you_eng know_eng its_eng funny_eng 
+1292.056 1294.749 MAT but_eng Hawaii_engspa _eng Hawaii_eng is_eng beautiful_eng 
+1294.723 1296.517 REB my_eng uncle_eng was_eng there_eng 
+1294.723 1296.517 MAT _eng very_eng beautiful_eng 
+1296.482 1300.681 REB _eng during_eng I_eng think_eng it_eng was_eng the_eng second_eng world_eng war_eng 
+1300.736 1303.005 REB no_eng I_eng lied_eng 
+1302.985 1303.426 REB I_eng dont_eng know_eng 
+1303.426 1305.243 REB he_eng was_eng _eng I_eng know_eng he_eng was_eng in_eng the_eng military_eng 
+1305.208 1306.822 REB and_eng he_eng was_eng stationed_eng in_eng Hawaii_engspa 
+1306.813 1308.932 MAT oh_eng ok_eng yeah_eng 
+1308.927 1311.302 MAT have_eng you_eng been_eng anywhere_eng besides_eng Miami_engspa 
+1311.284 1313.87 REB uh_eng um_eng Ive_eng only_eng been_eng on_eng cruises_eng 
+1313.841 1316.943 MAT oh_eng ok_eng so_eng youve_eng been_eng to_eng what_eng the_eng Bahamas_engspa 
+1316.879 1319.035 REB Ive_eng been_eng to_eng Cozumel_engspa 
+1318.96 1319.837 MAT yeah_eng 
+1319.825 1320.858 REB in_eng Mexico_engspa 
+1319.825 1320.829 MAT _eng yeah_eng mmhm_eng 
+1321.074 1322.925 REB Ive_eng been_eng to_eng Grand_Cayman_Island_engspa 
+1322.934 1325.39 REB and_eng Ocho_Ríos_engspa Jamaica_engspa 
+1325.361 1327.886 MAT how_eng was_eng that_eng 
+1327.85 1330.015 REB well_eng the_eng city_eng itself_eng 
+1329.127 1330.206 MAT _eng how_eng old_eng were_eng you_eng 
+1330.218 1331.367 REB fifteen_eng 
+1331.356 1332.621 MAT ah_eng ok_eng 
+1332.62 1334.431 REB the_eng city_eng itself_eng is_eng not_eng pretty_eng 
+1334.413 1335.65 REB like_eng its_eng nothing_eng 
+1335.661 1335.963 MAT right_eng 
+1335.963 1336.567 REB _eng to_eng look_eng at_eng 
+1336.538 1336.95 MAT _eng right_eng 
+1336.735 1337.316 REB _eng I_eng guess_eng 
+1337.278 1338.758 REB I_eng mean_eng the_eng beaches_eng are_eng beautiful_eng 
+1338.758 1339.222 MAT mmhm_eng 
+1339.199 1342.417 REB but_eng um_eng we_eng climbed_eng the_eng _eng the_eng Dunns_River_engspa falls_eng 
+1342.429 1345.378 REB its_eng like_eng I_eng dont_eng know_eng how_eng many_eng feet_eng 
+1345.362 1346.012 REB its_eng the_eng 
+1345.997 1349.968 REB and_eng then_eng you_eng climb_eng to_eng the_eng first_eng two_eng hundred_eng feet_eng of_eng the_eng falls_eng 
+1349.924 1351.938 REB and_eng you_eng have_eng they_eng yeah_eng they_eng have_eng guides_eng 
+1351.95 1352.855 MAT right_eng 
+1352.344 1353.813 REB _eng that_eng _eng who_eng will_eng guide_eng you_eng 
+1353.787 1354.739 MAT what_eng the_eng f_eng 
+1354.53 1356.992 REB and_eng you_eng need_eng you_eng know_eng the_eng water_eng socks_eng to_eng go_eng up_eng 
+1356.977 1359.096 REB because_eng the_eng rocks_eng are_eng slippery_eng you_eng know_eng 
+1359.062 1360.148 MAT yeah_eng 
+1359.062 1360.148 REB _eng on_eng the_eng water_eng 
+1360.119 1361.762 REB the_eng waters_eng freezing_eng 
+1361.624 1362.296 MAT yeah_eng 
+1361.628 1365.612 REB _eng its_eng the_eng coldest_eng water_eng Ive_eng ever_eng you_eng know_eng 
+1364.108 1365.774 MAT in_eng Jamaica_engspa 
+1365.754 1367.275 REB its_eng just_eng the_eng waterfalls_eng 
+1367.234 1370.0 MAT oh_eng the_eng waterfalls_eng oh_eng yeah_eng yeah_eng thats_eng fresh_eng water_eng yeah_eng 
+1369.1 1371.155 REB _eng its_eng freezing_eng _eng its_eng freezing_eng 
+1371.117 1374.513 REB it_eng doesnt_eng matter_eng how_eng hot_eng it_eng is_eng outside_eng the_eng water_eng it_eng would_eng always_eng be_eng freezing_eng 
+1372.819 1374.38 MAT _eng mmhm_eng 
+1374.365 1377.802 REB and_eng um_eng there_eng was_eng this_eng couple_eng that_eng they_eng didnt_eng go_eng with_eng the_eng guides_eng 
+1377.796 1380.288 REB they_eng decided_eng to_eng go_eng up_eng the_eng middle_eng 
+1380.261 1381.776 REB retards_eng 
+1381.759 1382.757 MAT laugh_eng 
+1382.507 1383.628 REB _eng and_eng they_eng fell_eng 
+1383.619 1384.548 REB they_eng slipped_eng 
+1384.496 1386.464 REB and_eng they_eng fell_eng down_eng I_eng dont_eng know_eng how_eng many_eng feet_eng 
+1386.448 1387.9 MAT xxx_eng 
+1387.058 1389.156 REB _eng and_eng they_eng had_eng _eng they_eng xxx_eng on_eng a_eng rock_eng 
+1389.086 1390.235 REB and_eng they_eng had_eng broken_eng ribs_eng 
+1390.241 1392.267 REB everything_eng they_eng were_eng full_eng of_eng blood_eng 
+1392.244 1393.602 REB and_eng it_eng was_eng crazy_eng 
+1393.028 1393.904 MAT _eng wow_eng 
+1393.884 1395.8 MAT well_eng at_eng least_eng you_eng saw_eng something_eng right_eng 
+1395.382 1395.835 REB _eng huh_eng 
+1395.817 1397.106 REB yeah_eng at_eng least_eng 
+1395.817 1397.083 MAT _eng at_eng least_eng you_eng saw_eng something_eng 
+1397.068 1398.317 REB but_eng its_eng _eng it_eng was_eng pretty_eng 
+1398.311 1401.273 REB and_eng then_eng _eng that_eng part_eng was_eng pretty_eng 
+1401.273 1402.44 REB but_eng the_eng city_eng is_eng 
+1402.405 1403.015 MAT no_eng 
+1402.986 1406.123 REB like_eng and_eng then_eng guys_eng offering_eng you_eng weed_eng 
+1406.147 1407.354 MAT laugh_eng 
+1406.147 1409.488 REB _eng yeah_eng and_eng then_eng you_eng see_eng like_eng them_eng wrapping_eng the_eng weed_eng on_eng the_eng plants_eng 
+1409.476 1409.923 MAT yeah_eng 
+1409.476 1410.283 REB _eng I_eng dont_eng know_eng _eng I_eng dont_eng know_eng 
+1410.25 1411.661 MAT you_eng dont_eng smoke_eng 
+1411.661 1412.05 REB huh_eng 
+1412.044 1412.781 MAT you_eng dont_eng smoke_eng 
+1412.764 1413.246 REB no_eng 
+1413.24 1413.675 MAT thats_eng good_eng 
+1413.661 1414.758 REB I_eng find_eng it_eng gross_eng 
+1414.717 1416.215 MAT its_eng good_eng 
+1416.256 1416.894 REB do_eng you_eng 
+1416.256 1416.859 MAT _eng you_eng shouldnt_eng 
+1416.844 1417.552 REB laugh_eng 
+1416.844 1418.336 MAT _eng no_eng 
+1418.344 1421.769 REB I_eng dont_eng what_eng else_eng what_eng else_eng what_eng else_eng 
+1421.764 1426.495 REB and_eng then_eng in_eng the_eng second_eng one_eng we_eng went_eng to_eng _eng Saint_Thomas_engspa the_eng Virgin_Islands_engspa 
+1428.022 1429.932 REB we_eng went_eng to_eng the_eng Bahamas_engspa 
+1429.92 1432.091 REB to_eng Atlantis_engspa _eng _eng Atlantis_engspa 
+1431.325 1432.051 MAT _eng Atlantis_engspa 
+1432.021 1434.047 REB yeah_eng beautiful_eng 
+1432.021 1434.047 MAT _eng yeah_eng 
+1433.972 1435.086 spa_spa bonito_spa bonito_spa 
+1435.08 1436.085 REB its_eng beautiful_eng 
+1436.061 1436.433 MAT yeah_eng 
+1436.413 1438.856 REB and_eng _eng where_eng is_eng the_eng other_eng one_eng 
+1438.851 1439.948 REB and_eng Dominican_Republic_eng 
+1439.921 1442.174 MAT oh_eng ok_eng xxx_eng 
+1441.489 1445.303 REB _eng and_eng then_eng xxx_eng in_eng _eng in_eng the_eng United_States_engspa well_eng Ive_eng been_eng to_eng Orlando_engspa 
+1445.336 1447.02 REB who_eng doesnt_eng go_eng to_eng Orlando_engspa 
+1447.002 1448.941 REB Tampa_engspa _eng have_eng you_eng been_eng to_eng Disney_engspa here_eng 
+1448.927 1451.394 MAT no_eng I_eng have_eng been_eng um_eng Universal_engspa 
+1451.377 1451.882 REB yeah_eng 
+1451.493 1452.503 MAT _eng Orlando_engspa 
+1452.5 1454.096 MAT but_eng not_eng to_eng 
+1452.976 1455.634 REB Ive_eng _eng Ive_eng been_eng to_eng universal_eng and_eng Ive_eng been_eng to_eng Busch_Gardens_eng 
+1455.58 1457.785 MAT yeah_eng Ive_eng been_eng to_eng Busch_Gardens_eng too_eng 
+1456.125 1461.148 REB _eng Busch_Gardens_eng and_eng Islands_engspa well_eng Islands_engspa is_eng Universal_engspa _eng too_eng 
+1458.617 1460.579 MAT _eng yeah_eng 
+1461.123 1464.815 REB Ive_eng been_eng to_eng Cooperstown_engspa New_York_eng 
+1461.123 1464.803 MAT _eng yeah_eng 
+1464.748 1465.735 MAT oh_eng yeah_eng 
+1465.399 1466.821 REB _eng Ive_eng been_eng to_eng the_eng baseball_eng hall_eng of_eng fame_eng 
+1466.798 1467.744 MAT wow_eng 
+1467.74 1468.727 REB thats_eng where_eng it_eng is_eng 
+1468.715 1472.405 REB Ive_eng been_eng to_eng 
+1472.39 1474.585 REB we_eng went_eng to_eng North_Carolina_engspa on_eng a_eng road_eng trip_eng 
+1474.57 1476.59 REB we_eng stopped_eng one_eng night_eng in_eng Atlanta_engspa 
+1476.557 1478.298 REB so_eng that_eng doesnt_eng really_eng count_eng 
+1478.271 1480.262 REB because_eng we_eng we_eng never_eng _eng we_eng didnt_eng stay_eng there_eng 
+1480.245 1481.98 MAT yeah_eng 
+1481.959 1483.149 REB where_eng else_eng have_eng I_eng been_eng to_eng 
+1483.144 1487.431 REB well_eng spring_eng break_eng Im_eng going_eng to_eng Virginia_Beach_engspa 
+1487.404 1489.099 MAT oh_eng yeah_eng V_A_Beach_engspa 
+1489.075 1489.569 REB huh_eng 
+1489.513 1490.535 MAT V_A_Beach_engspa 
+1489.513 1490.535 REB _eng V_A_Beach_engspa 
+1490.506 1490.93 REB yeah_eng 
+1490.918 1491.742 MAT thats_eng what_eng we_eng call_eng it_eng 
+1490.918 1491.742 REB _eng laugh_eng 
+1491.719 1493.374 MAT xxx_eng Im_eng from_eng _eng Im_eng from_eng up_eng North_eng so_eng 
+1493.332 1494.487 REB thats_eng what_eng they_eng call_eng it_eng 
+1493.332 1494.47 MAT _eng its_eng V_A_Beach_engspa yeah_eng 
+1494.4 1495.178 MAT V_A_Beach_engspa 
+1495.18 1496.341 MAT and_eng nobody_eng calls_eng it_eng Virginia_eng 
+1496.306 1497.368 MAT everybody_eng says_eng V_A_Beach_engspa 
+1497.357 1498.297 REB ok_eng V_A_Beach_engspa 
+1498.271 1499.583 REB thats_eng where_eng Im_eng going_eng 
+1498.271 1499.606 MAT laugh_eng 
+1499.588 1500.366 REB spring_eng break_eng 
+1499.588 1500.366 MAT _eng yeah_eng 
+1500.389 1501.098 REB because_eng 
+1500.703 1501.324 MAT no_eng thats_eng cool_eng 
+1501.301 1502.218 MAT youll_eng have_eng fun_eng 
+1502.209 1503.898 REB my_eng cousins_eng _eng live_eng there_eng 
+1503.393 1506.226 MAT _eng dont_eng _eng dont_eng expect_eng the_eng beaches_eng to_eng be_eng like_eng this_eng though_eng _eng 
+1505.622 1508.033 REB oh_eng no_eng no_eng no_eng no_eng no_eng Im_eng not_eng going_eng to_eng the_eng beach_eng 
+1507.523 1508.596 MAT _eng its_eng cold_eng water_eng 
+1508.155 1509.548 REB _eng its_eng gonna_eng be_eng cold_eng over_eng there_eng 
+1509.529 1511.433 REB no_eng its_eng my_eng cousins_eng fifteens_eng 
+1511.427 1512.797 REB and_eng she_eng lives_eng up_eng there_eng 
+1512.437 1513.918 MAT _eng dont_eng get_eng too_eng wild_eng 
+1513.885 1515.232 REB no_eng I_eng wont_eng 
+1515.239 1516.882 MAT are_eng you_eng a_eng wild_eng person_eng 
+1516.841 1517.474 REB no_eng 
+1517.323 1519.215 MAT you_eng are_eng not_eng a_eng party_eng person_eng 
+1519.2 1519.542 MAT no_eng 
+1519.554 1524.096 REB I_eng am_eng actually_eng going_eng this_eng Saturday_eng for_eng the_eng _eng like_eng the_eng first_eng time_eng to_eng a_eng club_eng 
+1524.081 1526.316 MAT really_eng you_eng are_eng not_eng a_eng club_eng person_eng either_eng 
+1525.88 1526.699 REB no_eng 
+1526.561 1528.368 MAT wow_eng all_eng right_eng thats_eng _eng thats_eng fine_eng 
+1528.333 1530.255 MAT theres_eng nothing_eng wrong_eng with_eng that_eng 
+1530.223 1534.008 REB um_eng I_eng guess_eng there_eng is_eng more_eng to_eng life_eng than_eng clubs_eng 
+1530.223 1534.704 MAT _eng so_eng what_eng do_eng you_eng do_eng on_eng the_eng weekends_eng then_eng yeah_eng no_eng and_eng there_eng is_eng 
+1534.7 1541.728 REB well_eng um_eng well_eng I_eng was_eng when_eng I_eng turned_eng 
+1541.043 1542.5 spa_spa qué_spa música_spa le_spa gusta_spa 
+1542.478 1544.202 spa_spa música_spa _spa de_spa todo_spa 
+1544.17 1546.173 REB I_eng like_eng everything_eng 
+1544.17 1546.173 MAT _eng xxx_eng yeah_eng 
+1546.159 1547.953 REB it_eng just_eng depends_eng on_eng the_eng song_eng 
+1547.885 1548.327 MAT ok_eng 
+1548.135 1552.907 REB if_eng I_eng like_eng it_eng doesnt_eng matter_eng the_eng genre_eng if_eng its_eng country_eng if_eng its_eng pop_eng rock_eng anything_eng 
+1552.886 1554.866 REB as_eng long_eng as_eng I_eng Iike_eng the_eng song_eng 
+1554.839 1555.942 MAT yeah_eng yeah_eng yeah_eng 
+1555.924 1561.342 REB like_eng the_eng thing_eng was_eng when_eng I_eng was_eng _eng when_eng I_eng turned_eng fifteen_eng I_eng met_eng this_eng guy_eng 
+1561.316 1563.83 REB we_eng were_eng together_eng for_eng four_eng years_eng 
+1561.316 1563.789 MAT _eng mmhm_eng 
+1563.774 1564.958 MAT wow_eng 
+1564.192 1567.454 REB _eng and_eng he_eng was_eng very_eng _eng machista_spa 
+1567.417 1568.949 MAT yeah_eng yeah_eng yeah_eng 
+1568.924 1571.972 REB and_eng he_eng isolated_eng me_eng from_eng everybody_eng _eng from_eng my_eng friends_eng 
+1568.924 1571.914 MAT _eng oh_eng 
+1571.914 1575.364 REB and_eng I_eng mean_eng it_eng was_eng my_eng fault_eng in_eng the_eng way_eng that_eng I_eng allowed_eng him_eng to_eng do_eng that_eng 
+1575.332 1577.009 REB but_eng um_eng 
+1577.006 1579.949 MAT I_eng got_eng you_eng 
+1579.276 1579.891 REB it_eng happened_eng 
+1579.885 1580.994 REB laugh_eng 
+1579.885 1580.994 MAT yeah_eng 
+1580.988 1583.196 REB and_eng then_eng _eng we_eng broke_eng up_eng 
+1583.187 1584.417 REB well_eng I_eng broke_eng up_eng with_eng him_eng 
+1584.406 1586.85 REB thank_eng God_eng that_eng was_eng over_eng 
+1586.805 1591.77 REB and_eng _eng the_eng friends_eng that_eng you_eng had_eng when_eng you_eng were_eng fifteen_eng you_eng know_eng people_eng change_eng 
+1591.637 1596.517 REB in_eng four_eng years_eng specially_eng those_eng years_eng from_eng fifteen_eng to_eng nineteen_eng you_eng change_eng a_eng lot_eng 
+1593.759 1597.091 MAT _eng oh_eng yeah_eng definitely_eng 
+1597.08 1601.718 REB and_eng _eng I_eng _eng I_eng tried_eng you_eng know_eng to_eng go_eng back_eng to_eng those_eng old_eng friendships_eng 
+1601.683 1603.152 REB but_eng it_eng wasnt_eng the_eng same_eng 
+1603.115 1604.439 MAT oh_eng I_eng see_eng 
+1603.214 1606.865 REB obviously_eng you_eng cant_eng expect_eng to_eng find_eng the_eng same_eng thing_eng you_eng left_eng four_eng years_eng before_eng 
+1606.879 1607.947 MAT no_eng no_eng no_eng 
+1607.907 1610.316 REB and_eng obviously_eng theres_eng grudges_eng from_eng people_eng you_eng know_eng 
+1610.296 1612.067 REB you_eng leave_eng 
+1612.078 1613.866 REB and_eng 

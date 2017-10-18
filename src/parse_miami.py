@@ -4,10 +4,12 @@
     Date modified: 10/17/2017
     *************************
     process Miami txt files
+    To run:
+        ./parse_miami.py ../data/miami/txt/
 
 """
 
-from collections import defaultdict
+from collections import defaultdict, Counter
 import os, sys, re
 # import math
 # import argparse
@@ -72,19 +74,75 @@ def check_spkr(spkrid, total, i):
         return newid
     return spkrid
 
-        
+# words_list must be 1-dimensional
+def write_words2counts(words_list, outfile):
+    counts = Counter(words_list)
+
+    writer = open(outfile, 'w')
+    for wordfreq in counts:
+        writer.write("{} {}\n".format(counts[wordfreq], wordfreq))
+    writer.close()
+
+def write_spkr_wordfreq(all_data, out_folder_path):
+    for dialog_id, dialog in all_data.items():
+        for spkr in dialog.keys():
+            flat_word_list = [item for sublist in dialog[spkr]['words'] for item in sublist]
+            outfile = os.path.join(out_folder_path,dialog_id+'_'+spkr+'.txt')
+            write_words2counts(flat_word_list, outfile)
+
+
+def write_prior_counts(all_data, outfile):
+    all_words = []
+    for dialog_id, dialog in all_data.items():
+        for spkr in dialog.keys():
+            flat_word_list = [item for sublist in dialog[spkr]['words'] for item in sublist]
+            all_words.extend(flat_word_list)
+    write_words2counts(all_words, outfile)
+
+
+def log_odds_gender(all_data, spkr_tsv, out_folder_path):
+    with open(spkr_tsv) as f:
+        total = {line.split()[0]: line.replace('\n','').split()[1:] for line in f.readlines()[1:]}
+
+    male_words = []
+    female_words = []
+    male_outfile = os.path.join(out_folder_path,'male_freq.txt')
+    female_outfile = os.path.join(out_folder_path,'female_freq.txt')
+
+    for dialog_id, dialog in all_data.items():
+        for spkr in dialog.keys():
+            flat_word_list = [item for sublist in dialog[spkr]['words'] for item in sublist]
+            if total[spkr][1] == 'M':
+                male_words.extend(flat_word_list)
+            else:
+                female_words.extend(flat_word_list)
+    write_words2counts(male_words, male_outfile)
+    write_words2counts(female_words, female_outfile)
 
 if __name__=='__main__':
-    all_data = {}
     data_folder_path = sys.argv[1]
+    out_folder_path = sys.argv[2]
+
+    all_data = {}
+    
     for filename in os.listdir(data_folder_path):
         filename_path = os.path.join(data_folder_path,filename)
         if not filename.endswith('_parsed.txt'): continue #skips 'sastre3'
         dialog_id, dialog_dict = process_one_file(filename_path)
         all_data[dialog_id] = dialog_dict
 
-    # print all_data['sastre10'].keys()
+    # TODO: sort freq highest to lowest (easier to skim count files)
+    # write_spkr_wordfreq(all_data, out_folder_path)
+
+    # prior_counts_file = os.path.join(out_folder_path,'all_prior_counts.txt')
+    # write_prior_counts(all_data, prior_counts_file)
+
+    # spkr_tsv = '../data/spkr_info_1017.tsv'
+    # log_odds_gender(all_data, spkr_tsv, out_folder_path)
+
+
+    #####################
+    # examples of accessing all_data structure
     # print all_data['zeledon8']['FLA']['words'][:20]
     # print len(all_data['zeledon8']['MAR']['time_start'])
-    for key, dialog in all_data.items():
-        print key, len(dialog.keys())
+

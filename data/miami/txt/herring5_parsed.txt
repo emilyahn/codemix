@@ -1,0 +1,721 @@
+0.6 3.21 NOA yo_spa le_spa estaba_spa diciendo_spa que_spa _spa que_spa hay_spa gente_spa que_spa 
+3.28 6.502 NOA yo_spa le_spa estaba_spa diciendo_spa que_spa hay_spa gente_spa que_spa _spa que_spa _spa que_spa lo_spa ve_spa extraño_spa 
+6.962 7.659 MEG qué_spa cosa_spa 
+7.002 7.762 NOA _spa hacer_spa esto_spa 
+8.438 9.918 NOA María_spa que_spa me_spa estaba_spa diciendo_spa que_spa 
+9.517 13.198 MEG _spa bueno_spa porque_spa no_spa a_spa todo_spa el_spa mundo_spa le_spa gusta_spa que_spa lo_spa graben_spa cuando_spa está_spa hablando_spa 
+13.268 16.229 NOA sí_spa pero_spa yo_spa creo_spa que_spa porque_spa no_spa conocen_spa porque_spa no_spa saben_spa que_spa 
+16.223 18.011 NOA no_spa no_spa no_spa sé_spa no_spa sé_spa 
+17.918 19.189 NOA no_spa sé_spa xxx_spa 
+18.908 20.981 NOA no_spa _spa no_spa es_spa tonta_spa ni_spa nada_spa pero_spa 
+21.033 24.121 NOA bueno_spa a_spa mí_spa _spa la_spa verdad_spa que_spa a_spa mí_spa no_spa me_spa gusta_spa mucho_spa tampoco_spa 
+24.084 40.47 MEG el_spa día_spa que_spa _spa que_spa me_spa pidieron_spa que_spa hiciera_spa el_spa _spa el_spa _spa el_spa anuncio_spa _spa la_spa grabación_spa para_spa ese_spa _spa ese_spa anuncio_spa que_spa iban_spa a_spa hacer_spa de_spa _spa de_spa la_spa historia_spa de_spa la_spa señora_spa que_spa tuvo_spa el_spa problema_spa de_spa seguro_spa 
+38.838 39.935 NOA _spa xxx_spa 
+40.759 42.698 MEG e_spa yo_spa no_spa quería_spa hacerlo_spa 
+42.68 46.587 MEG lo_spa hice_spa por_spa _spa lo_spa hice_spa porque_spa mi_spa jefe_spa me_spa dijo_spa que_spa lo_spa tenía_spa que_spa hacer_spa 
+46.606 49.404 MEG y_spa porque_spa no_spa tenía_spa otra_spa alternativa_spa 
+49.389 49.854 MEG pero_spa 
+49.942 50.842 eng_eng did_eng that_eng come_eng out_eng already_eng 
+51.766 54.14 MEG sí_spa _spa sí_spa bueno_spa no_spa porque_spa no_spa lo_spa tengo_spa 
+52.093 53.063 NOA _spa _spa eng_spa but_spa where_spa is_spa it_spa 
+53.028 54.131 NOA xxx_spa 
+54.142 56.052 MEG porque_spa se_spa lo_spa llevaron_spa a_spa España_engspa 
+56.202 58.356 NOA _spa ah_spa pero_spa ya_spa regresaron_spa 
+57.137 57.781 MEG _spa y_spa 
+58.448 59.859 MEG _spa la_spa Caro_engspa no_spa ha_spa regresado_spa 
+59.872 60.986 MEG están_spa de_spa vacaciones_spa 
+60.963 61.596 NOA oh_spa en_spa París_engspa 
+61.59 63.105 MEG hasta_spa mañana_spa _spa mañana_spa 
+63.157 66.791 NOA me_spa dijo_spa _spa yo_spa te_spa dije_spa _spa no_spa te_spa dije_spa que_spa esta_spa muchacha_spa Mary_Smith_engspa 
+66.961 68.749 NOA Mary_Smith_engspa una_spa _spa una_spa chava_spa que_spa viene_spa 
+68.76 74.033 NOA no_spa una_spa chava_spa ella_spa es_spa una_spa señora_spa mayor_spa e_spa que_spa vi_spa vive_spa en_spa Londres_engspa 
+74.06 75.546 NOA se_spa va_spa a_spa mudar_spa a_spa París_engspa 
+75.494 77.363 NOA y_spa ella_spa trabajaba_spa para_spa el_spa Exploratorium_engspa 
+77.337 82.949 NOA pasó_spa como_spa veinticinco_spa años_spa e_spa trabajando_spa para_spa el_spa Exploratorium_engspa allá_spa en_spa California_engspa en_spa San_Francisco_engspa 
+83.076 84.962 NOA no_spa se_spa qué_spa pasó_spa entre_spa ahí_spa 
+84.961 87.562 NOA pero_spa ella_spa terminó_spa en_spa Londres_engspa _spa trabajando_spa en_spa Londres_engspa 
+87.458 89.24 NOA pero_spa no_spa sé_spa si_spa hay_spa museo_spa de_spa ciencia_spa ahí_spa 
+89.231 91.844 NOA y_spa luego_spa ahora_spa se_spa va_spa de_spa Londres_engspa a_spa París_engspa 
+91.824 94.489 NOA me_spa dice_spa que_spa tienen_spa un_spa lugar_spa em_spa 
+94.489 98.393 NOA no_spa sé_spa si_spa lo_spa _spa lo_spa se_spa lo_spa están_spa alquilando_spa bien_spa barato_spa o_spa algo_spa 
+98.411 101.396 NOA y_spa que_spa tienen_spa un_spa cuarto_spa a_spa parte_spa para_spa nosotros_spa 
+101.878 103.817 NOA para_spa llegar_spa xxx_spa 
+102.842 104.92 MEG _spa a_spa sí_spa la_spa semana_spa que_spa viene_spa 
+104.903 106.285 NOA no_spa cuando_spa tú_spa quieras_spa 
+106.261 110.961 NOA cuando_spa tú_spa veas_spa un_spa viernes_spa que_spa yo_spa llegue_spa a_spa buscarte_spa con_spa una_spa maleta_spa atrás_spa 
+111.025 111.606 MEG _spa sí_spa 
+111.763 114.213 NOA ya_spa tú_spa sabes_spa que_spa te_spa vas_spa 
+115.921 116.786 MEG xxx_spa 
+116.455 117.053 NOA pero_spa ella_spa me_spa dice_spa 
+117.0 118.632 NOA _spa sí_spa I_eng _spa I_eng have_eng a_eng room_eng 
+118.699 121.938 MEG um_spa y_spa no_spa lo_spa al_spa _spa lo_spa alquila_spa _spa no_spa lo_spa 
+122.214 123.16 NOA no_spa xxx_spa 
+122.539 123.195 MEG _spa sí_spa seguro_spa 
+123.172 123.7 MEG no_spa 
+123.67 125.98 NOA ella_spa no_spa porque_spa es_spa un_spa apartamento_spa no_spa 
+125.934 128.122 MEG no_spa pero_spa tal_spa vez_spa consigue_spa un_spa roommate_eng 
+126.681 127.651 NOA _spa xxx_spa un_spa roommate_eng 
+127.964 130.031 NOA ella_spa está_spa un_spa poco_spa verde_spa para_spa 
+129.577 132.328 NOA sí_spa un_spa poco_spa cómo_spa se_spa diría_spa 
+132.265 133.165 MEG madura_spa 
+133.154 134.849 NOA madura_spa laugh_spa 
+134.081 138.876 MEG _spa no_spa por_spa qué_spa puede_spa conseguir_spa ahí_spa a_spa otra_spa señora_spa que_spa esté_spa en_spa las_spa mismas_spa condiciones_spa 
+138.504 139.032 NOA no_spa sé_spa 
+138.862 141.079 NOA no_spa _spa ella_spa no_spa ne_spa _spa no_spa tiene_spa necesidad_spa 
+141.161 141.799 MEG ah_spa bueno_spa 
+141.827 143.563 NOA no_spa tiene_spa necesidad_spa 
+143.516 145.118 MEG um_spa 
+145.034 146.735 NOA yo_spa creo_spa que_spa siempre_spa ha_spa sido_spa soltera_spa 
+146.7 147.281 NOA digo_spa yo_spa 
+147.269 148.041 NOA no_spa sé_spa 
+148.03 149.475 NOA yo_spa creo_spa que_spa siempre_spa ha_spa sido_spa soltera_spa 
+149.455 151.922 MEG y_spa qué_spa pasó_spa al_spa fin_spa con_spa la_spa de_spa México_engspa 
+152.015 153.542 MEG con_spa la_spa xxx_spa 
+152.648 155.341 NOA _spa ah_spa yo_spa te_spa dije_spa pero_spa te_spa estabas_spa durmiendo_spa 
+155.598 156.875 NOA ella_spa me_spa dijo_spa 
+156.846 162.901 NOA mandó_spa un_spa email_eng diciendo_spa que_spa le_spa había_spa _spa que_spa había_spa otra_spa persona_spa en_spa la_spa dirección_spa en_spa lugar_spa de_spa ella_spa 
+162.848 167.747 MEG uhuh_eng pero_spa que_spa estaban_spa tratando_spa de_spa poner_spa el_spa museo_spa como_spa una_spa entidad_spa a_spa parte_spa no_spa 
+167.669 167.977 NOA _spa no_spa 
+167.867 168.662 NOA todos_spa los_spa museos_spa 
+168.644 169.974 NOA es_spa que_spa ellos_spa dividen_spa los_spa museos_spa 
+169.919 174.104 NOA están_spa museo_spa de_spa las_spa ciencias_spa museo_spa de_spa la_spa luz_spa y_spa otros_spa dos_spa 
+174.064 174.528 MEG um_spa 
+174.498 176.466 NOA debe_spa ser_spa un_spa complejo_spa muy_spa grande_spa 
+176.567 178.041 NOA entonces_spa ella_spa está_spa viendo_spa 
+178.186 182.488 NOA ella_spa estaba_spa _spa ella_spa estaba_spa en_spa la_spa dirección_spa de_spa Universon_engspa 
+182.497 185.411 NOA que_spa no_spa _spa no_spa sé_spa si_spa en_spa eso_spa quiere_spa decir_spa que_spa son_spa todos_spa 
+185.389 187.275 NOA yo_spa creo_spa que_spa eso_spa quiere_spa decir_spa que_spa son_spa todos_spa 
+186.915 187.275 MEG um_spa 
+187.089 189.689 NOA está_spa en_spa Universon_engspa porque_spa tú_spa vas_spa a_spa la_spa página_spa de_spa Universon_engspa 
+189.737 200.216 NOA y_spa luego_spa hay_spa eh_spa _spa hay_spa donde_spa uno_spa puede_spa apachar_spa para_spa ver_spa eh_spa el_spa _spa el_spa de_spa la_spa luz_spa el_spa de_spa las_spa ciencias_spa las_spa diferentes_spa 
+197.784 198.939 MEG _spa de_spa las_spa diferentes_spa 
+200.356 203.96 NOA entonces_spa ella_spa está_spa viendo_spa si_spa le_spa _spa si_spa lo_spa separan_spa 
+203.932 206.242 NOA y_spa ponen_spa todos_spa los_spa museos_spa bajo_spa de_spa ella_spa 
+206.205 211.621 NOA y_spa lo_spa que_spa me_spa quiso_spa enten_spa _spa e_spa _spa a_spa dar_spa a_spa entender_spa que_spa la_spa dirección_spa general_spa está_spa como_spa aglomerada_spa 
+211.677 215.519 NOA que_spa no_spa sólo_spa están_spa los_spa museos_spa bajo_spa la_spa dirección_spa esa_spa sino_spa otros_spa 
+215.485 216.361 NOA otras_spa cosas_spa 
+215.984 217.836 MEG _spa otras_spa cosas_spa que_spa no_spa son_spa museos_spa 
+217.232 218.317 NOA _spa que_spa no_spa son_spa museos_spa 
+218.31 220.29 NOA entonces_spa ella_spa viendo_spa que_spa si_spa le_spa dan_spa los_spa museos_spa a_spa ella_spa 
+220.278 223.186 MEG pero_spa entonces_spa ella_spa tenía_spa la_spa dirección_spa de_spa todo_spa antes_spa 
+222.606 223.256 NOA _spa parece_spa 
+223.819 224.852 MEG um_spa 
+224.79 227.292 NOA parece_spa _spa parece_spa que_spa hubo_spa xxx_spa 
+226.916 232.286 MEG y_spa si_spa le_spa dan_spa los_spa museos_spa estaría_spa reportando_spa a_spa la_spa persona_spa que_spa está_spa ahora_spa en_spa esa_spa posición_spa 
+231.594 232.325 NOA _spa no_spa sé_spa 
+232.302 234.217 NOA o_spa _spa o_spa _spa o_spa le_spa dan_spa la_spa otra_spa parte_spa 
+234.107 236.139 NOA y_spa le_spa dejan_spa a_spa ella_spa en_spa paz_spa 
+234.107 236.139 MEG um_spa 
+238.969 240.861 NOA es_spa que_spa eso_spa es_spa una_spa ciudad_spa ahí_spa adentro_spa 
+240.846 242.524 eng_eng uhuh_eng 
+242.503 245.161 NOA xxx_spa es_spa la_spa Unam_engspa 
+245.155 247.118 MEG ah_spa todo_spa es_spa parte_spa de_spa la_spa universidad_spa 
+246.845 248.342 NOA _spa todo_spa es_spa parte_spa de_spa la_spa universidad_spa 
+248.337 249.567 MEG um_spa 
+249.61 254.387 NOA por_spa eso_spa es_spa que_spa queda_spa un_spa poco_spa raro_spa la_spa forma_spa en_spa que_spa está_spa organizado_spa 
+254.919 261.258 NOA entonces_spa nada_spa pero_spa entonces_spa pero_spa me_spa dijo_spa que_spa no_spa _spa que_spa no_spa tenga_spa pena_spa que_spa allá_spa _spa con_spa mucho_spa gusto_spa llegan_spa ella_spa e_spa Edith_engspa 
+261.248 265.457 NOA yo_spa _spa me_spa dio_spa a_spa entender_spa según_spa como_spa leí_spa yo_spa que_spa era_spa ella_spa e_spa Edith_eng 
+265.271 266.467 NOA xxx_spa 
+266.403 266.983 eng_eng uhuh_eng 
+266.972 268.174 eng_eng so_eng I_eng dont_eng know_eng 
+268.156 269.346 eng_eng I_eng hope_eng 
+269.355 271.3 NOA eso_spa es_spa en_spa octubre_spa 
+271.3 274.249 MEG en_spa octubre_spa que_spa te_spa vas_spa qué_spa una_spa semana_spa 
+273.9 276.257 NOA _spa en_spa octubre_spa no_spa unos_spa cuatro_spa días_spa nada_spa más_spa 
+276.287 278.992 NOA cuatro_spa días_spa 
+278.958 281.396 eng_eng I_eng thought_eng you_eng were_eng watching_eng the_eng movie_eng 
+282.801 283.509 eng_eng yeah_eng 
+285.329 287.751 eng_eng yeah_eng I_eng wanted_eng to_eng watch_eng it_eng together_eng but_eng its_eng alright_eng 
+286.002 290.39 MEG _spa Lilian_engspa bueno_spa pero_spa en_spa tu_spa cuarto_spa porque_spa Lilian_engspa está_spa viendo_spa la_spa otra_spa película_spa 
+290.219 292.274 NOA _spa sabes_spa qué_spa Antonio_engspa pon_spa el_spa calentador_spa 
+297.172 300.185 NOA qué_spa te_spa iba_spa a_spa decir_spa este_spa 
+301.032 302.629 NOA qué_spa estaba_spa diciendo_spa yo_spa 
+302.868 304.128 MEG que_spa tengo_spa hambre_spa 
+304.029 305.974 NOA laugh_spa qué_spa quieres_spa comer_spa 
+306.808 308.294 NOA quieres_spa ir_spa a_spa buscar_spa algo_spa o_spa 
+308.382 312.022 MEG bueno_spa será_spa eso_spa o_spa pasta_spa porque_spa 
+311.976 313.473 NOA no_spa no_spa quiero_spa más_spa pasta_spa 
+313.341 315.582 NOA pasta_spa a_spa la_spa noche_spa no_spa es_spa bueno_spa 
+313.48 314.037 MEG _spa pero_spa 
+315.653 317.076 NOA o_spa sea_spa no_spa es_spa malo_spa pero_spa 
+316.588 319.554 MEG _spa si_spa pero_spa yo_spa a_spa esta_spa hora_spa no_spa voy_spa a_spa poner_spa a_spa cocinar_spa algo_spa 
+318.882 320.745 NOA _spa no_spa te_spa digo_spa que_spa tienes_spa que_spa cocinar_spa 
+320.743 327.132 MEG por_spa eso_spa te_spa digo_spa que_spa o_spa salimos_spa a_spa buscar_spa algo_spa o_spa hago_spa pasta_spa porque_spa pasta_spa es_spa rápido_spa 
+327.113 329.22 NOA tal_spa vez_spa una_spa sopa_spa de_spa plátanos_spa 
+329.232 331.234 NOA no_spa 
+331.234 332.75 MEG y_spa los_spa niños_spa 
+332.616 334.16 NOA sopa_spa de_spa plátano_spa 
+334.155 337.354 NOA qué_spa más_spa te_spa iba_spa a_spa decir_spa 
+338.615 339.422 eng_eng Chicken_eng Kitchen_eng 
+339.66 341.586 NOA ah_spa Chicken_eng Kitchen_eng thats_eng a_eng good_eng idea_eng 
+343.318 344.804 eng_eng thats_eng a_eng good_eng idea_eng 
+345.248 346.437 NOA y_spa qué_spa estaba_spa diciendo_spa yo_spa 
+346.362 350.652 MEG del_spa _spa de_spa la_spa señora_spa del_spa museo_spa de_spa México_engspa 
+351.241 353.558 MEG que_spa te_spa dijo_spa que_spa sí_spa era_spa xxx_spa 
+352.559 353.429 NOA _spa si_spa xxx_spa 
+353.383 354.468 NOA son_spa como_spa cuatro_spa días_spa 
+355.646 361.507 NOA pero_spa allí_spa _spa no_spa sé_spa si_spa me_spa quedo_spa con_spa Jessica_engspa o_spa 
+361.46 362.308 NOA por_spa qué_spa 
+362.299 367.15 NOA su_spa familia_spa que_spa tiene_spa que_spa tiene_spa que_spa ver_spa Jessica_engspa 
+367.214 370.47 NOA Antonio_engspa take_eng a_eng shower_eng as_eng soon_eng as_eng the_eng _spa like_eng in_eng fifteen_eng minutes_eng ok_eng 
+371.235 372.773 eng_eng I_eng want_eng you_eng to_eng go_eng with_eng me_eng to_eng get_eng some_eng 
+372.75 373.94 NOA bueno_spa no_engspa take_eng a_eng shower_eng 
+373.94 374.869 eng_eng Ill_eng go_eng by_eng myself_eng 
+375.545 377.223 eng_eng Ill_eng just_eng get_eng some_eng chicken_eng kitchen_eng later_eng 
+380.29 381.98 eng_eng yeah_eng yeah_eng 
+382.068 383.571 MEG pero_spa tienes_spa que_spa bañarte_spa antes_spa 
+383.205 384.094 NOA _spa báñate_spa mejor_spa 
+384.065 384.459 NOA báñate_spa 
+384.43 385.777 NOA y_spa vienes_spa _spa y_spa vienes_spa conmigo_spa 
+389.03 390.852 NOA tu_spa crees_spa que_spa entendió_spa lo_spa que_spa le_spa acabo_spa de_spa decir_spa 
+390.8 392.675 MEG sí_spa lo_spa _spa lo_spa que_spa no_spa le_spa pareció_spa 
+392.693 393.447 NOA ah_spa 
+393.477 394.603 NOA no_spa quiere_spa ir_spa _spa en_spa la_spa piyama_spa 
+394.619 395.704 MEG no_spa se_spa quiere_spa bañar_spa 
+395.727 397.353 NOA ah_spa 
+397.242 399.791 NOA báñate_spa bien_spa 
+400.268 407.397 MEG Mirna_engspa quería_spa venir_spa porque_spa pensó_spa que_spa si_spa venía_spa a_spa hacer_spa esto_spa le_spa iban_spa a_spa pagar_spa 
+407.385 409.121 NOA pero_spa sí_spa le_spa pagan_spa 
+409.095 410.953 MEG sí_spa pero_spa con_spa quién_spa va_spa a_spa hablar_spa 
+410.953 411.696 NOA no_spa sé_spa 
+411.78 414.3 NOA laugh_spa pero_spa tú_spa crees_spa que_spa habla_spa suficiente_spa español_spa para_spa hacerlo_spa 
+414.266 415.178 MEG no_spa 
+415.903 416.727 NOA yo_spa le_spa dije_spa 
+416.714 417.637 MEG _spa dio_spa 
+417.591 418.804 NOA yo_spa le_spa dije_spa 
+418.81 420.494 NOA qué_spa más_spa 
+420.53 422.957 MEG y_spa porque_spa tienes_spa que_spa ser_spa en_spa español_spa 
+423.085 423.81 NOA no_spa creo_spa 
+423.866 425.044 NOA tiene_spa que_spa ser_spa bilingües_spa 
+425.016 430.095 NOA pero_spa yo_spa honestamente_spa no_spa pienso_spa que_spa una_spa persona_spa _spa que_spa ellos_spa son_spa bilingües_spa 
+430.601 431.693 NOA en_spa el_spa sentido_spa 
+431.702 434.012 MEG que_spa Antonio_engspa y_spa _spa y_spa _spa y_spa Diego_engspa son_spa bilingües_spa 
+433.745 435.992 NOA no_spa creo_spa que_spa son_spa bilingües_spa 
+434.694 435.68 MEG no_spa 
+436.22 441.91 MEG no_spa porque_spa _spa porque_spa entender_spa _spa medio_spa entender_spa o_spa medio_spa leer_spa algo_spa no_spa quiere_spa decir_spa que_spa sean_spa bilingües_spa 
+436.417 436.853 NOA _spa que_spa la_spa ge_spa 
+441.26 441.974 NOA _spa por_spa eso_spa yo_spa digo_spa 
+441.953 445.122 NOA yo_spa no_spa tengo_spa _spa ese_spa no_spa es_spa el_spa concepto_spa mío_spa del_spa bilin_spa bilingüalismo_spa 
+446.788 451.09 MEG pero_spa si_spa nosotros_spa grabamos_spa todo_spa en_spa español_spa qué_spa tiene_spa que_spa ver_spa con_spa _spa con_spa ser_spa bilingüe_spa 
+451.101 451.856 eng_eng I_eng dont_eng know_eng 
+451.836 452.904 eng_eng I_eng dont_eng know_eng 
+452.898 453.827 eng_eng he_eng didnt_eng tell_eng me_eng 
+456.156 457.764 eng_eng they_eng didnt_eng explain_eng 
+458.39 469.576 eng_eng it_eng might_eng have_eng _eng it_eng might_eng have_eng _eng it_eng might_eng have_eng something_eng to_eng do_eng with_eng the_eng something_eng else_eng that_eng has_eng to_eng do_eng with_eng an_eng attribute_eng of_eng bilingual_eng people_eng 
+469.657 475.88 eng_eng that_eng doesnt_eng necessarily_eng have_eng to_eng be_eng _eng do_eng with_eng the_eng actual_eng language_eng that_eng theyre_eng speaking_eng but_eng 
+475.745 476.808 eng_eng I_eng dont_eng know_eng cadence_eng 
+476.802 477.249 eng_eng I_eng dont_eng know_eng 
+477.217 479.226 eng_eng I_eng _eng I_eng cant_eng imagine_eng because_eng I_eng 
+477.995 482.14 MEG _spa o_spa hacer_spa lo_spa que_spa estás_spa haciendo_spa que_spa tú_spa hablas_spa en_spa inglés_spa y_spa yo_spa te_spa contesto_spa en_spa español_spa 
+482.148 483.506 NOA o_spa algo_spa así_spa pero_spa no_spa creo_spa 
+483.495 485.3 NOA la_spa verdad_spa es_spa que_spa no_spa creo_spa 
+486.345 487.883 NOA yo_spa lo_spa estoy_spa haciendo_spa interesante_spa 
+487.767 488.731 MEG um_spa 
+488.88 492.08 NOA a_spa que_spa estudien_spa xxx_spa laugh_spa 
+489.769 494.094 MEG _spa y_spa tú_spa crees_spa que_spa podemos_spa laugh_spa tú_spa crees_spa que_spa podemos_spa hablar_spa por_spa treinta_spa minutos_spa 
+494.116 496.374 NOA si_spa tú_spa no_spa _spa es_spa que_spa tú_spa no_spa hablas_spa 
+496.351 497.204 NOA yo_spa hablo_spa 
+497.204 497.901 NOA tú_spa no_spa hablas_spa 
+497.733 503.405 MEG yo_spa hablo_spa cuando_spa _spa cuando_spa hay_spa algo_spa que_spa algún_spa tema_spa que_spa a_spa mí_spa me_spa interesa_spa 
+503.38 503.85 MEG yo_spa hablo_spa 
+503.839 507.066 MEG pero_spa a_spa ti_spa te_spa desespera_spa cuando_spa yo_spa hablo_spa porque_spa quieres_spa que_spa me_spa apure_spa 
+507.105 509.503 MEG no_spa te_spa gusta_spa cuando_spa yo_spa empiezo_spa a_spa 
+507.204 508.998 NOA _spa no_spa no_spa no_spa no_spa no_spa no_spa no_spa no_spa 
+509.335 509.898 NOA es_spa que_spa 
+509.526 511.332 MEG _spa no_spa déjame_spa hablar_spa 
+511.268 516.774 MEG que_spa a_spa ti_spa no_spa te_spa gusta_spa cuando_spa yo_spa empiezo_spa a_spa dar_spa detalles_spa y_spa a_spa contar_spa y_spa esto_spa y_spa el_spa otro_spa 
+516.782 517.746 MEG tú_spa quieres_spa el_spa punto_spa 
+517.757 520.303 MEG tú_spa quieres_spa que_spa te_spa dé_spa las_spa bullet_eng points_eng 
+520.286 523.223 MEG y_spa que_spa te_spa diga_spa ta_spa ta_spa ta_spa esto_spa es_spa así_spa 
+523.24 524.819 MEG y_spa ya_spa 
+525.727 526.563 NOA no_spa es_spa eso_spa 
+526.557 529.268 NOA es_spa cuando_spa _spa cuando_spa quieres_spa decir_spa algo_spa 
+529.233 530.371 NOA primero_spa me_spa dices_spa 
+530.307 531.404 NOA _spa se_spa mató_spa 
+531.328 535.746 NOA y_spa luego_spa empieza_spa como_spa fue_spa que_spa llegó_spa a_spa matarse_spa 
+532.437 533.702 MEG _spa no_spa porque_spa entonces_spa 
+535.9 537.874 NOA ya_spa que_spa me_spa dijiste_spa que_spa se_spa mató_spa 
+537.965 541.57 NOA huy_spa chica_spa me_spa _spa no_spa me_spa tienes_spa _spa me_spa tienes_spa que_spa decir_spa cómo_spa se_spa murió_spa 
+538.285 538.836 MEG _spa no_spa 
+541.568 542.502 NOA y_spa tú_spa también_spa eres_spa así_spa 
+542.35 546.861 MEG pero_spa eso_spa es_spa _spa pero_spa eso_spa es_spa parte_spa del_spa _spa del_spa _spa de_spa la_spa narración_spa 
+542.456 543.611 NOA _spa _spa no_spa dime_spa no_spa dime_spa 
+547.477 550.675 MEG que_spa tú_spa vas_spa creando_spa como_spa un_spa suspenso_spa 
+550.477 553.054 MEG para_spa que_spa te_spa pongan_spa atención_spa porque_spa 
+550.704 553.067 NOA _spa xxx_spa no_spa quiero_spa no_spa quiero_spa el_spa suspenso_spa 
+553.049 555.609 MEG entonces_spa ahora_spa yo_spa de_spa ahora_spa en_spa adelante_spa no_spa se_spa los_spa digo_spa 
+555.613 560.308 MEG _spa fulano_spa se_spa mató_spa e_spa porque_spa se_spa descalabró_spa en_spa la_spa motocicleta_spa 
+560.27 560.996 MEG ya_spa 
+560.642 563.15 NOA _spa y_spa entonces_spa yo_spa te_spa voy_spa pidiendo_spa los_spa datos_spa 
+563.974 571.62 MEG pero_spa yo_spa siento_spa que_spa no_spa te_spa va_spa a_spa interesar_spa porque_spa a_spa veces_spa cuando_spa yo_spa te_spa cuento_spa cosas_spa que_spa me_spa interesan_spa a_spa mí_spa yo_spa te_spa veo_spa la_spa cara_spa que_spa a_spa ti_spa no_spa te_spa interesa_spa 
+571.595 574.683 MEG y_spa que_spa estás_spa sólo_spa escuchando_spa sólo_spa por_spa educación_spa 
+574.631 575.235 NOA no_spa 
+575.218 578.585 MEG es_spa que_spa cuando_spa comiences_spa con_spa Lorenzo_engspa a_spa veces_spa no_spa me_spa interesa_spa 
+578.6 581.334 MEG pero_spa ese_spa es_spa mi_spa trabajo_spa es_spa parte_spa de_spa mi_spa vida_spa 
+581.317 584.289 MEG yo_spa paso_spa ahí_spa nueve_spa horas_spa del_spa día_spa 
+585.674 594.48 MEG y_spa te_spa lo_spa _spa y_spa te_spa lo_spa cuento_spa porque_spa quiero_spa compartir_spa algo_spa que_spa _spa que_spa hago_spa yo_spa durante_spa la_spa mayor_spa parte_spa de_spa mi_spa día_spa que_spa es_spa importante_spa para_spa mí_spa 
+594.444 596.295 MEG yo_spa te_spa lo_spa quiero_spa compartir_spa 
+595.117 595.924 NOA _spa pero_spa e_spa 
+596.266 597.567 MEG y_spa a_spa ti_spa no_spa te_spa interesa_spa 
+597.457 600.012 NOA pero_spa muchas_spa veces_spa a_spa ti_spa tampoco_spa te_spa interesa_spa lo_spa mío_spa 
+597.457 600.012 MEG _spa entonces_spa después_spa qué_spa te_spa voy_spa a_spa contar_spa 
+599.948 602.003 MEG que_spa vine_spa aquí_spa a_spa cocinar_spa 
+601.989 603.225 MEG que_spa vine_spa a_spa lavar_spa ropa_spa 
+603.237 605.141 MEG que_spa le_spa di_spa la_spa comida_spa al_spa gato_spa 
+605.1 606.772 MEG que_spa e_spa 
+606.782 608.837 NOA no_spa pero_spa hay_spa otras_spa cosas_spa por_spa ejemplo_spa 
+608.814 617.697 NOA número_spa uno_spa cuando_spa yo_spa te_spa _spa te_spa he_spa llevado_spa al_spa museo_spa y_spa te_spa he_spa mostrado_spa un_spa trabajo_spa que_spa haya_spa hecho_spa a_spa veces_spa te_spa interesa_spa a_spa veces_spa como_spa que_spa 
+620.584 625.732 MEG si_spa pero_spa yo_spa no_spa te_spa interrumpo_spa cuando_spa tú_spa me_spa empieces_spa a_spa contar_spa cosas_spa por_spa ejemplo_spa de_spa _spa de_spa estas_spa xxx_spa 
+625.032 627.232 NOA _spa no_spa estoy_spa hablando_spa de_spa interrumpir_spa 
+627.203 628.555 NOA estoy_spa hablando_spa de_spa interés_spa 
+627.871 630.42 MEG _spa o_spa de_spa a_spa _spa o_spa de_spa a_spa tampoco_spa te_spa apuro_spa 
+630.408 635.338 MEG aunque_spa no_spa me_spa interese_spa aunque_spa no_spa me_spa interese_spa yo_spa no_spa te_spa voy_spa a_spa decir_spa 
+635.201 637.244 MEG _spa bueno_spa y_spa entonces_spa y_spa 
+637.245 639.486 MEG _spa _spa eng_spa yeah_spa whats_spa the_spa point_spa e_spa 
+639.454 640.61 MEG como_spa me_spa dices_spa tú_spa 
+640.596 644.531 MEG tú_spa a_spa veces_spa no_spa me_spa dejas_spa ni_spa siquiera_spa contarte_spa la_spa historia_spa 
+645.019 646.888 MEG tú_spa siempre_spa me_spa estás_spa apresurando_spa 
+645.019 647.294 NOA _spa yo_spa sí_spa te_spa dejo_spa contar_spa xxx_spa historia_spa 
+646.766 647.283 MEG _spa no_spa 
+649.573 650.432 NOA yo_spa a_spa veces_spa pregunto_spa 
+650.397 652.284 NOA pero_spa tú_spa te_spa pones_spa brava_spa que_spa yo_spa pregunte_spa 
+652.054 655.705 MEG _spa porque_spa déjame_spa contarte_spa déjame_spa contarte_spa la_spa 
+654.387 657.371 NOA _spa pero_spa no_spa es_spa algo_spa fuera_spa del_spa normal_spa que_spa te_spa pregunte_spa 
+657.312 658.763 NOA no_spa es_spa fuera_spa del_spa normal_spa 
+657.887 660.655 MEG _spa no_spa pero_spa no_spa es_spa que_spa me_spa preguntes_spa 
+660.648 665.717 MEG es_spa que_spa a_spa veces_spa tú_spa hasta_spa con_spa las_spa manos_spa tú_spa haces_spa así_spa para_spa que_spa yo_spa me_spa apure_spa 
+665.723 667.075 NOA porque_spa quiero_spa saber_spa 
+665.971 668.339 MEG _spa como_spa sacándomelo_spa con_spa cuchara_spa 
+668.119 668.461 NOA _spa no_spa 
+668.45 669.988 NOA pero_spa no_spa es_spa por_spa apurarte_spa 
+669.988 672.531 NOA es_spa por_spa querer_spa saber_spa cómo_spa termina_spa la_spa cosa_spa 
+673.394 676.308 NOA qué_spa tiene_spa que_spa ver_spa _spa porque_spa me_spa interesa_spa saber_spa cómo_spa termina_spa 
+676.754 682.123 MEG _spa bueno_spa pero_spa entonces_spa ten_spa _spa ten_spa impaciencia_spa porque_spa cuando_spa tú_spa vas_spa a_spa ver_spa una_spa película_spa de_spa dos_spa horas_spa no_spa estás_spa ahí_spa desesperado_spa para_spa ver_spa cómo_spa termina_spa 
+677.41 677.892 NOA _spa ah_spa no_spa 
+682.289 684.344 NOA por_spa favor_spa yo_spa te_spa cuento_spa de_spa lo_spa que_spa yo_spa estoy_spa leyendo_spa _spa un_spa libro_spa 
+684.321 685.697 NOA y_spa estás_spa dormida_spa en_spa dos_spa minutos_spa 
+685.54 686.476 NOA y_spa yo_spa no_spa me_spa enojo_spa 
+685.541 687.201 MEG _spa porque_spa tú_spa lees_spa libros_spa aburridos_spa 
+687.12 688.368 NOA _spa no_spa hombre_spa 
+688.34 689.118 MEG laugh_spa 
+689.322 691.963 NOA no_spa son_spa cosas_spa muy_spa interesantes_spa 
+690.004 692.158 MEG _spa no_spa pero_spa 
+691.946 698.58 MEG a_spa parte_spa es_spa que_spa tú_spa me_spa cuentes_spa algo_spa a_spa las_spa diez_spa de_spa la_spa mañana_spa a_spa me_spa lo_spa cuentas_spa a_spa las_spa once_spa de_spa la_spa noche_spa que_spa ideas_spa no_spa aguanto_spa más_spa 
+699.283 700.276 NOA no_spa estás_spa bien_spa 
+700.27 702.894 NOA y_spa cuando_spa yo_spa empiezo_spa a_spa hablar_spa se_spa te_spa va_spa la_spa onda_spa 
+703.259 704.101 MEG no_spa estoy_spa bien_spa 
+704.112 708.147 MEG porque_spa cuando_spa yo_spa me_spa acuesto_spa en_spa la_spa cama_spa ya_spa en_spa cinco_spa minutos_spa estoy_spa del_spa otro_spa lado_spa 
+708.221 710.032 NOA y_spa eso_spa porque_spa está_spa en_spa negro_spa ahí_spa otra_spa vez_spa 
+710.035 711.951 MEG porque_spa se_spa quedó_spa en_spa negro_spa 
+711.951 713.379 MEG y_spa nunca_spa lo_spa arreglamos_spa 
+712.45 713.437 NOA _spa no_spa no_spa yo_spa lo_spa pinté_spa 
+713.465 714.608 MEG _spa no_spa lo_spa pintaste_spa 
+714.626 716.158 MEG y_spa lo_spa que_spa pintaste_spa fue_spa allá_spa 
+717.457 723.586 MEG cuando_spa se_spa salió_spa el_spa agua_spa del_spa _spa del_spa aire_spa condicionado_spa se_spa manchó_spa allá_spa 
+723.301 724.874 MEG pero_spa esto_spa es_spa lo_spa del_spa baño_spa 
+724.825 726.131 NOA yo_spa puse_spa Killz_engspa ahí_spa 
+726.636 727.844 MEG tú_spa pusiste_spa qué_spa 
+727.874 728.774 NOA Killz_engspa 
+728.762 730.823 NOA es_spa un_spa producto_spa contra_spa el_spa moho_spa 
+730.692 732.441 MEG a_spa aquí_spa 
+730.935 732.247 NOA _spa yawn_spa 
+732.27 733.408 eng_eng uhuh_eng 
+734.955 737.346 NOA es_spa una_spa lata_spa que_spa tira_spa para_spa arriba_spa 
+739.244 740.039 MEG no_spa sé_spa 
+739.326 740.969 NOA tal_spa vez_spa siguieron_spa creciendo_spa 
+740.926 742.772 MEG no_spa creo_spa que_spa siguieron_spa creciendo_spa 
+742.715 744.283 MEG pero_spa la_spa mancha_spa se_spa quedó_spa 
+744.305 745.942 MEG eso_spa hay_spa que_spa pintarlo_spa o_spa arreglarlo_spa 
+750.384 751.847 NOA entonces_spa 
+753.455 754.796 NOA quiero_spa ganarme_spa mi_spa plata_spa 
+754.796 755.405 NOA hable_spa 
+755.214 756.218 NOA dime_spa algo_spa 
+756.374 757.681 MEG em_spa 
+758.385 766.915 MEG bueno_spa ahora_spa tenemos_spa que_spa repensar_spa qué_spa vamos_spa a_spa hacer_spa con_spa los_spa dos_spa mil_spa dólares_spa menos_spa que_spa estamos_spa recibiendo_spa del_spa _spa del_spa income_eng tax_eng 
+766.856 768.923 NOA hay_spa _spa no_spa hay_spa _spa no_spa hay_spa xxx_spa cuatro_spa mil_spa 
+769.17 770.734 NOA yo_spa estaba_spa esperando_spa tres_spa mil_spa 
+769.173 770.862 MEG _spa yo_spa pensé_spa que_spa 
+771.669 773.811 MEG yo_spa pensé_spa que_spa iban_spa a_spa ser_spa cuatro_spa mil_spa 
+773.503 775.355 NOA _spa no_spa el_spa año_spa pasado_spa era_spa tres_spa mil_spa trecientos_spa 
+775.379 776.459 MEG um_spa 
+776.575 778.392 NOA este_spa lo_spa que_spa vamos_spa a_spa hacer_spa es_spa pagar_spa la_spa tarjeta_spa 
+778.388 779.363 NOA qué_spa tú_spa crees_spa que_spa hay_spa que_spa repensar_spa 
+779.34 780.507 NOA no_spa hay_spa nada_spa que_spa repensar_spa 
+780.493 783.918 MEG no_spa porque_spa habíamos_spa pensado_spa hacer_spa el_spa baño_spa hacer_spa el_spa techo_spa 
+783.418 785.177 NOA _spa ah_spa no_spa eso_spa es_spa para_spa pagar_spa la_spa tarjeta_spa 
+785.708 787.217 NOA yo_spa digo_spa que_spa hay_spa que_spa pagar_spa las_spa tarjetas_spa 
+787.205 788.697 NOA y_spa _spa y_spa aguantarse_spa 
+788.685 791.948 NOA yo_spa el_spa baño_spa lo_spa voy_spa haciendo_spa según_spa lo_spa que_spa pueda_spa 
+791.93 794.206 NOA si_spa _spa si_spa saco_spa todo_spa ahí_spa 
+794.19 795.642 NOA compro_spa el_spa toilet_eng 
+795.648 796.391 NOA y_spa lo_spa instalo_spa yo_spa 
+796.385 797.911 NOA son_spa ciento_spa ciento_spa cincuenta_spa pesos_spa 
+797.906 804.11 NOA si_spa lo_spa voy_spa haciendo_spa yo_spa pedazo_spa a_spa pedazo_spa no_spa nos_spa va_spa a_spa salir_spa en_spa _spa en_spa _spa en_spa diez_spa mil_spa pesos_spa con_spa lo_spa que_spa piden_spa la_spa gente_spa este_spa dos_spa mil_spa pesos_spa para_spa un_spa baño_spa 
+806.672 808.738 NOA es_spa la_spa mano_spa de_spa obra_spa lo_spa que_spa más_spa cuesta_spa 
+809.11 812.622 NOA acabo_spa de_spa ahorrar_spa los_spa dos_spa mil_spa pesos_spa ya_spa fue_spa pintando_spa yo_spa 
+813.869 815.25 NOA nada_spa hay_spa que_spa pagar_spa las_spa tarjetas_spa 
+815.198 815.883 NOA digo_spa yo_spa 
+815.868 817.563 NOA hay_spa que_spa pagar_spa todas_spa las_spa deudas_spa 
+817.545 819.043 MEG si_spa 
+819.334 820.443 NOA no_spa quiero_spa estar_spa en_spa deuda_spa 
+819.45 822.405 MEG _spa pero_spa no_spa es_spa sólo_spa pagar_spa sino_spa que_spa dejar_spa de_spa gastar_spa también_spa 
+821.702 823.868 NOA _spa xxx_spa no_spa me_spa ves_spa gastando_spa 
+823.839 824.982 NOA yo_spa estoy_spa aquí_spa todos_spa los_spa días_spa 
+827.023 832.847 NOA menos_spa mañana_spa que_spa voy_spa a_spa ir_spa a_spa un_spa _spa a_spa _spa a_spa ver_spa una_spa película_spa en_spa Miami_Beach_engspa en_spa xxx_spa 
+832.818 834.664 NOA se_spa llama_spa The_King_of_engspa 
+832.89 834.701 MEG _spa con_spa quién_spa 
+834.626 835.137 NOA sólo_spa 
+835.143 835.99 NOA no_spa es_spa una_spa película_spa 
+835.967 836.809 NOA es_spa un_spa documental_spa 
+836.78 837.964 NOA se_spa llama_spa The_King_of_Corn_engspa 
+837.95 838.931 MEG solo_spa 
+839.14 839.877 NOA sí_spa voy_spa solo_spa 
+839.871 840.945 NOA nadie_spa quiere_spa ir_spa conmigo_spa 
+841.475 842.404 NOA yo_spa te_spa invitaría_spa 
+842.416 842.979 NOA pero_spa no_spa 
+842.909 843.188 NOA tú_spa dices_spa 
+843.223 844.651 NOA _spa ah_spa eso_spa es_spa bueno_spa eso_spa no_spa no_spa 
+845.116 846.771 NOA _spa qué_spa voy_spa a_spa hacer_spa con_spa los_spa niños_spa 
+848.98 851.656 NOA es_spa de_spa lo_spa que_spa está_spa _spa de_spa lo_spa que_spa se_spa trata_spa 
+851.656 854.982 NOA el_spa primer_spa _spa la_spa primera_spa parte_spa del_spa libro_spa que_spa leí_spa sobre_spa Omnivoress_spa Dilemma_engspa 
+855.092 855.655 MEG _spa _spa eng_spa mmhm_spa 
+855.522 856.259 NOA es_spa eso_spa 
+856.215 858.31 NOA la_spa industria_spa del_spa 
+858.293 858.856 MEG maíz_spa 
+858.873 860.673 NOA del_spa maíz_spa en_spa este_spa país_spa 
+860.639 862.137 NOA y_spa los_spa efectos_spa negativos_spa 
+861.481 862.16 MEG xxx_spa 
+862.16 870.125 NOA y_spa cómo_spa _spa cómo_spa _spa cómo_spa la_spa industria_spa del_spa maíz_spa es_spa equivalente_spa a_spa _spa a_spa cierta_spa parte_spa de_spa la_spa obesidad_spa en_spa este_spa país_spa 
+870.813 874.407 MEG ah_spa hoy_spa estaba_spa leyendo_spa en_spa una_spa noticia_spa que_spa salió_spa en_spa el_spa periódico_spa 
+874.366 875.364 MEG creo_spa que_spa del_spa Perú_engspa 
+875.711 881.655 MEG que_spa _spa que_spa _spa para_spa 
+884.492 895.368 MEG parece_spa que_spa el_spa precio_spa del_spa _spa del_spa trigo_spa está_spa tan_spa alto_spa para_spa hacer_spa pan_spa que_spa ahora_spa están_spa haciendo_spa pan_spa de_spa _spa de_spa harina_spa de_spa papas_spa 
+895.322 896.599 eng_eng oh_eng my_eng god_eng 
+896.523 897.65 NOA que_spa rico_spa la_spa harina_spa de_spa papa_spa 
+896.724 901.205 MEG _spa porque_spa sale_spa más_spa _spa sí_spa pero_spa sale_spa más_spa barato_spa que_spa hacer_spa harina_spa de_spa trigo_spa 
+901.444 907.365 NOA no_spa y_spa la_spa _spa y_spa también_spa _spa no_spa hubo_spa una_spa _spa una_spa _spa un_spa molote_spa por_spa el_spa precio_spa de_spa las_spa tortillas_spa 
+907.65 908.954 MEG pero_spa eso_spa fue_spa en_spa México_engspa 
+908.96 910.841 NOA en_spa México_engspa por_spa eso_spa por_spa el_spa maíz_spa también_spa 
+910.815 913.34 MEG sí_spa pero_spa no_spa puedes_spa hacer_spa tortillas_spa de_spa papas_spa 
+913.178 913.567 NOA no_spa 
+914.968 918.242 NOA pero_spa que_spa te_spa iba_spa a_spa decir_spa ah_spa me_spa tienes_spa que_spa dar_spa plata_spa porque_spa necesito_spa pesetas_spa 
+918.569 921.408 NOA para_spa el_spa _spa el_spa meter_eng 
+918.569 921.408 eng_eng mmhm_eng 
+921.411 922.688 MEG yo_spa te_spa di_spa 
+921.713 922.45 NOA _spa que_spa me_spa dijo_spa _spa 
+922.735 924.395 MEG yo_spa te_spa xxx_spa el_spa otro_spa día_spa 
+924.395 925.196 NOA el_spa otro_spa día_spa 
+925.517 926.934 MEG que_spa hiciste_spa xxx_spa 
+926.353 928.199 NOA eso_spa de_spa café_spa en_spa café_spa me_spa lo_spa tomo_spa 
+928.18 929.428 NOA es_spa e_spa _spa es_spa cierto_spa 
+929.457 931.24 NOA tengo_spa como_spa un_spa peso_spa cincuenta_spa en_spa pesetas_spa 
+931.211 932.639 NOA es_spa que_spa necesito_spa más_spa por_spa si_spa acaso_spa 
+933.596 935.872 MEG pero_spa ahora_spa lo_spa puedes_spa pagar_spa con_spa la_spa tarjeta_spa no_spa 
+935.88 937.192 NOA yo_spa no_spa voy_spa a_spa poner_spa mi_spa tarjeta_spa 
+936.089 937.122 MEG _spa xxx_spa 
+937.116 938.817 NOA yo_spa e_spa lo_spa hice_spa una_spa vez_spa y_spa no_spa 
+940.455 941.825 NOA prefiero_spa pesetas_spa o_spa un_spa peso_spa 
+942.504 944.205 NOA en_spa esa_spa cosa_spa azul_spa tú_spa dices_spa 
+945.735 947.621 NOA comenzando_spa con_spa no_spa sé_spa si_spa hay_spa de_spa eso_spa ahí_spa 
+947.633 948.173 eng_eng uhuh_eng 
+948.346 951.463 NOA pero_spa María_engspa me_spa dijo_spa ya_spa dónde_spa puedo_spa estacionarme_spa 
+951.475 953.644 NOA cerca_spa de_spa ahí_spa yo_spa le_spa enseñé_spa dónde_spa era_spa la_spa puerta_spa 
+953.244 955.659 MEG _spa es_spa que_spa son_spa dos_spa horas_spa no_spa más_spa o_spa menos_spa xxx_spa 
+955.094 956.412 NOA dice_spa ocho_spa y_spa media_spa a_spa diez_spa y_spa media_spa 
+956.459 957.776 NOA pero_spa yo_spa no_spa me_spa imagino_spa que_spa son_spa dos_spa 
+957.753 959.059 NOA bueno_spa puede_spa ser_spa 
+959.049 961.237 MEG un_spa documental_spa de_spa dos_spa horas_spa 
+961.423 962.067 NOA te_spa voy_spa a_spa enseñar_spa 
+961.875 968.133 NOA its_eng in_eng the_eng Miami_eng _spa Miami_eng Cinematic_engspa _spa Miami_Beach_engspa Cinematic_engspa _spa Cinematic_engspa se_spa llama_spa 
+968.482 969.568 NOA Cinematec_engspa 
+969.603 973.08 NOA ah_spa lo_spa voy_spa a_spa decir_spa a_spa este_spa tipo_spa tal_spa vez_spa quiere_spa ir_spa conmigo_spa 
+973.1 975.184 NOA o_spa lo_spa dejamos_spa ahí_spa con_spa los_spa niños_spa 
+975.275 976.036 MEG ya_spa si_spa 
+976.045 977.827 NOA laugh_spa 
+978.367 979.098 NOA no_spa 
+979.051 979.795 MEG no_spa 
+982.525 984.843 NOA dejaste_spa la_spa _spa la_spa _spa la_spa computadora_spa ahí_spa arriba_spa 
+984.826 986.19 MEG sí_spa la_spa apagué_spa 
+986.175 990.046 NOA ah_spa pero_spa este_spa no_spa sé_spa si_spa le_spa interesa_spa porque_spa eso_spa _spa eso_spa tiene_spa que_spa ver_spa con_spa los_spa Estados_Unidos_spa verdad_spa 
+989.571 990.232 MEG _spa qué_spa cosa_spa 
+990.116 991.701 NOA el_spa _spa lo_spa _spa lo_spa del_spa maíz_spa 
+994.04 997.221 MEG no_spa pero_spa si_spa no_spa tiene_spa nada_spa más_spa que_spa hacer_spa tal_spa vez_spa 
+997.198 999.682 MEG y_spa cuánto_spa es_spa que_spa _spa que_spa cuesta_spa la_spa entrada_spa 
+999.677 1000.472 NOA diez_spa pesos_spa 
+1000.632 1004.881 MEG diez_spa dólares_spa por_spa ver_spa un_spa documental_spa _spa de_spa dos_spa horas_spa 
+1003.981 1005.322 NOA _spa a_spa ver_spa qué_spa te_spa pasa_spa man_spa 
+1005.269 1008.543 NOA ah_spa tú_spa sabes_spa qué_spa van_spa a_spa dar_spa ahí_spa que_spa sí_spa quiero_spa que_spa vienes_spa _spa que_spa vengas_spa conmigo_spa 
+1008.527 1010.002 NOA los_spa shorts_eng 
+1010.334 1014.566 NOA los_spa _spa los_spa shorts_spa _spa the_eng shorts_eng films_eng que_spa _spa que_spa nominaron_spa para_spa los_spa Oscars_engspa 
+1014.564 1016.602 NOA casi_spa todos_spa son_spa de_spa otros_spa países_spa 
+1016.567 1018.343 NOA lo_spa van_spa a_spa dar_spa uno_spa tras_spa el_spa otro_spa 
+1018.308 1019.104 eng_eng mmhm_eng 
+1019.022 1021.042 NOA son_spa como_spa quince_spa veinte_spa minutos_spa cada_spa uno_spa 
+1021.013 1022.465 NOA y_spa son_spa como_spa cuatro_spa o_spa cinco_spa 
+1022.445 1024.5 NOA y_spa lo_spa van_spa a_spa dar_spa ahí_spa todo_spa en_spa una_spa noche_spa 
+1024.558 1026.392 NOA the_eng shorts_eng _spa the_eng Oscar_engspa shorts_eng 
+1025.048 1025.373 eng_eng mmhm_eng 
+1026.319 1028.304 NOA creo_spa que_spa es_spa el_spa veintinueve_spa de_spa marzo_spa 
+1028.85 1030.121 NOA you_eng know_eng _spa ahora_spa le_spa voy_spa a_spa enseñar_spa 
+1030.098 1030.974 NOA eso_spa sí_spa que_spa quisiera_spa 
+1030.951 1032.077 NOA y_spa eso_spa son_spa sólo_spa diez_spa pesos_spa 
+1032.45 1033.843 NOA y_spa son_spa bonitas_spa 
+1033.808 1036.658 NOA yo_spa estaba_spa viendo_spa los_spa clips_eng que_spa dan_spa cuando_spa _spa los_spa que_spa pusieron_spa los_spa Oscars_engspa 
+1036.71 1037.36 NOA bonito_spa bonito_spa 
+1037.553 1038.302 MEG _spa pero_spa qué_spa son_spa 
+1038.203 1039.324 MEG de_spa _spa sobre_spa qué_spa 
+1039.321 1041.428 NOA diferentes_spa cosas_spa son_spa 
+1042.466 1043.859 MEG cómo_spa historias_spa cortas_spa 
+1043.836 1044.736 NOA _spa historias_spa cortas_spa 
+1045.041 1046.759 NOA pero_spa son_spa muñequitos_spa 
+1046.748 1048.588 NOA pero_spa diferentes_spa tipos_spa de_spa muñequitos_spa 
+1049.894 1052.547 NOA la_spa animación_spa es_spa completamente_spa diferente_spa una_spa de_spa la_spa otra_spa 
+1052.871 1054.955 NOA una_spa de_spa Rusia_engspa una_spa de_spa xxx_spa 
+1054.781 1055.797 NOA pero_spa son_spa muy_spa bonitas_spa 
+1057.333 1059.156 MEG ahí_spa mismo_spa en_spa ese_spa lugar_spa 
+1059.115 1059.701 NOA en_spa ese_spa lugar_spa 
+1059.713 1061.646 NOA voy_spa a_spa ver_spa si_spa busco_spa un_spa _spa un_spa pamphlet_eng o_spa algo_spa 
+1061.623 1062.325 NOA y_spa vamos_spa 
+1062.946 1064.734 NOA veo_spa cómo_spa es_spa la_spa cosa_spa 
+1064.749 1066.763 NOA eso_spa sí_spa quiero_spa verlo_spa también_spa 
+1066.762 1068.765 NOA hay_spa cosas_spa que_spa hacer_spa en_spa _spa en_spa _spa en_spa esta_spa ciudad_spa 
+1068.712 1069.937 NOA si_spa uno_spa sabe_spa buscar_spa 
+1069.13 1070.628 MEG _spa sí_spa no_spa que_spa hay_spa que_spa hacer_spa 
+1070.601 1071.019 MEG hay_spa que_spa hacer_spa 
+1071.002 1076.46 MEG lo_spa que_spa pasa_spa es_spa que_spa cuando_spa tienes_spa niños_spa tienes_spa que_spa buscar_spa alguien_spa que_spa te_spa cuida_spa a_spa los_spa niños_spa 
+1076.452 1080.25 MEG si_spa no_spa tienes_spa alguien_spa que_spa te_spa los_spa cuide_spa de_spa _spa gratis_spa tienes_spa que_spa pagar_spa 
+1080.11 1083.019 MEG y_spa sale_spa caro_spa pagarle_spa a_spa alguien_spa que_spa te_spa cuide_spa tus_spa niños_spa 
+1083.005 1084.253 NOA hablando_spa de_spa eso_spa 
+1084.406 1088.754 NOA ya_spa tenemos_spa que_spa mañana_spa _spa llamar_spa a_spa 
+1088.724 1090.802 NOA llamamos_spa nosotros_spa 
+1091.101 1093.725 NOA o_spa dejamos_spa que_spa Antonio_engspa pide_spa que_spa es_spa por_spa ejemplo_spa Antonio_engspa 
+1093.551 1094.079 MEG _spa a_spa Juanita_engspa 
+1094.161 1097.15 NOA si_spa Antonio_engspa se_spa iba_spa a_spa quedar_spa con_spa Sebastian_engspa 
+1097.136 1099.586 MEG y_spa Ann_engspa también_spa se_spa puede_spa quedar_spa ahí_spa no_spa 
+1099.478 1100.818 NOA _spa y_spa _spa y_spa Lilian_engspa 
+1100.81 1102.517 MEG donde_spa Carlita_engspa 
+1102.419 1103.615 NOA xxx_spa entonces_spa tiene_spa xxx_spa 
+1103.244 1105.246 MEG _spa o_spa tal_spa vez_spa sea_spa esa_spa ilusión_spa de_spa Carla_engspa 
+1105.608 1108.772 NOA ellas_spa están_spa _spa ellas_spa dos_spa estaban_spa tramando_spa de_spa hace_spa un_spa _spa de_spa julio_spa 
+1110.293 1113.167 MEG um_spa yo_spa no_spa creo_spa que_spa _spa que_spa dejen_spa bueno_spa 
+1113.478 1114.174 NOA pero_spa lo_spa que_spa pasa_spa 
+1113.554 1123.227 MEG _spa pero_spa el_spa otro_spa día_spa que_spa _spa que_spa supuestamente_spa el_spa fin_spa de_spa semana_spa era_spa e_spa dormir_spa donde_spa Jenny_engspa por_spa su_spa cumpleaños_spa la_spa mamá_spa dijo_spa que_spa no_spa porque_spa ella_spa había_spa sacado_spa malas_spa notas_spa 
+1121.819 1123.601 NOA _spa por_spa eso_spa _spa por_spa eso_spa 
+1123.722 1126.188 NOA no_spa es_spa seguro_spa con_spa esa_spa mujer_spa por_spa eso_spa no_spa quiero_spa hacerlo_spa ya_spa 
+1126.177 1126.891 MEG sí_spa 
+1128.854 1131.826 NOA bueno_spa e_spa e_spa entonces_spa tú_spa llama_spa a_spa la_spa otra_spa entonces_spa y_spa a_spa la_spa Juanita_engspa 
+1131.82 1133.77 NOA para_spa asegurar_spa el_spa negocio_spa 
+1135.628 1136.069 NOA sí_spa 
+1136.015 1136.421 MEG si_spa 
+1136.352 1137.508 NOA lo_spa llamo_spa yo_spa 
+1137.513 1139.841 MEG a_spa ti_spa no_spa te_spa dicen_spa que_spa no_spa 
+1139.864 1140.741 NOA no_spa me_spa dicen_spa que_spa no_spa 
+1140.741 1141.472 MEG no_spa 
+1141.71 1143.66 MEG tú_spa eres_spa charming_eng 
+1144.288 1146.239 NOA Juanita_engspa no_spa me_spa dice_spa que_spa no_spa pero_spa 
+1146.221 1147.278 MEG Paula_engspa tampoco_spa 
+1147.275 1148.582 NOA no_spa sé_spa no_spa sé_spa 
+1148.577 1150.945 NOA esa_spa Paula_engspa no_spa _spa no_spa me_spa para_spa bolas_spa 
+1150.841 1151.694 MEG cómo_spa no_spa 
+1151.66 1154.354 MEG siempre_spa es_spa ay_spa Noah_engspa no_spa sé_spa que_spa 
+1153.681 1155.301 NOA laugh_spa jamás_spa 
+1155.324 1155.893 MEG sí_spa 
+1155.867 1156.97 NOA cuándo_spa tú_spa has_spa visto_spa que_spa 
+1157.011 1159.228 MEG ella_spa siempre_spa es_spa amable_spa contigo_spa 
+1158.776 1160.111 NOA _spa esa_spa paleta_spa está_spa de_spa lado_spa 
+1161.035 1161.923 NOA está_spa de_spa lado_spa xxx_spa 
+1161.569 1162.974 MEG _spa todas_spa son_spa de_spa lado_spa 
+1162.874 1165.265 NOA pero_spa están_spa de_spa lado_spa esta_spa _spa estas_spa 
+1165.242 1165.828 MEG está_spa 
+1165.924 1168.392 MEG no_spa ahora_spa no_spa lo_spa hagas_spa niño_spa 
+1168.351 1169.918 MEG se_spa va_spa 
+1169.889 1171.526 MEG eso_spa está_spa bien_spa 
+1172.024 1174.195 MEG deja_spa deja_spa que_spa eso_spa va_spa a_spa soltar_spa polvo_spa 
+1174.125 1175.037 NOA yo_spa lo_spa veo_spa más_spa de_spa lado_spa 
+1175.031 1175.942 MEG _spa por_spa favor_spa 
+1176.217 1177.46 NOA no_spa va_spa a_spa soltar_spa más_spa 
+1177.413 1178.406 NOA yo_spa lo_spa limpio_spa 
+1179.217 1181.661 NOA yo_spa me_spa paré_spa ahí_spa a_spa limpiar_spa el_spa día_spa que_spa limpié_spa toda_spa esta_spa casa_spa 
+1182.197 1183.289 NOA qué_spa te_spa iba_spa a_spa decir_spa 
+1183.289 1185.976 NOA no_spa esa_spa gente_spa no_spa me_spa para_spa bolas_spa 
+1186.291 1188.311 NOA tal_spa vez_spa la_spa Juanita_engspa porque_spa la_spa pobre_spa 
+1190.141 1192.016 NOA mal_spa servicio_spa sí_spa alguno_spa 
+1193.044 1195.169 NOA y_spa me_spa ve_spa ahí_spa trabajando_spa y_spa con_spa los_spa niños_spa y_spa eso_spa 
+1195.146 1197.48 NOA le_spa da_spa cosa_spa porque_spa son_spa mujeres_spa 
+1198.319 1199.271 NOA no_spa es_spa cierto_spa 
+1199.268 1200.458 MEG _spa y_spa la_spa otra_spa no_spa igual_spa 
+1200.44 1201.775 MEG la_spa otra_spa está_spa sola_spa igual_spa 
+1204.384 1206.485 NOA pero_spa la_spa otra_spa yo_spa creo_spa que_spa se_spa mueve_spa más_spa 
+1207.918 1208.643 NOA trabaja_spa 
+1208.626 1210.489 NOA y_spa tiene_spa la_spa _spa la_spa mamá_spa ahí_spa 
+1212.313 1214.293 NOA debe_spa tener_spa quien_spa le_spa dé_spa amor_spa 
+1217.743 1219.751 NOA xxx_spa 
+1222.6 1224.672 NOA ese_spa Mauricio_engspa no_spa la_spa vuelve_spa a_spa mirar_spa ni_spa a_spa 
+1224.989 1226.348 MEG tú_spa le_spa dijiste_spa a_spa Mauricio_engspa 
+1226.348 1227.05 NOA no_spa 
+1227.055 1228.906 NOA no_spa eso_spa es_spa un_spa muchacho_spa 
+1228.755 1232.267 NOA Mauricio_engspa tiene_spa otro_spa concepto_spa completamente_spa 
+1232.36 1234.844 NOA ah_spa hablando_spa de_spa Mauricio_engspa estábamos_spa mirando_spa 
+1234.818 1236.443 NOA e_spa Lilian_engspa e_spa puso_spa 
+1236.431 1237.772 NOA no_spa sé_spa dónde_spa lo_spa encontró_spa 
+1237.752 1243.096 NOA una_spa _spa una_spa página_spa electrónica_spa parecida_spa a_spa la_spa que_spa yo_spa busqué_spa en_spa Washington_engspa para_spa ver_spa dónde_spa ir_spa a_spa pasar_spa el_spa rato_spa 
+1243.71 1248.227 NOA y_spa decía_spa ahí_spa los_spa lugares_spa donde_spa se_spa puede_spa ir_spa a_spa escuchar_spa a_spa música_spa latina_spa y_spa bailar_spa 
+1248.599 1251.983 NOA estaba_spa l_spa _spa hoy_spa como_spa ayer_spa _spa que_spa es_spa que_spa los_spa dos_spa queremos_spa ir_spa a_spa ver_spa cómo_spa es_spa 
+1253.14 1259.416 NOA eh_spa Bungles_engspa que_spa se_spa convierte_spa en_spa _spa en_spa cosa_spa de_spa baile_spa después_spa de_spa no_spa sé_spa qué_spa hora_spa 
+1259.404 1260.147 MEG _spa La_Covacha_engspa 
+1260.141 1261.755 NOA y_spa La_Coacha_engspa 
+1261.749 1262.341 NOA entonces_spa yo_spa le_spa dije_spa 
+1262.329 1265.186 NOA _spa bueno_spa yo_spa no_spa sé_spa la_spa Coacha_engspa porque_spa dice_spa Teresa_engspa 
+1263.99 1264.831 MEG _spa Covacha_engspa 
+1264.698 1265.859 NOA Covacha_engspa 
+1265.487 1265.94 MEG sí_spa 
+1266.273 1266.807 NOA y_spa yo_spa le_spa dije_spa 
+1266.813 1270.522 NOA _spa yo_spa no_spa sé_spa pero_spa a_spa mí_spa me_spa parece_spa que_spa eso_spa es_spa para_spa ir_spa a_spa buscar_spa 
+1270.58 1271.991 MEG levante_spa 
+1271.979 1273.953 NOA yo_spa leí_spa en_spa inglés_spa que_spa es_spa para_spa hunting_eng 
+1273.882 1274.874 NOA es_spa for_eng hunting_eng 
+1274.851 1277.411 NOA que_spa ahí_spa va_spa a_spa cazar_spa mi_spa _spa mi_spa amigo_spa Mauricio_engspa 
+1277.37 1280.827 NOA a_spa ver_spa si_spa se_spa la_spa prestan_spa laugh_spa 
+1280.844 1282.075 MEG a_spa quién_spa le_spa dijiste_spa eso_spa 
+1282.075 1283.044 NOA a_spa Teresa_engspa 
+1282.075 1283.044 eng_eng mmhm_eng 
+1283.061 1284.147 NOA yeah_spa 
+1284.166 1287.8 NOA y_spa no_spa sé_spa si_spa _spa si_spa Lilian_spa me_spa _spa me_spa hizo_spa mucho_spa caso_spa 
+1287.791 1290.606 MEG y_spa Teresa_engspa no_spa tiene_spa una_spa amiga_spa soltera_spa 
+1290.618 1292.121 MEG recomendable_spa 
+1292.123 1292.849 NOA para_spa 
+1292.849 1294.77 MEG para_spa Mauricio_engspa 
+1294.747 1295.432 NOA no_spa lo_spa sé_spa 
+1295.335 1298.881 NOA es_spa que_spa yo_spa no_spa le_spa puedo_spa echar_spa nadie_spa a_spa Mauricio_engspa porque_spa después_spa quedo_spa mal_spa 
+1298.434 1298.934 eng_eng mmhm_eng 
+1300.536 1302.979 MEG sí_spa cuando_spa le_spa _spa la_spa xxx_spa le_spa de_spa vueltas_spa 
+1302.968 1304.03 MEG y_spa después_spa la_spa deja_spa 
+1304.03 1304.309 NOA no_spa 
+1304.303 1305.743 NOA es_spa que_spa él_spa no_spa trata_spa de_spa darle_spa vueltas_spa 
+1305.66 1307.907 NOA él_spa trata_spa de_spa _spa de_spa _spa de_spa _spa de_spa ser_spa claro_spa 
+1307.622 1312.464 NOA trata_spa en_spa lo_spa posible_spa de_spa darle_spa impresión_spa de_spa que_spa él_spa no_spa 
+1313.342 1316.83 NOA pero_spa todas_spa las_spa mujeres_spa aunque_spa están_spa viendo_spa que_spa el_spa hombre_spa dice_spa 
+1315.967 1319.757 MEG _spa pero_spa cómo_spa es_spa que_spa el_spa dice_spa _spa el_spa dice_spa que_spa no_spa quiere_spa ningún_spa compromiso_spa 
+1319.664 1320.349 eng_eng mmhm_eng 
+1320.64 1326.823 MEG pero_spa en_spa el_spa fondo_spa él_spa quiere_spa encontrar_spa a_spa alguien_spa con_spa quien_spa compartir_spa su_spa vida_spa o_spa no_spa 
+1326.893 1329.268 MEG o_spa pretende_spa quedarse_spa soltero_spa el_spa resto_spa de_spa su_spa vida_spa 
+1329.256 1329.807 NOA xxx_spa 
+1329.3 1329.666 MEG _spa no_spa 
+1329.654 1332.301 MEG yo_spa creo_spa que_spa él_spa quiere_spa u_spa encontrar_spa alguien_spa no_spa 
+1332.852 1333.897 NOA yo_spa creo_spa que_spa él_spa 
+1333.92 1334.588 NOA no_spa sé_spa 
+1334.545 1340.936 MEG pero_spa si_spa comienza_spa con_spa que_spa no_spa quiere_spa nada_spa con_spa nadie_spa entonces_spa nunca_spa va_spa a_spa encontrar_spa a_spa nadie_spa que_spa vale_spa la_spa pena_spa 
+1340.306 1341.002 NOA _spa es_spa que_spa ya_spa está_spa 
+1340.963 1344.893 NOA mira_spa Mauricio_engspa él_spa ha_spa siempre_spa ha_spa sido_spa como_spa de_spa mente_spa como_spa de_spa persona_spa mayor_spa 
+1344.959 1346.126 NOA de_spa _spa de_spa xxx_spa 
+1346.085 1346.602 MEG _spa y_spa 
+1346.555 1349.411 NOA y_spa ahora_spa que_spa ya_spa está_spa medio_spa maduro_spa peor_spa todavía_spa 
+1347.937 1348.425 MEG sí_spa 
+1349.696 1352.738 NOA él_spa está_spa muy_spa _spa muy_spa acostumbrado_spa a_spa lo_spa de_spa él_spa 
+1352.887 1355.888 MEG sí_spa pero_spa eso_spa no_spa es_spa _spa eso_spa no_spa quiere_spa decir_spa 
+1355.871 1358.338 MEG él_spa _spa él_spa lo_spa que_spa tiene_spa que_spa hacer_spa es_spa ponerse_spa claro_spa 
+1358.29 1359.172 MEG qué_spa es_spa lo_spa que_spa quiere_spa 
+1359.155 1364.133 MEG quiere_spa seguir_spa de_spa picaflor_spa hasta_spa que_spa sea_spa un_spa viejo_spa verde_spa sólo_spa saliendo_spa con_spa una_spa 
+1363.268 1366.066 NOA _spa no_spa un_spa viejo_spa verde_spa que_spa eso_spa es_spa _spa es_spa discriminación_spa 
+1366.056 1366.572 MEG bueno_spa 
+1366.578 1368.558 MEG un_spa viejo_spa picaflor_spa 
+1368.519 1369.918 NOA _spa picaflor_spa todo_spa el_spa mundo_spa tiene_spa derecho_spa 
+1369.083 1378.645 MEG _spa o_spa o_spa quiere_spa eventualmente_spa encontrar_spa a_spa alguien_spa con_spa quien_spa el_spa quiere_spa casarse_spa y_spa formar_spa un_spa _spa una_spa familia_spa 
+1378.63 1382.444 MEG pero_spa entonces_spa claro_spa que_spa _spa que_spa se_spa defina_spa qué_spa es_spa lo_spa que_spa quiere_spa 
+1382.424 1386.842 MEG no_spa es_spa que_spa la_spa primer_spa mujer_spa que_spa se_spa le_spa va_spa a_spa cruzar_spa por_spa enfrente_spa se_spa va_spa a_spa casar_spa con_spa él_spa 
+1386.833 1391.204 MEG y_spa no_spa quiere_spa decir_spa tampoco_spa que_spa a_spa los_spa tres_spa meses_spa de_spa estar_spa saliendo_spa con_spa alguien_spa que_spa se_spa va_spa a_spa casar_spa 
+1391.275 1400.444 MEG pero_spa que_spa tenga_spa la_spa mente_spa abierta_spa que_spa no_spa sale_spa ese_spa pánico_spa que_spa le_spa da_spa que_spa _spa que_spa solamente_spa de_spa mencionar_spa la_spa palabra_spa matrimonio_spa se_spa friquea_spa 
+1400.81 1402.453 NOA no_spa creo_spa que_spa se_spa friquea_spa 
+1402.711 1403.739 NOA yo_spa no_spa creo_spa que_spa se_spa friquea_spa 
+1403.716 1408.773 NOA pero_spa no_spa quiero_spa _spa no_spa quiere_spa estar_spa _spa no_spa quiere_spa que_spa lo_spa estén_spa jodiendo_spa 
+1408.763 1410.238 NOA no_spa quiere_spa aguantar_spa locura_spa 
+1409.483 1412.055 MEG _spa ah_spa bueno_spa si_spa no_spa quiere_spa que_spa le_spa están_spa jodiendo_spa que_spa no_spa se_spa case_spa 
+1412.054 1413.134 NOA no_spa quiere_spa 
+1413.117 1414.51 NOA por_spa qué_spa tú_spa me_spa jodes_spa 
+1414.504 1417.644 MEG porque_spa tú_spa siempre_spa dices_spa que_spa así_spa es_spa que_spa yo_spa te_spa jodo_spa mucho_spa 
+1417.969 1419.99 NOA yo_spa jamás_spa te_spa he_spa dicho_spa que_spa tú_spa 
+1419.386 1420.152 MEG _spa pero_spa lo_spa piensas_spa 
+1420.434 1423.197 NOA laugh_spa 
+1420.945 1423.296 MEG _spa y_spa yo_spa _spa y_spa yo_spa te_spa leo_spa la_spa _spa la_spa mente_spa 
+1423.293 1425.36 MEG acuérdate_spa que_spa yo_spa sé_spa leer_spa la_spa mente_spa 
+1424.53 1425.012 NOA _spa sí_spa 
+1425.192 1426.422 NOA ajá_spa ajá_spa ajá_spa 
+1425.726 1426.242 MEG sí_spa 
+1426.742 1427.386 NOA el_spa medium_eng 
+1427.947 1429.363 NOA cómo_spa se_spa llama_spa la_spa chava_spa esa_spa 
+1428.028 1428.957 MEG _spa mmhm_eng medium_eng rare_eng 
+1429.394 1430.213 eng_eng medium_eng rare_eng 
+1430.195 1431.612 NOA cómo_spa se_spa llama_spa la_spa chava_spa esa_spa 
+1431.687 1432.256 MEG Alison_engspa 
+1432.268 1433.179 NOA Alison_engspa 
+1433.177 1434.059 NOA Alison_engspa Plaza_engspa 
+1434.03 1435.011 eng_eng mmhm_eng 
+1434.959 1435.713 eng_eng mmhm_eng 
+1440.115 1441.096 NOA xxx_spa 
+1441.979 1443.297 NOA seguro_spa que_spa xxx_spa 
+1442.571 1443.604 MEG _spa xxx_spa 
+1443.122 1445.943 NOA y_spa seguro_spa que_spa xxx_spa 
+1446.274 1447.279 MEG _spa ah_spa sí_spa 
+1446.419 1448.033 NOA xxx_spa nombre_spa 
+1448.806 1449.741 NOA choca_spa carro_spa 
+1449.717 1451.604 NOA a_spa saber_spa que_spa xxx_spa 
+1451.924 1453.881 NOA porque_spa él_spa debe_spa gozar_spa de_spa eso_spa 
+1454.206 1455.332 NOA xxx_spa 
+1455.319 1456.341 MEG _spa muy_spa lindo_spa 
+1460.891 1463.376 NOA pues_spa sí_spa han_spa pasado_spa xxx_spa 
+1463.457 1464.252 MEG no_spa sé_spa 
+1464.189 1466.522 MEG no_spa vi_spa qué_spa hora_spa era_spa cuando_spa comenzamos_spa 
+1467.338 1468.569 NOA en_spa número_spa 
+1469.921 1470.484 NOA a_spa ver_spa 
+1472.581 1473.063 NOA sí_spa 
+1473.057 1474.2 NOA a_spa ver_spa 
+1476.387 1480.323 NOA creo_spa que_spa aquí_spa dice_spa _spa veintiuno_spa 
+1480.35 1483.165 NOA pero_spa no_spa sé_spa si_spa se_spa está_spa cambiando_spa ese_spa número_spa 
+1484.175 1485.063 NOA no_spa sé_spa _spa no_spa sé_spa 
+1487.007 1488.307 MEG e_spa 
+1491.706 1493.813 NOA nunca_spa hablamos_spa _spa tanto_spa 
+1493.798 1499.336 MEG por_spa es_spa _spa por_spa eso_spa lo_spa que_spa te_spa digo_spa que_spa tú_spa crees_spa que_spa tenemos_spa suficiente_spa de_spa qué_spa hablar_spa para_spa llenar_spa treinta_spa minutos_spa 
+1499.314 1500.44 NOA pero_spa eso_spa no_spa es_spa triste_spa 
+1500.417 1501.694 MEG _spa sí_spa es_spa triste_spa 
+1502.981 1504.171 NOA pero_spa por_spa qué_spa no_spa tenemos_spa 
+1502.987 1506.391 MEG _spa no_spa tenemos_spa de_spa qué_spa hablar_spa 
+1503.881 1505.796 NOA pues_spa porque_spa somos_spa feos_spa 
+1505.795 1507.612 NOA o_spa que_spa somos_spa 
+1506.23 1509.348 MEG _spa no_spa sé_spa si_spa es_spa porque_spa llega_spa un_spa punto_spa en_spa que_spa 
+1512.953 1516.965 MEG no_spa creo_spa que_spa no_spa sea_spa que_spa no_spa tengamos_spa de_spa qué_spa hablar_spa 
+1517.294 1520.881 MEG sino_spa que_spa vamos_spa seleccionando_spa las_spa cosas_spa 
+1520.86 1523.815 MEG o_spa deseleccionando_spa las_spa cosas_spa que_spa creemos_spa que_spa el_spa otro_spa 
+1523.815 1526.067 MEG por_spa lo_spa menos_spa eso_spa es_spa lo_spa que_spa me_spa pasa_spa a_spa mí_spa 
+1526.312 1528.884 MEG que_spa ya_spa yo_spa sé_spa qué_spa cosas_spa que_spa a_spa ti_spa no_spa te_spa interesan_spa 
+1528.967 1532.044 MEG entonces_spa digo_spa yo_spa para_spa qué_spa se_spa _spa para_spa qué_spa voy_spa a_spa hablar_spa de_spa eso_spa 
+1532.138 1539.287 MEG para_spa qué_spa se_spa lo_spa voy_spa a_spa decir_spa si_spa es_spa como_spa que_spa si_spa se_spa los_spa estoy_spa diciendo_spa a_spa una_spa silla_spa porque_spa ni_fu_ni_fa_spa 
+1539.078 1540.843 NOA de_spa repente_spa me_spa interesa_spa 
+1540.834 1542.82 MEG no_spa porque_spa ya_spa yo_spa he_spa tratado_spa 
+1542.75 1544.445 MEG y_spa no_spa te_spa interesa_spa entonces_spa para_spa qué_spa 
+1543.712 1545.094 NOA _spa qué_spa cosa_spa a_spa ver_spa dime_spa un_spa ejemplo_spa 
+1544.814 1550.105 MEG como_spa cosas_spa del_spa trabajo_spa por_spa ejemplo_spa que_spa yo_spa sé_spa que_spa en_spa cuanto_spa te_spa empiezo_spa a_spa contar_spa que_spa de_spa la_spa convención_spa 
+1549.622 1559.239 MEG o_spa te_spa empiezo_spa a_spa contar_spa que_spa de_spa _spa de_spa _spa del_spa un_spa proyecto_spa que_spa estoy_spa haciendo_spa algo_spa así_spa _spa es_spa como_spa que_spa se_spa te_spa va_spa la_spa atención_spa por_spa ahí_spa 
+1559.168 1560.591 MEG y_spa entonces_spa mmhm_eng mmhm_eng 
+1560.486 1564.99 MEG y_spa entonces_spa en_spa cualquier_spa en_spa _spa en_spa cuanto_spa tienes_spa la_spa oportunidad_spa se_spa cambia_spa el_spa tema_spa 
+1567.183 1569.29 MEG entonces_spa después_spa digo_spa yo_spa xxx_spa 
+1569.296 1573.435 NOA _spa pero_spa hay_spa otras_spa cosas_spa sobre_spa qué_spa hablar_spa la_spa filosofía_spa la_spa política_spa 
+1573.681 1575.666 MEG sí_spa pero_spa una_spa no_spa siempre_spa está_spa 
+1575.687 1580.006 MEG por_spa ejemplo_spa _spa por_spa ejemplo_spa yo_spa no_spa siempre_spa estoy_spa de_spa como_spa de_spa humor_spa 
+1579.979 1583.491 MEG para_spa hablar_spa de_spa cosas_spa así_spa ekstraktas_spa _spa abstractas_spa 
+1584.086 1591.874 MEG a_spa veces_spa quiero_spa kon_spa _spa quiero_spa contarte_spa de_spa lo_spa que_spa me_spa está_spa pasando_spa de_spa lo_spa que_spa me_spa preocupa_spa o_spa de_spa lo_spa que_spa me_spa emociona_spa o_spa de_spa lo_spa que_spa me_spa interesa_spa 
+1591.025 1592.198 NOA _spa pero_spa tú_spa puedes_spa decirme_spa eso_spa 
+1592.178 1603.111 MEG sí_spa pero_spa si_spa yo_spa te_spa empiezo_spa a_spa contar_spa algo_spa que_spa a_spa mí_spa me_spa interesa_spa algo_spa que_spa me_spa _spa que_spa me_spa preocupa_spa entonces_spa me_spa regañas_spa 
+1603.091 1605.732 MEG sí_spa que_spa tú_spa te_spa preocupas_spa mucho_spa que_spa te_spa eso_spa que_spa te_spa lo_spa otro_spa 
+1603.497 1605.07 NOA _spa no_spa porque_spa todo_spa te_spa preocupa_spa 
+1605.088 1606.22 NOA _spa no_spa pero_spa todo_spa te_spa preocupa_spa 
+1606.26 1611.962 MEG si_spa te_spa cuento_spa algo_spa que_spa a_spa mí_spa me_spa interesa_spa por_spa ejemplo_spa del_spa trabajo_spa entonces_spa o_spa te_spa pones_spa celoso_spa porque_spa sí_spa 
+1611.924 1613.288 MEG sólo_spa de_spa Lorenzo_engspa sólo_spa de_spa Lorenzo_engspa 
+1613.271 1614.122 MEG pero_spa es_spa que_spa Lorenzo_engspa por_spa allá_spa 
+1614.134 1616.479 MEG y_spa tus_spa cubanos_spa aquí_spa y_spa tus_spa cubanos_spa allá_spa 
+1616.357 1623.376 MEG entonces_spa como_spa que_spa _spa como_spa que_spa se_spa me_spa quitan_spa las_spa ganas_spa de_spa _spa de_spa _spa decirte_spa 
+1621.751 1623.144 NOA _spa de_spa hablarme_spa de_spa los_spa cubanos_spa 
+1623.256 1625.387 MEG no_spa es_spa que_spa te_spa esté_spa hablando_spa de_spa los_spa cubanos_spa 
+1625.224 1628.934 MEG es_spa que_spa eso_spa es_spa parte_spa de_spa mí_spa día_spa a_spa día_spa 
+1627.923 1628.765 NOA _spa xxx_spa 
+1628.922 1629.462 NOA sí_spa 
+1629.433 1630.408 MEG _spa entonces_spa 

@@ -1,0 +1,966 @@
+0.83 2.914 CON xxx_spa 
+3.352 3.854 GAB _spa _spa eng_spa yeah_spa 
+3.726 4.163 eng_eng I_eng was_eng like_eng 
+4.634 7.078 GAB _spa oh_engspa vas_spa a_spa coger_spa tu_spa pelo_spa cortico_spa como_spa Connor_engspa 
+7.161 8.796 GAB en_spa entonces_spa él_spa dijo_spa 
+9.122 12.393 GAB _spa no_spa cortico_spa no_spa es_spa muy_spa _spa es_spa muy_spa chiquito_spa para_spa mí_spa 
+12.741 13.551 CON mal_spa 
+13.237 16.105 GAB _spa _spa eng_spa so_spa he_spa said_spa he_spa was_spa getting_spa like_spa _spa medium_spa haircut_spa 
+14.665 19.478 CON _spa _spa eng_spa I_spa know_spa it_spa _spa because_spa his_spa _spa used_spa to_spa his_spa ʃ long_spa hair_spa and_spa stuff_spa 
+19.835 20.859 eng_eng yeah_eng 
+21.01 22.177 GAB pero_spa qué_spa más_spa 
+22.103 23.924 GAB qué_spa estábamos_spa hablando_spa antes_spa de_spa eso_spa 
+24.132 25.777 CON normal_spa no_spa 
+25.949 26.797 eng_eng I_eng dont_eng know_eng 
+26.877 27.84 GAB cough_spa 
+28.679 29.248 CON xxx_spa 
+28.679 29.248 GAB _spa bueno_spa 
+30.88 32.222 eng_eng lets_eng see_eng hmm_eng 
+32.43 35.273 GAB mi_spa clase_spa de_spa chino_spa está_spa super_spa interesante_spa 
+36.001 37.25 CON pero_spa cómo_spa así_spa o_spa sea_spa 
+37.544 40.184 CON oh_engspa my_eng goodness_eng pero_spa es_eng que_spa son_spa tantas_spa cosas_spa 
+40.233 41.873 GAB sí_spa pues_spa 
+42.235 43.068 GAB hoy_spa perdí_spa la_spa clase_spa 
+43.516 44.062 GAB no_spa fui_spa 
+44.523 46.639 GAB porque_spa no_spa encontré_spa parking_eng 
+46.701 49.244 GAB horrible_spa 
+49.143 49.945 CON no_spa xxx_spa 
+49.294 50.803 GAB _spa no_spa fui_spa a_spa la_spa clase_spa 
+50.884 52.736 eng_eng but_eng are_eng you_eng remembering_eng all_eng this_eng stuff_eng 
+52.486 55.006 eng_eng it_eng is_eng like_eng a_eng lot_eng of_eng characters_eng and_eng data_eng 
+54.999 55.916 GAB _spa _spa eng_spa memorization_spa 
+55.881 57.28 GAB es_spa como_spa matemáticas_spa 
+57.263 58.552 eng_eng but_eng its_eng a_eng lot_eng 
+58.703 60.154 eng_eng I_eng hate_eng maths_eng too_eng so_eng 
+60.619 62.685 GAB _spa es_spa chévere_spa 
+60.646 63.247 CON _spa _spa eng_spa I_spa wouldnt_spa be_spa good_spa at_spa Chinese_spa 
+63.276 65.412 eng_eng Id_eng be_eng better_eng at_eng Hebrew_eng 
+63.363 64.1 GAB _spa _spa eng_spa yeah_spa 
+65.313 66.236 GAB _spa ajá_spa 
+66.037 68.626 eng_eng it_eng is_eng like_eng xxx_eng 
+68.325 69.312 GAB _spa no_engspa 
+69.168 71.48 eng_eng dont_eng _eng dont_eng act_eng like_eng you_eng know_eng Chinese_eng 
+71.307 72.062 GAB xxx_spa 
+71.329 72.664 CON laugh_spa 
+72.561 74.459 GAB mira_spa no_spa de_spa verdad_spa 
+74.72 76.828 eng_eng um_eng 
+76.898 80.102 GAB entonces_spa pues_spa hoy_spa están_spa votando_spa 
+80.084 81.634 GAB hay_spa votaciones_spa en_spa el_spa colegio_spa 
+81.62 83.832 CON xxx_spa estaba_spa preguntando_spa o_spa sea_spa 
+83.82 86.667 CON para_spa qué_spa carrizo_spa le_spa sirve_spa a_spa uno_spa ser_spa 
+86.603 87.985 eng_eng ah_engspa Im_eng president_eng 
+87.991 89.43 eng_eng for_eng what_eng 
+89.866 91.527 GAB ah_engspa para_spa servir_spa la_spa universidad_spa 
+91.592 100.601 GAB bueno_spa supuestamente_spa lo_spa ideal_eng laugh_spa sería_spa servir_spa a_spa la_spa comunidad_spa y_spa representar_spa los_spa intereses_spa de_spa los_spa estudiantes_spa 
+101.388 104.389 GAB a_spa la_spa administración_spa de_spa la_spa universidad_spa 
+104.326 105.998 GAB eso_spa _spa por_spa eso_spa lo_spa hacen_spa 
+105.969 107.525 eng_eng mm_eng 
+107.38 110.057 CON pero_spa a yo_spa creo_spa los_spa estudiantes_spa hacen_spa como_spa que_spa 
+110.039 111.334 CON _spa _spa eng_spa ah_engspa ps_spa I_spa dont_spa care_spa xxx_spa 
+110.039 111.334 GAB _spa _spa eng_spa yeah_spa 
+111.66 114.748 eng_eng most_eng students_eng dont_eng care_eng about_eng like_eng voting_eng and_eng stuff_eng 
+114.812 118.146 eng_eng but_eng lately_eng theyve_eng been_eng like_eng out_eng there_eng pushing_eng it_eng hard_eng 
+117.96 121.106 eng_eng like_eng a_eng million_eng people_eng wanna_eng give_eng you_eng a_eng flyer_eng _eng and_eng food_eng 
+120.378 124.384 CON _spa _spa eng_spa yeah_spa because_spa I_spa think_spa most_spa of_spa those_spa people_spa are_spa because_spa they_spa dont_spa live_spa here_spa so_spa is_spa like_spa 
+124.923 126.85 CON _spa _spa eng_spa Ive_spa just_spa come_spa here_spa to_spa study_spa thats_spa it_spa 
+127.085 127.625 eng_eng yeah_eng 
+127.217 128.278 CON _spa _spa eng_spa I_spa dont_spa _spa I_spa dont_spa mind_spa 
+127.606 129.898 GAB _spa people_eng usually_eng hicieron_spa que_spa _spa like_eng _spa when_eng I_eng was_eng eating_eng lunch_eng 
+130.213 132.163 eng_eng I_eng was_eng eating_eng in_eng Subway_engspa spa_eng and_eng then_eng 
+132.656 135.768 eng_eng xxx_eng Subway_engspa xxx_eng with_eng the_eng cup_eng _eng laugh_eng 
+135.646 137.022 eng_eng xxx_eng yeah_eng _eng laugh_eng 
+135.646 137.022 CON laugh_spa 
+137.395 140.88 eng_eng um_eng I_eng was_eng eating_eng food_eng and_eng the_eng girl_eng in_eng front_eng of_eng me_eng was_eng saying_eng like_eng 
+140.9 143.231 GAB _spa _spa eng_spa oh_engspa I_spa was_spa at_spa the_spa library_spa xxx_spa those_spa people_spa were_spa bothering_spa me_spa 
+142.887 146.556 GAB _spa _spa eng_spa and_spa telling_spa me_spa xxx_spa but_spa I_spa dont_spa care_spa about_spa that_spa I_spa really_spa dont_spa care_spa about_spa this_spa place_spa 
+146.933 150.08 eng_eng so_eng like_eng she_eng is_eng kind_eng of_eng like_eng shows_eng the_eng typical_eng attitude_eng of_eng like_eng 
+150.322 150.786 eng_eng yeah_eng 
+150.614 152.077 eng_eng people_eng not_eng want_eng it_eng to_eng go_eng 
+151.891 157.881 eng_eng but_eng in_eng my_eng case_eng probably_eng if_eng I_eng would_eng live_eng here_eng I_eng would_eng care_eng because_eng they_eng can_eng deal_eng with_eng issues_eng and_eng stuff_eng 
+158.733 159.111 eng_eng yeah_eng 
+159.077 161.93 eng_eng I_eng think_eng most_eng students_eng would_eng be_eng more_eng involved_eng if_eng they_eng had_eng more_eng time_eng 
+161.918 163.764 eng_eng but_eng _eng they_eng have_eng a_eng full_eng schedule_eng 
+163.746 165.209 eng_eng they_eng have_eng _eng they_eng may_eng have_eng a_eng job_eng 
+165.011 166.485 eng_eng and_eng then_eng they_eng have_eng to_eng study_eng 
+166.508 167.24 eng_eng so_eng theyre_eng like_eng 
+167.474 168.031 GAB _spa _spa eng_spa I_spa dont_spa 
+167.951 168.921 GAB _spa _spa eng_spa thats_spa wasting_spa my_spa time_spa 
+168.987 172.656 eng_eng they_eng dont_eng stop_eng to_eng like_eng find_eng out_eng about_eng whos_eng president_eng _eng cause_eng theyre_eng too_eng busy_eng 
+172.724 175.017 eng_eng and_eng I_eng understand_eng them_eng cause_eng that_eng happens_eng to_eng me_eng 
+175.51 183.551 eng_eng but_eng _eng I_eng dont_eng know_eng _eng but_eng I_eng dont_eng know_eng if_eng those_eng peoples_eng _eng people_eng are_eng like_eng doing_eng campaign_eng and_eng getting_eng people_eng to_eng know_eng their_eng ai_eng _eng their_eng ideas_eng 
+183.493 185.019 eng_eng yeah_eng yeah_eng 
+184.533 185.624 eng_eng they_eng are_eng 
+185.316 187.197 eng_eng xxx_eng _eng some_eng times_eng also_eng 
+186.461 189.439 GAB _spa _spa eng_spa but_spa only_spa through_spa flyers_spa like_spa they_spa just_spa show_spa you_spa their_spa flyers_spa and_spa talk_spa to_spa 
+189.404 192.268 eng_eng theyre_eng not_eng doing_eng like_eng a_eng whole_eng xxx_eng campaign_eng like_eng an_eng official_eng campaign_eng 
+190.103 191.346 CON _spa _spa eng_spa exactly_spa 
+191.473 194.873 CON _spa _spa eng_spa you_spa dont_spa really_spa know_spa _spa why_spa youre_spa voting_spa for_spa 
+194.803 195.366 eng_eng yeah_eng 
+195.25 196.439 eng_eng whos_eng that_eng people_eng I_eng just_eng saw_eng 
+196.502 197.733 eng_eng people_eng dont_eng like_eng to_eng read_eng 
+196.87 198.193 GAB _spa _spa eng_spa but_spa its_spa kind_spa of_spa funny_spa 
+198.188 198.611 eng_eng its_eng interesting_eng 
+198.427 198.798 GAB ajá_spa 
+198.578 199.17 GAB xxx_spa 
+199.049 200.32 CON _spa _spa eng_spa people_spa dont_spa like_spa to_spa read_spa 
+200.279 202.224 CON ellos_spa prefieren_spa estar_spa así_spa como_spa ver_spa 
+202.2 204.888 CON y_spa que_spa allá_spa está_spa el_spa man_engspa parado_spa entonces_spa 
+204.272 204.83 GAB _spa _spa eng_spa yeah_spa 
+204.911 208.882 eng_eng xxx_eng who_eng is_eng like_eng _eng looks_eng the_eng nicest_eng like_eng oh_engspa 
+207.772 208.196 CON _spa _spa eng_spa yeah_spa 
+208.126 210.159 eng_eng like_eng oh_engspa this_eng is_eng a_eng good_eng looking_eng guy_eng oh_engspa 
+210.305 211.483 eng_eng oh_engspa that_eng one_eng is_eng some_eng nerd_eng 
+211.454 212.72 eng_eng I_eng dont_eng want_eng to_eng vote_eng for_eng him_eng 
+212.621 212.993 eng_eng yeah_eng 
+212.94 213.509 eng_eng something_eng like_eng that_eng 
+213.48 215.581 eng_eng or_eng like_eng this_eng person_eng gave_eng me_eng cupcakes_eng 
+215.626 216.804 eng_eng Ill_eng vote_eng for_eng her_eng laugh_eng 
+216.682 217.745 CON laugh_spa 
+217.061 217.653 GAB _spa _spa eng_spa but_spa look_spa 
+217.859 220.808 eng_eng but_eng I_eng think_eng its_eng funny_eng because_eng it_eng represents_eng like_eng how_eng the_eng nation_eng is_eng 
+221.126 223.047 eng_eng like_eng people_eng dont_eng sit_eng down_eng and_eng 
+223.01 224.171 eng_eng listen_eng to_eng our_eng campaign_eng 
+224.05 225.764 eng_eng they_eng just_eng look_eng at_eng the_eng flyers_eng and_eng like_eng 
+225.689 227.925 GAB _spa _spa eng_spa oh_engspa Ive_spa _spa I_spa want_spa to_spa vote_spa for_spa a_spa man_spa 
+228.017 231.017 GAB _spa _spa eng_spa or_spa I_spa want_spa to_spa vote_spa for_spa a_spa woman_spa or_spa a_spa black_spa man_spa like_spa Green_Alec_engspa _spa 
+231.086 233.043 eng_eng oh_engspa a_eng black_eng man_eng as_eng a_eng president_eng would_eng be_eng awesome_eng 
+233.028 236.517 eng_eng but_eng theyre_eng going_eng by_eng the_eng image_eng or_eng like_eng a_eng woman_eng as_eng a_eng president_eng 
+236.496 241.078 eng_eng but_eng like_eng _eng its_eng a_eng big_eng issue_eng anyway_eng 
+240.823 243.354 eng_eng xxx_eng like_eng that_eng oh_engspa my_eng goodness_eng 
+244.161 245.049 GAB eh_engspa 
+244.533 245.648 CON _spa _spa eng_spa but_spa I_spa dont_spa know_spa 
+245.683 247.477 eng_eng I_eng would_eng have_eng to_eng live_eng in_eng here_eng 
+247.442 248.899 eng_eng I_eng want_eng to_eng live_eng in_eng here_eng 
+249.207 250.165 eng_eng on_eng campus_eng 
+250.148 252.76 CON yo_spa quiero_spa vivir_spa aquí_spa sí_spa porque_spa es_spa chévere_spa 
+252.408 253.685 GAB laugh_spa 
+254.139 255.161 GAB por_spa qué_spa 
+254.818 255.805 CON es_spa super_engspa cool_eng 
+255.764 257.25 CON mira_spa vea_spa tengo_spa de_spa todo_spa 
+257.209 260.181 CON tengo_spa my_spa _spa un_spa sitio_spa para_spa cortarme_spa el_spa pelo_spa aquí_spa 
+260.156 262.043 CON tengo_spa el_spa sitio_spa para_spa lavar_spa la_spa ropa_spa aquí_spa 
+262.095 263.332 CON tengo_spa 
+262.565 264.295 GAB _spa no_spa pero_spa hay_spa solo_spa es_spa dry_eng cleaning_eng 
+264.359 266.815 eng_eng cafeteria_eng exactly_eng dry_eng cleaning_eng 
+268.088 272.773 GAB ah_engspa tus_spa _spa pero_spa tú_spa haces_spa dry_spa _spa tu_spa haces_spa dry_eng clean_eng para_spa toda_spa la_spa ropa_spa 
+268.595 271.039 CON _spa pero_spa para_spa lavar_spa you_eng get_eng a_eng 
+272.713 275.528 CON no_spa pero_spa para_spa cosas_spa _spa cosas_spa así_spa grandes_spa 
+275.385 276.482 CON pero_spa 
+275.605 276.424 GAB _spa ah_engspa 
+276.482 280.362 CON para_spa por_spa ejemplo_spa ropa_spa normal_spa así_spa por_spa aquí_spa debe_spa haber_spa un_spa laundry_eng 
+279.734 281.9 GAB dónde_spa 
+281.691 282.347 eng_eng somewhere_eng 
+281.934 283.943 GAB _spa de_spa pronto_spa en_spa los_spa _spa en_spa los_spa dormitorios_spa 
+282.404 283.878 CON _spa o_spa incluso_spa en_spa los_spa apartamentos_spa 
+284.002 286.069 CON en_spa los_spa dorms_eng they_eng have_eng a_eng laundry_eng room_eng 
+286.045 287.346 GAB _spa ah_engspa 
+286.045 287.346 eng_eng I_eng think_eng so_eng 
+288.689 289.786 eng_eng I_eng dont_eng know_eng 
+289.943 290.924 eng_eng thatd_eng be_eng cool_eng 
+290.303 290.901 GAB sí_spa 
+291.335 293.292 GAB actually_eng yo_spa quiero_spa ir_spa a_spa China_engspa 
+293.386 294.112 GAB y_spa me_spa gustaría_spa 
+294.094 294.884 GAB y_spa vivir_spa allá_spa 
+294.872 295.697 GAB y_spa enseñar_spa 
+295.613 297.784 GAB pero_spa la_spa cosa_spa es_spa que_spa es_spa muchos_spa meses_spa 
+297.773 299.549 GAB y_spa como_spa estoy_spa involucrada_spa en_spa la_spa inglesia_spa 
+299.934 303.351 GAB pues_spa a_spa veces_spa no_spa me_spa veo_spa como_spa en_spa otro_spa país_spa por_spa más_spa de_spa un_spa meses_spa 
+303.33 304.299 GAB por_spa ejemplo_spa 
+303.37 306.064 CON _spa _spa eng_spa you_spa never_spa know_spa 
+306.093 307.997 eng_eng maybe_eng the_eng Lord_eng sends_eng me_eng over_eng there_eng 
+307.48 308.044 eng_eng exactly_eng 
+308.063 312.577 CON porque_spa sí_spa s_spa por_spa ejemplo_spa si_spa _spa si_spa s_spa pues_spa dios_spa te_spa manda_spa para_spa allá_spa 
+312.839 314.087 CON tiene_spa que_spa ser_spa así_spa o_spa sea_spa 
+314.072 318.67 CON es_spa como_spa _spa como_spa hay_spa un_spa _spa yo_spa estaba_spa viendo_spa una_spa _spa una_spa película_spa 
+318.895 319.598 GAB ajá_spa 
+319.314 321.781 CON de_spa un_spa tipo_spa que_spa él_spa vivía_spa en_spa U_K_eng 
+321.868 322.548 GAB ah_engspa 
+322.147 325.612 eng_eng and_eng he_eng didnt_eng know_eng to_eng speak_eng Spanish_eng 
+326.022 328.124 CON y_spa dios_spa le_spa dice_spa _spa lo_spa despierta_spa una_spa noche_spa 
+328.048 331.907 CON y_spa le_spa dice_spa que_spa él_spa tiene_spa que_spa ir_spa a_spa _spa _spa a_spa California_engspa 
+331.744 333.004 GAB ajá_spa 
+332.708 334.397 CON a_spa California_engspa 
+334.27 339.167 CON pero_spa que_spa ahí_spa va_spa a_spa haber_spa una_spa familia_spa que_spa habla_spa _spa es_spa una_spa familia_spa mexicana_spa 
+339.039 340.356 GAB ajá_spa 
+340.303 341.847 CON y_spa entonces_spa dice_spa 
+341.835 343.716 eng_eng uh_eng but_eng I_eng dont_eng know_eng Spanish_eng 
+343.704 344.424 GAB ajá_spa 
+344.164 346.172 CON _spa _spa eng_spa and_spa he_spa start_spa taking_spa Spanish_spa 
+345.731 346.289 GAB ajá_spa 
+346.219 347.153 eng_eng and_eng learning_eng Spanish_eng 
+347.153 351.505 eng_eng and_eng learning_eng Spanish_eng because_eng he_eng knows_eng that_eng you_eng gotta_eng go_eng there_eng and_eng speak_eng in_eng Spanish_eng 
+351.45 359.071 eng_eng like_eng _eng now_eng like_eng now_eng Im_eng trying_eng to_eng learn_eng in_eng English_eng because_eng I_eng want_eng _eng I_eng mean_eng not_eng English_eng _eng laugh_eng Chinese_eng cause_eng I_eng want_eng to_eng go_eng to_eng China_engspa 
+359.13 361.957 eng_eng and_eng they_eng have_eng a_eng program_eng of_eng peace_eng corps_eng look_eng 
+361.968 362.885 eng_eng of_eng what_eng 
+362.874 364.11 eng_eng peace_eng corps_eng 
+363.751 364.378 eng_eng what_eng is_eng that_eng 
+364.337 365.637 eng_eng ah_engspa peace_eng corps_eng 
+365.179 365.643 GAB _spa _spa eng_spa yeah_spa 
+365.61 367.479 eng_eng like_eng volunteering_eng xxx_eng 
+367.386 368.582 eng_eng and_eng they_eng have_eng one_eng in_eng China_engspa 
+368.589 370.185 eng_eng and_eng xxx_eng like_eng to_eng teach_eng English_eng 
+368.589 370.185 CON _spa _spa eng_spa like_spa you_spa volunteer_spa 
+369.936 370.615 eng_eng yeah_eng 
+370.458 372.35 eng_eng and_eng they_eng send_eng you_eng there_eng and_eng they_eng 
+370.458 372.35 GAB _spa _spa eng_spa yeah_spa 
+372.281 373.552 eng_eng but_eng they_eng pay_eng for_eng everything_eng 
+373.366 374.911 eng_eng all_eng right_eng thats_eng 
+374.852 377.18 eng_eng they_eng pay_eng for_eng your_eng food_eng 
+376.181 378.224 eng_eng your_eng food_eng your_eng house_eng everything_eng everything_eng 
+378.143 381.571 GAB you_eng _spa youre_eng not_eng gonna_eng have_eng ningún_spa _spa youre_eng not_eng gonna_eng have_eng a_eng lack_eng in_eng xxx_spa _spa in_eng the_eng area_eng 
+381.556 383.553 eng_eng oh_engspa my_eng God_eng I_eng want_eng something_eng like_eng that_eng but_eng in_eng here_eng 
+384.769 388.218 eng_eng like_eng oh_engspa Im_eng gonna_eng send_eng you_eng to_eng _eng to_eng xxx_eng 
+388.271 389.321 GAB laugh_spa 
+388.271 389.321 CON laugh_spa 
+389.178 394.351 eng_eng see_eng like_eng in_eng university_eng English_eng teaching_eng xxx_eng teach_eng the_eng people_eng 
+394.265 396.001 eng_eng and_eng I_eng would_eng really_eng love_eng that_eng 
+394.764 396.204 CON _spa _spa eng_spa I_spa would_spa do_spa that_spa 
+396.059 397.98 eng_eng you_eng know_eng why_eng would_eng I_eng do_eng that_eng 
+399.097 401.773 eng_eng just_eng if_eng I_eng when_eng I_eng just_eng graduate_eng 
+401.675 402.458 eng_eng yeah_eng 
+402.412 405.111 CON _spa _spa eng_spa just_spa for_spa the_spa experience_spa of_spa going_spa somewhere_spa else_spa another_spa country_spa 
+403.591 404.16 GAB _spa _spa eng_spa yeah_spa 
+405.106 406.337 eng_eng yeah_eng I_eng would_eng love_eng to_eng do_eng it_eng 
+405.399 406.585 CON _spa _spa eng_spa you_spa get_spa the_spa 
+406.334 411.019 eng_eng but_eng theres_eng the_eng thing_eng like_eng I_eng _eng Im_eng really_eng like_eng I_eng wanna_eng be_eng involved_eng in_eng the_eng church_eng and_eng stuff_eng 
+411.081 416.375 eng_eng and_eng like_eng _eng I_eng feel_eng like_eng _eng I_eng wouldnt_eng be_eng able_eng to_eng leave_eng because_eng of_eng that_eng 
+416.265 419.104 eng_eng but_eng I_eng guess_eng I_eng just_eng pray_eng about_eng it_eng 
+419.991 421.802 eng_eng the_eng lord_eng knows_eng 
+421.238 425.476 CON _spa _spa eng_spa but_spa that_spa peace_spa corps_spa is_spa what_spa is_spa only_spa for_spa people_spa xxx_spa Chinese_spa or_spa what_spa 
+425.445 427.315 eng_eng no_eng its_eng ev_eng every_eng country_eng 
+427.186 428.968 CON oh_engspa my_eng God_eng yo_spa quiero_spa ver_spa 
+428.908 430.087 CON laugh_spa 
+430.058 431.561 eng_eng but_eng what_eng do_eng they_eng do_eng there_eng 
+431.52 432.124 eng_eng like_eng 
+431.859 433.345 eng_eng whatever_eng the_eng country_eng needs_eng 
+432.957 435.047 eng_eng like_eng helping_eng kids_eng 
+435.005 437.211 eng_eng taking_eng care_eng of_eng hungers_eng 
+437.845 439.088 eng_eng um_eng building_eng 
+438.797 439.238 eng_eng business_eng 
+439.534 440.863 eng_eng even_eng in_eng businesses_eng 
+440.555 445.887 eng_eng there_eng helping_eng businesses_eng start_eng building_eng _eng build_eng like_eng classrooms_eng 
+443.079 445.505 eng_eng oh_engspa my_eng God_eng 
+445.834 447.326 eng_eng you_eng know_eng what_eng 
+445.834 447.326 GAB _spa _spa eng_spa all_spa kind_spa of_spa stuff_spa 
+447.436 449.131 eng_eng I_eng wanna_eng go_eng 
+450.162 452.481 eng_eng but_eng where_eng do_eng they_eng need_eng people_eng missy_eng _eng 
+452.417 453.358 eng_eng everywhere_eng 
+453.338 455.085 eng_eng oh_engspa maths_eng and_eng science_eng teaching_eng 
+455.044 456.165 eng_eng I_eng wanna_eng do_eng that_eng 
+455.892 457.761 eng_eng maths_eng and_eng science_eng teaching_eng 
+456.268 457.441 GAB _spa _spa eng_spa where_spa is_spa this_spa thing_spa 
+457.64 463.505 eng_eng education_eng _eng experience_eng experience_eng university_eng English_eng teaching_eng 
+463.424 467.348 eng_eng special_eng education_eng secondary_eng English_eng xxx_eng 
+467.173 469.426 eng_eng its_eng super_eng cool_eng 
+467.173 469.426 CON _spa _spa eng_spa I_spa wanna_spa go_spa there_spa 
+469.46 474.079 eng_eng and_eng community_eng development_eng construction_eng and_eng skills_eng traits_eng education_eng 
+476.415 480.856 eng_eng when_eng I_eng graduate_eng _eng I_eng wanna_eng go_eng there_eng 
+480.801 483.907 CON like_eng Rome_eng or_eng no_spa sé_spa 
+483.212 491.835 GAB _spa _spa eng_spa I_spa would_spa like_spa to_spa go_spa to_spa China_engspa Thailand_spa and_spa 
+492.143 493.867 CON Macedonia_engspa 
+493.826 494.9 eng_eng oh_engspa my_eng goodness_eng 
+494.933 499.251 eng_eng I_eng wanna_eng go_eng _eng xxx_eng arm_eng no_eng Armenia_engspa no_eng 
+499.854 501.979 GAB yo_spa quiero_spa 
+501.956 503.384 GAB oh_engspa Mozambique_engspa 
+504.095 505.823 GAB ahí_spa hay_spa un_spa orfanato_spa en_spa Mozambique_engspa 
+505.829 508.81 GAB y_spa súper_spa chévere_spa 
+508.52 511.279 GAB puedes_spa ir_spa a_spa volunteer_eng _spa volunteer_eng allá_spa 
+511.224 512.223 GAB es_spa súper_spa chévere_spa 
+512.628 513.707 GAB yo_spa quiero_spa ir_spa 
+514.995 516.858 GAB todas_spa esas_spa cosas_spa me_spa encantan_spa 
+516.893 520.138 GAB mi_spa amiga_spa fue_spa a_spa Ukraine_eng por_spa un_spa _spa un_spa _spa un_spa 
+520.26 523.296 GAB _spa bueno_spa iba_spa todos_spa los_spa veranos_spa por_spa cuarenta_spa y_spa cinco_spa días_spa 
+523.179 525.037 eng_eng but_eng Im_eng not_eng in_eng here_eng 
+526.54 527.231 GAB cómo_spa 
+526.999 528.613 eng_eng Im_eng not_eng in_eng xxx_eng _eng laugh_eng 
+528.408 529.221 eng_eng what_eng do_eng you_eng mean_eng 
+529.389 531.008 eng_eng Venezuela_engspa is_eng not_eng there_eng _eng laugh_eng 
+529.79 530.556 CON _spa _spa eng_spa no_spa 
+531.035 534.675 GAB no_spa entran_spa a_spa Venezuela_engspa por_spa la_spa situación_spa política_spa me_spa imagino_spa 
+534.566 536.406 eng_eng no_eng we_eng dont_eng need_eng help_eng 
+536.358 538.838 eng_eng probably_eng they_eng think_eng that_eng the_eng president_eng says_eng 
+538.676 540.778 CON _spa _spa eng_spa oh_engspa its_spa o_k_spa 
+541.151 543.502 GAB la_spa mayoría_spa van_spa a_spa África_engspa wow_eng 
+543.496 545.139 eng_eng yeah_eng exactly_eng 
+544.803 546.885 eng_eng thirty_eng seven_eng percent_eng its_eng a_eng lot_eng of_eng people_eng 
+546.834 548.945 GAB porque_spa hay_spa una_spa necesidad_spa grande_spa en_spa África_engspa 
+548.146 548.779 CON _spa xxx_spa 
+548.932 556.712 eng_eng the_eng Caribbean_engspa is_eng like_eng not_eng much_eng and_eng here_eng _eng and_eng in_eng Latin_America_engspa are_eng the_eng top_eng ones_eng 
+557.161 560.406 eng_eng but_eng a_eng I_eng would_eng go_eng oh_engspa my_eng God_eng Guatemala_engspa 
+557.294 557.968 eng_eng yeah_eng 
+560.574 562.903 eng_eng I_eng would_eng go_eng there_eng just_eng for_eng the_eng thing_eng 
+562.868 563.46 GAB _spa _spa eng_spa its_spa cool_spa 
+563.444 564.906 eng_eng I_eng went_eng to_eng Guatemala_engspa 
+564.831 569.039 eng_eng just_eng for_eng going_eng to_eng _eng to_eng Machu_Picchu_engspa and_eng all_eng stuff_eng 
+569.201 569.74 eng_eng yeah_eng 
+569.479 570.739 CON _spa _spa eng_spa Machu_Picchu_engspa is_spa in_spa Guatemala_engspa right_spa 
+570.007 570.878 GAB _spa _spa eng_spa the_spa ruins_spa 
+570.809 571.569 eng_eng I_eng dont_eng know_eng laugh_eng 
+571.435 572.985 eng_eng I_eng dont_eng know_eng either_eng laugh_eng 
+572.961 574.702 eng_eng I_eng went_eng to_eng Guatemala_engspa as_eng a_eng city_eng 
+574.685 577.607 eng_eng and_eng I_eng went_eng to_eng lake_eng Alitlán_engspa with_eng the_eng volcanos_eng are_eng 
+577.121 578.578 eng_eng and_eng other_eng people_eng 
+578.549 579.588 eng_eng that_eng was_eng really_eng cool_eng 
+579.555 580.863 GAB pero_spa en_spa la_spa inglesia_spa la_spa gente_spa nos_spa decían_spa 
+580.845 583.039 GAB _spa no_spa te_spa pares_spa porque_spa la_spa gente_spa era_spa tan_spa pequeña_spa 
+581.547 582.174 CON _spa ajá_spa 
+583.297 584.324 GAB que_spa si_spa nosotros_spa _spa porque_spa 
+584.258 586.903 GAB xxx_spa iglesia_spa es_spa bien_spa tradicionales_spa allá_spa 
+586.878 587.911 GAB donde_spa la_spa gente_spa se_spa para_spa 
+587.87 589.351 GAB _spa aleluya_spa 
+589.248 590.839 GAB entonces_spa cuando_spa nos_spa parábamos_spa nos_spa decían_spa 
+590.821 595.041 GAB _spa no_spa te_spa pares_spa que_spa después_spa la_spa gente_spa no_spa puede_spa ver_spa en_spa el_spa frente_spa porque_spa todos_spa son_spa bajitos_spa laugh_spa 
+594.487 595.585 CON _spa _spa eng_spa oh_engspa my_spa goodness_spa 
+595.537 598.852 GAB y_spa al_spa frente_spa de_spa la_spa iglesia_spa hay_spa un_spa field_eng de_spa puro_spa maíz_spa 
+598.797 600.521 GAB y_spa tomamos_spa fotos_spa ahí_spa 
+600.463 603.411 GAB y_spa todos_spa están_spa entre_spa el_spa maíz_spa todos_spa chiquiticos_spa ahí_spa 
+604.035 605.12 GAB es_spa chévere_spa 
+605.126 606.415 GAB me_spa gustó_spa 
+606.341 608.489 CON Macedonia_engspa 
+608.471 612.543 GAB y_spa ahí_spa en_spa las_spa iglesias_spa bailábamos_spa por_spa horas_spa y_spa horas_spa y_spa horas_spa 
+612.502 613.93 GAB era_spa super_engspa chévere_spa 
+613.919 615.254 GAB era_spa una_spa fiesta_spa 
+615.26 615.8 CON sí_spa 
+615.624 616.251 GAB de_spa las_spa 
+616.088 618.881 GAB la_spa iglesia_spa comenzaba_spa a_spa las_spa o_spa _spa a_spa las_spa siete_spa 
+619.078 621.011 GAB salíamos_spa ahí_spa a_spa las_spa doce_spa de_spa la_spa noche_spa 
+620.953 625.089 GAB y_spa era_spa _spa primero_spa el_spa servicio_spa y_spa era_spa tan_spa chévere_spa porque_spa ahí_spa ni_spa predicaban_spa 
+625.066 626.215 GAB era_spa toda_spa la_spa gente_spa 
+626.169 627.353 GAB _spa _spa eng_spa wow_spa 
+627.324 630.921 GAB y_spa ahí_spa bailando_spa bailando_spa por_spa horas_spa en_spa la_spa presencia_spa de_spa dios_spa 
+630.841 633.494 GAB y_spa ni_spa bailando_spa u_spa _spa no_spa era_spa bailando_spa unos_spa con_spa otros_spa 
+633.564 639.598 GAB era_spa y_spa tú_spa xxx_spa like_eng todo_spa el_spa mundo_spa like_eng en_spa su_spa propio_spa _spa momento_spa con_spa dios_spa 
+638.493 639.952 CON _spa en_spa su_spa propio_spa momento_spa sí_spa 
+639.464 640.625 CON _spa sí_spa 
+639.877 642.872 eng_eng yawn_eng xxx_eng I_eng loved_eng it_eng 
+644.691 645.748 eng_eng wow_eng 
+645.601 647.412 GAB íbamos_spa por_spa los_spa mercados_spa 
+648.248 649.624 GAB es_spa chévere_spa 
+649.536 655.055 CON es_spa que_spa yo_spa el_spa único_spa país_spa que_spa yo_spa conozco_spa de_spa South_spa América_engspa es_spa el_spa mío_spa 
+654.766 655.788 GAB laugh_spa 
+655.514 657.279 CON _spa _spa eng_spa eh_spa well_spa a_spa little_spa bit_spa of_spa Colombia_engspa 
+656.383 657.696 GAB _spa Colombia_engspa 
+657.25 659.467 eng_eng Colombia_engspa yeah_eng because_eng is_eng next_eng to_eng 
+658.695 660.088 GAB _spa _spa eng_spa oh_engspa you_spa been_spa to_spa Colombia_engspa 
+660.112 662.097 eng_eng ah_engspa just_eng to_eng Cúcuta_engspa 
+661.935 663.055 eng_eng and_eng thats_eng it_eng 
+661.935 663.055 GAB _spa ah_engspa 
+663.01 664.433 eng_eng I_eng like_eng going_eng Bogotá_engspa 
+664.398 666.314 GAB _spa _spa eng_spa I_spa would_spa like_spa to_spa go_spa to_spa Venezuela_engspa 
+664.611 665.67 CON _spa _spa eng_spa what_spa people_spa tell_spa me_spa 
+666.136 667.477 CON _spa _spa eng_spa tell_spa me_spa its_spa cool_spa 
+667.54 670.277 eng_eng I_eng can_eng go_eng there_eng like_eng in_eng five_eng years_eng 
+670.223 671.535 eng_eng wow_eng 
+671.558 675.221 eng_eng and_eng I_eng become_eng a_eng citizen_eng 
+675.207 678.046 eng_eng its_eng really_eng nice_eng been_eng in_eng another_eng country_eng 
+677.865 678.515 eng_eng yeah_eng 
+678.489 680.068 eng_eng you_eng know_eng where_eng Im_eng gonna_eng go_eng 
+680.376 682.245 eng_eng I_eng wanna_eng go_eng here_eng here_eng here_eng here_eng here_eng 
+681.815 683.006 GAB _spa _spa eng_spa laugh_spa everywhere_spa 
+683.005 683.585 CON _spa _spa eng_spa yeah_spa 
+683.457 685.176 eng_eng travel_eng the_eng world_eng 
+683.482 689.58 CON _spa I_eng know_eng all_eng of_eng that_eng because_eng in_eng my_eng history_eng class_eng were_eng estamos_spa viendo_spa todo_spa eso_spa 
+689.475 690.236 GAB ajá_spa 
+690.194 692.264 CON oh_engspa my_eng goodness_eng pero_spa es_spa demasiado_spa 
+692.241 694.517 CON como_spa eh_engspa eh_engspa cuando_spa vimos_spa Rome_eng 
+694.459 696.874 eng_eng the_eng Roman_eng empire_eng 
+696.804 698.906 CON yo_spa dije_spa quiero_spa ir_spa a_spa Roma_eng ya_spa 
+698.846 699.96 GAB laugh_spa 
+699.95 705.734 CON estábamos_spa viendo_spa también_spa las_spa _spa Egipto_spa todos_spa esos_spa 
+705.67 706.308 GAB ajá_spa 
+706.221 707.498 CON también_spa quiero_spa ir_spa 
+707.504 709.832 CON ahorita_spa estamos_spa viendo_spa es_spa esto_spa mismo_spa 
+709.844 713.408 CON a_spa Mexico_engspa _spa South_eng America_engspa 
+710.512 713.356 GAB _spa wow_eng tú_spa me_spa hiciste_spa xxx_spa un_spa sueño_spa que_spa tuve_spa _spa de_spa Italia_spa 
+714.249 715.671 CON _spa _spa eng_spa and_spa stuff_spa 
+714.388 715.63 GAB _spa hablando_spa de_spa Roma_spa 
+715.764 717.029 GAB y_spa siguen_spa 
+716.635 722.921 CON y_spa entonces_spa estamos_spa viendo_spa las_spa ruinas_spa Machu_Picchu_engspa Tenochtitlán_engspa y_spa todo_spa eso_spa de_spa los_spa _spa de_spa los_spa Mayan_eng Aztecs_eng 
+720.402 722.198 GAB _spa y_spa todo_spa es_spa súper_spa interesante_spa 
+722.931 723.383 CON sí_spa 
+723.391 724.37 CON o_spa sea_spa yo_spa las_spa veo_spa y_spa yo_spa 
+724.364 725.479 CON _spa _spa eng_spa wow_spa I_spa wanna_spa go_spa there_spa 
+725.438 726.71 CON _spa _spa eng_spa I_spa wanna_spa know_spa 
+726.457 727.22 CON _spa _spa eng_spa I_spa wanna_spa watch_spa 
+727.215 728.242 CON _spa _spa eng_spa I_spa want_spa experience_spa 
+728.225 729.142 eng_eng cool_eng 
+729.136 730.785 CON quiero_spa experimentar_spa todo_spa eso_spa 
+730.988 731.94 CON pero_spa quiero_spa xxx_spa 
+731.533 734.041 GAB _spa oye_spa xxx_spa sigue_spa laugh_spa 
+732.834 734.07 CON _spa _spa eng_spa all_spa around_spa the_spa world_spa 
+734.008 737.385 CON just_eng para_spa _spa captar_spa por_spa mi_spa vista_spa todo_spa 
+735.093 738.077 GAB _spa chévere_spa chévere_spa 
+737.298 737.565 CON sí_spa 
+737.553 738.366 CON porque_spa es_spa cool_eng 
+738.281 739.98 GAB yo_spa he_spa soñado_spa con_spa dos_spa lugares_spa 
+739.959 741.852 GAB y_spa sin_spa nunca_spa ir_spa ahí_spa 
+741.829 743.704 GAB uno_spa es_spa China_engspa 
+743.692 745.126 GAB soñé_spa que_spa estaba_spa en_spa China_engspa 
+745.213 748.29 GAB que_spa estaba_spa en_spa frente_spa de_spa una_spa universidad_spa _spa en_spa China_engspa 
+748.412 751.082 GAB y_spa pero_spa había_spa un_spa ataque_spa en_spa los_spa buses_spa 
+750.974 752.71 GAB estaban_spa atacando_spa a_spa los_spa estudiantes_spa 
+752.728 754.324 GAB y_spa nos_spa sentamos_spa ahí_spa al_spa lado_spa 
+754.324 756.222 GAB y_spa todos_spa los_spa estudiantes_spa estaban_spa corriendo_spa 
+756.152 756.692 GAB raro_spa 
+756.739 761.635 GAB y_spa el_spa otro_spa sueño_spa que_spa estaba_spa jugando_spa fútbol_spa en_spa Italia_engspa laugh_spa 
+761.374 762.477 eng_eng what_eng 
+761.397 763.592 GAB yo_spa qué_spa sueño_spa xxx_spa raro_spa 
+763.332 766.42 GAB que_spa habían_spa unas_spa me_spa _spa unas_spa calles_spa eran_spa así_spa como_spa esto_spa 
+766.831 770.517 GAB las_spa calles_spa en_spa vez_spa de_spa las_spa calles_spa ser_spa de_spa _spa de_spa con_spa _spa concrete_eng 
+770.514 772.581 GAB eran_spa de_spa estos_spa bloquecitos_spa 
+772.534 774.763 GAB y_spa yo_spa estaba_spa jugando_spa soccer_eng 
+774.726 777.065 GAB y_spa nos_spa metíamos_spa en_spa los_spa xxx_spa 
+777.065 780.824 GAB y_spa un_spa _spa había_spa un_spa círculo_spa donde_spa estaban_spa alrededor_spa de_spa edificios_spa 
+780.754 783.108 GAB y_spa adentro_spa ahí_spa estaba_spa jugando_spa soccer_eng 
+782.922 783.665 GAB y_spa yo_spa 
+783.619 784.658 GAB _spa qué_spa raro_spa 
+784.675 787.026 GAB laugh_spa 
+786.957 789.029 eng_eng xxx_eng Kazakhstan_eng 
+789.052 790.858 CON eso_spa no_spa es_spa de_spa donde_spa era_spa Borat_engspa 
+789.83 791.043 GAB _spa _spa eng_spa Kazakhstan_spa 
+790.834 792.1 eng_eng yeah_eng laugh_eng 
+790.834 792.1 CON laugh_spa 
+791.934 793.421 eng_eng Borat_engspa was_eng from_eng there_eng 
+792.741 794.349 CON _spa _spa eng_spa but_spa it_spa is_spa so_spa big_spa that_spa country_spa 
+794.303 796.062 GAB no_spa dónde_spa 
+795.986 796.944 eng_eng here_eng fifty_eng four_eng 
+796.892 797.966 eng_eng fifty_eng five_eng 
+797.94 798.305 CON no_engspa 
+798.143 799.165 GAB _spa _spa eng_spa ah_engspa fifty_spa four_spa 
+799.13 799.612 eng_eng look_eng 
+799.211 800.227 GAB gasp_spa 
+799.658 801.04 eng_eng its_eng huge_eng 
+800.587 801.04 eng_eng yeah_eng 
+801.011 802.531 eng_eng my_eng mom_eng didnt_eng even_eng know_eng it_eng existed_eng 
+802.383 803.039 eng_eng shes_eng like_eng 
+802.616 804.334 CON _spa _spa eng_spa its_spa bigger_spa than_spa Colombia_engspa 
+803.068 803.527 GAB _spa _spa ah_engspa 
+803.53 804.975 eng_eng my_eng mom_eng started_eng laughing_eng like_eng 
+804.946 806.589 eng_eng aha_engspa Kazakhstan_engspa he_eng made_eng that_eng up_eng 
+806.586 806.958 eng_eng and_eng Im_eng like_eng no_eng 
+806.853 808.531 GAB _spa _spa eng_spa no_spa xxx_spa exist_spa 
+808.484 809.872 eng_eng talk_eng like_eng that_eng 
+809.77 811.053 CON xxx_spa 
+810.984 813.126 eng_eng Kurdish_eng republic_eng 
+814.397 815.552 eng_eng Morocco_eng 
+816.011 817.717 CON ay_spa Morocco_eng is_eng cool_eng 
+816.162 816.742 GAB _spa pues_spa sí_spa 
+818.507 820.138 eng_eng its_eng just_eng here_eng 
+820.097 821.403 GAB Morocco_engspa 
+820.097 821.403 CON _spa _spa eng_spa next_spa to_spa 
+821.27 822.884 eng_eng you_eng can_eng go_eng to_eng Spain_eng 
+822.834 825.034 eng_eng or_eng those_eng countries_eng also_eng 
+825.049 830.288 eng_eng you_eng couldnt_eng travel_eng because_eng if_eng youre_eng helping_eng people_eng there_eng youre_eng can_eng _eng just_eng doing_eng that_eng 
+830.282 830.979 eng_eng what_eng do_eng you_eng mean_eng 
+830.985 837.237 CON because_eng if_eng for_eng example_eng I_eng mean_eng in_eng _spa in_eng the_eng case_eng youre_eng going_eng to_eng Morocco_eng si_spa estás_spa ahí_spa tú_spa no_spa puedes_spa decir_spa 
+837.388 838.833 CON _spa no_spa me_spa voy_spa a_spa pasar_spa para_spa España_spa 
+839.317 841.994 GAB a_spa lo_spa menos_spa que_spa algo_spa pase_spa y_spa _spa y_spa dicen_spa 
+842.004 846.156 GAB _spa es_spa que_spa por_spa eso_spa es_spa tan_spa chévere_spa estar_spa aquí_spa like_eng tener_spa la_spa vida_spa con_spa dios_spa 
+846.068 846.985 GAB me_spa dicen_spa 
+846.577 853.354 GAB _spa ah_engspa mira_spa resulta_spa que_spa te_spa necesitan_spa en_spa España_spa este_spa fin_spa de_spa semana_spa porque_spa una_spa familia_spa tan_spa tan_spa tan_spa tan_spa tan_spa 
+853.244 854.939 GAB y_spa bajas_spa ahí_spa 
+854.961 856.597 CON sí_spa pero_spa sí_spa sí_spa sí_spa 
+856.366 857.446 eng_eng I_eng mean_eng 
+857.414 860.257 CON si_spa te_spa _spa si_spa estás_spa en_spa ma_spa Marruecos_spa nada_spa más_spa 
+860.276 862.045 CON es_spa para_spa que_spa sirvas_spa en_spa Marruecos_spa 
+862.056 863.246 CON porque_spa para_spa eso_spa estás_spa 
+863.11 864.608 CON en_spa España_spa no_spa está_spa aquí_spa so_spa 
+864.602 866.947 eng_eng you_eng wouldnt_eng need_eng to_eng go_eng to_eng Spain_eng 
+866.773 867.748 CON pues_spa no_spa es_spa un_spa 
+867.738 870.32 GAB pero_spa si_spa un_spa fin_spa de_spa semana_spa quieres_spa ir_spa a_spa Morroco_eng 
+870.183 871.716 eng_eng xxx_eng country_eng ah_engspa 
+871.704 872.778 CON a_spa España_spa 
+872.9 874.212 GAB ah_engspa en_spa España_engspa 
+874.075 877.065 eng_eng I_eng dont_eng think_eng you_eng could_eng because_eng youre_eng volunteer_eng in_eng there_eng 
+877.036 878.487 eng_eng oh_engspa but_eng they_eng give_eng you_eng 
+877.036 878.487 eng_eng I_eng think_eng you_eng are_eng twenty_eng four_eng seven_eng 
+878.49 881.143 eng_eng yeah_eng but_eng they_eng probably_eng give_eng you_eng a_eng day_eng off_eng two_eng days_eng off_eng 
+881.149 883.094 eng_eng yeah_eng but_eng just_eng going_eng for_eng one_eng day_eng 
+883.064 885.77 eng_eng what_eng happens_eng if_eng youre_eng working_eng here_eng 
+885.783 887.0 eng_eng and_eng Spain_eng is_eng over_eng there_eng 
+887.012 890.582 eng_eng its_eng like_eng _eng being_eng in_eng _eng in_eng Boston_engspa 
+888.637 889.276 GAB _spa laugh_spa 
+890.533 892.1 eng_eng and_eng you_eng want_eng just_eng go_eng to_eng Mexico_engspa 
+892.141 893.441 eng_eng and_eng you_eng have_eng only_eng one_eng day_eng off_eng 
+893.435 895.554 GAB laugh_spa 
+894.033 895.374 eng_eng laugh_eng thats_eng 
+896.079 898.053 CON _spa _spa eng_spa not_spa possible_spa 
+896.178 897.536 GAB _spa _spa eng_spa I_spa guess_spa so_spa 
+898.099 898.953 eng_eng I_eng dont_eng know_eng 
+898.863 901.33 eng_eng but_eng I_eng wanna_eng go_eng xxx_eng where_eng is_eng Mozambique_engspa 
+898.863 901.33 CON _spa xxx_spa 
+901.33 902.984 GAB Mozambique_engspa 
+901.33 902.984 CON _spa Mozambique_engspa 
+902.967 904.366 CON Mozambique_engspa 
+904.366 906.491 eng_eng thirty_eng six_eng right_eng there_eng 
+906.871 909.495 eng_eng this_eng is_eng Madagascar_engspa xxx_eng 
+909.442 912.049 eng_eng I_eng know_eng wheres_eng Madagascar_engspa 
+912.04 913.549 GAB ah_engspa 
+913.515 915.616 eng_eng Japan_eng 
+915.619 917.546 eng_eng no_eng Philippines_eng 
+917.186 918.167 GAB _spa _spa eng_spa Philippines_spa 
+918.214 920.443 eng_eng Japan_eng is_eng this_eng one_eng 
+918.214 920.443 GAB _spa _spa eng_spa Japan_spa is_spa 
+920.182 921.563 eng_eng no_eng are_eng you_eng crazy_eng 
+921.482 922.747 eng_eng yes_eng its_eng 
+922.103 923.2 GAB _spa _spa eng_spa no_spa its_spa not_spa 
+922.701 926.117 eng_eng its_eng an_eng island_eng that_eng its_eng just_eng next_eng to_eng China_engspa 
+923.157 924.358 GAB _spa _spa eng_spa are_spa you_spa crazy_spa 
+925.101 926.135 GAB _spa _spa eng_spa no_spa 
+925.952 927.449 eng_eng over_eng here_eng 
+927.426 928.941 eng_eng thats_eng Japan_eng 
+930.654 931.855 eng_eng and_eng what_eng is_eng this_eng 
+931.797 932.802 eng_eng Thailand_eng 
+933.286 935.812 eng_eng like_eng part_eng of_eng Malaysia_eng 
+936.293 936.769 eng_eng yeah_eng 
+936.293 937.408 eng_eng Philippines_eng 
+937.332 938.877 eng_eng Malaysia_eng 
+940.763 942.435 eng_eng Japan_eng 
+943.837 945.433 eng_eng Rome_eng I_eng wanna_eng go_eng Rome_eng o_k_eng 
+948.762 949.918 eng_eng experience_eng 
+949.037 952.582 GAB _spa _spa eng_spa xxx_spa to_spa teach_spa English_spa in_spa another_spa country_spa its_spa super_spa fun_spa 
+952.617 954.927 eng_eng well_eng you_eng gotta_eng know_eng the_eng language_eng of_eng the_eng other_eng 
+955.29 957.862 eng_eng yeah_eng yeah_eng I_eng spoke_eng to_eng the_eng lady_eng who_eng give_eng me_eng the_eng brochure_eng 
+957.67 960.616 eng_eng and_eng she_eng said_eng that_eng they_eng teach_eng you_eng English_eng for_eng two_eng years_eng 
+960.599 962.137 eng_eng I_eng mean_eng not_eng English_eng 
+962.114 966.517 eng_eng they_eng teach_eng you_eng the_eng _eng the_eng country_eng _eng the_eng language_eng of_eng the_eng country_eng youre_eng going_eng to_eng for_eng two_eng years_eng and_eng the_eng 
+966.488 968.88 CON _spa _spa eng_spa wow_spa but_spa this_spa program_spa is_spa long_spa 
+968.793 970.969 eng_eng yeah_eng its_eng twenty_eng seven_eng months_eng you_eng have_eng to_eng volunteer_eng 
+970.967 972.516 eng_eng twenty_eng seven_eng months_eng 
+972.505 974.357 eng_eng thats_eng _eng more_eng than_eng two_eng years_eng 
+974.316 975.628 eng_eng yeah_eng 
+975.547 975.75 eng_eng no_eng 
+975.75 976.934 eng_eng I_eng wont_eng do_eng that_eng laugh_eng 
+976.415 979.027 GAB _spa sí_spa un_eng _spa its_eng a_eng long_eng time_eng right_eng 
+979.009 979.857 eng_eng yeah_eng 
+979.819 981.23 eng_eng its_eng only_eng volunteer_eng 
+981.212 982.652 eng_eng well_eng they_eng pay_eng for_eng everything_eng 
+982.646 982.936 eng_eng yeah_eng 
+983.047 985.235 eng_eng but_eng its_eng like_eng you_eng dont_eng have_eng _eng you_eng dont_eng get_eng a_eng saving_eng 
+983.256 983.987 CON _spa _spa eng_spa but_spa 
+985.282 986.205 eng_eng its_eng like_eng 
+985.622 991.052 eng_eng for_eng example_eng if_eng you_eng _eng _eng your_eng career_eng is_eng doing_eng that_eng its_eng good_eng 
+990.927 993.324 eng_eng but_eng my_eng case_eng wouldnt_eng be_eng 
+994.302 995.696 GAB xxx_spa 
+995.69 1000.537 eng_eng because_eng this_eng _eng this_eng helps_eng you_eng to_eng develop_eng a_eng curriculum_eng 
+1001.332 1004.183 eng_eng its_eng not_eng about_eng developing_eng curriculum_eng either_eng 
+1004.202 1006.737 CON but_eng pero_spa es_spa para_spa ayudar_spa a_spa la_spa gente_spa y_spa todo_spa eso_spa 
+1004.664 1006.058 GAB _spa xxx_spa 
+1008.91 1011.05 GAB mira_spa esa_spa vaca_spa flaca_spa 
+1011.149 1012.124 eng_eng oh_engspa my_eng goodness_eng 
+1012.257 1013.563 GAB hasta_spa la_spa vaca_spa está_spa 
+1013.471 1014.887 CON estás_spa segura_spa que_spa es_spa una_spa vaca_spa 
+1014.852 1016.187 GAB sí_spa 
+1014.852 1016.187 CON _spa _spa eng_spa are_spa you_spa sure_spa its_spa a_spa cow_spa 
+1016.3 1017.252 CON xxx_spa 
+1017.125 1018.187 eng_eng or_eng a_eng horse_eng 
+1018.117 1019.255 eng_eng its_eng look_eng like_eng a_eng cow_eng 
+1018.117 1019.975 eng_eng it_eng is_eng a_eng _eng no_eng it_eng is_eng a_eng cow_eng 
+1019.969 1021.955 eng_eng even_eng the_eng cow_eng is_eng starving_eng dude_eng 
+1022.2 1023.826 eng_eng thats_eng horrible_eng 
+1023.802 1026.496 CON xxx_spa no_spa se_spa la_spa pueden_spa comer_spa 
+1026.24 1027.378 CON laugh_spa 
+1027.169 1031.976 CON xxx_spa si_spa las_spa matan_spa nada_spa más_spa _spa tienen_spa para_spa el_spa huesito_spa 
+1027.401 1029.863 GAB _spa xxx_spa hueso_spa 
+1034.918 1037.635 eng_eng interesting_eng 
+1037.589 1040.77 eng_eng xxx_eng is_eng a_eng volunteer_eng in_eng Mongolia_engspa 
+1041.234 1043.58 eng_eng its_eng super_eng cool_eng 
+1043.44 1045.414 eng_eng but_eng its_eng an_eng experience_eng of_eng a_eng lifetime_eng 
+1045.112 1045.669 CON a_spa ver_spa 
+1045.53 1046.18 eng_eng let_eng me_eng see_eng 
+1046.761 1048.943 eng_eng oh_engspa my_eng God_eng 
+1048.432 1051.637 GAB _spa _spa eng_spa even_spa if_spa you_spa dont_spa go_spa with_spa peace_spa corps_spa its_spa like_spa if_spa you_spa go_spa on_spa mission_spa work_spa 
+1051.451 1052.426 eng_eng thats_eng so_eng awesome_eng 
+1052.124 1053.564 eng_eng I_eng love_eng it_eng 
+1053.699 1056.88 eng_eng you_eng get_eng to_eng meet_eng so_eng much_eng _eng so_eng many_eng people_eng 
+1058.854 1060.549 GAB xxx_spa 
+1062.871 1064.049 eng_eng but_eng uh_eng 
+1064.217 1066.778 GAB sí_spa después_spa le_spa digo_spa lo_spa que_spa era_spa 
+1066.795 1067.863 GAB laugh_spa 
+1067.004 1068.002 CON ah_engspa 
+1067.956 1070.347 GAB me_spa da_spa pena_spa no_spa lo_spa quería_spa rechazar_spa 
+1070.208 1071.996 eng_eng what_eng was_eng that_eng 
+1071.787 1072.832 GAB ah_engspa un_spa amigo_spa 
+1072.786 1073.994 GAB pero_spa después_spa yo_spa le_spa digo_spa 
+1074.109 1076.663 GAB ah_engspa es_spa que_spa estamos_spa haciendo_spa un_spa recording_eng 
+1075.706 1077.076 CON ah_engspa xxx_spa 
+1076.472 1078.446 GAB pero_spa de_spa todas_spa maneras_spa no_spa 
+1079.01 1079.8 CON _spa él_spa podía_spa venir_spa 
+1079.909 1081.186 GAB sí_spa 
+1081.2 1081.31 CON sí_spa 
+1081.441 1083.601 GAB ay_spa yo_spa no_spa lo_spa sabía_spa 
+1081.441 1083.601 CON _spa _spa eng_spa whatever_spa 
+1083.299 1084.855 CON ya_spa el_spa te_spa dijo_spa 
+1084.669 1085.992 CON _spa _spa eng_spa if_spa youve_spa to_spa answer_spa the_spa phone_spa 
+1085.505 1086.191 CON _spa _spa eng_spa you_spa can_spa answer_spa it_spa 
+1086.085 1087.78 CON _spa _spa eng_spa dont_spa worry_spa 
+1086.248 1087.641 GAB _spa ah_engspa bueno_spa bueno_spa 
+1087.432 1088.686 GAB de_spa todas_spa maneras_spa 
+1088.477 1090.102 CON _spa _spa eng_spa its_spa just_spa talking_spa 
+1090.056 1092.006 GAB qué_spa es_spa esto_spa 
+1091.287 1091.746 eng_eng oh_eng look_eng 
+1091.658 1093.214 eng_eng a_eng butterfly_eng 
+1092.448 1093.701 GAB dónde_spa 
+1093.26 1094.793 eng_eng oh_eng my_eng God_eng 
+1094.694 1096.575 eng_eng its_eng huge_eng 
+1096.18 1097.713 GAB de_spa qué_spa hablas_spa 
+1097.411 1098.201 GAB laugh_spa 
+1097.411 1098.201 CON laugh_spa 
+1097.829 1098.41 GAB ay_spa no_spa 
+1098.224 1099.013 GAB xxx_spa 
+1098.944 1099.872 GAB un_spa butterfly_eng 
+1099.687 1100.407 CON laugh_spa 
+1100.174 1101.985 GAB rosado_spa y_spa negro_spa _spa laugh
+1100.708 1104.029 CON _spa xxx_spa hay_spa balones_spa ahí_spa arriba_spa 
+1103.495 1105.863 GAB _spa xxx_spa 
+1105.445 1106.235 CON no_spa sé_spa 
+1105.91 1107.094 GAB te_spa estás_spa divirtiendo_spa ahora_spa 
+1106.885 1107.674 CON yo_spa creo_spa 
+1107.28 1108.975 CON viste_spa techo_spa que_spa es_spa super_engspa cool_spa 
+1108.673 1111.575 GAB sí_spa p_spa a_spa ti_spa te_spa gusta_spa ese_spa diseño_spa 
+1111.413 1112.504 CON ah_engspa 
+1112.272 1114.013 GAB a_spa ti_spa te_spa gusta_spa ese_spa diseño_spa 
+1113.967 1116.907 CON um_eng sí_spa y_spa no_spa 
+1116.489 1118.555 CON o_spa sea_spa its_eng like_eng 
+1117.975 1119.078 GAB a_spa mí_spa no_spa me_spa gusta_spa 
+1118.787 1120.436 CON _spa experimentándolo_spa 
+1119.159 1120.947 GAB _spa se_spa ensucia_spa 
+1120.459 1121.597 CON lo_spa ves_spa 
+1121.388 1124.662 CON es_spa que_spa de_spa eso_spa se_spa trata_spa architecture_eng _spa yawn
+1124.267 1125.66 GAB de_spa qué_spa 
+1125.544 1127.936 CON yawn_spa de_spa experimentar_spa todo_spa y_spa verlo_spa 
+1127.634 1133.253 CON o_spa sea_spa yo_spa _spa yo_spa _spa yo_spa he_spa _spa yo_spa he_spa de_spa verdad_spa que_spa cuando_spa uno_spa estudia_spa eso_spa uno_spa cambia_spa el_spa concepto_spa en_spa como_spa ve_spa todo_spa 
+1133.084 1141.28 CON uno_spa empieza_spa _spa te_spa empiezas_spa a_spa desarrollar_spa como_spa a_spa develop_eng esas_spa cosas_spa de_spa _spa de_spa ver_spa todo_spa diferente_spa _spa de_spa forma_spa diferente_spa 
+1140.863 1144.833 eng_eng like_eng the_eng approach_eng you_eng have_eng for_eng everything_eng 
+1143.719 1147.666 GAB entonces_spa como_spa ves_spa este_spa _spa este_spa scenario_eng 
+1147.4 1151.463 CON tú_spa sabes_spa yo_spa lo_spa veo_spa y_spa como_spa que_spa me_spa inspiro_spa para_spa hacer_spa algo_spa 
+1151.115 1155.689 CON lo_spa estoy_spa viendo_spa des_spa _spa no_spa estoy_spa pendiente_spa del_spa espacio_spa sino_spa que_spa estoy_spa pendiente_spa de_spa la_spa estructura_spa 
+1155.202 1158.754 CON estoy_spa pendiente_spa de_spa _spa de_spa cómo_spa circula_spa la_spa gente_spa 
+1158.406 1160.914 CON de_spa la_spa luz_spa 
+1160.426 1162.632 CON de_spa que_spa es_spa muy_spa oscuro_spa 
+1161.796 1162.818 GAB verdad_spa 
+1162.562 1164.838 GAB es_spa muy_spa oscuro_spa 
+1164.536 1167.044 CON sí_spa porque_spa de_spa repente_spa ellos_spa querían_spa hacer_spa 
+1164.536 1167.044 GAB _spa y_spa es_spa como_spa que_spa muy_spa kj_spa 
+1166.714 1174.562 CON _spa hacer_spa algo_spa bastante_spa macizo_spa pero_spa querían_spa mantener_spa el_spa e_spa _spa la_spa conexión_spa entre_spa esta_spa parte_spa de_spa college_eng y_spa la_spa otra_spa parte_spa 
+1174.191 1180.019 CON porque_spa si_spa no_spa hubiese_spa estado_spa este_spa hueco_spa acá_spa _spa las_spa personas_spa hubiesen_spa tenido_spa que_spa dar_spa toda_spa la_spa vuelta_spa alrededor_spa 
+1179.973 1183.804 eng_eng and_eng that_eng would_eng be_eng like_eng bothersome_eng because_eng xxx_eng 
+1183.525 1185.824 GAB _spa entonces_spa qué_spa hubieran_spa podido_spa hacer_spa 
+1185.685 1187.983 CON nada_spa this_eng was_eng the_eng only_eng options_eng 
+1187.86 1194.682 CON pero_spa como_spa la_spa librería_spa is_eng so_eng huge_eng _spa you_eng gotta_eng make_eng a_eng whole_eng xxx_spa to_eng make_eng a_eng _spa a_eng room_eng over_eng there_eng 
+1194.617 1199.006 GAB yeah_eng but_eng how_eng do_eng they_eng _spa how_eng will_eng _spa cómo_spa lo_spa puedes_spa improve_spa 
+1194.635 1196.011 CON _spa _spa eng_spa but_spa its_spa good_spa also_spa 
+1196.73 1198.124 CON _spa _spa eng_spa because_spa 
+1199.772 1202.419 eng_eng ah_eng I_eng dont_eng know_eng 
+1202.582 1204.346 eng_eng the_eng building_eng would_eng have_eng to_eng be_eng thinner_eng 
+1204.114 1211.15 eng_eng but_eng whats_eng good_eng about_eng this_eng its_eng because_eng is_eng this_eng deep_eng it_eng allows_eng the_eng air_eng go_eng beneath_eng the_eng _eng the_eng building_eng so_eng 
+1210.407 1212.311 GAB _spa xxx_spa 
+1210.88 1214.061 CON _spa _spa eng_spa so_spa thats_spa why_spa this_spa is_spa so_spa fresh_spa 
+1214.014 1218.194 eng_eng they_eng did_eng it_eng in_eng that_eng way_eng because_eng this_eng is_eng always_eng like_eng that_eng 
+1218.357 1219.239 eng_eng yeah_eng 
+1219.007 1224.79 CON aunque_spa haya_spa _spa aunque_spa haya_spa brisa_spa fuera_spa o_spa no_spa haya_spa brisa_spa fuera_spa el_spa aire_spa siempre_spa va_spa a_spa entrar_spa por_spa aquí_spa como_spa 
+1220.157 1220.865 GAB brisa_spa 
+1224.946 1226.066 CON imagínate_spa 
+1226.094 1227.882 eng_eng its_eng like_eng pressure_eng 
+1227.817 1229.953 CON todo_spa el_spa aire_spa está_spa fuera_spa pero_spa se_spa mete_spa por_spa un_spa huequito_spa así_spa 
+1229.954 1231.347 CON siempre_spa va_spa a_spa fluir_spa 
+1232.958 1237.161 CON después_spa eso_spa _spa esta_spa parte_spa siempre_spa va_spa a_spa estar_spa refrescada_spa así_spa imitwind_spa 
+1237.114 1241.898 CON pero_spa por_spa ejemplo_spa ellos_spa pudieron_spa haberlo_spa hecho_spa más_spa clara_spa poniendo_spa un_spa piso_spa más_spa claro_spa 
+1238.508 1240.412 GAB _spa sí_spa pero_spa 
+1241.991 1247.192 CON en_spa vez_spa de_spa hacer_spa concrete_eng esto_spa con_spa un_spa piso_spa de_spa marble_eng se_spa vería_spa super_engspa cool_eng 
+1246.994 1248.317 GAB sí_spa 
+1248.178 1251.196 CON o_spa en_spa vez_spa de_spa usar_spa pintura_spa gris_spa usar_spa pintura_spa clara_spa 
+1248.573 1252.032 GAB _spa pero_spa después_spa cuando_spa llueve_spa se_spa pone_spa muy_spa slippery_eng 
+1251.289 1252.543 CON _spa _spa eng_spa slippery_spa 
+1252.265 1254.842 CON esa_spa es_spa la_spa cuestión_spa 
+1253.658 1257.086 GAB pero_spa y_spa si_spa también_spa sabes_spa lo_spa que_spa I_eng picture_spa 
+1256.985 1266.854 GAB dos_spa edificios_spa _spa el_spa _spa la_spa librería_spa separada_spa entre_spa dos_spa edificios_spa y_spa después_spa en_spa el_spa medio_spa un_spa corredor_spa que_spa la_spa gente_spa puede_spa cruzar_spa al_spa otro_spa lado_spa del_spa _spa de_spa la_spa librería_spa 
+1269.292 1271.73 GAB y_spa así_spa hubiera_spa espacio_spa 
+1270.403 1270.984 CON _spa ah_engspa 
+1271.541 1277.555 CON pero_spa sería_spa el_spa mismo_spa tamaño_spa el_spa edificio_spa pero_spa estás_spa quitándole_spa todo_spa ese_spa hueco_spa para_spa ese_spa corredor_spa 
+1274.56 1276.417 GAB sí_spa 
+1277.81 1279.32 GAB es_spa mu_spa _spa es_spa 
+1277.81 1279.32 CON entonces_spa 
+1278.902 1280.736 GAB estás_spa gastando_spa 
+1280.039 1281.665 CON estás_spa gastando_spa espacio_spa 
+1281.224 1282.315 GAB ah_engspa 
+1281.804 1283.964 CON _spa eso_spa se_spa llama_spa efficiency_eng 
+1282.222 1284.614 GAB _spa o_spa bueno_spa este_spa hueco_spa más_spa alto_spa 
+1284.614 1286.402 GAB y_spa el_spa edificio_spa más_spa alto_spa 
+1286.077 1288.747 GAB o_spa sea_spa sigue_spa siendo_spa siete_spa pies_spa 
+1286.727 1287.563 CON _spa xxx_spa 
+1288.445 1291.162 GAB pero_spa todo_spa más_spa alto_spa para_spa que_spa ese_spa hueco_spa sea_spa más_spa largo_spa 
+1291.151 1294.448 eng_eng that_eng would_eng mean_eng more_eng 
+1292.962 1295.609 GAB _spa pero_spa más_spa _spa pero_spa para_spa la_spa gente_spa 
+1295.33 1296.677 GAB o_spa sea_spa es_spa como_spa se_spa 
+1295.841 1297.49 CON _spa esa_spa es_spa _spa pero_spa es_spa que_spa esa_spa es_spa la_spa cuestión_spa 
+1297.861 1299.533 eng_eng would_eng it_eng be_eng people_eng friendly_eng 
+1299.394 1300.207 eng_eng like_eng xxx_eng 
+1299.974 1303.434 eng_eng I_eng like_eng furniture_eng and_eng buildings_eng and_eng I_eng like_eng people_eng friendly_eng not_eng 
+1303.945 1308.032 CON como_spa ayer_spa por_spa ejemplo_spa en_spa la_spa casa_spa _spa en_spa el_spa bookstore_eng al_spa frente_spa a_spa mí_spa me_spa gusta_spa _spa me_spa gustó_spa ese_spa hueco_spa 
+1307.823 1309.309 GAB cuál_spa hueco_spa 
+1308.705 1311.283 CON el_spa huequito_spa donde_spa están_spa los_spa _spa todos_spa los_spa paintings_eng en_spa la_spa _spa en_spa la_spa pared_spa 
+1311.07 1312.44 GAB ah_engspa sí_spa 
+1312.905 1315.459 CON y_spa es_spa un_spa poco_spa de_spa sillas_spa 
+1315.296 1317.375 CON se_spa siente_spa así_spa todo_spa como_spa comfortable_eng that_eng 
+1317.665 1318.554 CON ahí_spa _spa ahí_spa todo_spa 
+1317.665 1319.081 GAB _spa sí_spa 
+1318.222 1319.796 CON te_spa puedes_spa tirar_spa y_spa eso_spa 
+1320.033 1326.86 CON pero_spa lo_spa que_spa pasa_spa es_spa que_spa tienes_spa _spa que_spa cuando_spa ya_spa estás_spa en_spa estas_spa cosas_spa en_spa arquitectura_spa y_spa eso_spa tienes_spa que_spa ver_spa que_spa hay_spa mucha_spa _spa mucha_spa cosa_spa más_spa que_spa tienes_spa 
+1325.397 1326.86 GAB _spa intereses_spa del_spa dinero_spa 
+1327.278 1328.973 CON claro_spa porque_spa budget_eng 
+1328.787 1331.992 CON tú_spa diseñas_spa pero_spa tú_spa no_spa eres_spa el_spa que_spa está_spa pagando_spa por_spa el_spa diseño_spa 
+1332.061 1333.037 GAB sí_spa 
+1332.334 1334.169 CON _spa _spa eng_spa somebody_spa else_spa 
+1333.89 1335.655 eng_eng you_eng design_eng it_eng for_eng somebody_eng else_eng 
+1337.327 1339.718 GAB pero_spa si_spa totalmente_spa tendrías_spa que_spa 
+1339.625 1340.856 GAB o_spa sea_spa 
+1341.135 1342.783 CON entonces_spa ellos_spa te_spa 
+1342.11 1342.737 GAB _spa si_spa 
+1342.389 1345.454 CON ellos_spa más_spa o_spa menos_spa te_spa dicen_spa podemos_spa gastar_spa tanto_spa y_spa 
+1344.989 1346.986 CON pero_spa tú_spa tienes_spa que_spa limitarte_spa a_spa eso_spa 
+1346.266 1347.027 GAB _spa pero_spa vamos_spa a_spa decir_spa 
+1347.079 1350.562 GAB no_spa estoy_spa hablando_spa de_spa actual_eng realistic_eng jobs_eng 
+1350.191 1352.548 GAB estoy_spa hablando_spa de_spa tu_spa creatividad_spa 
+1352.095 1356.437 GAB o_spa sea_spa tú_spa diseñar_spa algo_spa porque_spa te_spa gusta_spa por_spa el_spa _spa aesthetically_eng 
+1356.803 1358.382 GAB like_eng porque_spa te_spa gusta_spa 
+1360.077 1363.944 GAB ay_spa yo_spa me_spa comí_spa un_spa xxx_spa así_spa de_spa grande_spa 
+1363.676 1365.069 CON laugh_spa 
+1364.628 1366.625 CON qué_spa ver_spa un_spa pan_spa con_spa el_spa 
+1366.602 1367.577 GAB laugh_spa 
+1367.438 1369.76 CON yo_spa tengo_spa hambre_spa ahora_spa quiero_spa 
+1368.134 1370.619 GAB _spa no_spa porque_spa te_spa vi_spa yawning_eng 
+1369.783 1370.897 CON _spa quiero_spa comer_spa 
+1370.758 1373.451 CON me_spa comí_spa unas_spa papitas_spa de_spa Jane_engspa 
+1373.289 1374.938 eng_eng oh_engspa my_eng goodness_eng 
+1374.752 1375.89 CON Jane_engspa xxx_spa 
+1374.917 1376.619 GAB y_spa cómo_spa está_spa Jane_engspa 
+1376.34 1376.962 CON Jane_engspa 
+1377.176 1379.196 CON pues_spa ahí_spa en_spa el_spa _spa en_spa su_spa casa_spa 
+1378.523 1382.052 GAB yo_spa estuve_spa _spa cuando_spa yo_spa la_spa vi_spa el_spa primer_spa día_spa yo_spa estuve_spa bien_spa con_spa ella_spa 
+1381.657 1383.445 GAB no_spa se_spa si_spa te_spa contó_spa 
+1382.981 1383.91 CON ay_spa sí_spa 
+1383.515 1384.397 CON que_spa le_spa digo_spa 
+1383.956 1385.349 CON _spa Jane_engspa ya_spa por_spa favor_spa 
+1385.187 1386.278 GAB ay_spa no_spa 
+1385.721 1386.464 CON _spa cállate_spa _spa laugh
+1386.952 1388.229 GAB xxx_spa 
+1388.459 1390.085 CON _spa ay_spa pero_spa ay_spa ay_spa 
+1389.597 1390.41 CON me_spa decía_spa 
+1390.108 1391.826 CON _spa ay_spa ay_spa Connor_engspa 
+1391.594 1392.848 CON pero_spa de_spa Gabrielle_engspa 
+1392.801 1394.45 eng_eng oh_engspa no_eng 
+1392.998 1394.984 GAB oh_engspa laugh_spa 
+1394.589 1395.82 CON _spa yo_spa papi_spa papi_spa 
+1396.261 1397.585 CON _spa yo_spa no_spa me_spa esperaba_spa eso_spa 
+1397.352 1398.142 GAB laugh_spa 
+1397.701 1399.094 CON _spa discúlpame_spa y_spa perdona_spa 
+1398.978 1401.602 CON _spa pero_spa yo_spa _spa dónde_spa quedó_spa _spa dónde_spa quedó_spa 
+1401.509 1404.249 CON _spa ah_engspa ah_engspa n_spa n_spa no_spa no_spa 
+1403.768 1405.986 GAB xxx_spa dónde_spa quedó_spa qué_spa 
+1405.828 1406.78 CON ella_spa decía_spa 
+1406.362 1409.845 CON _spa dónde_spa quedó_spa la_spa _spa la_spa cristiandad_spa y_spa _spa y_spa to_spa t_spa 
+1409.705 1411.331 CON _spa no_spa papi_spa no_spa 
+1411.122 1412.26 CON _spa eso_spa no_spa se_spa hace_spa 
+1412.33 1414.907 CON xxx_spa no_spa no_spa no_spa no_spa no_spa xxx_spa 
+1414.603 1415.996 CON pues_spa yo_spa le_spa decía_spa 
+1415.509 1416.6 CON _spa xxx_spa 
+1416.391 1418.017 GAB _spa pero_spa y_spa ella_spa se_spa estaba_spa enfocando_spa 
+1417.575 1418.852 GAB pues_spa sí_spa 
+1418.713 1419.602 GAB ay_spa yo_spa no_spa sé_spa 
+1419.456 1420.455 eng_eng anyway_eng s_eng 
+1419.967 1421.5 eng_eng oh_engspa my_eng goodness_eng 
+1421.035 1422.753 GAB pero_spa qué_spa tu_spa hiciste_spa eso_spa de_spa verdad_spa 
+1422.382 1424.054 GAB ella_spa _spa pero_spa mira_spa 
+1423.264 1425.284 CON _spa _spa eng_spa its_spa like_spa pk_spa 
+1424.843 1425.308 GAB no_spa 
+1425.192 1425.818 CON laugh_spa 
+1425.656 1426.469 GAB le_spa dije_spa 
+1426.631 1427.653 GAB _spa toma_spa la_spa cámara_spa 
+1427.374 1428.233 GAB y_spa me_spa fui_spa 
+1427.815 1431.856 GAB porque_spa estaba_spa hirviendo_spa _spa la_spa sangre_spa me_spa estaba_spa hirviendo_spa 
+1431.507 1433.086 GAB no_spa sabía_spa qué_spa hacer_spa 
+1432.947 1433.574 CON why_spa 
+1433.365 1434.642 GAB porque_spa mira_spa 
+1434.642 1436.941 GAB yo_spa estaba_spa llamado_spa a_spa gente_spa verdad_spa 
+1436.709 1438.427 GAB y_spa ese_spa viene_spa 
+1438.125 1439.24 GAB y_spa era_spa un_spa grupo_spa grande_spa 
+1438.822 1439.89 GAB y_spa solam_spa _spa era_spa el_spa domingo_spa 
+1439.774 1441.631 GAB estaba_spa ahí_spa por_spa cuatro_spa horas_spa solamente_spa 
+1441.418 1443.856 GAB y_spa ella_spa se_spa tiró_spa enfrente_spa del_spa 
+1443.647 1446.55 GAB o_spa sea_spa ni_spa rien_spa _spa se_spa tiró_spa enfrente_spa de_spa mí_spa 
+1446.702 1447.677 GAB cogió_spa mi_spa cliente_spa 
+1447.572 1447.943 GAB lo_spa llevó_spa 
+1448.264 1449.262 GAB le_spa tomó_spa fotos_spa 
+1449.111 1451.712 GAB al_spa cliente_spa le_spa llegó_spa tres_spa cuatro_spa familias_spa 
+1451.7 1453.209 GAB y_spa le_spa tomó_spa fotos_spa a_spa todos_spa ellos_spa 
+1453.235 1454.529 GAB y_spa les_spa vendió_spa y_spa ya_spa 
+1454.471 1455.969 GAB quedó_spa en_spa su_spa número_spa 
+1456.58 1456.975 GAB entonces_spa yo_spa 
+1456.945 1460.079 GAB _spa ok_eng Jane_engspa yo_spa juego_spa contigo_spa pero_spa no_spa se_spa 
+1459.87 1460.973 GAB _spa no_spa te_spa pases_spa 
+1461.02 1461.647 GAB o_spa sea_spa 
+1462.708 1467.125 CON ella_spa lo_spa que_spa me_spa dijo_spa fue_spa que_spa como_spa tú_spa tenías_spa a_spa un_spa montonón_spa de_spa gente_spa y_spa ya_spa ahí_spa 
+1467.145 1469.631 CON le_spa estabas_spa tomando_spa fotos_spa entonces_spa que_spa llegó_spa otra_spa persona_spa 
+1468.843 1469.528 GAB _spa no_spa 
+1469.377 1471.548 GAB ella_spa me_spa lo_spa cogió_spa desde_spa antes_spa 
+1471.177 1472.442 GAB no_spa llegó_spa gente_spa 
+1472.233 1474.753 GAB ella_spa después_spa comenzó_spa a_spa torcer_spa la_spa historia_spa 
+1474.474 1476.471 GAB _spa no_spa es_spa que_spa te_spa re_spa _spa es_spa para_spa ayudarte_spa 
+1476.315 1477.888 GAB no_spa Jane_engspa no_spa fue_spa para_spa ayudarme_spa 
+1477.539 1481.314 GAB tú_spa lo_spa llamaste_spa antes_spa que_spa yo_spa lo_spa pude_spa hacer_spa llegar_spa a_spa la_spa cámara_spa 
+1481.417 1485.212 GAB entonces_spa yo_spa _spa por_spa eso_spa me_spa molesté_spa porque_spa ella_spa asumió_spa y_spa tomó_spa 
+1485.249 1487.502 GAB sentí_spa que_spa estaba_spa abusando_spa de_spa la_spa amistad_spa 
+1487.269 1489.29 GAB o_spa sea_spa como_spa se_spa estaba_spa riendo_spa y_spa todo_spa 
+1489.204 1490.586 GAB se_spa cogió_spa el_spa cliente_spa 
+1490.539 1491.352 eng_eng y_eng yo_eng me_eng fui_eng 
+1491.287 1495.729 GAB pero_spa de_spa todas_spa maneras_spa para_spa mí_spa fue_spa una_spa lección_spa porque_spa mira_spa 
+1495.371 1498.088 GAB _spa cuando_spa yo_spa estaba_spa hirviendo_spa verdad_spa 
+1498.042 1499.586 GAB y_spa yo_spa sentía_spa al_spa señor_spa diciéndome_spa 
+1499.435 1501.374 GAB _spa cálmate_spa cálmate_spa cálmate_spa 
+1501.362 1502.326 GAB entonces_spa dios_spa me_spa dijo_spa 
+1502.175 1506.273 GAB _spa no_spa te_spa preocupes_spa que_spa yo_spa te_spa voy_spa a_spa mandar_spa otra_spa venta_spa que_spa va_spa a_spa ser_spa aún_spa más_spa 
+1506.176 1509.845 GAB pero_spa yo_spa no_spa tuve_spa paciencia_spa para_spa expresar_spa _spa para_spa esperar_spa en_spa el_spa señor_spa 
+1509.752 1512.795 GAB porque_spa cuando_spa vino_spa ese_spa otro_spa cliente_spa yo_spa sentía_spa algo_spa que_spa me_spa dijo_spa 
+1512.597 1513.712 GAB _spa este_spa es_spa el_spa cliente_spa 
+1513.92 1515.766 GAB _spa ese_spa te_spa va_spa a_spa comprar_spa bastante_spa 
+1515.499 1518.519 GAB pero_spa entonces_spa vino_spa Jane_engspa y_spa otra_spa vez_spa me_spa iba_spa a_spa coger_spa la_spa cámara_spa 
+1518.622 1522.165 GAB y_spa yo_spa _spa ahí_spa es_spa donde_spa se_spa me_spa fue_spa hasta_spa el_spa pu_spa _spa hasta_spa la_spa cabeza_spa 
+1522.13 1522.983 GAB yo_spa le_spa dije_spa 
+1522.999 1523.972 GAB _spa toma_spa la_spa cámara_spa 
+1523.951 1524.578 GAB y_spa me_spa fui_spa 
+1524.482 1525.848 GAB porque_spa ella_spa jugando_spa 
+1525.569 1526.852 GAB _spa ven_spa yo_spa te_spa lo_spa hago_spa 
+1527.125 1528.588 GAB así_spa riéndose_spa otra_spa vez_spa 
+1528.418 1529.057 GAB y_spa yo_spa 
+1529.335 1531.414 GAB oh_engspa toma_spa la_spa cámara_spa 
+1531.007 1532.099 GAB y_spa me_spa fui_spa caminando_spa 
+1531.994 1533.364 GAB y_spa después_spa regresé_spa 
+1533.817 1534.769 GAB y_spa le_spa dije_spa 
+1534.837 1535.51 GAB _spa mira_spa 
+1536.392 1537.171 GAB y_spa ella_spa me_spa dijo_spa 
+1537.019 1538.877 GAB _spa ay_spa por_spa qué_spa te_spa pusiste_spa así_spa tal_spa cosa_spa 
+1538.679 1539.748 GAB no_spa se_spa qué_spa 
+1540.642 1541.768 GAB y_spa entonces_spa yo_spa le_spa dije_spa 
+1541.686 1542.197 GAB pu_spa 
+1542.065 1542.768 GAB yo_spa le_spa dije_spa 
+1542.546 1544.322 GAB _spa yo_spa preferí_spa no_spa reaccionar_spa así_spa 
+1544.131 1546.789 GAB _spa obviamente_spa no_spa me_spa hubiera_spa gustado_spa reaccionar_spa así_spa 
+1546.697 1551.491 GAB _spa pero_spa ya_spa me_spa molestó_spa porque_spa sentí_spa que_spa te_spa estabas_spa like_eng pasando_spa 
+1551.48 1553.059 GAB entonces_spa ahí_spa ya_spa hablamos_spa tal_spa cosa_spa 
+1552.769 1553.593 GAB y_spa resulta_spa 
+1553.593 1556.24 GAB el_spa cliente_spa ese_spa que_spa se_spa quedó_spa lo_spa atendió_spa Marta_engspa 
+1555.903 1561.714 GAB y_spa les_spa vendió_spa setenta_spa dólares_spa que_spa era_spa más_spa de_spa lo_spa que_spa Jane_engspa les_spa había_spa vendido_spa 
+1561.685 1562.892 GAB o_spa sea_spa dios_spa tenía_spa la_spa razón_spa 
+1562.739 1564.034 GAB me_spa estaba_spa mandando_spa el_spa cliente_spa 
+1564.005 1565.961 eng_eng pero_eng yo_eng no_eng tuve_eng paciencia_eng para_eng esperar_eng 
+1565.955 1568.532 eng_eng y_eng dejar_eng que_eng se_eng me_eng pasara_eng la_eng rabia_eng 
+1568.461 1569.75 GAB me_spa entiendes_spa 
+1569.39 1571.897 GAB entonces_spa ahí_spa eh_engspa aprendí_spa 
+1573.407 1575.473 GAB xxx_spa pues_spa ella_spa se_spa estaba_spa poniendo_spa mal_spa 
+1575.468 1576.054 eng_eng y_eng yo_eng dije_eng 
+1575.623 1578.091 GAB _spa pero_spa tú_spa no_spa tienes_spa razón_spa de_spa ponerte_spa mal_spa 
+1577.84 1582.288 GAB ella_spa no_spa tiene_spa razón_spa de_spa estar_spa ma_spa _spa rabiosa_spa de_spa nada_spa si_spa ella_spa se_spa metió_spa 
+1581.869 1582.716 GAB o_spa sea_spa 
+1583.13 1583.85 GAB me_spa entiendes_spa 
+1584.686 1585.684 GAB _spa xxx_spa 
+1584.709 1587.503 CON xxx_spa esa_spa era_spa una_spa sola_spa persona_spa entonces_spa 
+1587.263 1588.494 CON no_spa es_spa que_spa venía_spa 
+1587.542 1587.971 GAB _spa no_spa 
+1587.716 1589.585 GAB era_spa una_spa familia_spa toda_spa grande_spa 
+1589.55 1591.617 GAB pero_spa yo_spa llamé_spa una_spa persona_spa 
+1591.571 1593.4 GAB ella_spa me_spa quitó_spa esa_spa persona_spa 
+1593.17 1598.533 GAB entonces_spa como_spa ya_spa me_spa lo_spa quitó_spa atendí_spa el_spa hermano_spa o_spa el_spa amigo_spa de_spa él_spa 
+1598.522 1602.215 GAB después_spa llegaron_spa más_spa gente_spa pero_spa ella_spa les_spa tomó_spa gente_spa _spa fotos_spa a_spa todo_spa el_spa grupo_spa 
+1602.43 1604.415 GAB incluso_spa le_spa dijo_spa a_spa todo_spa el_spa grupo_spa que_spa se_spa pararan_spa juntos_spa 
+1604.369 1605.425 eng_eng y_eng les_eng tomó_eng fotos_eng 
+1606.173 1607.554 CON xxx_spa morcilla_spa 
+1608.537 1609.704 GAB no_spa sé_spa 
+1609.617 1612.194 CON el_spa de_spa la_spa morcilla_spa fue_spa un_spa poco_spa de_spa negros_spa 
+1612.461 1615.301 GAB sí_spa fue_spa un_spa poco_spa de_spa negros_spa juntos_spa 
+1614.504 1614.946 CON _spa dijo_spa 
+1614.608 1616.274 CON _spa digan_spa morcilla_spa 
+1616.233 1617.464 GAB sí_spa dijeron_spa morcilla_spa 
+1617.062 1618.96 CON _spa porque_spa eran_spa cuarenta_spa negros_spa 
+1618.054 1619.662 GAB ajá_spa ellos_spa 
+1620.071 1622.056 GAB entonces_spa eso_spa yo_spa ya_spa me_spa estaba_spa viendo_spa 
+1621.917 1624.448 GAB es_spa como_spa si_spa me_spa estaba_spa hirviendo_spa la_spa sangre_spa poquito_spa a_spa poquito_spa 
+1624.331 1625.445 GAB primero_spa me_spa llamó_spa el_spa cliente_spa 
+1625.439 1625.66 GAB y_spa dijo_spa 
+1625.602 1626.275 GAB _spa ah_engspa no_spa importa_spa 
+1626.552 1628.236 GAB después_spa llegó_spa otro_spa otro_spa otro_spa 
+1628.172 1629.344 GAB y_spa después_spa llegó_spa toda_spa la_spa familia_spa 
+1629.362 1630.122 eng_eng y_eng les_eng vendió_eng a_eng otro_eng 
+1630.111 1631.881 eng_eng y_eng ni_eng tuvo_eng _eng ni_eng una_eng vez_eng me_eng preguntó_eng 
+1631.749 1633.003 GAB _spa Gabrielle_engspa te_spa ayudo_spa 
+1632.926 1633.971 GAB _spa o_spa son_spa tuyos_spa 
+1633.809 1634.842 GAB o_spa nada_spa nada_spa nada_spa 
+1634.528 1635.655 GAB entonces_spa yo_spa me_spa puse_spa like_spa 
+1637.431 1639.08 GAB y_spa después_spa todo_spa eso_spa y_spa ya_spa 
+1639.3 1640.798 GAB atendiéndolos_spa todos_spa 
+1640.838 1643.021 GAB et_spa eso_spa me_spa puso_spa mal_spa 
+1642.731 1644.089 GAB mal_spa mal_spa mal_spa 
+1644.066 1645.668 GAB me_spa molesté_spa 
+1645.68 1647.236 GAB Marta_engspa me_spa entendió_spa 
+1647.224 1650.523 GAB she_eng was_eng like_eng pues_spa cada_spa persona_spa tiene_spa un_spa vaso_spa 
+1650.658 1652.759 GAB y_spa si_spa tú_spa lo_spa vas_spa llenando_spa 
+1652.376 1659.47 GAB y_spa yo_spa ei_spa ei_spa ella_spa re_spa es_spa _spa ella_spa le_spa dijo_spa a_spa Jane_engspa que_spa se_spa estaba_spa exagerado_spa porque_spa yo_spa solo_spa me_spa fui_spa 
+1659.483 1660.481 GAB n_spa ella_spa dijo_spa 
+1660.116 1663.494 GAB _spa preferiblemente_spa que_spa te_spa hubieras_spa ido_spa que_spa te_spa hubieras_spa explotado_spa aquí_spa 
+1663.471 1667.519 GAB pero_spa yo_spa en_spa mí_spa misma_spa _spa yo_spa siento_spa que_spa tengo_spa 
+1667.496 1671.373 GAB cómo_spa se_spa dice_spa standard_eng en_spa _spa en_spa sp_spa en_spa ing_spa _spa español_spa 
+1671.574 1672.63 CON standard_spa 
+1672.723 1674.035 GAB un_spa estándar_spa 
+1673.687 1676.137 GAB yo_spa tengo_spa un_spa estándar_spa más_spa alto_spa 
+1676.055 1677.983 GAB yo_spa nunca_spa me_spa hubiera_spa explotado_spa ahí_spa 
+1677.971 1681.709 GAB a_spa lo_spa _spa por_spa la_spa _spa o_spa sea_spa yo_spa no_spa lo_spa planeaba_spa 
+1681.586 1684.734 GAB para_spa mí_spa lo_spa que_spa hice_spa en_spa irme_spa eso_spa fue_spa una_spa explosión_spa 
+1684.425 1688.082 GAB o_spa sea_spa para_spa mi_spa personalidad_spa eso_spa lo_spa considero_spa una_spa explosión_spa 
+1687.967 1689.374 GAB aunque_spa Marta_engspa dijo_spa 
+1689.407 1691.161 GAB _spa no_spa estuvo_spa bien_spa lo_spa que_spa hiciste_spa 
+1691.23 1693.529 GAB _spa tú_spa te_spa fuiste_spa en_spa vez_spa de_spa decir_spa algo_spa 
+1693.482 1694.877 GAB _spa o_spa ponerte_spa mal_spa acá_spa 
+1694.632 1695.827 GAB _spa eso_spa está_spa bien_spa 
+1695.953 1699.807 GAB pero_spa yo_spa sentí_spa que_spa no_spa me_spa hubiera_spa ido_spa 
+1699.68 1709.571 GAB pero_spa es_spa que_spa _spa en_spa ese_spa momento_spa tenía_spa que_spa ha_spa haber_spa aplicado_spa la_spa sangre_spa de_spa Jesús_spa porque_spa no_spa había_spa manera_spa de_spa controlar_spa lo_spa que_spa estaba_spa pasando_spa dentro_spa de_spa mí_spa 
+1711.114 1713.297 GAB entonces_spa me_spa puse_spa súper_spa mal_spa 
+1714.04 1714.806 GAB sigh_spa 
+1714.795 1717.291 GAB pero_spa of_eng course_eng me_spa duele_spa 
+1717.059 1722.701 GAB o_spa sea_spa me_spa duele_spa porque_spa pues_spa no_spa quiero_spa like_spa dañar_spa mi_spa relación_spa con_spa ella_spa 
+1723.192 1726.571 CON ah_engspa 
+1726.617 1728.347 GAB me_spa entiendes_spa 
+1727.99 1729.081 GAB qué_spa piensais_spa 
+1729.267 1731.241 GAB qué_spa puedo_spa hacer_spa ahora_spa que_spa ya_spa pasó_spa 
+1731.234 1733.475 GAB o_spa sea_spa preferiblemente_spa no_spa hubiera_spa hecho_spa eso_spa 
+1733.433 1734.141 GAB yo_spa vi_spa 
+1733.849 1740.666 GAB guau_spa señor_spa si_spa hubiera_spa mantenido_spa la_spa paciencia_spa tú_spa me_spa hubieras_spa bendecido_spa aún_spa más_spa y_spa todo_spa 
+1740.406 1742.438 GAB y_spa hubiera_spa hablado_spa con_spa ella_spa calladamente_spa 
+1742.287 1745.632 GAB pero_spa en_spa ese_spa momento_spa no_spa tuve_spa self_eng control_eng 
+1748.359 1749.311 eng_eng you_eng know_eng what_eng I_eng mean_eng 
+1749.422 1750.084 eng_eng I_eng know_eng 
+1751.255 1753.345 GAB no_spa importa_spa no_spa entienden_spa español_spa 
+1753.152 1756.217 CON sí_spa no_spa porque_spa Jane_engspa _spa Jane_engspa se_spa 
+1757.541 1760.292 CON la_spa historia_spa que_spa ella_spa me_spa contó_spa es_spa un_spa poquito_spa diferente_spa _spa laugh
+1761.284 1763.759 GAB ella_spa xxx_spa y_spa entonces_spa ella_spa le_spa dice_spa a_spa Marta_engspa 
+1763.607 1764.664 GAB _spa cállase_spa la_spa boca_spa 
+1764.379 1765.702 GAB y_spa después_spa Marta_engspa dice_spa 
+1765.162 1766.962 CON _spa ella_spa le_spa dijo_spa cállese_spa la_spa boca_spa 
+1766.915 1768.854 GAB eso_spa es_spa lo_spa que_spa Marta_engspa dijo_spa a_spa lo_spa que_spa ella_spa le_spa dijo_spa 
+1768.866 1770.05 CON xxx_spa 
+1768.866 1770.05 GAB _spa y_spa entonces_spa Marta_engspa dijo_spa 
+1770.002 1771.001 GAB _spa tú_spa me_spa dijiste_spa eso_spa 
+1770.768 1771.906 GAB y_spa entonces_spa Jane_engspa 
+1771.604 1772.796 GAB _spa no_spa yo_spa no_spa dije_spa eso_spa 
+1772.591 1775.633 GAB ahí_spa entonces_spa otra_spa hora_spa hablando_spa con_spa Marta_engspa 
+1775.412 1777.305 eng_eng ar_eng arguing_eng 
+1777.27 1779.964 GAB discutiendo_spa que_spa si_spa dijo_spa o_spa no_spa dijo_spa cállate_spa la_spa boca_spa 
+1779.9 1782.791 GAB y_spa yo_spa ay_spa señor_spa por_spa favor_spa 
+1781.283 1784.423 CON _spa no_spa yo_spa no_spa creo_spa que_spa Jane_engspa le_spa haya_spa dicho_spa cállate_spa la_spa boca_spa 
+1784.078 1786.748 CON ella_spa lo_spa que_spa me_spa dijo_spa ella_spa que_spa estaba_spa hablando_spa contigo_spa 
+1786.725 1788.437 CON y_spa que_spa vino_spa Marta_engspa 
+1788.192 1790.259 CON _spa Jane_spa no_spa se_spa qué_spa no_spa se_spa qué_spa 
+1789.856 1790.831 CON y_spa ella_spa de_spa dijo_spa 
+1790.425 1793.78 CON Marta_engspa espérate_spa que_spa estoy_spa hablando_spa con_spa Gabrielle_engspa 
+1793.722 1796.067 GAB ajá_spa pero_spa a_spa Marta_engspa no_spa le_spa gusta_spa eso_spa porque_spa ella_spa es_spa la_spa manager_eng 
+1795.991 1799.95 CON sí_spa pero_spa bs_spa la_spa entiendo_spa y_spa tal_spa 
+1800.191 1804.15 CON pero_spa me_spa dio_spa un_spa risa_spa como_spa que_spa no_eng its_eng too_eng much_eng 

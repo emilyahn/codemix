@@ -1,0 +1,966 @@
+1.538 4.342 KEV bueno_spa y_spa qué_spa tú_spa crees_spa de_spa _spa de_spa aquí_spa la_spa cuadra_spa lo_spa que_spa están_spa haciendo_spa 
+4.336 6.914 KEV la_spa rotondita_spa esa_spa do_eng you_eng like_eng that_eng 
+5.989 7.005 SOF _spa pero_spa thats_eng illegal_eng 
+7.005 9.588 SOF esa_spa rotonda_spa es_spa illegal_eng 
+9.583 10.564 eng_eng from_eng what_eng I_eng know_eng 
+10.579 11.821 SOF supuesto_spa de_spa eso_spa es_spa illegal_eng 
+11.733 15.321 SOF y_spa si_spa _spa y_spa si_spa entra_spa algún_spa camión_spa ahí_spa por_spa ejemplo_spa a_spa dejar_spa muebles_spa o_spa cualquier_spa cosa_spa 
+15.321 16.325 SOF yo_spa no_spa sé_spa 
+16.309 17.702 SOF cómo_spa va_spa a_spa doblar_spa esa_spa rotondita_spa 
+17.697 19.392 SOF porque_spa no_spa está_spa fácil_spa para_spa los_spa carros_spa de_spa uno_spa 
+19.378 21.108 KEV no_engspa 
+21.071 21.669 KEV no_spa pero_spa 
+21.657 24.622 SOF _spa no_spa tanto_spa este_spa lado_spa sino_spa el_spa _spa el_spa lado_spa izquierdo_spa 
+24.598 25.846 KEV el_spa de_spa entrar_spa o_spa el_spa de_spa salir_spa 
+25.815 27.545 SOF cuando_spa tú_spa entras_spa 
+27.545 28.004 KEV mmhm_eng 
+28.001 30.062 KEV bueno_spa ese_spa está_spa en_spa la_spa intersección_spa 
+30.012 30.976 KEV ese_spa tiene_spa bastante_spa espacio_spa 
+30.97 36.6 KEV lo_spa malo_spa _spa el_spa otro_spa yo_spa lo_spa veo_spa más_spa difícil_spa porque_spa es_spa más_spa _spa más_spa estrechito_spa 
+36.58 39.465 SOF _spa pero_spa viste_spa las_spa cositas_spa que_spa compraron_spa para_spa los_spa speed_eng bumps_eng 
+39.438 40.895 SOF tú_spa viste_spa lo_spa que_spa van_spa a_spa hacer_spa 
+40.497 41.025 KEV _spa no_spa 
+40.883 42.75 SOF tú_spa no_spa has_spa visto_spa una_spa 
+42.737 44.432 KEV sí_spa los_spa _spa los_spa bloquecitos_spa esos_spa 
+43.865 45.67 SOF _spa los_spa bloquecitos_spa esos_spa para_spa ponerlos_spa en_spa el_spa medio_spa 
+45.653 46.106 KEV sí_spa 
+46.106 48.039 SOF donde_spa estaban_spa las_spa tablitas_spa esas_spa 
+48.026 49.396 KEV en_spa lo_spa que_spa hicieron_spa de_spa concreto_spa 
+49.363 49.943 SOF ajá_spa 
+49.896 56.421 KEV pero_spa _spa y_spa pero_spa eso_spa lo_spa que_spa va_spa a_spa ser_spa como_spa un_spa pedacito_spa de_spa _spa de_spa _spa de_spa tile_eng ahí_spa 
+55.133 56.375 SOF _spa sí_spa pero_spa a_spa lo_spa mejor_spa xxx_spa 
+56.379 59.049 KEV pero_spa yo_spa no_spa creo_spa que_spa eso_spa sea_spa mucho_spa speed_eng bump_eng 
+59.123 59.773 SOF bueno_spa 
+60.356 63.286 KEV eso_spa más_spa bien_spa yo_spa creo_spa que_spa lo_spa que_spa va_spa a_spa hacer_spa es_spa como_spa un_spa adorno_spa pero_spa 
+63.286 65.895 KEV baja_spa la_spa velocidad_spa ahí_spa 
+65.876 70.05 SOF pero_spa la_spa calle_spa no_spa la_spa van_spa a_spa hacer_spa no_spa 
+70.101 71.244 KEV sí_spa la_spa van_spa a_spa asfaltar_spa 
+70.735 72.017 SOF _spa pero_spa es_spa que_spa yo_spa no_spa entiendo_spa 
+72.013 76.223 SOF porque_spa primero_spa se_spa asfalta_spa antes_spa de_spa poner_spa el_spa _spa el_spa _spa la_spa hierba_spa 
+76.206 76.885 KEV bueno_spa 
+76.862 78.023 SOF no_spa que_spa yo_spa sepa_spa 
+78.034 80.002 KEV sí_spa sí_spa sí_spa no_spa tienes_spa _spa tienes_spa razón_spa 
+79.991 81.285 KEV el_spa asfalto_spa era_spa 
+80.855 82.533 SOF _spa están_spa _spa están_spa gastando_spa doble_spa dinero_spa ahí_spa 
+82.513 85.085 KEV el_spa asfalto_spa era_spa para_spa que_spa lo_spa hubieran_spa hecho_spa primero_spa 
+85.173 88.157 KEV hubieran_spa limpiado_spa todos_spa los_spa leftovers_eng de_spa asfalto_spa y_spa toda_spa esa_spa cosa_spa 
+89.468 92.956 KEV entonces_spa después_spa _spa haber_spa sembrado_spa la_spa hierba_spa 
+92.81 93.455 KEV haber_spa recogido_spa 
+93.536 94.006 KEV limpiado_spa 
+93.994 95.643 KEV y_spa ya_spa acabado_spa y_spa eso_spa 
+95.229 98.212 KEV pero_spa bueno_spa ellos_spa tendrán_spa su_spa idea_spa 
+98.186 100.462 SOF y_spa el_spa parquecito_spa viste_spa que_spa van_spa a_spa hacer_spa 
+100.456 101.332 KEV aquí_spa atrás_spa 
+100.456 101.332 SOF _spa el_spa parquecito_spa 
+101.331 102.567 KEV no_spa no_spa me_spa he_spa fijado_spa 
+102.074 106.403 SOF _spa no_spa viste_spa que_spa te_spa mandaron_spa una_spa hoja_spa hoy_spa con_spa todo_spa lo_spa de_spa _spa del_spa meeting_eng 
+102.074 106.403 KEV _spa no_spa _spa no_spa no_spa estaba_spa _spa estaba_spa _spa estaba_spa en_spa la_spa puerta_spa 
+106.413 109.512 KEV cuando_spa salimos_spa que_spa nos_spa íbamos_spa para_spa el_spa bicycle_eng shop_eng 
+109.512 109.866 SOF mmhm_eng 
+109.86 112.467 KEV estaba_spa puesto_spa en_spa la_spa puerta_spa y_spa yo_spa lo_spa tiré_spa para_spa dentro_spa de_spa la_spa casa_spa y_spa nos_spa fuimos_spa 
+112.468 116.348 KEV y_spa ahora_spa les_spa _spa ya_spa vi_spa que_spa lo_spa había_spa sacado_spa de_spa _spa de_spa la_spa maleta_spa 
+116.336 121.294 KEV pero_spa no_spa me_spa había_spa fijado_spa _spa _spa no_spa me_spa había_spa _spa no_spa me_spa he_spa fijado_spa qué_spa cosa_spa hay_spa dentro_spa 
+121.282 124.783 SOF sigh_spa 
+124.758 126.656 KEV y_spa se_spa ha_spa pa_spa _spa está_spa rico_spa el_spa tiempo_spa 
+126.635 128.475 eng_eng its_eng beautiful_eng 
+126.635 130.884 KEV _spa mmhm_eng mmhm_eng mmhm_eng 
+130.855 131.9 SOF está_spa tan_spa lindo_spa 
+131.9 132.521 KEV sí_spa 
+132.237 132.806 SOF _spa cough_spa 
+132.788 135.383 KEV esta_spa terraza_spa déjame_spa decirte_spa que_spa vale_spa el_spa precio_spa de_spa la_spa casa_spa 
+135.367 138.391 KEV xxx_spa espacio_spa 
+135.367 144.176 SOF _spa y_spa eso_spa que_spa no_spa la_spa has_spa puesto_spa en_spa una_spa _spa cómo_spa se_spa llama_spa esto_spa una_spa _spa un_spa hammock_eng de_spa esos_spa 
+144.228 145.064 KEV una_spa hamaca_spa 
+145.058 145.737 SOF una_spa hamaca_spa 
+145.72 147.241 KEV no_spa 
+147.247 148.559 SOF no_spa te_spa ha_spa dado_spa por_spa eso_spa 
+148.542 150.637 SOF xxx_spa ahí_spa mira_spa entre_spa las_spa dos_spa palmas_spa las_spa puede_spa poner_spa ahí_spa 
+150.341 151.67 KEV _spa ahí_spa se_spa pudiera_spa poner_spa sí_spa 
+151.656 154.756 KEV yo_spa tengo_spa una_spa que_spa cada_spa vez_spa que_spa nos_spa vamos_spa camping_eng we_eng take_eng it_eng 
+154.739 157.261 eng_eng and_eng I_eng set_eng it_eng up_eng in_eng the_eng _eng in_eng the_eng campground_eng 
+157.253 164.818 KEV pero_spa _spa no_spa aquí_spa no_spa se_spa nos_spa ha_spa ocurrido_spa como_spa aquí_spa lo_spa que_spa pasa_spa es_spa que_spa the_eng _spa the_eng ground_eng in_eng the_eng back_eng its_eng _spa slanted_eng 
+164.797 165.366 eng_eng yeah_eng 
+165.355 166.649 eng_eng its_eng not_eng even_eng 
+166.642 168.912 eng_eng so _eng thats_eng something_eng to_eng 
+168.925 175.31 KEV pero_spa sí_spa se_spa pudieran_spa poner_spa un_spa par_spa de_spa tubos_spa o_spa algo_spa _spa so_eng we_eng could_eng uh_engspa _spa install_eng the_eng hammock_eng 
+175.331 176.701 eng_eng xxx_eng this_eng is_eng great_eng back_eng here_eng 
+176.695 177.322 KEV mmhm_eng yeah_eng 
+177.303 180.229 eng_eng and_eng this_eng month_eng that_eng is_eng pretty_eng cool_eng 
+180.221 182.543 eng_eng its_eng really_eng really_eng nice_eng 
+182.537 185.118 eng_eng when_eng it_eng gets_eng to_eng July_eng and_eng August_eng it_eng gets_eng hot_eng 
+185.097 187.541 eng_eng you_eng gotta_eng wait_eng until_eng almost_eng the_eng end_eng of_eng the_eng day_eng 
+187.535 191.487 eng_eng that_eng _eng starts_eng cooling_eng off_eng a_eng little_eng bit_eng to_eng be_eng out_eng here_eng 
+191.456 194.388 eng_eng at_eng _eng at_eng _eng at_eng three_eng thirty_eng four_eng oclock_eng its_eng fine_eng 
+193.064 195.612 SOF _spa _spa eng_spa ah_spa but_spa thank_spa God_spa you_spa dont_spa have_spa to_spa worry_spa about_spa a_spa pool_spa 
+195.585 197.511 KEV bueno_spa we_eng 
+197.059 200.228 eng_eng because_eng pools_eng are_eng good_eng for_eng when_eng you_eng have_eng smaller_eng kids_eng but_eng already_eng 
+200.21 202.433 eng_eng they_eng dont_eng even_eng wanna_eng jump_eng in_eng it_eng 
+202.44 206.353 KEV eh_engspa we_eng had_eng a_eng hard_eng time_eng finding_eng the_eng house_eng 
+206.346 210.554 eng_eng because_eng we_eng were_eng looking_eng for_eng a_eng house_eng in_eng Miami_eng Lakes_eng on_eng the_eng lake_eng without_eng the_eng pool_eng 
+210.52 215.663 eng_eng and_eng thats_eng _eng that_eng made_eng it_eng very_eng difficult_eng in_eng nineteen_eng ninety_eng eight_eng when_eng we_eng bought_eng here_eng finding_eng that_eng 
+215.667 217.066 eng_eng we_eng couldnt_eng find_eng it_eng 
+217.048 219.074 eng_eng we_eng couldnt_eng find_eng any_eng house_eng 
+218.488 220.868 SOF _spa _spa eng_spa most_spa of_spa the_spa houses_spa xxx_spa have_spa pool_spa 
+220.282 221.216 KEV _spa _spa eng_spa they_spa all_spa have_spa pools_spa 
+221.222 223.318 eng_eng and_eng then_eng we_eng came_eng across_eng this_eng one_eng 
+223.3 223.758 SOF cough_spa 
+223.753 225.651 KEV que_spa la_spa estaban_spa _spa estaban_spa vendiendo_spa desde_spa abril_spa 
+225.643 227.837 KEV el_spa viejito_spa se_spa había_spa muerto_spa 
+227.826 229.678 KEV la_spa estaban_spa vendiendo_spa desde_spa abril_spa 
+228.861 229.935 SOF _spa ya_spa yo_spa me_spa recuerdo_spa 
+229.9 231.316 KEV habían_spa bajado_spa el_spa precio_spa un_spa viaje_spa 
+231.3 237.318 KEV y_spa entonces_spa como_spa en_spa agosto_spa _spa que_spa nosotros_spa encontramos_spa la_spa casa_spa habían_spa vuelto_spa a_spa bajar_spa el_spa precio_spa 
+237.273 243.407 KEV y_spa entonces_spa negociamos_spa con_spa _spa con_spa la_spa hija_spa de_spa Lucía_spa la_spa señora_spa que_spa vive_spa aquí_spa 
+242.547 243.18 SOF _spa mmhm_eng 
+243.4 245.931 KEV xxx_spa and_eng we_eng _spa got_eng it_eng pero_spa 
+245.91 250.248 eng_eng a_eng house_eng on_eng the_eng lake_eng without_eng a_eng pool_eng is_eng almost_eng impossible_eng _eng to_eng find_eng 
+250.242 253.029 eng_eng but_eng youve_eng done_eng a_eng lot_eng to_eng this_eng house_eng 
+251.711 252.97 KEV _spa mmhm_eng yeah_eng 
+252.962 254.39 eng_eng you_eng have_eng done_eng so_eng much_eng 
+254.384 255.307 eng_eng its_eng incredible_eng 
+254.384 255.307 KEV _spa _spa eng_spa yeah_spa 
+255.313 256.921 KEV y_spa ahora_spa vamos_spa a_spa hacerle_spa el_spa baño_spa 
+256.915 257.675 eng_eng yeah_eng 
+257.652 259.191 KEV porque_spa el_spa baño_spa está_spa el_spa baño_spa original_spa 
+259.179 261.414 KEV eh_engspa we_eng are_eng gonna_eng redo_eng the_eng bathroom_eng 
+261.419 266.722 KEV ah_engspa my_eng idea_eng originally_eng was_eng just_eng to_eng leave_eng the_eng tub_eng 
+266.707 269.436 KEV y_spa change_eng everything_eng else_eng 
+269.438 275.689 KEV pero_spa ahora_spa the_eng new_eng idea_eng is_eng gonna_eng be_eng that_eng _spa we_eng are_eng gonna_eng to_eng replace_eng everything_eng 
+275.683 277.099 eng_eng change_eng 
+276.606 277.708 SOF _spa _spa eng_spa make_spa it_spa a_spa shower_spa 
+277.701 279.326 eng_eng you_eng dont_eng like_eng showers_eng 
+278.316 280.917 KEV _spa _spa eng_spa no_spa we_spa are_spa gonna_spa put_spa a_spa tub_spa _spa a_spa tub_spa but_spa a_spa new_spa tub_spa 
+280.889 281.876 SOF oh_engspa ok_engspa 
+281.847 284.732 eng_eng because_eng its_eng gonna_eng be_eng very_eng hard_eng to_eng leave_eng an_eng old_eng tub_eng 
+284.73 287.191 eng_eng and_eng then_eng match_eng everything_eng else_eng to_eng the_eng old_eng tub_eng 
+287.18 289.607 eng_eng so_eng kind_eng of_eng a_eng 
+289.583 291.476 eng_eng we_eng are_eng gonna_eng redo_eng _eng redo_eng the_eng whole_eng thing_eng 
+291.476 295.516 KEV cambiar_spa las_spa paredes_spa _spa quitar_spa las_spa paredes_spa poner_spa la_spa _spa los_spa dry_eng walls_eng esos_spa nuevos_spa 
+295.49 300.389 KEV que_spa no_spa deja_spa que_spa _spa que_spa no_spa asome_spa la_spa humedad_spa 
+299.333 300.36 SOF _spa _spa eng_spa humidity_spa 
+300.348 303.79 KEV que_spa ah_engspa eh_engspa eh_engspa son_spa como_spa waterproof_eng 
+303.736 304.455 SOF mmhm_eng 
+304.461 305.965 KEV y_spa xxx_spa entonces_spa también_spa 
+305.962 309.421 KEV eh_engspa llevan_spa los_spa _spa las_spa losas_spa los_spa ladrillos_spa los_spa 
+309.415 310.466 SOF para_spa arriba_spa 
+310.469 311.543 KEV hasta_spa arriba_spa hasta_spa el_spa techo_spa 
+311.516 314.494 SOF y_spa aquí_spa antes_spa was_eng half_eng way_eng 
+314.482 318.488 KEV sí_spa ahora_spa están_spa eh_engspa más_spa o_spa menos_spa al_spa nivel_spa de_spa la_spa ventana_spa 
+318.517 319.503 SOF xxx_spa 
+318.517 319.503 KEV _spa mmhm_eng 
+319.467 324.145 KEV y_spa hay_spa lugares_spa que_spa alrededor_spa del_spa _spa del_spa inodoro_spa que_spa están_spa bajitos_spa bajitos_spa 
+324.145 326.089 KEV entonces_spa llevarlo_spa hasta_spa arriba_spa 
+326.078 328.057 KEV después_spa que_spa hagamos_spa uno_spa posiblemente_spa hagamos_spa el_spa otro_spa 
+328.038 335.577 KEV y_spa ya_spa entonces_spa ahora_spa quiero_spa eh_engspa los_spa regadíos_spa _spa the_eng sprinkler_eng system_eng arreglarlos_spa y 
+335.566 339.229 KEV empezar_spa xxx_spa por_spa retirarnos_spa 
+339.219 340.659 KEV laugh_spa 
+340.659 342.685 KEV hoy_spa fuimos_spa a_spa ver_spa un_spa camper_eng un_spa R_V_spa 
+342.679 343.538 eng_eng yeah_eng 
+343.542 344.245 KEV sí_spa 
+344.245 346.567 KEV sí_spa porque_spa este_spa the_eng one_eng we_eng have_eng is_eng nice_eng 
+346.571 348.272 eng_eng but_eng its_eng fairly_eng small_eng 
+348.27 352.916 eng_eng and_eng when_eng you_eng get_eng to_eng the_eng place_eng you_eng have_eng to_eng actually_eng put_eng it_eng _eng up_eng 
+352.435 352.8 SOF _spa _spa eng_spa up_spa 
+352.792 355.01 eng_eng and_eng _eng and_eng open_eng it_eng and_eng put_eng it_eng together_eng 
+355.339 356.297 eng_eng the_eng other_eng one_eng no_eng 
+356.309 357.87 eng_eng the_eng other_eng one_eng everything_eng is_eng in_eng place_eng 
+357.871 359.335 eng_eng you_eng just_eng get_eng there_eng 
+359.107 360.21 eng_eng and_eng press_eng the_eng button_eng 
+359.38 359.967 KEV _spa _spa eng_spa press_spa the_spa xxx_spa 
+360.202 360.771 eng_eng right_eng 
+360.759 361.172 eng_eng and_eng 
+360.759 361.967 SOF _spa _spa eng_spa and_spa everything_spa opens_spa up_spa 
+361.971 363.863 KEV you_eng dont_eng even_eng have_eng mmhm_eng 
+361.971 363.863 SOF _spa _spa eng_spa my_spa friend_spa has_spa an_spa R_V_spa 
+363.834 364.856 eng_eng its_eng beautiful_eng 
+364.84 367.417 SOF oh_engspa my_eng god_eng ap_spa it_eng looks_eng like_eng a_eng house_eng 
+365.099 365.615 KEV _spa mmhm_eng 
+367.394 367.928 KEV mmhm_eng 
+367.923 368.695 eng_eng but_eng its_eng big_eng 
+368.687 369.5 eng_eng you_eng know_eng 
+368.687 369.5 KEV _spa mmhm_eng 
+369.476 370.678 eng_eng and_eng he_eng takes_eng it_eng with_eng him_eng 
+370.655 371.357 eng_eng I_eng mean_eng its_eng wow_eng 
+371.346 372.226 eng_eng he_eng presses_eng the_eng button_eng 
+372.0 372.313 KEV _spa mmhm_eng 
+372.214 373.805 eng_eng that_eng whole_eng thing_eng like_eng opens_eng up_eng 
+373.793 375.291 eng_eng its_eng got_eng a_eng master_eng bedroom_eng 
+375.279 375.714 eng_eng yeah_eng 
+375.703 377.324 eng_eng and_eng a_eng 
+377.301 378.311 KEV mmhm_eng 
+378.308 381.208 eng_eng and_eng two_eng other_eng bedrooms_eng _eng with_eng a_eng bathroom_eng pretty_eng big_eng 
+379.983 380.389 KEV _spa mmhm_eng 
+381.185 382.282 eng_eng I_eng mean_eng its_eng really_eng nice_eng 
+381.777 382.34 KEV _spa mmhm_eng 
+382.266 383.735 eng_eng the_eng kitchen_eng is_eng beautiful_eng 
+383.706 384.071 eng_eng yeah_eng 
+384.042 384.907 eng_eng yeah_eng 
+384.907 387.724 SOF flat_eng screen_eng tvs_engspa I_eng mean_eng hes_eng got_eng it_eng 
+385.617 386.389 KEV _spa mmhm_eng 
+387.722 388.372 KEV yeah_engspa 
+388.337 390.125 SOF because_eng he_eng likes_eng to_eng go_eng to_eng the_eng Keys_engspa a_eng lot_eng 
+390.095 391.953 KEV yah_eng the_eng Keys_engspa are_eng getting_eng very_eng 
+391.93 392.911 eng_eng expensive_eng 
+392.493 394.754 KEV _spa _spa eng_spa right_spa difficult_spa expensive_spa and_spa difficult_spa with_spa 
+394.742 398.301 eng_eng its_eng very_eng hard_eng to_eng find_eng a_eng camping_eng spot_eng _eng spot_eng over_eng there_eng 
+397.494 398.284 SOF _spa _spa eng_spa space_spa now_spa 
+398.296 400.989 eng_eng yeah_eng because_eng what_eng they_eng do_eng is_eng they_eng build_eng now_eng on_eng them_eng instead_eng of_eng 
+400.954 402.104 eng_eng right_eng they_eng close_eng them_eng 
+402.07 405.576 eng_eng they_eng close_eng American_Outdoors_eng they_eng close_eng a_eng _eng a_eng bunch_eng of_eng them_eng 
+404.827 408.013 SOF _spa _spa eng_spa yes_spa because_spa people_spa are_spa making_spa money_spa selling_spa the_spa property_spa so_spa 
+407.468 408.623 KEV _spa mmhm_eng 
+409.552 410.115 eng_eng yeah_eng 
+409.584 411.767 SOF _spa _spa eng_spa they_spa dont_spa make_spa as_spa much_spa renting_spa as_spa they_spa do_spa selling_spa 
+411.735 412.693 eng_eng yeah_eng 
+412.68 417.365 eng_eng and_eng the_eng campgrounds_eng were_eng beautiful_eng places_eng to_eng build_eng on_eng 
+417.341 424.772 eng_eng because_eng a_eng they_eng were_eng huge_eng pieces_eng of_eng property_eng a_eng lot_eng of_eng them_eng right_eng on_eng the_eng ocean_eng on_eng the_eng water_eng 
+424.767 427.007 eng_eng so_eng you_eng know_eng it_eng was_eng a_eng good_eng deal_eng 
+425.33 426.363 SOF _spa _spa eng_spa yes_spa 
+426.992 428.826 eng_eng so_eng they_eng closed_eng them_eng 
+426.992 428.826 SOF _spa cough_spa 
+428.785 431.38 eng_eng American_Outdoors_eng was_eng a_eng beautiful_eng place_eng 
+431.374 432.703 eng_eng and_eng they_eng just_eng closed_eng it_eng down_eng 
+432.696 434.618 KEV mmhm_eng 
+434.618 435.152 SOF wow_engspa 
+435.117 436.649 KEV mmhm_eng 
+436.636 437.036 KEV viste_spa 
+437.048 438.075 SOF oh_engspa look_eng at_eng the_eng little_eng 
+438.058 439.312 KEV la_spa coneja_spa de_spa Pepita_engspa 
+439.307 441.17 SOF es_spa una_spa conejita_spa 
+440.595 441.652 KEV _spa Cleopatra_engspa yeah_eng 
+441.639 444.007 eng_eng yeah_eng thats_eng a_eng 
+441.639 444.367 SOF _spa oh_engspa my_eng god_eng 
+444.363 447.73 KEV when_eng Pepita_engspa moved_eng to_eng Tampa_engspa she_eng acquired_eng the_eng rabbit_eng 
+447.728 451.07 KEV y that_eng was_eng her_eng companion_eng 
+447.728 451.07 SOF _spa _spa eng_spa is_spa it_spa a_spa miniature_spa 
+451.058 452.301 eng_eng no_eng 
+452.255 453.579 eng_eng its_eng a_eng Dutch_eng a_eng 
+452.388 452.928 SOF _spa _spa eng_spa no_spa 
+453.549 456.771 eng_eng I_eng dont_eng know_eng something_eng Dutch_eng 
+454.584 457.277 SOF _spa xxx_spa 
+457.584 459.174 SOF ay_spa how_eng pretty_eng 
+458.181 459.064 KEV _spa mmhm_eng 
+459.15 462.308 eng_eng I_eng have_eng a_eng friend_eng of_eng mine_eng that_eng has_eng two_eng miniature_eng rabbits_eng 
+462.291 462.674 eng_eng yeah_eng 
+462.654 464.436 eng_eng he_eng keep_eng them_eng _eng he_eng has_eng them_eng as_eng pets_eng 
+464.43 465.051 eng_eng and_eng they_eng are_eng little_eng 
+464.511 465.028 KEV _spa mmhm_eng 
+465.04 466.102 eng_eng they_eng dont_eng grow_eng much_eng 
+465.04 466.102 KEV _spa _spa eng_spa yeah_spa 
+466.095 469.113 SOF cough_spa 
+469.09 470.894 KEV esta_spa _spa she_eng got_eng it_eng 
+470.372 474.091 SOF _spa _spa eng_spa and_spa I_spa have_spa some_spa _spa another_spa doctor_spa over_spa there_spa that_spa has_spa a_spa miniature_spa pig_spa 
+473.873 474.761 eng_eng yeah_eng 
+474.732 476.114 eng_eng thats_eng the_eng daughters_eng pet_eng 
+476.1 476.82 eng_eng its_eng a_eng pig_eng 
+476.53 480.406 KEV _spa that_eng that_eng real_eng real_eng pig_eng los_spa los_spa los_spa with_eng with_eng a_eng big_eng belly_eng 
+477.739 479.869 SOF _spa mmhm_eng but_eng the_eng little_eng ones_eng the_eng miniature_eng ones_eng 
+480.391 480.914 eng_eng yeah_eng 
+480.885 481.256 eng_eng yeah_eng 
+481.227 482.179 eng_eng how_eng cute_eng 
+482.151 484.613 eng_eng everybody_eng has_eng their_eng own_eng pet_eng 
+482.982 483.696 KEV _spa mmhm_eng 
+484.584 485.82 eng_eng how_eng is_eng everything_eng at_eng the_eng hospital_eng 
+485.806 487.234 eng_eng good_eng 
+487.234 487.803 KEV sí_spa 
+487.234 488.459 SOF _spa _spa eng_spa its_spa busy_spa but_spa its_spa good_spa 
+488.436 488.709 KEV mmhm_eng 
+488.704 493.563 eng_eng you_eng know_eng they_eng have_eng _eng more_eng work_eng _eng less_eng people_eng 
+493.551 494.712 eng_eng yeah_eng and_eng less_eng money_eng 
+494.688 497.561 eng_eng every_eng yeah_eng because_eng you_eng have_eng to_eng work_eng double_eng so_eng 
+496.116 496.545 KEV _spa _spa eng_spa yeah_spa 
+497.555 501.825 eng_eng yeah_eng yeah_eng weve_eng been_eng three_eng years_eng without_eng a_eng raise_eng 
+501.8 504.476 eng_eng because_eng 
+503.774 508.334 SOF _spa _spa eng_spa I_spa mean_spa what_spa we_spa do_spa is_spa they_spa give_spa us_spa like_spa a_spa raise_spa I_spa mean_spa is_spa _spa it_spa depends_spa on_spa how_spa much_spa you_spa make_spa 
+508.337 513.915 eng_eng but_eng basically_eng what_eng it_eng does_eng is_eng then_eng every_eng year_eng they_eng put_eng up_eng the_eng insurances_eng so_eng high_eng 
+508.661 509.271 KEV _spa mmhm_eng 
+513.91 515.553 eng_eng that_eng the_eng little_eng money_eng that_eng you_eng are_eng making_eng 
+515.536 516.302 eng_eng they_eng take_eng it_eng away_eng 
+515.588 519.123 SOF _spa _spa eng_spa its_spa _spa they_spa take_spa it_spa away_spa with_spa the_spa insurance_spa so_spa really_spa you_spa are_spa not_spa seeing_spa much_spa 
+517.834 518.159 KEV _spa sí_spa 
+519.14 520.772 eng_eng its_eng just_eng like_eng theres_eng no_eng raise_eng 
+520.76 522.194 KEV así_spa mismo_spa nos_spa pasa_spa a_spa nosotros_spa 
+520.772 521.573 SOF _spa _spa eng_spa you_spa know_spa 
+522.177 526.661 eng_eng and_eng Im_eng the_eng one_eng that_eng pays_eng the_eng insurance_eng because_eng my_eng husbands_eng insurance_eng is_eng much_eng more_eng expensive_eng 
+526.632 527.532 eng_eng thats_eng it_eng yeah_eng 
+527.526 530.255 eng_eng yeah_eng because_eng since_eng I_eng work_eng for_eng xxx_eng you_eng know_eng they_eng have_eng a_eng lot_eng more_eng 
+530.034 530.533 KEV _spa _spa eng_spa yeah_spa 
+530.532 532.36 eng_eng so_eng you_eng know_eng its_eng 
+532.349 532.691 KEV mmhm_eng 
+532.671 534.424 eng_eng insurance_eng is_eng cheaper_eng but_eng still_eng 
+532.671 534.424 KEV _spa sí_spa 
+534.832 541.304 KEV ahora_spa one_eng advantage_eng I_eng have_eng is_eng that_eng Pepita_engspa since_eng she_eng is_eng working_eng for_eng the_eng county_eng shes_eng gonna_eng be_eng independent_eng 
+540.917 544.156 eng_eng Im_eng not_eng gonna_eng have_eng to_eng carry_eng her_eng _eng in_eng my_eng insurance_eng any_more_eng 
+544.156 545.172 eng_eng yeah_eng 
+545.151 550.863 eng_eng because_eng _eng shell_eng have_eng her_eng own_eng insurance_eng and_eng for_eng her_eng _eng working_eng for_eng the_eng county_eng the_eng insurance_eng is_eng free_eng 
+550.85 552.777 KEV and_eng for_eng Pepa_engspa is_eng free_eng 
+552.765 555.83 eng_eng and_eng I_eng pay_eng if_eng its_eng just_eng for_eng me_eng its_eng just_eng like_eng thirty_eng dollars_eng a_eng month_eng 
+555.816 557.006 eng_eng no_eng thats_eng not_eng bad_eng 
+556.986 559.396 KEV no_eng thats_eng not_eng bad_eng pero_spa _spa right_eng now_eng 
+559.396 562.853 eng_eng and_eng isnt_eng it_eng better_eng for_eng you_eng to_eng go_eng with_eng her_eng with_eng the_eng _eng with_eng the_eng county_eng no_eng 
+562.853 567.3 eng_eng no_eng because_eng if_eng we_eng go_eng into_eng the_eng family_eng plan_eng her_eng plan_eng is_eng more_eng expensive_eng than_eng mine_eng 
+567.282 568.036 SOF oh_engspa I_eng see_eng 
+568.019 568.784 eng_eng thats_eng why_eng I_eng had_eng it_eng 
+568.784 572.888 KEV I_eng had_eng _spa the_eng insurance_eng under_eng me_eng _spa for_eng Pepita_engspa 
+572.861 573.662 SOF oh_engspa ok_engspa 
+573.627 575.791 KEV and_eng me_eng because_eng Pepa_engspa had_eng her_eng own_eng 
+576.329 583.149 KEV but_eng now_eng _spa that_eng Pepa_engspa has_eng her_eng own_eng and_eng Pepita_engspa is_eng gonna_eng get_eng her_eng own_eng then_eng I_eng can_eng get_eng mine_eng on_eng my_eng own_eng 
+583.165 585.928 eng_eng its_eng thirty_eng some_eng dollars_eng which_eng is_eng not_eng a_eng bad_eng deal_eng 
+586.008 593.228 eng_eng but_eng my_eng brother_eng _eng my_eng brother_eng was_eng telling_eng me_eng that_eng _eng that_eng _eng that_eng law_eng that_eng came_eng about_eng with_eng the_eng homestead_eng exemption_eng 
+593.236 593.758 KEV mmhm_eng 
+593.746 597.038 eng_eng that_eng he_eng was_eng saying_eng that_eng _eng you_eng know_eng that_eng its_eng not_eng worth_eng it_eng 
+597.05 602.968 eng_eng he_eng was_eng telling_eng me_eng that_eng so_eng many_eng people_eng from_eng the_eng county_eng are_eng gonna_eng lose_eng _eng jobs_eng because_eng of_eng that_eng 
+602.95 607.089 eng_eng they_eng are_eng gonna_eng take_eng you_eng know_eng they_eng are_eng gonna_eng cut_eng _eng the_eng cut_eng down_eng xxx_eng is_eng gonna_eng be_eng so_eng drastic_eng 
+607.09 612.024 eng_eng and_eng the_eng people_eng what_eng they_eng are_eng gonna_eng save_eng for_eng the_eng homestead_eng is_eng so_eng minimal_eng that_eng it_eng wasnt_eng worth_eng it_eng 
+612.009 613.228 eng_eng and_eng I_eng said_eng well_eng 
+613.199 613.832 eng_eng yeah_eng 
+613.808 615.411 KEV pero_spa 
+613.808 616.635 SOF _spa _spa eng_spa everybody_spa is_spa looking_spa for_spa _spa a_spa buck_spa 
+616.626 619.191 KEV pero_spa you_eng know_eng e_spa e_spa I_eng dont_eng agree_eng with_eng him_eng 
+619.18 621.92 eng_eng no_eng 
+621.893 628.275 eng_eng in_eng two_eng thousand_eng and_eng three_eng _eng that_eng the_eng taxes_eng were_eng more_eng or_eng less_eng _eng what_eng they_eng are_eng now_eng 
+628.281 630.388 SOF mmhm_eng 
+630.383 632.42 eng_eng right_eng 
+632.397 633.959 eng_eng that_eng was_eng five_eng years_eng ago_eng 
+633.965 642.947 eng_eng the_eng salaries_eng of_eng _eng of_eng employees_eng and_eng the_eng hiring_eng of_eng employees_eng have_eng not_eng increased_eng what_eng they_eng increased_eng in_eng revenues_eng 
+642.919 648.66 eng_eng so_eng where_eng is_eng all_eng that_eng extra_eng money_eng that_eng they_eng made_eng when_eng the_eng _eng when_eng the_eng boom_eng was_eng going_eng on_eng 
+648.638 650.565 KEV xxx_spa tú_spa sabes_spa 
+650.571 651.871 eng_eng it_eng was_eng misspent_eng 
+651.871 655.679 KEV ah_engspa p_spa they_eng bought_eng things_eng that_eng maybe_eng they_eng didnt_eng need_eng to_eng buy_eng 
+655.676 656.883 eng_eng they_eng made_eng 
+656.871 657.986 KEV tú_spa sabes_spa 
+657.986 661.382 KEV lets_eng bring_eng it_eng back_eng to_eng _spa where_eng we_eng are_eng _spa _spa donde_spa estamos_spa ahora_spa 
+661.393 666.455 KEV tú_spa sabes_spa una_spa _spa una_spa cosa_spa básica_spa _spa lo_spa _spa lo_spa _spa lo_spa necesario_spa 
+666.444 667.762 KEV contéstalo_spa _spa contéstalo_spa si_spa quieres_spa 
+667.769 670.12 KEV así_spa hablas_spa un_spa poco_spa xxx_spa 
+669.539 670.265 SOF _spa _spa eng_spa hello_spa 
+670.27 672.767 eng_eng hey_eng baby_eng are_eng you_eng back_eng 
+672.766 677.729 SOF oh_engspa but_eng Im_eng not_eng home_eng 
+677.707 679.89 eng_eng Im_eng in_eng the_eng xxx_eng 
+679.873 684.516 SOF estoy_spa haciendo_spa una_spa cosa_spa ahí_spa que_spa necesitaba_spa mi_spa 
+684.51 689.794 SOF cómo_spa se_spa llama_spa esto_spa e_spa cómo_spa es_spa que_spa se_spa llama_spa esto_spa que_spa estamos_spa haciendo_spa aquí_spa un_spa 
+689.777 693.202 KEV es_spa un_spa estudio_spa para_spa la_spa universidad_spa 
+693.138 694.879 SOF un_spa estudio_spa para_spa la_spa universidad_spa 
+694.85 697.713 SOF y_spa necesitamos_spa hablar_spa por_spa thirty_eng minutes_eng 
+695.611 696.465 KEV _spa xxx_spa 
+697.713 699.147 SOF ya_spa ahorita_spa estamos_spa almost_eng over_eng 
+699.15 703.51 SOF ok_engspa 
+703.506 706.901 SOF ah_engspa se_spa está_spa poniendo_spa xxx_spa dile_spa 
+706.89 712.413 SOF uhoh_engspa ya_spa empezó_spa los_spa síntomas_spa de_spa xxx_spa 
+712.403 715.038 SOF dile_spa que_spa cuándo_spa se_spa va_spa a_spa comprar_spa la_spa motocicleta_spa 
+715.037 719.797 eng_eng alright_eng Ill_eng talk_eng to_eng you_eng bye_eng 
+719.792 721.534 eng_eng home_eng 
+721.526 725.212 KEV mmhm_eng 
+725.206 725.729 KEV se_spa acabó_spa 
+725.206 726.82 SOF _spa _spa eng_spa he_spa finished_spa playing_spa golf_spa now_spa 
+726.805 728.071 eng_eng e_eng e_eng they_eng are_eng still_eng playing_eng 
+728.065 729.818 SOF no_spa no_spa he_eng t_spa _spa he_eng is_eng coming_eng back_eng now_eng 
+728.994 729.499 KEV _spa xxx_spa 
+729.794 732.987 eng_eng I_eng _eng I_eng dont_eng think_eng they_eng played_eng all_eng eighteen_eng they_eng played_eng like_eng probably_eng half_eng 
+732.981 733.735 KEV la_spa mitad_spa nueve_spa 
+733.709 735.119 KEV mmhm_eng 
+735.108 741.46 SOF pero_spa my_eng friend_eng bought_eng a_eng B_M_W_eng and_eng I_eng bought_eng him_eng a_eng xxx_spa because_eng I_eng have_eng another_eng friend_eng at_eng work_eng that_eng he_eng is_eng like_eng oh_engspa man_eng he_eng is_eng crazy_eng 
+735.111 735.883 KEV _spa sí_spa 
+741.46 741.68 KEV mmhm_eng 
+741.68 744.397 eng_eng but_eng he_eng is_eng crazy_eng crazy_eng crazy_eng crazy_eng 
+744.397 747.967 eng_eng I_eng dont_eng know_eng how_eng his_eng wife_eng puts_eng up_eng with_eng him_eng you_eng know_eng 
+747.954 748.796 KEV laugh_spa 
+748.773 750.578 eng_eng he_eng is_eng like_eng one_eng of_eng these_eng wild_eng guys_eng 
+750.559 754.82 eng_eng think_eng every_eng _eng he_eng loves_eng every_eng woman_eng every_eng woman_eng loves_eng him_eng 
+754.805 755.362 KEV laugh_spa 
+755.06 756.958 eng_eng and_eng he_eng bought_eng himself_eng a_eng Beamer_eng 
+756.947 760.11 eng_eng and_eng now_eng he_eng bought_eng himself_eng a_eng motorcycle_eng 
+757.696 760.116 KEV _spa qué_spa edad_spa tiene_spa cincuenta_spa 
+760.088 762.95 SOF está_spa en_spa los_spa cuarenta_spa y_spa pico_spa la_spa edad_spa mala_spa esa_spa 
+761.505 762.834 KEV _spa mmhm_eng yeah_eng 
+762.937 766.078 KEV mmhm_eng 
+766.036 767.522 eng_eng and_eng he_eng is_eng a_eng gigolo_eng you_eng know_eng 
+767.528 770.1 eng_eng he_eng is_eng one_eng of_eng these_eng guys_eng thats_eng crazy_eng 
+767.552 768.649 KEV _spa xxx_spa 
+770.057 771.787 eng_eng xxx_eng saw_eng an_eng American_eng film_eng 
+771.775 772.054 SOF cough_spa 
+772.03 772.355 eng_eng yeah_eng 
+772.35 773.162 KEV sí_spa 
+772.35 775.81 eng_eng he_eng is_eng um_eng _eng he_eng is_eng a_eng physician_eng _eng from_eng Cuba_eng 
+775.812 780.411 SOF and_eng he_eng is_eng er_engspa working_eng with_eng us_eng over_eng there_eng and_eng as_eng a_eng case_eng manager_eng 
+780.376 783.197 eng_eng and_eng he_eng is_eng studying_eng for_eng his_eng R_N_eng to_eng see_eng if_eng he_eng can_eng get_eng it_eng now_eng 
+783.127 783.621 KEV sí_spa 
+783.605 785.289 eng_eng you_eng are_eng still_eng at_eng xxx_eng hospital_eng right_eng 
+785.27 785.926 eng_eng yeah_eng 
+785.915 787.093 KEV mmhm_eng 
+787.083 789.027 eng_eng I_eng havent_eng moved_eng from_eng there_eng because_eng its_eng so_eng convenient_eng 
+789.004 791.639 eng_eng and_eng you_eng know_eng I_eng xxx_eng _eng other_eng offers_eng 
+789.292 789.524 KEV _spa hmm_engspa 
+791.618 793.824 eng_eng but_eng dont_eng wanna_eng go_eng in_eng the_eng street_eng _eng any_more_eng 
+793.8 794.648 eng_eng yeah_eng 
+794.16 797.045 eng_eng you_eng know_eng because_eng with_eng sales_eng you_eng can_eng do_eng a_eng lot_eng you_eng can_eng make_eng a_eng lot_eng more_eng money_eng 
+797.008 797.35 eng_eng yeah_eng 
+797.35 798.436 eng_eng in_eng the_eng industry_eng 
+798.42 798.774 KEV mmhm_eng 
+798.75 801.293 eng_eng but_eng its_eng just_eng that_eng you_eng have_eng to_eng drive_eng around_eng so_eng much_eng 
+801.403 804.041 eng_eng you_eng know_eng cars_eng everything_eng is_eng so_eng expensive_eng 
+802.064 803.73 KEV _spa no_eng no_eng y_spa 
+804.009 804.445 eng_eng right_eng 
+804.431 805.441 eng_eng its_eng not_eng worth_eng it_eng 
+805.418 807.212 eng_eng its_eng not_eng worth_eng it_eng being_eng on_eng the_eng streets_eng 
+805.61 807.252 SOF _spa _spa eng_spa I_spa go_spa there_spa I_spa do_spa my_spa eight_spa hours_spa 
+807.258 809.807 eng_eng and_eng I_eng get_eng out_eng and_eng I_eng go_eng pick_eng up_eng my_eng kid_eng and_eng thats_eng it_eng Im_eng home_eng 
+809.125 809.462 KEV _spa mmhm_eng 
+809.8 810.235 eng_eng you_eng know_eng 
+810.235 810.77 KEV mmhm_eng 
+810.744 813.101 KEV no_spa vale_spa la_spa pena_spa estar_spa en_spa la_spa calle_spa como_spa está_spa la_spa calle_spa hoy_spa 
+813.064 814.695 KEV donde_spa quieran_spa te_spa roban_spa 
+813.064 814.695 SOF _spa no_spa 
+814.672 817.744 SOF te_spa asaltan_spa te_spa matan_spa por_spa cualquier_spa cosa_spa 
+814.672 817.744 KEV _spa er_engspa te_spa asaltan_spa _spa exacto_spa 
+817.736 821.323 SOF mira_spa ahí_spa el_spa tú_spa viste_spa como_spa mataron_spa a_spa la_spa gente_spa esa_spa ahí_spa en_spa el_spa Chilis_engspa 
+820.175 821.446 KEV _spa la_spa del_spa Chilis_spa sí_spa 
+821.311 823.836 KEV sí_spa 
+823.795 829.779 SOF pero_spa mi_spa _spa la_spa _spa la_spa gente_spa que_spa vive_spa aquí_spa en_spa Miami_Lakes_engspa they_eng get_eng very_eng upset_eng because_eng of_eng that_eng because_eng they_eng say_eng que_spa Chilis_engspa was_eng in_eng Miami_Lakes_engspa 
+829.763 831.76 SOF and_eng Chilis_engspa is_eng not_eng in_eng Miami_Lakes_engspa 
+830.668 831.435 KEV _spa xxx_spa 
+831.753 835.997 SOF la_spa cincuenta_spa y_spa siete_spa no_spa es_spa Miami_Lakes_engspa entienden_spa 
+833.013 837.477 KEV _spa no_eng is_eng _spa is_eng _spa is_eng not_spa _spa is_eng not_eng that_eng _spa that_eng _spa thats_eng actually_eng unincorporated_eng Dade_County_engspa 
+837.473 839.302 SOF thats_eng Miramar_engspa 
+837.473 839.302 KEV _spa _spa eng_spa thats_spa 
+839.296 841.989 SOF no_eng no_eng thats_eng er_engspa Miami_Gardens_engspa no_eng 
+839.36 844.114 KEV _spa no_eng thats_eng unincorporated_eng _spa no_eng thats_eng incorporated_eng Dade_County_engspa thats_eng Dade_County_engspa 
+844.075 846.38 eng_eng so_eng what_eng _eng what_eng is_eng it_eng called_eng 
+846.346 848.395 KEV Dade_County_engspa unincorporated_eng Dade_County_engspa 
+848.366 850.873 SOF so_eng thats_eng Dade_engspa 
+848.366 850.873 KEV _spa _spa eng_spa its_spa like_spa what_spa we_spa were_spa _spa before_spa 
+850.862 852.978 eng_eng before_eng we_eng became_eng a_eng town_eng 
+852.955 853.529 eng_eng yeah_eng 
+853.529 855.387 KEV we_eng were_eng unincorporated_eng Dade_County_engspa 
+855.366 859.255 KEV the_eng subdivision_eng was_eng Miami_Lakes_engspa pero_spa it_eng was_eng unincorporated_eng Dade_County_engspa 
+859.244 860.666 eng_eng then_eng we_eng became_eng a_eng town_eng 
+860.639 862.311 eng_eng they_eng are_eng not_eng a_eng town_eng they_eng are_eng not_eng a_eng city_eng 
+862.293 864.528 KEV they_eng are_eng just_eng unincorporated_eng Dade_County_engspa 
+864.521 869.676 eng_eng but_eng dont_eng _eng dont_eng they_eng call_eng that_eng area_eng a_eng certain_eng area_eng and_eng they_eng dont_eng they_eng have_eng a_eng name_eng 
+868.736 869.862 KEV _spa thats_eng Carol_City_engspa 
+869.847 871.013 SOF Carol_City_engspa right_eng 
+871.002 871.803 KEV Carol_City_engspa pero_spa 
+871.002 871.896 SOF _spa ok_engspa 
+871.904 874.725 KEV Carol_City_engspa is_eng not_eng a_eng city_eng _spa or_eng a_eng town_eng 
+874.674 876.049 eng_eng its_eng a_eng subdivision_eng 
+876.018 877.226 SOF ok_engspa like_eng we_eng were_eng 
+876.018 877.76 KEV como_spa Miami_engspa like_eng we_eng were_eng 
+877.741 879.581 SOF ah_engspa ok_engspa 
+877.741 879.581 eng_eng right_eng 
+879.558 881.375 KEV tú_spa sabes_spa 
+881.359 883.141 KEV pero_spa cuando_spa se_spa refiere_spa 
+881.504 883.832 SOF _spa just_eng like_eng after_eng that_eng palmero_spa _spa 
+883.821 885.423 SOF thats_eng not_eng _spa Miami_Lakes_engspa 
+885.411 886.682 SOF Navarro_engspa 
+886.671 889.833 SOF er_engspa los_spa Burger_Kings_engspa and_eng McDonalds_engspa todo_spa eso_spa para_spa allá_spa es_spa 
+886.671 889.833 KEV _spa no_spa 
+889.793 891.169 KEV unincorporated_eng Dade_County_engspa 
+891.179 892.753 SOF is_eng Miami_Gardens_engspa 
+892.727 898.004 KEV no_spa no_spa no_spa Miami_Gardens_engspa doesnt_eng come_eng across_eng fifty_eng seventh_eng avenue_eng 
+892.727 898.004 SOF _spa tampoco_spa 
+897.989 900.079 eng_eng thats_eng sixty_eng seventh_eng avenue_eng 
+900.073 903.696 KEV if_eng you_eng are_eng gonna_eng call_eng that_eng anything_eng eso_spa es_spa la_spa zona_spa de_spa Palms_Springs_North_engspa 
+903.664 905.405 SOF ok_engspa 
+905.376 912.731 KEV eso_spa es_spa lo_spa que_spa le_spa llaman_spa que_spa no_spa es_spa Palms_Springs_North_engspa because_eng Palms_Springs_North_engspa empieza_spa en_spa la_spa setenta_spa y_spa nueve_spa que_spa es_spa el_spa xxx_spa para_spa allá_spa 
+912.693 915.752 KEV así_spa que_spa esto_spa es_spa un_spa pequeño_spa pocket_eng que_spa hay_spa ahí_spa 
+915.721 917.585 SOF que_spa 
+917.573 918.299 KEV que 
+917.852 919.86 SOF _spa y_spa entonces_spa por_spa eso_spa le_spa dicen_spa Miami_Lakes_engspa 
+917.852 926.336 KEV _spa er_engspa le_spa llaman_spa _spa le_spa dicen_spa Miami_Lakes_spa because_eng es_spa la_spa _spa es_spa el_spa pueblo_spa _spa o_spa la_spa ciudad_spa más_spa cerca_spa a_spa donde_spa está_spa _spa le_spa dicen_spa Miami_Lakes_engspa 
+926.316 928.051 KEV tú_spa sabes_spa 
+928.028 928.884 SOF pero_spa fíjate_spa una_spa cosa_spa 
+928.872 932.425 SOF siendo_spa nosotros_spa Miami_Lakes_engspa y_spa siendo_spa incorporados_spa tú_spa pones_spa 
+932.408 936.256 SOF three_eng three_eng zero_eng one_eng four_eng y_spa sigues_spa saliendo_spa en_spa Hialeah_eng 
+932.408 936.256 KEV _spa sales_spa a_spa Hialeah_eng _spa sales_spa a_spa Hialeah_eng 
+936.229 936.432 eng_eng yeah_eng 
+936.414 937.796 eng_eng why_eng dont_eng we_eng get_eng our_eng own_eng zip_eng code_eng 
+938.716 940.824 KEV we_eng are_eng getting_eng our_eng own_eng zip_eng code_eng tres_spa tres_spa cero_spa cuatro_spa 
+940.784 942.815 KEV tres_spa tres_spa uno_spa _spa cero_spa uno_spa cuatro_spa 
+942.796 947.284 SOF no_spa porque_spa tres_spa tres_spa uno_spa cuatro_spa coge_spa mitad_spa de_spa Hialeah_eng entonces_spa 
+946.481 953.324 KEV _spa bueno_spa pero_spa supuestamente_spa el_spa cambio_spa viene_spa en_spa que_spa _spa er_engspa tres_spa tres_spa cero_spa uno_spa cuatro_spa va_spa a_spa ser_spa Miami_Lakes_engspa 
+953.318 954.253 SOF y_spa cuándo_spa 
+954.241 955.129 KEV no_spa sé_spa 
+955.104 956.474 KEV pero_spa eso_spa lo_spa dijo_spa 
+956.465 964.986 eng_eng because_eng I_eng keep_eng telling_eng like_eng if_eng you_eng call_eng a_eng credit_eng card_eng you_eng call_eng somebody_eng and_eng you_eng give_eng them_eng an_eng address_eng and_eng you_eng tell_eng them_eng Miami_Lakes_engspa _eng they_eng are_eng like_eng no_eng madam_eng _eng and_eng I_eng ok_engspa Hialeahsengspa_eng _eng 
+957.016 965.148 KEV _spa er_engspa _spa mmhm_eng _spa mmhm_eng mmhm_eng 
+965.004 965.625 eng_eng right_eng 
+965.584 968.725 eng_eng because_eng if_eng not_eng they_eng dont_eng know_eng where_eng to_eng put_eng you_eng know_eng they_eng dont_eng know_eng where_eng to_eng send_eng you_eng the_eng stuff_eng 
+967.135 967.953 KEV _spa sí_spa 
+968.724 973.275 KEV sí_spa pero_spa fíjate_spa _spa eso_spa no_spa es_spa una_spa cosa_spa que_spa tiene_spa que_spa hacer_spa el_spa town_eng of_eng Miami_Lakes_engspa 
+973.239 979.05 KEV eso_spa es_spa una_spa cosa_spa que_spa la_spa tiene_spa que_spa hacer_spa el_spa gobierno_spa federal_spa en_spa la_spa parte_spa de_spa _spa del_spa _spa del_spa post_eng office_eng _spa del_spa correo_spa 
+979.049 979.838 SOF mmhm_eng 
+979.784 981.572 KEV ellos_spa son_spa los_spa que_spa tienen_spa que_spa hacer_spa esos_spa cambios_spa 
+981.558 984.931 KEV y_spa supuestamente_spa they_eng are_eng in_eng the_eng process_eng de_spa hacer_spa ese_spa cambio_spa 
+984.916 1004.658 KEV de_spa cambiar_spa _spa del_spa correo_spa de_spa que_spa tres_spa tres_spa cero_spa uno_spa cuatro_spa va_spa a_spa ser_spa _spa solamente_spa _spa Miami_Lakes_engspa todo_spa lo_spa que_spa es_spa Miami_Lakes_engspa lo_spa que_spa está_spa dentro_spa de_spa _spa _spa de_spa el_spa town_eng de_spa Miami_Lakes_engspa que_spa incluye_spa del_spa lado_spa de_spa allá_spa para_spa el_spa metro_spa Royal_Oaks_engspa ahora_spa es_spa Miami_Lakes_engspa 
+994.487 995.347 SOF _spa ok_engspa 
+1004.724 1005.258 eng_eng right_eng 
+1005.244 1011.224 KEV y_spa eso_spa ahora_spa no_spa es_spa tres_spa tres_spa cero_spa uno_spa cuatro_spa eso_spa es_spa tres_spa tres_spa uno_spa cero_spa cinco_spa uno_spa quince_spa 
+1011.202 1012.055 SOF correcto_spa 
+1011.799 1012.937 KEV _spa es_spa otro_spa zip_eng code_eng 
+1012.935 1020.405 KEV entonces_spa ese_spa zip_eng code_eng lo_spa van_spa a_spa cambiar_spa también_spa a_spa que_spa sea_spa tres_spa tres_spa cero_spa uno_spa cuatro_spa porque_spa va_spa a_spa ser_spa Miami_engspa lo_spa que_spa está_spa dentro_spa de_spa la_spa ciudad_spa de_spa Miami_Lakes_engspa 
+1020.393 1020.811 KEV es_spa eso_spa _spa 
+1020.806 1022.466 KEV eso_spa fue_spa lo_spa que_spa yo_spa oí_spa y_spa lo_spa que_spa dijeron_spa 
+1022.442 1023.899 KEV si_spa lo_spa hacen_spa o_spa no_spa lo_spa hacen_spa 
+1023.888 1025.699 SOF pero_spa va_spa a_spa ser_spa tremendo_spa rollo_spa para_spa la_spa gente_spa 
+1025.327 1025.728 KEV _spa sí_spa 
+1025.705 1027.325 SOF coughs_spa 
+1027.319 1030.796 KEV er_engspa pero_spa bueno_spa 
+1030.787 1037.227 SOF hoy_spa me_spa llegaron_spa las_spa _spa las_spa planillas_spa para_spa el_spa W_engspa ten_eng forty_eng 
+1037.217 1038.877 SOF sabes_spa es_spa la_spa ten_eng forty_eng 
+1038.953 1039.249 KEV xxx_spa 
+1039.22 1042.14 SOF la_spa que_spa tienen_spa que_spa hacer_spa ahora_spa la_spa _spa los_spa viejitos_spa que_spa están_spa retirados_spa 
+1042.119 1043.907 KEV ah_engspa sí_spa 
+1042.119 1043.907 SOF _spa para_spa que_spa sepan_spa 
+1043.86 1045.068 KEV sí_spa 
+1045.048 1048.508 SOF para_spa que_spa puedan_spa _spa entonces_spa mandarles_spa los_spa trescientos_spa dólares_spa 
+1045.048 1048.508 KEV _spa para_spa que_spa le_spa den_spa los_spa quinientos_spa pesos_spa sí_spa 
+1048.479 1051.451 KEV sí_spa son_spa las_spa ten_eng forty_eng or_eng ten_eng ninety_eng nine_eng 
+1051.41 1052.653 eng_eng ten_eng forty_eng 
+1052.635 1054.098 SOF yo_spa la_spa tengo_spa ahí_spa en_spa la_spa casa_spa 
+1054.092 1054.667 KEV mmhm_eng 
+1054.674 1057.443 KEV ya_spa a_spa mi_spa hermano_spa se_spa lo_spa hizo_spa mi_spa padre_spa 
+1057.443 1058.319 SOF ya_spa se_spa lo_spa hicieron_spa 
+1058.296 1061.146 KEV sí_spa porque_spa ellos_spa normalmente_spa no_spa hacen_spa income_eng taxes_eng porque_spa están_spa retirados_spa 
+1060.113 1060.908 SOF _spa porque_spa tiene_spa que_spa 
+1060.902 1062.934 SOF correcto_spa pero_spa arriba_spa hay_spa que_spa ponerle_spa un_spa nombre_spa 
+1062.945 1064.437 KEV mmhm_eng 
+1064.389 1064.906 KEV sí_spa 
+1064.662 1067.773 SOF _spa tienes_spa que_spa ponerle_spa algo_spa arriba_spa de_spa la_spa planilla_spa para_spa que_spa sepan_spa que_spa es_spa para_spa eso_spa 
+1067.756 1068.412 KEV exacto_spa 
+1068.382 1070.304 SOF ya_spa se_spa lo_spa puso_spa _spa ya_spa se_spa lo_spa hizo_spa 
+1068.527 1072.335 KEV mmhm_eng ella_spa se_spa lo_spa está_spa haciendo_spa xxx_spa ese_spa es_spa el_spa campo_spa de_spa ella_spa 
+1072.33 1073.172 SOF oh_engspa ok_engspa 
+1073.16 1074.617 KEV ella_spa es_spa an_eng accountant_eng 
+1074.588 1076.022 KEV y_spa ella_spa es_spa la_spa que_spa le_spa hace_spa 
+1074.632 1078.423 SOF _spa no_spa porque_spa yo_spa te_spa dije_spa porque_spa como_spa la_spa prima_spa de_spa Manuel_engspa trabaja_spa para_spa el_spa I_R_S_eng 
+1078.415 1081.915 SOF ella_spa _spa ella_spa nos_spa mandó_spa las_spa planillas_spa y_spa nos_spa mandó_spa las_spa copias_spa de_spa cómo_spa llenárselo_spa 
+1081.858 1084.883 SOF porque_spa yo_spa tengo_spa las_spa dos_spa viejitas_spa mías_spa que_spa ya_spa ellas_spa no_spa hacen_spa 
+1083.536 1087.448 KEV si_spa acaso_spa hazme_spa _spa hazme_spa cuando_spa tengas_spa un_spa chance_eng hazme_spa una_spa copia_spa 
+1087.439 1090.672 KEV de_spa cómo_spa se_spa llena_spa 
+1090.621 1095.41 SOF yo_spa tengo_spa ahí_spa ella_spa me_spa él_spa él_spa me_spa dio_spa una_spa copia_spa que_spa ahora_spa yo_spa tengo_spa que_spa hacérsela_spa pero_spa yo_spa te_spa la_spa voy_spa a_spa hacer_spa una_spa copia_spa esa_spa 
+1090.622 1091.84 KEV _spa xxx_spa 
+1095.377 1096.225 KEV esa_spa exacto_spa 
+1096.196 1096.741 SOF ok_engspa 
+1096.73 1098.43 SOF yo_spa te_spa la_spa hago_spa mañana_spa en_spa el_spa trabajo_spa 
+1096.73 1099.684 KEV _spa xxx_spa porque_spa yo_spa sé_spa que_spa xxx_spa le_spa hace_spa xxx_spa 
+1099.34 1102.71 SOF _spa pero_spa yo_spa sé_spa que_spa hay_spa que_spa ponerle_spa algo_spa arriba_spa _spa en_spa la_spa planilla_spa 
+1102.704 1104.394 KEV de_spa que_spa es_spa retirado_spa o_spa algo_spa de_spa eso_spa 
+1104.382 1108.463 SOF tiene_spa un_spa nombre_spa ahora_spa se_spa me_spa olvidó_spa pero_spa tienes_spa que_spa ponerle_spa eso_spa arriba_spa para_spa que_spa _spa porque_spa si_spa no_spa 
+1108.436 1110.177 KEV sí_spa 
+1110.162 1112.339 KEV es_spa igual_spa que_spa cuando_spa uno_spa manda_spa los_spa cheques_spa al_spa I_R_S_eng 
+1112.327 1112.774 SOF mmhm_eng 
+1112.751 1117.917 KEV hay_spa que_spa poner_spa el_spa ten_eng ninety_eng nine_eng xxx_spa con_spa el_spa número_spa de_spa social_eng security_eng y_spa toda_spa esa_spa cosa_spa 
+1117.897 1123.408 KEV que_spa si_spa no_spa no_spa lo_spa aceptan_spa no_spa no_spa es_spa que_spa no_spa lo_spa acepten_spa si_spa no_spa no_spa te_spa lo_spa acreditan_spa los_spa _spa los_spa xxx_spa tienen_spa que_spa acreditar_spa 
+1122.006 1123.478 SOF _spa adonde_spa tienen_spa que_spa acreditarlo_spa 
+1123.46 1126.682 KEV mmhm_eng 
+1126.684 1129.218 KEV ya_spa creo_spa que_spa falta_spa poco_spa para_spa que_spa se_spa acaben_spa los_spa treinta_spa minutos_spa no_spa 
+1129.216 1132.043 SOF bueno_spa yo_spa no_spa sé_spa llevamos_spa hablando_spa tiempo_spa 
+1130.036 1133.095 KEV _spa no_spa sé_spa _spa casi_spa casi_spa la_spa media_spa hora_spa ya_spa 
+1133.083 1134.43 KEV mmhm_eng 
+1134.406 1137.32 SOF y_spa ya_spa se_spa está_spa haciendo_spa de_spa noche_spa ya_spa mañana_spa hay_spa que_spa ir_spa a_spa trabajar_spa 
+1134.406 1137.32 KEV _spa mmhm_eng sí_spa 
+1137.299 1138.989 KEV hay_spa que_spa cocinar_spa 
+1138.971 1141.333 SOF no_spa yo_spa ya_spa cociné_spa 
+1138.971 1142.924 KEV _spa ya_spa cocinaste_spa nosotros_spa comimos_spa nosotros_spa fuimos_spa a_spa Bass_eng Pro_eng shop_eng 
+1142.907 1144.028 eng_eng where_eng 
+1144.01 1144.782 eng_eng Bass_eng Pro_eng shop_eng 
+1144.777 1145.241 SOF ah_engspa ok_engspa 
+1145.229 1147.633 KEV allá_spa en_spa Grifeny_engspa xxx_spa ninety_eng five_eng 
+1147.613 1150.434 KEV eso_spa que_spa es_spa cuestión_spa de_spa casería_spa y_spa toda_spa esa_spa cosa_spa 
+1147.613 1150.44 SOF _spa uhhuh_eng yo_spa he_spa estado_spa ahí_spa sí_spa 
+1150.41 1157.852 KEV y_spa cuando_spa salimos_spa y_spa fuimos_spa a _spa a_spa xxx_spa county_eng a_spa ver_spa los_spa _spa los_spa muros_spa _spa los_spa campers_engspa 
+1157.806 1158.323 SOF mmhm_eng 
+1158.311 1160.941 KEV porque_spa andamos_spa para_spa _spa para_spa el_spa futuro_spa buscando_spa uno_spa más_spa grande_spa 
+1160.94 1163.041 KEV y_spa de_spa ahí_spa salimos_spa 
+1163.033 1172.02 KEV y_spa nos_spa metimos_spa un_spa _spa barbecue_eng place_eng que_spa hay_spa er_engspa _spa university_eng and_eng Pince_engspa boulevard_eng 
+1171.984 1172.942 SOF ok_engspa 
+1173.006 1173.894 eng_eng I_eng know_eng where_eng that_eng is_eng 
+1173.006 1174.747 KEV _spa allá_spa traen_spa una_spa cosita_spa chiquitica_spa 
+1174.73 1176.071 KEV pero_spa cocinan_spa tan_spa rico_spa 
+1176.053 1176.657 eng_eng yeah_eng 
+1176.663 1178.015 eng_eng yeah_eng yeah_eng 
+1178.011 1181.349 eng_eng what_eng ribs_eng and_eng chicken_eng and_eng all_eng 
+1179.172 1182.62 KEV _spa _spa eng_spa yeah_spa yeah_spa the_spa whole_spa barbecue_spa smoked_spa barbecue_spa so_spa 
+1181.825 1182.185 SOF _spa _spa eng_spa yeah_spa 
+1182.592 1183.903 eng_eng its_eng delicious_eng 
+1183.855 1184.604 SOF oh_engspa thats_eng good_eng 
+1184.271 1188.544 KEV _spa y_spa we_eng were_eng there_eng and_eng Pepita_engspa asked_eng er_engspa we_eng asked_eng her_eng what_eng she_eng wanted_eng for_eng dinner_eng 
+1188.487 1190.054 eng_eng she_eng said_eng well_eng bring_eng me_eng some_eng ribs_eng 
+1190.031 1192.492 eng_eng so_eng we_eng brought_eng her_eng some_eng ribs_eng so_eng 
+1192.516 1193.648 eng_eng thats_eng funny_eng 
+1193.033 1195.541 KEV _spa _spa eng_spa she_spa said_spa _spa she_spa said_spa Ill_spa _spa Ill_spa _spa Ill_spa have_spa them_spa for_spa dinner_spa 
+1195.511 1197.531 eng_eng so_eng got_eng here_eng she_eng ate_eng them_eng 
+1197.531 1199.475 eng_eng and_eng I_eng said_eng I_eng thought_eng you_eng were_eng gonna_eng wait_eng for_eng dinner_eng 
+1199.487 1201.489 KEV me_spa dice_spa no_eng no_eng Im_eng hungry_eng Im_eng gonna_eng eat_eng now_eng 
+1201.489 1203.562 eng_eng so_eng she_eng ate_eng xxx_eng so_eng 
+1203.545 1205.113 KEV ya_spa hoy_spa Pepa_engspa no_spa tenía_spa que_spa cocinar_spa 
+1205.087 1207.746 KEV mmhm_eng 
+1207.721 1212.342 SOF I_eng had_eng _spa I_eng went_eng this_eng morning_eng I_eng Jennie_engspa xxx_spa breakfast_eng and_eng then_eng we_eng havent_eng eaten_eng anything_eng all_eng day_eng 
+1212.133 1213.143 KEV Jennie_engspa is_eng the_eng little_eng one_eng 
+1213.196 1216.238 SOF yeah_eng Maria_engspa is_eng working_eng tonight_eng 
+1213.196 1216.238 KEV _spa mmhm_eng yeah_eng 
+1216.226 1216.772 SOF cough_spa 
+1216.757 1219.561 SOF and_eng she_eng is_eng off_eng already_eng for_eng er_engspa 
+1216.757 1219.561 KEV mmhm_eng 
+1219.555 1222.277 eng_eng the_eng schools_eng are_eng off_eng for_eng easter_eng 
+1222.256 1223.562 KEV sí_spa 
+1222.895 1223.887 SOF _spa _spa eng_spa the_spa universities_spa 
+1223.841 1224.961 eng_eng yeah_eng 
+1224.921 1226.482 SOF Pepita_engspa no_spa estaba_spa 
+1226.436 1228.584 KEV todavía_spa ahora_spa acaban_spa estos_spa días_spa 
+1228.565 1231.386 SOF ella_spa ahora_spa empezó_spa Jennie_engspa Jennie_engspa allá_spa 
+1231.381 1232.872 KEV ya_spa empezó_spa el_spa spring_eng break_eng 
+1232.856 1234.11 eng_eng yeah_eng 
+1234.104 1237.837 KEV sí_spa yo_spa no_spa sé_spa qué_spa día_spa empieza_spa Pepita_engspa pero_spa F_I_U_eng está_spa er_engspa 
+1237.82 1242.371 SOF look_eng yo_spa _spa I_eng found_eng that_eng _spa that_eng _spa that_eng Saint_eng Thomas_eng started_eng too_eng early_eng 
+1242.363 1245.933 eng_eng they_eng tried_eng to_eng stag_eng 
+1245.858 1246.682 KEV tú_spa sabes_spa 
+1246.677 1249.15 eng_eng so_eng not_eng all_eng the_eng kids_eng are_eng out_eng at_eng the_eng same_eng time_eng 
+1248.61 1251.588 SOF _spa _spa eng_spa at_spa the_spa same_spa time_spa yeah_spa because_spa it_spa would_spa be_spa atrocious_spa for_spa Miami_spa 
+1249.243 1251.588 KEV mmhm_eng yeah_eng 
+1251.52 1252.432 eng_eng beach_eng 
+1252.414 1253.471 eng_eng yeah_eng 
+1252.414 1253.471 SOF laugh_spa 
+1253.441 1255.769 eng_eng and_eng we_eng get_eng a_eng lot_eng of_eng kids_eng from_eng the_eng outside_eng 
+1255.763 1256.587 eng_eng yeah_eng 
+1256.538 1259.759 KEV that_eng come_eng from_eng _spa northern_eng states_eng er_engspa 
+1259.702 1262.088 eng_eng you_eng know_eng traffic_eng is_eng gonna_eng get_eng bad_eng all_eng these_eng days_eng now_eng 
+1259.702 1262.088 KEV _spa _spa eng_spa yeah_spa 
+1262.065 1266.336 KEV although_eng _spa before_eng it_eng used_eng to_eng be_eng Fort_Lauderdale_engspa Miami_engspa where_eng all_eng the_eng kids_eng came_eng down_eng to_eng 
+1266.305 1268.337 eng_eng now_eng they_eng are_eng spread_eng all_eng over_eng the_eng place_eng 
+1268.284 1268.743 eng_eng yeah_eng 
+1268.702 1271.5 KEV they_eng go_eng to_eng Jacksonville_engspa they_eng go_eng to_eng Panama_City_engspa 
+1271.593 1273.48 KEV tú_spa sabes_spa different_eng places_eng 
+1273.442 1276.49 KEV mmhm_eng 
+1276.446 1279.11 SOF the_eng Keys_engspa a_eng lot_eng of_eng them_eng like_eng to_eng go_eng down_eng there_eng too_eng 
+1278.095 1280.335 KEV _spa the_eng Keys_engspa _spa the_eng Keys_engspa 
+1280.314 1283.245 KEV lo_spa que_spa pasa_spa que_spa the_eng Keys_engspa er_engspa 
+1283.233 1284.533 eng_eng very_eng expensive_eng for_eng them_eng 
+1283.726 1286.1 KEV _spa for_eng er_engspa er_engspa er_engspa _spa college_eng kids_eng es_spa imposible_spa 
+1288.176 1291.009 SOF pero_spa let_eng me_eng tell_eng you_eng Miami_Beach_engspa is_eng getting_eng to_eng be_eng the_eng same_eng way_eng 
+1290.997 1291.497 eng_eng yeah_eng 
+1291.026 1293.952 SOF before_eng the_eng kids_eng used_eng to_eng come_eng to_eng Miami_Beach_engspa and_eng hang_eng out_eng but_eng 
+1292.897 1293.924 KEV _spa _spa eng_spa yeah_spa 
+1293.901 1295.852 KEV ya_spa pero_spa 
+1293.901 1299.603 SOF _spa _spa eng_spa first_spa of_spa all_spa they_spa are_spa not_spa renting_spa it_spa to_spa the_spa kids_spa any_more_spa you_spa got_spa to_spa have_spa an_spa adult_spa that_spa would_spa rent_spa the_spa place_spa 
+1297.566 1298.193 KEV _spa _spa eng_spa right_spa 
+1299.597 1308.864 eng_eng and_eng we_eng are_eng talking_eng about_eng _eng almost_eng two_eng hundred_eng dollars_eng a_eng night_eng minimum_eng _eng to_eng find_eng _eng anywhere_eng which_eng before_eng for_eng fifty_eng something_eng dollars_eng you_eng can_eng rent_eng out_eng at_eng the_eng beach_eng spend_eng the_eng weekend_eng 
+1304.619 1305.856 KEV _spa er_engspa yeah_eng 
+1308.818 1309.95 eng_eng yeah_eng 
+1309.903 1310.989 eng_eng yeah_eng 
+1310.975 1315.236 KEV pero_spa everything_eng else_eng _spa its_eng cheaper_eng at_eng the_eng beach_eng than_eng in_eng the_eng Keys_engspa 
+1315.07 1315.744 eng_eng yeah_eng 
+1315.564 1318.408 eng_eng like_eng restaurants_eng transportation_eng you_eng know_eng 
+1318.561 1319.513 SOF oh_engspa yeah_eng 
+1318.925 1329.559 KEV ah_engspa _spa in_eng _spa in_eng Miami_Beach_engspa er_engspa they_eng go_eng to_eng Burger_King_engspa they_eng go_eng to_eng McDonalds_engspa in_eng the_eng Keys_engspa you_eng dont_eng find_eng that_eng much_eng that_eng _spa too_eng often_eng 
+1325.386 1326.338 SOF _spa oh_engspa yeah_eng 
+1329.536 1333.182 KEV so_eng if_eng they_eng have_eng to_eng go_eng to_eng regular_eng restaurants_eng es_spa caro_spa 
+1333.179 1350.025 KEV tú_spa sabes_spa algunos_spa de_spa los_spa restaurancitos_spa esos_spa um_eng er_engspa _spa in_eng the_eng Keys_engspa er_engspa _spa no_spa son_spa nada_spa del_spa otro_spa mundo_spa pero_spa te_spa cobran_spa _spa te_spa cobran_spa más_spa que_spa un_spa Burger_King_engspa o_spa un_spa MacDonalds_engspa so_eng for_eng kids_eng is_eng not_eng _spa bien_spa bien_spa práctico_spa 
+1350.009 1350.392 eng_eng yeah_eng 
+1350.352 1350.735 KEV mmhm_eng 
+1350.705 1354.414 SOF cough_spa 
+1354.39 1358.475 KEV xxx_spa estoy_spa mirando_spa el_spa reloj_spa 
+1358.445 1359.02 SOF laugh_spa 
+1359.008 1360.674 KEV yo_spa creo_spa que_spa hemos_spa hablado_spa bastante_spa 
+1360.665 1366.069 KEV está_spa bueno_spa el_spa aparatico_spa ese_spa que_spa tiene_spa _spa la_spa grabadorecita_spa esa_spa 
+1364.287 1367.683 SOF _spa xxx_spa grabando_spa a_spa la_spa gente_spa cuando_spa te_spa hacen_spa algo_spa 
+1367.627 1368.097 KEV sí_spa 
+1367.778 1369.044 SOF _spa _spa eng_spa hey_spa here_spa you_spa go_spa 
+1369.008 1375.801 KEV er_engspa los_spa otros_spa días_spa _spa sacó_spa Office_Depot_engspa _spa unas_spa tarjeticas_spa _spa en_spa venta_spa 
+1375.774 1378.282 KEV las_spa de_spa esas_spa de_spa one_eng gig_eng two_eng gigs_eng 
+1378.27 1380.952 KEV yo_spa fui_spa y_spa compré_spa una_spa para_spa mi_spa cámara_spa 
+1380.929 1383.158 KEV pero_spa yo_spa uso_spa la_spa regular_spa la_spa S_T_engspa 
+1383.135 1388.778 KEV Pepita_engspa _spa en_spa la_spa cámara_spa de_spa ella_spa usa_spa _spa usa_spa una_spa que_spa se_spa llama_spa dualpro_engspa o_spa una_spa cosa_spa así_spa 
+1388.753 1389.176 SOF mmhm_eng 
+1389.169 1392.466 KEV que_spa esa_spa nunca_spa la_spa habían_spa puesto_spa en_spa venta_spa pero_spa por_spa fin_spa Office_Depot_engspa las_spa puso_spa en_spa venta_spa 
+1392.44 1395.093 KEV y_spa ese_spa día_spa tenían_spa una_spa cosita_spa de_spa estas_spa en_spa venta_spa también_spa 
+1395.075 1404.773 KEV un_spa Sandisk_engspa que_spa es_spa un_spa M_P_three_eng _spa M_P_three_eng player_eng con_spa _spa con_spa un_spa recording_eng _spa un_spa radiecito_spa F_M_spa todo_spa una_spa piececita_spa 
+1404.738 1405.737 KEV estaba_spa bueno_spa 
+1405.711 1408.491 KEV pero_spa cuando_spa llegué_spa nada_spa más_spa que_spa tenían_spa el_spa _spa el_spa de_spa muestra_spa 
+1408.474 1409.681 KEV no_spa tenían_spa ninguno_spa allí_spa 
+1409.666 1413.412 SOF pero_spa mira_spa before_eng you_eng used_eng to_eng go_eng to_eng the_eng classes_eng in_eng the_eng university_eng 
+1413.387 1416.232 eng_eng and_eng you_eng used_eng to_eng be_eng able_eng to_eng record_eng classes_eng 
+1414.757 1416.209 KEV _spa _spa eng_spa to_spa record_spa not_spa any_more_spa 
+1416.196 1417.275 eng_eng I_eng guess_eng not_eng 
+1417.252 1418.918 eng_eng maybe_eng the_eng teachers_eng are_eng not_eng 
+1417.252 1418.918 eng_eng yeah_eng 
+1418.911 1419.863 SOF laugh_spa 
+1419.857 1420.751 KEV bueno_spa 
+1420.241 1429.048 SOF _spa _spa eng_spa they_spa are_spa teaching_spa so_spa properly_spa that_spa they_spa are_spa afraid_spa that_spa they_spa might_spa be_spa recorded_spa or_spa might_spa say_spa something_spa that_spa they_spa shouldnt_spa say_spa and_spa they_spa could_spa 
+1425.728 1429.037 KEV _spa thats_eng _spa thats_eng er_engspa 
+1429.03 1430.336 eng_eng you_eng know_eng banish_eng them_eng 
+1429.57 1432.913 KEV _spa tú_spa sabes_spa opens_eng the_eng door_eng for_eng a_eng lawsuit_eng si_spa pasa_spa cualquier_spa cosa_spa 
+1431.99 1432.913 SOF _spa _spa eng_spa yeah_spa 
+1432.9 1439.541 KEV tienen_spa al_spa maestro_spa grabado_spa un_spa maestro_spa que_spa diga_spa cualquier_spa disparate_spa en_spa la_spa clase_spa sin_spa querer_spa o_spa queriendo_spa tú_spa sabes_spa lo_spa tienen_spa grabado_spa 
+1439.511 1440.248 KEV mmhm_eng 
+1439.511 1441.606 SOF pero_spa this_eng country_eng has_eng gotten_eng 
+1441.577 1443.655 KEV es_spa todo_spa lawsuit_eng todo_spa lawsuit_eng 
+1443.614 1445.071 SOF xxx_spa 
+1445.069 1446.962 KEV todo_spa es_spa un_spa problema_spa todo_spa 
+1445.598 1450.845 SOF _spa just_eng _spa like_eng the_eng lady_eng that_eng _spa that_eng chocó_spa a_spa Myriam_engspa because_eng ella_spa fue_spa la_spa que_spa lo_spa _spa la_spa chocó_spa you_eng know_eng 
+1449.517 1451.374 KEV _spa mmhm_eng mmhm_eng 
+1450.985 1456.363 eng_eng the_eng lady_eng is_eng already_eng her_eng back_eng hurts_eng this_eng and_eng that_eng everything_eng hurts_eng and_eng Im_eng like_eng 
+1450.985 1456.665 KEV _spa oh_engspa for_eng sure_eng mmhm_eng 
+1456.624 1459.2 eng_eng the_eng one_eng who_eng should_eng be_eng hurting_eng is_eng my_eng kid_eng 
+1458.695 1461.348 KEV mmhm_eng que_spa fue_spa la_spa que_spa le_spa dieron_spa _spa de_spa lado_spa 
+1460.535 1464.499 SOF no_spa que_spa le_spa dieron_spa por_spa la_spa ventana_spa _spa por_spa la_spa puerta_spa le_spa desbarató_spa la_spa puerta_spa 
+1461.742 1463.448 KEV _spa mmhm_eng _spa mmhm_eng 
+1464.484 1470.235 SOF el_spa axle_eng de_spa la_spa _spa de_spa la_spa goma_spa de_spa adelante_spa se_spa la_spa partió_spa con_spa eso_spa yo_spa te_spa digo_spa el_spa golpe_spa tan_spa grande_spa que_spa le_spa dio_spa esa_spa mujer_spa 
+1470.166 1470.729 KEV increíble_spa _spa increíble_spa 
+1472.673 1476.293 SOF shes_eng just_eng got_eng one_eng of_eng these_eng nineteen_eng ninety_eng five_eng Toyotas_engspa that_eng are_eng like_eng 
+1475.899 1477.089 KEV _spa mmhm_eng duro_spa 
+1477.066 1479.69 SOF remember_eng those_eng Toyotas_engspa were_eng really_eng heavy_eng 
+1478.279 1478.988 KEV _spa mmhm_eng 
+1479.652 1482.938 eng_eng and_eng the_eng _eng and_eng the_eng bumper_eng used_eng to_eng be_eng a_eng different_eng color_eng that_eng they_eng used_eng to_eng 
+1479.652 1482.926 KEV _spa mmhm_eng mmhm_eng 
+1482.897 1484.714 KEV pero_spa tipo_spa S_U_V_eng o_spa 
+1484.702 1486.089 SOF no_spa no_spa it_eng was_eng a_eng car_eng 
+1485.352 1486.124 KEV _spa un_spa carrito_spa 
+1486.119 1486.787 KEV mmhm_eng 
+1486.769 1487.901 eng_eng Thank_eng God_eng 
+1487.872 1488.58 KEV mmhm_eng 
+1488.556 1492.416 SOF imagine_eng if_eng you_eng xxx_spa for_eng a_eng little_eng P_T_Cruiser_engspa 
+1492.373 1493.348 KEV imagínate_spa 
+1492.373 1493.348 SOF la_spa hubiera_spa matado_spa 
+1492.94 1494.222 KEV _spa imagínate_spa 
+1494.199 1496.469 SOF porque_spa yo_spa no_spa tenía_spa airbags_engspa en_spa el_spa P_T_Cruiser_engspa 
+1496.446 1496.84 KEV no_spa 
+1496.808 1499.409 KEV los_spa P_T_Cruisers_engspa no_spa vienen_spa con_spa airbag_engspa 
+1499.391 1509.317 eng_eng yes_eng but_eng what_eng happened_eng was_eng my_eng _eng my_eng husband_eng being_eng such_eng a_eng small_eng person_eng wanted_eng to_eng buy_eng her_eng a_eng car_eng a_eng used_eng car_eng didnt_eng want_eng her_eng to_eng have_eng a_eng new_eng car_eng like_eng I_eng told_eng him_eng 
+1509.299 1517.96 SOF get_eng the_eng kid_eng a_eng good_eng car_eng when_eng we_eng ended_eng up_eng finding_eng out_eng when_eng we_eng had_eng already_eng paid_eng everything_eng for_eng the_eng car_eng _spa that_eng car_eng had_eng been_eng chocado_spa de_spa adelante_spa completamente_spa 
+1517.924 1519.776 SOF fíjate_spa que_spa tiene_spa el_spa sticker_eng 
+1519.759 1520.13 KEV mmhm_eng 
+1520.11 1524.377 SOF pero_spa parece_spa que_spa it_eng wasnt_eng in_eng the_eng system_eng yet_eng because_eng it_eng had_eng just_eng happened_eng 
+1524.361 1524.663 KEV mmhm_eng 
+1524.657 1526.575 eng_eng so_eng they_eng fixed_eng the_eng car_eng 
+1526.558 1529.501 SOF and_eng they_eng sold_eng it_eng to_eng us_eng thinking_eng that_eng _spa que_spa no_spa nada_spa _spa nada_spa tenía_spa el_spa carro_spa 
+1529.442 1535.041 SOF when_eng we_eng went_eng to_eng trade_eng in_eng the_eng car_eng _spa for_eng the_eng Honda_engspa the_eng guy_eng told_eng me_eng that_eng he_eng couldnt_eng take_eng that_eng car_eng 
+1535.03 1536.684 eng_eng and_eng we_eng say_eng why_eng cant_eng you_eng take_eng this_eng car_eng 
+1536.657 1538.317 eng_eng because_eng that_eng car_eng is_eng no_eng good_eng 
+1538.306 1539.513 KEV mmhm_eng 
+1539.38 1541.11 SOF _spa _spa eng_spa its_spa been_spa crashed_spa from_spa the_spa front_spa 
+1541.099 1542.312 KEV mmhm_eng 
+1542.281 1549.403 eng_eng and_eng they_eng put_eng a_eng special_eng sticker_eng when_eng you_eng open_eng up_eng the_eng door_eng of_eng the_eng car_eng on_eng the_eng side_eng right_eng there_eng 
+1549.396 1553.297 eng_eng they_eng put_eng a_eng sticker_eng when_eng a_eng _eng a_eng _eng a_eng car_eng has_eng been_eng crashed_eng from_eng the_eng front_eng 
+1553.244 1555.137 eng_eng because_eng of_eng xxx_eng 
+1553.244 1555.137 KEV _spa como_spa un_spa rebuilt_eng 
+1555.137 1556.698 eng_eng yes_eng 
+1556.648 1557.304 KEV mmhm_eng 
+1557.281 1560.706 eng_eng and_eng they_eng wouldnt_eng _eng they_eng wouldnt_eng take_eng the_eng car_eng for_eng nothing_eng 
+1560.682 1561.32 KEV ya_spa tú_spa sabes_spa _spa 
+1561.326 1562.232 SOF no_spa ni_spa lo_spa querían_spa 
+1562.22 1563.463 eng_eng they_eng said_eng no_eng we_eng dont_eng want_eng this_eng 
+1563.425 1565.074 eng_eng this_eng is_eng the_eng liability_eng for_eng us_eng 
+1563.425 1565.074 KEV _spa mmhm_eng 
+1565.044 1567.935 eng_eng you_eng try_eng to_eng sell_eng it_eng the_eng best_eng way_eng you_eng can_eng 
+1567.91 1570.633 eng_eng and_eng I_eng told_eng xxx_eng lets_eng sue_eng the_eng guy_eng who_eng sold_eng you_eng the_eng car_eng 
+1570.602 1572.884 eng_eng xxx_eng no_eng no_eng no_eng no_eng I_eng dont_eng wanna_eng worry_eng 
+1570.602 1572.884 KEV _spa sí_spa 
+1572.872 1574.079 eng_eng you_eng know_eng I_eng dont_eng wanna_eng deal_eng with_eng that_eng 
+1574.056 1574.741 KEV sí_spa 
+1574.056 1574.741 SOF _spa oh_engspa ok_engspa 
+1574.719 1576.32 eng_eng but_eng thank_eng God_eng _eng 
+1576.308 1577.911 KEV mmhm_eng mmhm_eng 
+1577.841 1580.291 eng_eng hello_eng 
+1580.278 1581.009 eng_eng are_eng we_eng 
+1581.009 1585.287 eng_eng I_eng dont_eng know_eng if_eng we_eng are_eng almost_eng over_eng _eng laughs_eng 
+1585.267 1587.757 eng_eng weve_eng been_eng talking_eng so_eng much_eng already_eng 
+1585.267 1587.757 KEV _spa _spa eng_spa are_spa we_spa _spa are_spa we_spa on_spa time_spa 
+1587.714 1591.917 eng_eng I_eng think_eng they_eng forgot_eng about_eng us_eng _eng laughs_eng 
+1591.896 1594.113 eng_eng keep_eng talking_eng 
+1591.896 1594.113 KEV _spa _spa eng_spa keep_spa on_spa talking_spa 
+1594.094 1596.805 eng_eng four_eng more_eng minutes_eng five_eng more_eng minutes_eng 
+1594.094 1596.805 SOF _spa _spa eng_spa we_spa got_spa five_spa more_spa minutes_spa _spa laughs_spa 
+1596.803 1597.982 KEV mmhm_eng 
+1596.803 1597.982 SOF laugh_spa 
+1597.969 1603.263 SOF we_eng are_eng tired_eng talking_eng to_eng each_eng other_eng we_eng wanna_eng watch_eng the_eng news_eng and_eng the_eng tv_engspa right_eng now_eng 
+1603.228 1604.174 KEV mmhm_eng 
+1603.228 1606.348 SOF laugh_spa 
+1606.301 1608.559 KEV pues_spa sí_spa lo_spa de_spa Chilis_engspa está_spa impresionante_spa no_spa verdad_spa 
+1608.553 1610.347 KEV el_spa tiroteo_spa ese_spa ahí_spa en_spa Chilis_engspa 
+1608.553 1610.347 eng_eng yes_eng 
+1610.325 1614.934 KEV y_spa los_spa otros_spa días_spa el_spa tiroteo_spa en_spa el_spa colegio_spa xxx_spa 
+1614.905 1615.247 eng_eng yeah_eng 
+1615.232 1619.452 KEV y_spa ayer_spa o_spa anteayer_spa el_spa _spa el_spa riot_eng en_spa el_spa Edison_engspa 
+1615.232 1619.452 SOF _spa xxx_spa 
+1619.493 1620.004 SOF Edison_engspa 
+1619.861 1620.923 KEV _spa en_spa _spa en_spa el_spa otro_spa 
+1620.913 1624.111 KEV esto_spa está_spa calientica_spa la_spa calle_spa 
+1624.099 1628.546 KEV y_spa dónde_spa fue_spa otro_spa también_spa _spa lugar_spa aquí_spa también_spa que_spa tirotearon_spa 
+1628.548 1631.114 KEV los_spa otros_spa días_spa aquí_spa pegaditos_spa nosotros_spa 
+1631.108 1635.688 SOF no_spa yo_spa pero_spa no_spa fue_spa four_eng forty_eng one_eng ahí_spa en_spa la_spa four_eng forty_eng one_eng yo_spa creo_spa que_spa fue_spa un_spa poquito_spa más_spa para_spa allá_spa 
+1635.014 1636.797 KEV no_spa pero_spa er_engspa estuvo_spa Chilis_engspa 
+1636.768 1642.27 KEV en_spa Chilis_engspa habían_spa robado_spa y_spa habían_spa tiroteado_spa a_spa alguien_spa hace_spa unos_spa días_spa atrás_spa 
+1642.25 1644.021 KEV y_spa ahora_spa se_spa formó_spa un_spa tiroteo_spa de_spa nuevo_spa 
+1644.015 1647.66 KEV pero_spa había_spa otro_spa lugar_spa más_spa que_spa había_spa habido_spa un_spa _spa un_spa robo_spa un_spa tiroteo_spa 
+1647.628 1650.432 KEV la_spa calle_spa está_spa _spa que_spa mete_spa miedo_spa 
+1650.426 1651.198 SOF claro_spa 
+1651.182 1651.733 KEV mmhm_eng 
+1651.739 1652.929 SOF la_spa gente_spa está_spa desesperada_spa 
+1652.906 1655.257 KEV sí_spa 
+1655.225 1659.092 KEV la_spa gente_spa estaba_spa desesperada_spa para_spa tratar_spa de_spa resolverlo_spa _spa a_spa cualquier_spa costo_spa 
+1659.07 1660.19 SOF xxx_spa 
+1660.19 1662.123 KEV mmhm_eng mmhm_eng 
+1662.123 1663.9 SOF cough_spa 
+1663.886 1667.328 KEV estos_spa muchachitos_spa se_spa han_spa pasado_spa todo_spa el_spa día_spa _spa xxx_spa ahí_spa pescando_spa 
+1667.322 1669.571 KEV y_spa compran_spa xxx_spa 
+1669.531 1671.063 SOF ay_spa at_eng least_eng they_eng do_eng 
+1671.046 1671.412 eng_eng yeah_eng 
+1671.397 1675.263 SOF they_eng are_eng doing_eng something_eng better_eng than_eng watching_eng er_engspa tv_engspa and_eng computers_eng all_eng day_eng 
+1671.397 1675.263 KEV _spa _spa eng_spa yeah_spa yeah_spa 
+1675.248 1681.285 eng_eng no_eng theyll_eng be_eng catching_eng _eng catching_eng fish_eng because_eng you_eng see_eng them_eng you_eng know_eng bringing_eng up_eng fish_eng every_eng once_eng in_eng a_eng while_eng 
+1681.274 1682.702 KEV mmhm_eng 
+1682.678 1685.337 KEV pero_spa ya_spa le_spa está_spa cogiendo_spa la_spa noche_spa y_spa ya_spa se_spa van_spa 
+1684.356 1687.601 SOF _spa _spa eng_spa and_spa are_spa they_spa planning_spa on_spa doing_spa something_spa on_spa the_spa lake_spa like_spa cleaning_spa xxx_spa 
+1687.607 1688.437 eng_eng have_eng you_eng heard_eng anything_eng 
+1688.408 1690.173 eng_eng they_eng havent_eng mentioned_eng anything_eng about_eng that_eng 
+1689.581 1690.202 KEV _spa _spa eng_spa no_spa 
+1690.186 1692.444 eng_eng no_eng there_eng is_eng not_eng 
+1691.683 1693.315 eng_eng because_eng I_eng think_eng its_eng been_eng a_eng while_eng 
+1693.303 1698.394 SOF I_eng mean_eng weve_eng been_eng moved_eng in_eng here_eng for_eng almost_eng sixteen_eng yo_spa creo_spa que_spa like_eng fifteen_eng or_eng sixteen_eng years_eng and_eng they_eng havent_eng done_eng anything_eng 
+1697.958 1704.729 KEV _spa _spa eng_spa because_spa you_spa know_spa the_spa _spa the_spa thing_spa here_spa is_spa that_spa the_spa lake_spa doesnt_spa belong_spa just_spa to_spa one_spa _spa entity_spa 
+1704.746 1711.527 eng_eng the_eng part_eng of_eng the_eng lake_eng is_eng the_eng _eng water_eng management_eng district_eng 
+1711.534 1715.282 KEV pero_spa then_eng when_eng you_eng come_eng from_eng like_eng the_eng thirteen_eng feet_eng 
+1715.305 1717.97 KEV that_eng _spa that_eng strip_eng there_eng el_spa canal_spa 
+1715.305 1717.984 SOF _spa mmhm_eng 
+1717.962 1719.552 eng_eng is_eng a_eng water_eng management_eng 
+1719.515 1722.882 KEV but_eng then_eng when_eng you_eng come_eng into_eng the_eng lake_eng thats_eng Miami_Lakes_engspa 
+1722.854 1728.915 KEV is_eng the_eng residence_eng of_eng Miami_Lakes_engspa in_eng that_eng so_eng since_eng its_eng such_eng a_eng mix_eng they_eng dont_eng do_eng anything_eng 
+1728.904 1730.314 eng_eng I_eng had_eng a_eng 
+1730.284 1733.395 eng_eng when_eng we_eng first_eng moved_eng here_eng not_eng when_eng we_eng first_eng moved_eng here_eng 
+1733.377 1739.11 KEV cuando_spa fueron_spa las_spa elecciones_spa de_spa _spa de_spa aquí_spa en_spa Miami_Lakes_engspa que_spa se_spa formó_spa el_spa primer_spa viaje_spa 
+1739.07 1739.488 SOF mmhm_eng 
+1739.473 1742.851 KEV uno_spa de_spa los_spa _spa de_spa los_spa comisionados_spa que_spa corrió_spa 
+1742.846 1743.548 SOF mmhm_eng 
+1743.546 1746.239 KEV uno_spa de_spa los_spa muchachitos_spa jóvenes_spa vino_spa por_spa aquí_spa 
+1746.242 1751.595 KEV y_spa le_spa digo_spa _spa listen_eng look_eng this_eng is_eng a_eng good_eng thing_eng for_eng you_eng to_eng look_eng at_eng to_eng do_eng 
+1751.542 1754.16 eng_eng excuse_eng me_eng hello_eng 
+1754.168 1759.079 eng_eng Im_eng in_eng the_eng xxx_eng I_eng got_eng five_eng more_eng minutes_eng 
+1759.073 1761.847 eng_eng talking_eng 
+1761.851 1763.702 eng_eng talking_eng 
+1763.656 1769.025 eng_eng Ill_eng be_eng right_eng there_eng 
+1768.999 1771.402 KEV dile_spa que_spa venga_spa para_spa acá_spa 
+1771.402 1772.969 SOF dile_spa que_spa venga_spa para_spa acá_spa 
+1772.968 1777.652 SOF laugh_spa no_spa déjanos_spa acabar_spa de_spa hablar_spa que_spa nos_spa quedan_spa five_eng more_eng minutes_eng and_eng they_eng are_eng recording_eng us_eng bye_eng 
+1775.493 1780.304 KEV _spa we_eng have_eng _spa usamos_spa _spa usamos_spa este_spa xxx_spa como_spa guinea_pig_eng 
+1780.274 1781.597 SOF moan_spa 
+1781.568 1782.619 KEV er_engspa 
+1782.615 1786.504 KEV qué_spa te_spa estaba_spa diciendo_spa 
+1786.446 1788.966 SOF oh_engspa lo_spa del_spa muchachito_spa que_spa vino_spa aquí_spa 
+1788.977 1792.095 KEV ah_engspa sí_spa el_spa que_spa estaba_spa corriendo_spa para_spa acá_spa xxx_spa tú_spa ves_spa tú_spa eso_spa 
+1792.091 1795.603 KEV le_spa digo_spa esa_spa basura_spa no_spa es_spa basura_spa de_spa nosotros_spa 
+1795.581 1801.993 KEV esa_spa basura_spa es_spa cuando_spa el_spa condado_spa _spa o_spa el_spa water_eng management_eng district_eng viene_spa y_spa limpia_spa el_spa pedazo_spa de_spa ellos_spa 
+1802.004 1803.85 KEV ellos_spa vienen_spa con_spa las_spa palas_spa 
+1802.004 1803.867 SOF _spa _spa eng_spa xxx_spa everything_spa 
+1803.886 1805.813 KEV y_spa arrancan_spa toda_spa la_spa basura_spa 
+1805.963 1809.823 KEV entonces_spa caminan_spa tres_spa millas_spa con_spa las_spa palas_spa para_spa abajo_spa rompiendo_spa toda_spa la_spa hierba_spa 
+1809.784 1813.325 KEV y_spa después_spa echan_spa un_spa palazo_spa arriba_spa del_spa camión_spa 
+1813.298 1816.636 KEV pero_spa tú_spa sabes_spa cuántos_spa palazos_spa iban_spa rotos_spa por_spa ahí_spa que_spa los_spa dejan_spa flotando_spa 
+1816.618 1818.493 KEV xxx_spa eso_spa es_spa lo_spa que_spa tú_spa estás_spa viendo_spa ahí_spa 
+1818.563 1820.937 KEV dice_spa no_spa ahora_spa ahora_spa vamos_spa a_spa mirar_spa esto_spa que_spa lo_spa otro_spa 
+1820.914 1821.907 KEV nunca_spa han_spa hecho_spa nada_spa 
+1821.89 1825.054 KEV cada_spa vez_spa que_spa pasa_spa el_spa _spa el_spa condado_spa por_spa ahí_spa con_spa la_spa 
+1825.055 1826.303 SOF y_spa pasa_spa 
+1826.286 1827.755 KEV sí_spa sí_spa ellos_spa pasan_spa 
+1826.286 1827.755 SOF cada_spa qué_spa tiempo_spa 
+1827.758 1830.15 KEV bu dos_spa o_spa tres_spa veces_spa al_spa año_spa vienen_spa 
+1830.15 1830.725 eng_eng right_eng now_eng 
+1830.684 1831.444 KEV sí_spa 
+1831.427 1834.126 KEV un_spa aparato_spa que_spa son_spa los_spa que_spa ponen_spa allá_spa en_spa Red_eng Road_eng 
+1834.115 1837.964 KEV tú_spa no_spa te_spa has_spa fijado_spa allá_spa en_spa la_spa esquina_spa del_spa aeropuerto_spa _spa del_spa aeropuerto_spa xxx_spa 
+1837.012 1837.807 SOF _spa sí_spa yo_spa sí_spa 
+1837.805 1839.401 KEV una_spa un_spa lugar_spa que_spa ponen_spa 
+1837.805 1839.436 SOF _spa ahí_spa sí_spa yo_spa veo_spa 
+1839.43 1840.104 KEV eso_spa bueno_spa 
+1839.43 1840.104 SOF _spa mmhm_eng 
+1840.069 1841.398 KEV esos_spa vienen_spa hasta_spa aquí_spa 
+1841.372 1843.7 SOF no_spa de_spa verdad_spa yo_spa no_spa _spa yo_spa no_spa me_spa había_spa fijado_spa nunca_spa 
+1841.372 1843.787 KEV ellos_spa caminan_spa por_spa xxx_spa caminando_spa 
+1843.743 1844.742 KEV pero_spa qué_spa pasa_spa 
+1844.742 1848.521 KEV que_spa ellos_spa limpian_spa ellos_spa bajan_spa la_spa pala_spa y_spa van_spa caminando_spa y_spa van_spa rompiendo_spa esa_spa hierba_spa 
+1848.505 1852.081 KEV pero_spa en_spa vez_spa de_spa _spa hacer_spa un_spa pedacito_spa cortico_spa 
+1852.046 1853.962 KEV y_spa llevar_spa _spa llevarla_spa hasta_spa el_spa camión_spa no_spa 
+1853.985 1856.922 KEV imagínate_spa si_spa el_spa camión_spa está_spa parado_spa a_spa cuatro_spa cuadras_spa 
+1856.925 1860.716 KEV tú_spa crees_spa que_spa ellos_spa van_spa a_spa _spa a_spa recoger_spa un_spa poquito_spa y_spa llevarlo_spa y_spa botarlo_spa y_spa regresarlo_spa 
+1860.699 1863.688 KEV ellos_spa ponen_spa la_spa pala_spa y_spa van_spa rompiendo_spa van_spa empujándola_spa para_spa allá_spa 
+1863.653 1865.81 KEV pero_spa lo_spa que_spa hace_spa después_spa 
+1865.781 1868.045 KEV que_spa se_spa se_spa queda_spa toda_spa suelta_spa se_spa riega_spa todo_spa 
+1868.101 1870.179 KEV y_spa cuando_spa el_spa aire_spa sopla_spa de_spa allá_spa o_spa de_spa aquí_spa 
+1870.139 1873.429 KEV toda_spa esa_spa hierba_spa muerta_spa xxx_spa 
+1872.326 1873.533 SOF _spa va_spa cayendo_spa para_spa acá_spa 
+1873.533 1873.887 KEV mmhm_eng 
+1873.892 1875.904 KEV y_spa yo_spa le_spa echo_spa ahí_spa cosas_spa 
+1875.883 1881.482 KEV y_spa fumigó_spa y_spa eso_spa para_spa mantener_spa la_spa hierba_spa lo_spa menos_spa que_spa no_spa crezca_spa mucho_spa pero_spa con_spa todo_spa y_spa eso_spa 
+1881.451 1888.648 KEV er_engspa te_spa encuentras_spa que_spa _spa _spa que_spa los_spa lily_pads_eng crecen_spa 
+1888.614 1891.784 KEV y_spa _spa y_spa se_spa mete_spa la_spa basura_spa ahí_spa 
+1891.761 1893.212 KEV y_spa vaya_spa 
+1893.172 1899.997 KEV le_spa echas_spa hoy_spa y_spa a_spa los_spa dos_spa o_spa tres_spa meses_spa ya_spa están_spa de_spa nuevo_spa floreciendo_spa y_spa creciendo_spa 
+1900.007 1900.848 eng_eng so_eng 
+1900.821 1904.553 SOF y_spa la_spa señora_spa de_spa al_spa lado_spa tiene_spa ahora_spa un_spa hijo_spa _spa un_spa nieto_spa no_spa 
+1903.829 1904.578 KEV _spa un_spa nieto_spa 
+1904.538 1905.235 KEV mmhm_eng 
+1905.235 1906.024 SOF ah_engspa sí_spa 
+1906.001 1907.748 KEV sí_spa el_spa nieto_spa está_spa viviendo_spa con_spa ella_spa 
+1907.718 1909.431 SOF qué_spa bueno_spa así_spa no_spa está_spa solita_spa 
+1909.401 1914.08 KEV tú_spa sabes_spa que_spa yo_spa pensaba_spa que_spa los_spa hijos_spa de_spa Lucía_engspa las_spa _spa las_spa hijas_spa de_spa los_spa hijos_spa vivían_spa fuera_spa de_spa Miami_engspa 
+1914.046 1916.333 KEV pero_spa este_spa _spa este_spa vive_spa en_spa Core_Gables_engspa 
+1916.316 1917.494 eng_eng really_eng 
+1916.687 1921.198 KEV _spa el_spa hijo_spa de_spa ella_spa _spa el_spa hijo_spa de_spa ella_spa que_spa es_spa el_spa papá_spa del_spa nieto_spa vive_spa en_spa Core_Gables_engspa 
+1921.192 1922.144 SOF xxx_spa 
+1922.152 1924.823 KEV porque_spa como_spa yo_spa nunca_spa los_spa veía_spa por_spa aquí_spa ni_spa nada_spa 
+1922.152 1924.823 eng_eng he_eng must_eng have_eng gotten_eng in_eng a_eng fight_eng 
+1924.805 1928.381 SOF Im_eng gonna_eng go_eng live_eng with_eng my_eng grandma_eng porque_spa siempre_spa dicen_spa así_spa 
+1924.805 1928.375 KEV _spa es_spa posible_spa 
+1928.383 1931.523 KEV es_spa posible_spa tú_spa no_spa te_spa acuerdas_spa hace_spa como_spa dos_spa o_spa tres_spa años_spa atrás_spa cuando_spa primero_spa se_spa mudó_spa ahí_spa que_spa tenía_spa un_spa carrito_spa que_spa lo_spa chocó_spa 
+1934.939 1935.368 SOF mmhm_eng 
+1935.351 1937.29 KEV que_spa Lucía_engspa lo_spa tuvo_spa tapado_spa ahí_spa mucho_spa tiempo_spa 
+1937.278 1938.108 SOF mmhm_eng 
+1938.07 1941.477 KEV er_engspa le_spa _spa le_spa taparon_spa le_spa chocaron_spa el_spa carro_spa 
+1941.46 1944.403 KEV y_spa parece_spa que_spa el_spa padre_spa estaba_spa bravo_spa con_spa ellos_spa y_spa no_spa se_spa lo_spa arregló_spa ni_spa nada_spa 
+1944.4 1946.74 KEV y_spa estaba_spa parado_spa ahí_spa en_spa casa_spa de_spa Lucía_engspa todo_spa ese_spa tiempo_spa 
+1946.709 1949.873 KEV hasta_spa que_spa después_spa de_spa una_spa forma_spa o_spa otra_spa resolvieron_spa 
+1949.89 1952.027 KEV mmhm_eng 
+1951.998 1953.478 KEV viste_spa qué_spa rica_spa está_spa la_spa tarde_spa 
+1953.455 1955.266 eng_eng yeah_eng 
+1955.228 1957.596 KEV ha_spa bajado_spa ahora_spa está_spa _spa debe_spa estar_spa a_spa setenta_spa y_spa pico_spa grados_spa 
+1957.567 1958.42 KEV está_spa super_engspa rica_spa 
+1958.414 1964.373 KEV ya_spa _spa ya_spa nos_spa _spa ya_spa nos_spa están_spa torturando_spa 
+1964.356 1968.477 KEV ya_spa estos_spa últimos_spa cuatro_spa minutos_spa son_spa _spa laugh_spa 
+1967.63 1972.303 SOF no_spa y_spa yo_spa que_spa estoy_spa haciendo_spa maternidad_spa y_spa maternidad_spa es_spa lo_spa más_spa _spa pesado_spa 
+1971.176 1973.928 KEV _spa y_spa er_engspa er_engspa las_spa clases_spa son_spa en_spa español_spa 
+1973.914 1977.647 SOF ay_spa sí_spa escribir_spa es_spa en_spa español_spa pero_spa los_spa libros_spa son_spa en_spa inglés_spa 
+1977.561 1978.78 SOF so_spa tú_spa me_spa ves_spa a_spa mí_spa ahí_spa 
+1978.779 1980.242 SOF y_spa entonces_spa tengo_spa que_spa ponerme_spa 
+1980.2 1981.373 SOF y_spa entonces_spa tengo_spa un_spa diccionario_spa 
+1981.35 1982.127 SOF porque_spa se_spa me_spa olvida_spa 
+1982.125 1982.787 SOF olvídate_spa 
+1982.781 1983.698 SOF son_spa mucho_spa tiempo_spa 
+1983.666 1984.996 SOF y_spa _spa y_spa a_spa uno_spa se_spa le_spa olvida_spa 
+1984.984 1987.266 SOF uno_spa está_spa acostumbrado_spa a_spa leer_spa en_spa inglés_spa y_spa a_spa escribir_spa en_spa inglés_spa 
+1987.289 1987.608 KEV sí_spa 
+1987.329 1988.978 SOF _spa entonces_spa tienes_spa que_spa escribirlo_spa en_spa español_spa 
+1988.955 1989.605 KEV mmhm_eng 
+1989.58 1991.24 KEV hay_spa que_spa 
+1989.58 1991.269 SOF _spa lo_spa he_spa dejado_spa y_spa lo_spa he_spa dejado_spa 
+1991.263 1994.328 SOF y_spa tengo_spa que_spa hacer_spa dos_spa trabajos_spa para_spa el_spa cuatro_spa y_spa tengo_spa examen_spa el_spa cuatro_spa 
+1994.321 1995.035 KEV mmhm_eng 
+1995.012 1997.177 SOF y_spa lo_spa he_spa dejado_spa tanto_spa tiempo_spa que_spa no_spa he_spa acabado_spa 
+1996.469 1997.2 KEV _spa sí_spa 
+1997.148 1999.017 KEV er_engspa tú_spa sabes_spa que_spa te_spa voy_spa a_spa conseguir_spa una_spa copia_spa 
+1998.982 2001.298 KEV yo_spa tengo_spa un_spa diccionario_spa inglés_spa español_spa 
+2001.303 2003.056 KEV que_spa es_spa un_spa C_D_eng que_spa van_spa en_spa la_spa computadora_spa 
+2003.01 2005.198 KEV tú_spa no_spa nunca_spa has_spa usado_spa eso_spa 
+2005.215 2006.086 SOF no_spa no_spa 
+2006.091 2007.583 KEV espera_spa te_spa voy_spa a_spa buscar_spa 
+2006.254 2009.149 SOF _spa yo_spa lo_spa que_spa tengo_spa es_spa el_spa _spa el_spa que_spa _spa el_spa 
+2008.899 2010.304 KEV el_spa inglés_spa español_spa regular_spa 
+2010.24 2012.632 SOF sí_spa el_spa xxx_spa ese_spa que_spa mi_spa mamá_spa me_spa lo_spa dejó_spa 
+2012.594 2015.711 SOF mis_spa padres_spa siempre_spa lo_spa tenían_spa y_spa me_spa me_spa lo_spa heredé_spa yo_spa 
+2015.672 2016.41 SOF y_spa lo_spa tengo_spa ahí_spa 
+2015.764 2019.282 KEV _spa yo_spa te_spa voy_spa a_spa conseguir_spa una_spa copia_spa de_spa esto_spa porque_spa esto_spa es_spa en_spa la_spa computadora_spa 
+2019.286 2020.952 KEV y_spa lo_spa tienes_spa en_spa el_spa desktop_eng 
+2020.935 2022.514 KEV aprietas_spa así_spa 
+2022.49 2024.232 KEV pones_spa la_spa palabra_spa en_spa inglés_spa o_spa en_spa español_spa 
+2024.201 2026.889 KEV y_spa te_spa da_spa la_spa _spa la_spa traducción_spa 
+2026.841 2027.723 SOF cough_spa 
+2027.7 2032.509 KEV y_spa te_spa da_spa usos_spa y_spa cosas_spa de_spa diferentes_spa cosas_spa de_spa la_spa de_spa la_spa 

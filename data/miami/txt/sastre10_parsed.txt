@@ -1,0 +1,1818 @@
+0.6 0.94 JEN ok_eng 
+0.853 3.175 JOC no_engspa pero_spa pobrecito_spa hes_eng only_eng forty_eng five_eng 
+2.258 3.907 JEN _eng Tommy_engspa xxx_eng 
+3.855 5.039 JOC no_eng 
+5.024 7.312 JEN Tommy_engspa says_eng que_spa hes_eng xxx_eng 
+6.273 7.625 JOC _eng hes_eng Dannyssengspaeng_eng age_eng 
+7.498 8.74 JEN thats_eng what_eng I_eng told_eng Tommy_engspa 
+8.577 9.059 JEN I_eng go_eng 
+8.789 10.385 JEN _eng Tommy_eng what_eng do_eng you_eng want_eng xxx_eng 
+10.356 11.006 JEN I_eng turn_eng around_eng 
+10.948 12.446 JEN _eng youre_eng forgetting_eng that_eng thats_eng Dannyssengspaeng_eng age_eng 
+12.436 13.714 JEN Bonnie_engspa likes_eng los_spa viejos_spa 
+13.702 14.614 JEN what_eng do_eng you_eng want_eng her_eng to_eng do_eng 
+14.61 16.63 JOC oh_eng my_eng god_eng but_eng hes_eng not_eng un_spa viejo_spa 
+16.607 19.878 JEN well_eng _eng Tommyssengspaeng_eng thirty_eng one_eng I_eng mean_eng 
+19.791 21.445 JEN I_eng guess_eng considerably_eng for_eng him_eng 
+21.41 23.004 JEN I_eng dont_eng know_eng 
+22.116 25.575 JOC _eng ten_eng years_eng between_eng a_eng man_eng and_eng a_eng woman_eng is_eng not_eng a_eng big_eng deal_eng right_eng 
+25.526 26.559 JEN Its_eng na_eng 
+26.048 26.507 JOC _eng look_eng at_eng her_eng 
+26.49 27.61 JOC shes_eng making_eng faces_eng 
+27.604 29.807 JOC to_eng me_eng apparently_eng 
+29.795 31.485 OSE www_eng 
+31.473 33.76 JOC Ive_eng _eng Ive_eng always_eng been_eng partial_eng to_eng older_eng men_eng 
+31.765 34.226 JEN _eng older_eng older_eng el_spa viejo_spa were_eng calling_eng him_eng el_spa viejo_spa 
+36.621 38.862 OSE www_eng 
+38.847 40.293 JOC ah_eng 
+38.847 40.293 JEN _eng laughs_eng 
+40.107 41.378 JEN xxx_eng thats_eng a_eng problem_eng 
+40.664 42.081 JOC _eng oh_eng no_eng thats_eng not_eng legal_eng 
+41.442 42.208 JEN _eng thats_eng a_eng problem_eng 
+42.208 43.236 JEN thats_eng a_eng problem_eng 
+42.208 43.236 JOC _eng no_eng thats_eng not_eng legal_eng 
+43.245 44.092 JOC thats_eng not_eng legal_eng 
+44.086 47.728 JOC although_eng I_eng have_eng skated_eng the_eng twenty_eng one_eng mark_eng before_eng 
+47.119 49.691 JEN _eng you_eng have_eng skated_eng dangerously_eng close_eng to_eng there_eng 
+49.67 51.29 JEN but_eng thats_eng fun_eng 
+51.261 52.195 JEN thats_eng fun_eng 
+51.342 53.839 JOC _eng I_eng am_eng proud_eng to_eng admit_eng laughs_eng 
+53.812 54.718 JOC but_eng thats_eng fun_eng 
+54.66 56.065 JEN Chaquita_engspa will_eng realize_eng that_eng when_eng shes_eng 
+56.041 59.433 JEN well_eng _eng if_eng she_eng stays_eng with_eng her_eng boyfriend_eng she_eng wont_eng realize_eng anything_eng 
+57.924 59.015 JOC _eng Chaquita_engspa wait_eng 
+59.33 60.439 JOC wait_eng until_eng you_eng get_eng older_eng 
+60.404 64.61 JEN when_eng she_eng gets_eng thirty_eng and_eng she_eng gets_eng that_eng young_eng twenty_eng twenty_eng one_eng 
+63.152 66.023 JOC with_eng any_eng _eng with_eng any_eng luck_eng she_eng will_eng 
+65.686 66.237 JEN yeah_eng 
+66.088 67.591 JOC e 
+66.32 68.061 JEN _eng its_eng always_eng good_eng to_eng go_eng back_eng in_eng time_eng 
+68.061 70.494 JEN I_eng havent_eng had_eng a_eng young_eng one_eng _eng dammit_eng 
+70.485 71.419 JOC Marco_engspa 
+70.485 71.936 JEN _eng Ive_eng had_eng the_eng older_eng one_eng 
+71.928 74.215 JEN older_eng ones_eng are_eng good_eng 
+76.569 78.322 JEN oh_eng my_eng god_eng 
+78.313 79.515 JOC xxx_eng 
+79.503 80.391 spa_spa ahí_spa pasó_spa algo_spa 
+80.362 80.943 JOC pick_eng it_eng up_eng 
+80.403 81.024 JEN _eng what_eng happened_eng 
+81.013 81.837 JOC its_eng glass_eng 
+81.822 82.582 JEN i_eng 
+81.822 82.582 OSE www_eng 
+82.565 83.575 JEN it_eng doesnt_eng matter_eng who_eng did_eng it_eng 
+82.75 83.43 JOC _eng I_eng dont_eng care_eng 
+83.924 84.423 JOC I_eng dont_eng care_eng 
+84.413 85.696 spa_spa cuidado_spa xxx_spa 
+85.684 86.282 JOC get_eng here_eng 
+86.282 88.932 JEN be_eng careful_eng with_eng your_eng socks_eng and_eng your_eng feet_eng 
+87.788 88.264 JOC _eng here_eng 
+88.908 90.673 JEN with_eng your_eng socks_eng that_eng didnt_eng make_eng sense_eng 
+90.348 90.847 JOC here_eng 
+90.465 90.971 JEN _eng be_eng careful_eng 
+90.953 91.743 JOC get_eng a_eng bag_eng 
+91.736 92.844 JOC and_eng clean_eng it_eng up_eng 
+91.736 92.844 JEN _eng _eng spa_eng esté_eng descalzado_eng 
+92.833 93.959 spa_spa cuidado_spa 
+93.966 95.783 JOC no_eng no_eng but_eng it_eng has_eng to_eng be_eng descalzado_spa 
+95.713 97.363 spa_spa tú_spa quedas_spa aquí_spa abajo_spa 
+97.346 98.548 JEN whats_eng his_eng name_eng 
+98.531 99.646 JOC Alonso_engspa 
+98.973 99.449 JEN _eng he_eng doesnt_eng care_eng 
+99.431 100.354 JEN he_eng keeps_eng talking_eng 
+100.339 101.726 JEN hes_eng oblivious_eng to_eng 
+101.703 103.723 spa_spa cuidado_spa con_spa los_spa vidrios_spa 
+103.703 106.402 OSE www_eng 
+106.37 108.634 OSE www_eng 
+108.634 109.969 JEN that_eng little_eng boy_eng is_eng so_eng adorable_eng now_eng 
+109.954 111.76 JEN I_eng love_eng his_eng little_eng bowl_eng haircut_eng 
+110.918 111.893 JOC _eng isnt_eng he_eng cute_eng 
+111.87 113.594 JOC he_eng is_eng so_eng cute_eng 
+112.335 115.001 JEN hes_eng _eng yeah_eng hes_eng _eng hes_eng like_eng 
+113.956 114.746 JOC _eng hes_eng good_eng looking_eng 
+114.978 118.312 JOC like_eng indio_spa but_eng like_eng really_eng good_eng looking_eng yeah_eng yeah_eng 
+116.35 118.097 JEN _eng yeah_eng yeah_eng yeah_eng 
+118.068 119.491 JOC yeah_eng yeah_eng hes_eng gonna_eng be_eng a_eng cutie_eng 
+119.49 121.684 JOC hopefully_eng hell_eng be_eng taller_eng than_eng his_eng dad_eng 
+121.672 125.002 OSE www_eng 
+124.985 126.239 JEN thats_eng not_eng nice_eng Lili_engspa 
+126.153 127.233 JEN xxx_eng play_eng nice_eng 
+127.227 128.045 JEN making_eng fun_eng 
+127.482 130.927 JOC _eng bueno_spa mi_spa viejo_spa está_spa _eng _eng hes_eng very_eng happy_eng 
+129.325 131.937 JEN xxx_eng 
+131.934 133.031 JOC and_eng he_eng tells_eng me_eng yesterday_eng 
+132.99 133.455 JOC he_eng goes_eng 
+133.071 133.861 JEN xxx_eng 
+133.408 135.91 JOC _eng óyeme_spa la_spa capitana_spa threw_eng me_eng under_eng the_eng bus_eng 
+135.889 137.207 JEN gasp_eng why_eng 
+135.947 136.423 JOC and_eng I_eng go_eng 
+136.4 136.998 JOC _eng what_eng do_eng you_eng mean_eng 
+136.888 137.375 JOC and_eng then_eng he_eng goes_eng 
+137.347 138.792 JOC _eng yeah_eng were_eng all_eng having_eng lunch_eng 
+138.771 141.89 JOC _eng and_eng in_eng front_eng of_eng everybody_eng me_spa saltó_spa 
+141.879 145.037 JOC _eng oh_eng I_eng heard_eng that_eng you_eng were_eng seeing_eng Bonnie_engspa Romero_engspa 
+144.11 145.828 JEN no_eng how_eng did_eng they_eng find_eng out_eng 
+145.822 146.885 JOC I_eng dont_eng know_eng how_eng 
+146.283 146.916 spa_spa el_spa chisme_spa 
+146.84 148.106 JEN el_spa chisme_spa runs_eng wild_eng 
+147.334 148.112 JOC _eng _eng spa_eng el_eng chisme_eng 
+148.089 149.598 JOC I_eng dont_eng know_eng how_eng she_eng found_eng out_eng 
+148.623 149.615 JEN _eng I_eng told_eng you_eng 
+149.604 150.126 JEN I_eng told_eng you_eng 
+150.117 150.784 JEN what_eng are_eng you_eng doing_eng 
+150.773 152.276 JEN can_eng I_eng ask_eng what_eng youre_eng doing_eng with_eng the_eng bags_eng 
+152.255 153.189 OSE www_eng 
+153.178 154.345 JOC xxx_eng 
+154.852 156.007 JEN and_eng like_eng xxx_eng 
+155.995 157.098 JEN xxx_eng 
+156.042 157.156 JOC _eng she_eng understands_eng it_eng 
+157.122 158.66 JEN I_eng dont_eng understand_eng whats_eng the_eng problem_eng 
+158.651 160.073 OSE www_eng 
+160.044 161.855 JEN oh_eng you_eng understand_eng ok_eng 
+161.847 163.507 JEN welcome_eng welcome_eng to_eng the_eng world_eng 
+162.863 163.594 JOC _eng welcome_eng 
+163.495 165.086 JEN welcome_eng to_eng the_eng world_eng 
+164.035 165.115 JOC _eng welcome_eng to_eng the_eng madness_eng 
+164.966 166.412 JEN you_eng thought_eng your_eng mom_eng was_eng bad_eng 
+166.418 167.921 JEN this_eng is_eng a_eng whole_eng another_eng level_eng 
+167.888 170.053 JOC no_eng Tosca_engspa knows_eng how_eng to_eng do_eng this_eng too_eng 
+169.806 171.106 OSE www_eng 
+171.106 172.087 spa_spa qué_spa pasó_spa 
+172.081 173.319 JOC yeah_eng yeah_eng lo_spa jodieron_spa 
+173.215 174.196 JEN its_eng ok_eng mama_engspa 
+173.633 174.387 JOC what_eng else_eng is_eng new_eng 
+176.348 177.526 JOC no_eng 
+177.52 180.144 JEN xxx_eng I_eng dont_eng think_eng that_eng thats_eng a_eng big_eng barrier_eng 
+177.648 178.484 JOC _eng _eng spa_eng cógele_eng agua_eng 
+178.455 179.384 JOC _eng _eng spa_eng lo_eng que_eng quieran_eng tomar_eng 
+179.355 180.384 JOC _eng _eng spa_eng coge_eng cuatro_eng 
+180.353 182.611 JOC coge_spa cuatro_spa juguitos_spa esos_spa de_spa los_spa Capri_Sun_engspa 
+182.607 183.681 spa_spa y_spa llévalos_spa para_spa arriba_spa 
+183.681 185.074 spa_spa y_spa dile_spa que_spa no_spa joda_spa más_spa 
+185.065 187.48 JOC ah_eng it_eng was_eng a_eng two_eng for_eng one_eng special_eng 
+186.661 187.799 JEN _eng pero_spa what_eng happened_eng 
+187.644 188.851 JOC oh_eng was_eng a_eng two_eng for_eng one_eng 
+187.708 189.455 JEN _eng you_eng guys_eng just_eng ate_eng it_eng down_eng the_eng stairs_eng 
+189.386 190.024 JOC good_eng job_eng 
+190.036 191.597 JOC this_eng one_eng didnt_eng have_eng a_eng picture_eng in_eng it_eng 
+191.576 192.226 OSE www_eng 
+192.215 193.173 JOC ok_eng 
+193.146 194.551 JOC dont_eng worry_eng about_eng it_eng 
+194.533 195.242 spa_spa dale_spa 
+195.236 195.683 spa_spa sigue_spa 
+195.671 196.977 spa_spa ten_spa cuidado_spa con_spa los_spa pies_spa 
+196.969 198.734 JOC Im_eng telling_eng you_eng guys_eng right_eng now_eng 
+198.658 199.552 JOC its_eng nine_eng fifteen_eng 
+199.384 201.247 JOC you_eng better_eng settle_eng down_eng 
+201.227 203.334 JOC turn_eng the_eng T_V_eng on_eng 
+203.317 205.047 JOC do_eng something_eng quiet_eng 
+203.504 204.567 JEN _eng hes_eng so_eng cute_eng 
+205.031 207.405 JEN and_eng when_eng is_eng he_eng _eng and_eng when_eng are_eng they_eng coming_eng back_eng for_eng him_eng 
+207.35 208.244 JOC I_eng have_eng no_eng idea_eng 
+208.232 209.95 spa_spa pobrecito_spa 
+209.947 211.375 JOC I_eng dont_eng really_eng care_eng 
+210.934 211.352 spa_spa imagínate_spa 
+211.311 212.327 JEN hes_eng only_eng been_eng here_eng 
+211.363 212.321 JOC _eng honestly_eng as_eng long_eng as_eng 
+212.315 213.351 JEN oh_eng I_eng was_eng talking_eng to_eng Chaquita_spa 
+213.223 214.152 JEN she_eng ignores_eng me_eng 
+213.467 216.004 JOC le_eng she_eng _eng that_eng little_eng boy_eng has_eng only_eng been_eng here_eng for_eng a_eng month_eng 
+214.57 217.416 JEN que_spa I_eng was_eng saying_eng que_spa pobrecito_spa hes_eng only_eng been_eng here_eng for_eng a_eng month_eng 
+217.383 217.685 JEN so_eng 
+218.027 218.567 JOC a_eng month_eng 
+218.551 220.943 OSE www_eng 
+220.925 221.355 JOC yeah_eng 
+221.262 221.744 JEN a_eng month_eng 
+221.717 222.321 JOC a_eng month_eng 
+222.292 223.325 OSE www_eng 
+223.32 224.87 JEN who_eng who_eng are_eng you_eng talking_eng about_eng 
+224.835 226.094 JEN no_eng I_eng was_eng talking_eng about_eng that_eng little_eng boy_eng 
+225.766 227.212 JOC no_eng were_eng talking_eng about_eng that_eng little_eng boy_eng 
+227.194 228.146 JEN oh_eng Im_eng like_eng who_eng 
+228.117 229.545 JOC he_eng came_eng February_eng second_eng _eng from_eng Cuba_engspa 
+230.152 231.319 JEN that_eng little_eng boy_eng pobrecito_spa 
+231.296 233.487 JEN so_eng he_eng came_eng to_eng like_eng make_eng little_eng friends_eng 
+233.458 234.875 JOC yeah_eng they_eng just_eng landed_eng here_eng 
+234.848 236.973 JOC and_eng already_eng hes_eng learned_eng to_eng play_eng Wii_engspa 
+235.016 236.154 JEN _eng they_eng just_eng landed_eng 
+236.961 239.202 JOC and_eng theyre_eng _eng theyve_eng been_eng playing_eng for_eng an_eng hour_eng 
+237.669 238.894 JEN _eng yeah_eng Marco_engspa turns_eng on_eng the_eng Wii_engspa 
+238.877 239.225 JEN and_eng I_eng go_eng 
+239.211 240.453 JEN _eng I_eng dont_eng think_eng he_eng knows_eng how_eng to_eng play_eng that_eng 
+240.453 241.283 JEN and_eng Marco_engspa goes_eng 
+241.277 241.968 JEN _eng of_eng course_eng he_eng does_eng 
+241.945 242.357 JEN and_eng Im_eng like_eng 
+242.34 243.669 JEN xxx_eng 
+242.829 243.485 JOC yeah_eng Marco_engspa goes_eng 
+243.468 244.28 JOC _eng I_eng taught_eng him_eng 
+244.251 244.954 JOC _eng I_eng taught_eng him_eng 
+244.414 245.001 JEN _eng I_eng taught_eng him_eng 
+244.977 245.784 JEN and_eng you_eng see_eng the_eng little_eng kid_eng 
+245.767 246.864 JEN _eng a 
+246.85 250.716 JOC although_eng Ill_eng tell_eng you_eng Marcossengspaeng_eng Spanish_eng is_eng not_eng that_eng great_eng 
+251.271 252.304 JEN but_eng thats_eng good_eng because_eng 
+251.979 253.569 JOC _eng he_eng really_eng let_eng it_eng go_eng 
+253.56 254.5 OSE www_eng 
+254.477 256.358 JEN but_eng I_eng _eng thats_eng _eng thats_eng normal_eng 
+256.335 259.483 JOC but_eng then_eng on_eng the_eng other_eng hand_eng Toscassengspaeng_eng Spanish_eng is_eng much_eng better_eng 
+259.472 263.196 JOC shes_eng also_eng ambidextrous_eng _eng which_eng is_eng interesting_eng 
+263.186 264.179 spa_spa qué_spa tú_spa quieres_spa bajar_spa 
+263.39 269.568 JOC _eng and_eng then_eng thats_eng also_eng the_eng same_eng thing_eng that_eng I_eng think_eng influences_eng _eng um_eng she_eng has_eng a_eng little_eng bit_eng of_eng dyslexia_eng 
+264.651 265.516 JEN _eng I_eng want_eng to_eng go_eng down_eng 
+265.504 267.042 JEN _eng I_eng want_eng to_eng go_eng down_eng 
+269.56 271.644 JEN oh_eng no_eng 
+271.634 273.05 JOC and_eng I_eng think_eng its_eng all_eng related_eng 
+273.016 273.835 JOC thats_eng what_eng I_eng think_eng 
+273.823 275.536 JEN do_eng you_eng really_eng think_eng that_eng its_eng dyslexia_eng 
+275.518 277.482 JEN I_eng mean_eng shes_eng still_eng in_eng the_eng learning_eng phase_eng 
+277.139 278.306 JOC _eng shes_eng still_eng in_eng the_eng learning_eng stage_eng 
+278.283 278.927 JOC yeah_eng but_eng 
+278.725 281.349 JEN I_eng still_eng _eng I_eng mean_eng reverse_eng numbers_eng 
+281.347 284.47 JOC no_eng but_eng like_eng you_eng tell_eng her_eng twenty_eng and_eng shell_eng put_eng zero_eng two_eng 
+284.46 285.476 JEN mm_eng 
+285.458 285.934 JOC yeah_eng 
+285.902 288.38 JOC and_eng _eng and_eng theres_eng words_eng and_eng stuff_eng that_eng 
+288.365 292.016 JOC and_eng shes_eng also_eng fascinated_eng with_eng things_eng that_eng go_eng backwards_eng and_eng forwards_eng 
+291.796 294.243 JOC like_eng shell_eng take_eng a_eng _eng a_eng piece_eng of_eng paper_eng 
+294.225 296.397 JOC shell_eng do_eng her_eng homework_eng 
+296.998 299.756 JOC and_eng then_eng shell_eng flip_eng it_eng over_eng on_eng the_eng backside_eng 
+299.74 305.552 JOC and_eng then_eng everything_eng that_eng the_eng way_eng that_eng its_eng runs_eng through_eng shell_eng recopy_eng it_eng all_eng backwards_eng on_eng the_eng other_eng side_eng 
+301.872 303.149 JEN _eng she_eng does_eng it_eng backwards_eng 
+305.525 307.749 JEN oh_eng let_eng me_eng see_eng your_eng xxx_eng 
+307.734 309.719 JOC ah_eng theyre_eng from_eng last_eng summer_eng 
+309.713 310.532 JOC theyre_eng all_eng xxx_eng 
+310.232 311.26 JEN theyre_eng from_eng Bakers_engspa 
+311.364 312.223 JOC yes_eng 
+312.212 314.662 JEN I_eng think_eng they_eng came_eng out_eng again_eng because_eng I_eng saw_eng them_eng 
+313.71 314.667 JOC _eng gasp_eng 
+314.659 315.338 JOC no_eng 
+315.326 316.313 JEN yeah_eng I_eng saw_eng them_eng 
+315.808 317.19 JOC _eng I_eng need_eng them_eng 
+316.586 317.155 JEN I_eng saw_eng them_eng 
+317.155 317.567 JEN and_eng I_eng was_eng like_eng 
+317.55 317.997 JEN _eng gasp_eng 
+317.987 319.131 JEN _eng wood_eng shoes_eng for_eng summer_eng 
+319.107 319.653 JEN _eng I_eng love_eng them_eng 
+319.632 320.619 JOC oh_eng my_eng god_eng 
+320.601 321.164 JOC bring_eng them_eng up_eng 
+320.601 321.153 JEN _eng yes_eng 
+321.153 321.873 JOC what_eng are_eng they_eng called_eng 
+321.257 321.896 JEN no_eng theyre_eng 
+321.884 322.598 JEN I_eng dont_eng know_eng what_eng theyre_eng called_eng 
+322.587 323.504 JEN Ill_eng show_eng them_eng to_eng you_eng right_eng now_eng 
+323.5 325.201 JOC oh_eng my_eng god_eng right_eng now_eng I_eng need_eng them_eng 
+323.547 324.226 JEN _eng see_eng I_eng saw_eng them_eng 
+324.22 324.841 JEN I_eng saw_eng 
+325.172 326.188 JOC I_eng was_eng just_eng talking_eng 
+325.254 326.438 JEN _eng right_eng now_eng I_eng need_eng them_eng 
+326.444 326.978 JOC right_eng now_eng 
+326.962 328.274 JEN you_eng know_eng what_eng they_eng would_eng go_eng great_eng with_eng 
+327.525 329.418 JOC look_eng because_eng look_eng how_eng rat_eng tat_eng tattered_eng they_eng are_eng 
+329.367 331.033 JEN oh_eng yes_eng they_eng need_eng help_eng 
+331.018 333.927 JEN they_eng would_eng go_eng great_eng with_eng the_eng white_eng dress_eng que_spa mi_spa hija_spa me_spa regaló_spa 
+333.919 334.581 JOC oh_eng my_eng god_eng 
+334.57 335.522 JOC but_eng you_eng know_eng what_eng the_eng problem_eng 
+334.662 336.265 JEN _eng because_eng I_eng think_eng white_eng with_eng 
+335.516 337.698 JOC you_eng know_eng what_eng the_eng main_eng problem_eng with_eng the_eng shoes_eng is_eng 
+337.684 338.932 JEN theyre_eng too_eng high_eng 
+338.921 339.252 JOC no_eng 
+339.246 339.768 JEN no_eng what_eng 
+339.768 341.324 JOC theyre_eng extraordinarily_eng comfortable_eng 
+341.326 341.855 JEN but_eng 
+341.442 341.808 JOC _eng first_eng of_eng all_eng 
+341.791 343.725 JOC and_eng second_eng of_eng all_eng they_eng go_eng with_eng 
+343.709 344.829 JEN oh_eng so_eng thats_eng a_eng problem_eng 
+344.829 346.054 JOC they_eng go_eng with_eng my_eng Coach_engspa bag_eng 
+346.037 346.652 JEN oh_eng I_eng thought_eng you_eng said_eng 
+346.641 348.945 JEN oh_eng I_eng thought_eng you_eng said_eng _eng were_eng gonna_eng say_eng they_eng go_eng with_eng everything_eng _eng everything_eng 
+348.937 350.081 JOC they_eng go_eng with_eng everything_eng 
+350.092 352.543 JEN they_eng do_eng though_eng because_eng that_eng colors_eng very_eng universal_eng 
+351.58 352.613 JOC _eng they_eng do_eng go_eng with_eng everything_eng 
+352.59 356.226 JOC but_eng they_eng most_eng importantly_eng I_eng have_eng a_eng coach_eng bag_eng that_eng matches_eng 
+352.882 354.118 JEN _eng but_eng dont_eng you_eng think_eng 
+355.391 356.116 JEN I_eng just_eng saw_eng it_eng 
+356.116 356.65 JEN I_eng saw_eng it_eng 
+356.644 358.334 JOC I_eng cant_eng get_eng rid_eng of_eng the_eng shoes_eng 
+358.313 360.171 JEN but_eng they_eng have_eng it_eng _eng they_eng have_eng it_eng again_eng Im_eng telling_eng you_eng 
+360.165 360.618 JEN I_eng just_eng saw_eng it_eng 
+360.165 361.396 JOC _eng but_eng I_eng have_eng to_eng get_eng them_eng 
+361.393 363.442 JEN dont_eng you_eng think_eng itll_eng go_eng pretty_eng with_eng that_eng white_eng dress_eng 
+363.402 365.137 JEN I_eng think_eng with_eng white_eng itll_eng look_eng gorgeous_eng 
+363.663 364.58 JOC _eng oh_eng my_eng god_eng for_eng sure_eng 
+364.586 366.211 JOC oh_eng my_eng god_eng for_eng sure_eng 
+365.422 366.345 JEN _eng its_eng very_eng summery_eng 
+366.319 368.386 JOC I_eng cant_eng get_eng into_eng the_eng whole_eng white_eng shoe_eng thing_eng 
+368.374 371.046 JEN white_eng shoe_eng _eng well_eng I_eng have_eng the_eng white_eng shoes_eng from_eng Nine_West_engspa 
+371.011 372.714 JOC well_eng though_eng thats_eng really_eng 
+371.35 372.615 JEN _eng and_eng thats_eng the_eng only_eng ones_eng I_eng have_eng 
+372.61 374.148 JOC yeah_eng but_eng thats_eng an_eng exception_eng 
+374.115 375.305 JEN those_eng are_eng the_eng only_eng ones_eng I_eng have_eng 
+374.667 376.85 JOC but_eng other_eng than_eng that_eng really_eng white_eng shoes_eng are_eng for_eng viejas_spa 
+376.881 378.681 spa_spa gasp_spa ay_spa me_spa has_spa dicho_spa vieja_spa 
+378.663 380.3 JOC no_eng but_eng not_eng those_eng 
+379.912 380.62 JEN how_eng dare_eng you_eng 
+380.605 381.905 JOC no_eng but_eng not_eng those_eng 
+381.569 384.471 JEN no_eng those_eng are_eng very_eng _eng fansy_shmansy_eng 
+384.456 385.82 JOC sigh_eng 
+385.797 387.248 JOC those_eng are_eng spectacular_eng 
+387.245 389.236 JOC those_eng are_eng beyond_eng fansy_shmansy_eng 
+389.22 392.947 JOC well_eng anyways_eng so_eng mi_spa viejo_spa calls_eng me_eng today_eng 
+389.998 392.535 JEN _eng bueno_spa so_eng entonces_spa he_eng says_eng and_eng the_eng capitana_spa 
+392.931 395.044 JOC he_eng tells_eng me_eng that_eng la_spa capitana_spa threw_eng him_eng under_eng the_eng bus_eng 
+393.274 393.779 JEN _eng xxx_eng 
+395.007 396.197 JEN but_eng I_eng cant_eng believe_eng that_eng 
+396.191 397.869 JOC _eng in_eng front_eng of_eng everybody_eng 
+397.863 399.775 JOC and_eng he_eng played_eng it_eng off_eng 
+399.775 402.633 JOC whatever_eng I_eng mean_eng things_eng are_eng very_eng sensitive_eng right_eng now_eng at_eng work_eng 
+402.058 405.468 JEN yeah_eng thats_eng super_eng uncool_eng for_eng her_eng to_eng do_eng that_eng in_eng front_eng of_eng everybody_eng too_eng 
+403.639 407.267 JOC sigh_eng _eng uncool_eng on_eng ten_eng different_eng levels_eng 
+406.741 407.548 JEN _eng yeah_eng 
+407.353 407.858 JOC so_eng 
+407.863 411.137 JEN because_eng even_eng if_eng it_eng was_eng _eng it_eng was_eng kidding_eng around_eng or_eng xxx_eng 
+410.302 411.498 JOC _eng and_eng thats_eng what_eng I_eng told_eng him_eng 
+411.475 411.823 JOC I_eng said_eng 
+411.818 413.368 JOC _eng why_eng would_eng she_eng do_eng that_eng 
+413.242 414.676 JEN thats_eng completely_eng tacky_eng 
+414.676 415.75 JOC very_eng tacky_eng 
+415.734 416.791 JOC but_eng whatever_eng 
+416.774 417.854 JOC you_eng know_eng what_eng are_eng you_eng gonna_eng do_eng 
+417.837 418.127 JOC so_eng I_eng go_eng 
+418.11 419.572 JOC _eng well_eng you_eng know_eng well_eng keep_eng it_eng quiet_eng 
+418.768 419.743 JEN _eng and_eng what_eng did_eng he_eng do_eng 
+419.621 421.061 JEN he_eng freaked_eng the_eng fuck_eng out_eng 
+420.37 421.398 JOC he_eng freaked_eng out_eng 
+421.386 422.146 JOC he_eng played_eng it_eng off_eng 
+422.146 424.524 JOC he_eng neither_eng confirmed_eng _eng confirmed_eng nor_eng denied_eng 
+424.506 426.364 JOC and_eng he_eng just_eng you_eng know_eng 
+426.343 428.166 JEN he_eng had_eng a_eng special_eng box_eng xxx_eng 
+427.644 428.851 JOC he_eng left_eng it_eng like_eng that_eng like_eng 
+428.718 430.39 JOC _eng oh_eng well_eng where_eng did_eng you_eng get_eng that_eng from_eng 
+430.374 431.518 JOC and_eng left_eng it_eng at_eng that_eng 
+431.502 433.673 JOC now_eng 
+433.557 434.48 JEN oh_eng my_eng god_eng 
+434.476 437.706 JOC the_eng _eng you_eng know_eng so_eng I_eng t_eng _eng I_eng _eng I_eng talked_eng to_eng him_eng about_eng it_eng 
+437.688 443.821 JOC but_eng hes_eng so_eng funny_eng because_eng a_eng couple_eng of_eng people_eng have_eng told_eng me_eng that_eng they_eng see_eng him_eng más_spa más_spa embulladito_spa 
+443.537 445.488 JOC like_eng remember_eng this_eng is_eng 
+444.222 445.836 JEN _eng like_eng just_eng in_eng general_eng 
+445.441 445.888 JOC yeah_eng 
+445.856 447.458 JOC this_eng is_eng a_eng very_eng quiet_eng 
+447.423 448.003 JOC hold_eng on_eng 
+447.469 448.735 JEN Lili_engspa you_eng wanna_eng go_eng outside_eng 
+448.729 451.092 JOC this_eng is_eng a_eng very_eng quiet_eng guy_eng 
+449.693 450.825 JEN _eng oh_eng no_eng 
+450.816 451.599 JOC you_eng know_eng 
+451.566 452.802 JOC hold_eng on_eng Martassengspaeng_eng calling_eng 
+452.767 455.939 spa_spa dime_spa 
+455.922 458.258 OSE www_eng 
+458.252 460.522 spa_spa no_spa no_spa ellos_spa están_spa jugando_spa arriba_spa 
+460.51 461.793 spa_spa pero_spa cuando_spa quieras_spa vení_spa 
+461.773 464.496 JOC oye_spa he_eng tried_eng the_eng asparagus_eng 
+464.498 465.572 JOC he_eng tried_eng the_eng spinach_eng 
+465.543 466.895 JOC he_eng ate_eng cucumbers_eng 
+466.863 467.867 spa_spa pobrecito_spa 
+467.855 469.336 JOC pobrecito_spa yeah_eng he_eng did_eng 
+469.336 471.135 JOC he_eng wanted_eng to_eng try_eng everything_eng 
+471.296 471.725 JEN thats_eng good_eng 
+471.319 472.631 JOC lo_spa que_spa he_eng did_eng not_eng like_eng ranch_eng 
+472.608 475.156 JOC está_spa peleado_spa con_spa the_eng ranch_eng dressing_eng de_spa mala_spa forma_spa _eng 
+475.186 477.658 JOC he_eng doesnt_eng want_eng to_eng have_eng anything_eng to_eng do_eng with_eng the_eng ranch_eng dressing_eng 
+477.643 479.629 JEN I_eng wonder_eng why_eng 
+478.712 480.441 JOC _eng he_eng calls_eng it_eng la_spa pasta_spa esa_spa 
+480.434 482.071 JEN no_eng he_eng didnt_eng 
+481.2 482.552 JOC thats_eng what_eng he_eng did_eng call_eng it_eng 
+482.535 482.843 JOC he_eng goes_eng 
+482.837 483.818 JOC _eng _eng spa_eng la_eng pasta_eng esa_eng 
+483.83 485.666 JOC _eng _eng spa_eng yo_eng no_eng quiero_eng saber_eng nada_eng de_eng la_eng pasta_eng de_eng esa_eng 
+485.497 487.216 JEN ay_spa how_eng funny_eng 
+487.196 488.972 JOC he_eng calls_eng it_eng la_spa pasta_spa esa_spa 
+488.949 490.789 JOC and_eng he_eng will_eng eat_eng the_eng vegetables_eng with_eng out_eng it_eng 
+490.769 493.439 JOC but_eng the_eng ranch_eng dressing_eng n_eng ni_spa para_spa xxx_eng ni_spa para_spa xxx_eng 
+493.427 495.967 JEN xxx_eng the_eng ranch_eng is_eng the_eng most_eng 
+495.328 497.168 JOC and_eng to_eng me_eng the_eng ranch_eng is_eng the_eng best_eng thing_eng 
+496.025 497.888 JEN _eng the_eng taste_eng the_eng most_eng pleasing_eng 
+498.605 499.946 JOC bueno_spa dale_spa ok_eng bye_eng 
+499.946 500.753 JEN how_eng funny_eng 
+500.254 501.368 JOC _eng yeah_eng but_eng remember_eng 
+500.828 501.867 JEN _eng he_eng called_eng it_eng la_eng pasta_eng 
+501.818 502.875 JOC but_eng remember_eng theyre_eng not_eng 
+502.492 505.975 JEN _eng _eng spa_eng a_eng mí_eng no_eng me_eng gusta_eng la_eng pasta_eng laughs_eng 
+503.637 505.256 spa_spa a_spa mí_spa no_spa me_spa gusta_spa la_spa pasta_spa 
+505.227 506.255 JOC but_eng remember_eng _eng laughs_eng 
+506.252 507.419 JOC oh_eng theres_eng a_eng new_eng one_eng 
+507.396 508.406 JOC were_eng supposed_eng to_eng watch_eng it_eng 
+508.383 509.329 JEN oh_eng I_eng havent_eng seen_eng it_eng 
+508.847 515.085 JOC pero_spa remember_eng _eng hes_eng not_eng accustomed_eng to_eng anything_eng that_eng has_eng seasonings_eng or_eng anything_eng like_eng that_eng 
+513.152 514.545 JEN _eng anything_eng thats_eng out_eng of_eng the_eng norm_eng 
+514.551 514.859 JEN yeah_eng 
+515.068 518.385 JOC because_eng flavors_eng all_eng of_eng that_eng is_eng f_eng completely_eng foreign_eng to_eng him_eng 
+516.655 518.664 JEN _eng yeah_eng _eng completely_eng foreign_eng 
+518.496 519.36 JEN I_eng told_eng you_eng 
+518.699 519.895 JOC did_eng you_eng see_eng that_eng his_eng father_eng goes_eng 
+519.886 521.227 JOC _eng oh_eng what_eng _eng what_eng is_eng that_eng 
+521.21 521.999 JOC asparagus_eng 
+521.993 524.478 JOC hes_eng never_eng seen_eng asparagus_eng before_eng in_eng his_eng life_eng 
+522.576 522.965 JEN _eng yeah_eng he_eng goes_eng 
+522.965 524.004 JEN _eng asparagus_eng 
+524.01 524.428 JEN he_eng goes_eng 
+524.404 525.542 JEN _eng _eng spa_eng oh_eng esa_eng es_eng espinaca_eng 
+525.496 525.867 JEN Im_eng like_eng 
+525.844 528.156 JEN oh_eng no_eng those_eng are_eng two_eng different_eng animals_eng 
+528.128 529.063 JEN and_eng he_eng goes_eng 
+529.047 531.816 JOC I_eng mean_eng asparagus_eng is_eng a_eng very_eng distinct_eng looking_eng thing_eng 
+529.14 530.26 JEN _eng _eng spa_eng ay_eng pero_eng pobrecito_eng 
+530.255 531.387 JEN you_eng didnt_eng hear_eng what_eng he_eng said_eng 
+531.369 531.88 JEN you_eng didnt_eng hear_eng what_eng 
+531.88 532.077 JEN he_eng goes_eng 
+531.998 532.3 JOC what_eng 
+532.189 533.507 JEN _eng _eng spa_eng esa_eng xxx_eng _eng whispers_eng _eng 
+533.49 534.134 spa_spa pobrecito_spa 
+533.937 534.755 JEN I_eng felt_eng bad_eng for_eng it_eng that_eng he_eng said_eng that_eng 
+534.419 534.842 JOC gasp_eng 
+535.106 537.631 JEN at_eng least_eng he_eng recognizes_eng that_eng its_eng true_eng 
+537.61 538.307 JOC xxx_eng 
+538.301 539.015 JEN awful_eng 
+538.33 541.606 JOC the_eng important_eng thing_eng is_eng is_eng that_eng I_eng think_eng that_eng they_eng all_eng came_eng con_spa los_spa patines_spa puestos_spa 
+541.6 542.436 JOC I_eng dont_eng know_eng if_eng you_eng noticed_eng 
+542.43 543.423 JEN yeah_eng 
+543.42 548.856 JEN the_eng only_eng thing_eng I_eng feel_eng bad_eng because_eng its_eng the_eng second_eng person_eng already_eng that_eng has_eng put_eng me_eng in_eng that_eng position_eng 
+548.7 551.575 JEN I_eng feel_eng really_eng bad_eng because_eng the_eng other_eng day_eng Antonio_engspa calls_eng me_eng 
+551.559 553.493 JEN _eng _eng spa_eng oye_eng tú_eng que_eng estás_eng en_eng eso_eng 
+553.481 555.469 JEN _eng eh_spa what_eng _eng what_eng can_eng I_eng do_eng 
+555.335 557.303 JEN que_spa I_eng have_eng un_spa pariente_spa that_eng came_eng from_eng Cuba_engspa 
+557.309 559.422 JEN _eng and_eng he_eng was_eng a_eng doctor_eng pa_eng pa_eng pi_eng pa_eng pa_eng pa_eng 
+559.403 560.302 JEN and_eng I_eng go_eng to_eng Antonio_engspa 
+560.256 561.121 JOC I_eng dont_eng know_eng 
+561.086 562.201 JEN and_eng no_eng Im_eng gonna_eng tell_eng Antonio_engspa 
+562.218 563.013 JEN _eng listen_eng 
+562.991 564.059 JEN _eng thats_eng very_eng cute_eng 
+564.042 566.593 JEN _eng he_eng can_eng take_eng that_eng diploma_eng and_eng shove_eng it_eng up_eng his_eng butt_eng 
+565.884 567.237 JOC laughs_eng 
+566.739 567.987 JEN xxx_eng 
+567.093 568.324 JOC because_eng here_eng its_eng worthless_eng _eng laughs_eng 
+568.341 570.385 JEN here_eng its_eng worth_eng nothing_eng 
+570.382 571.444 JEN and_eng Antonio_engspa goes_eng 
+571.433 572.385 JEN _eng oh_eng my_eng god_eng are_eng you_eng serious_eng 
+572.379 572.774 JEN I_eng go_eng 
+572.756 573.331 JEN _eng yeah_eng Antonio_engspa 
+573.279 573.476 JEN I_eng go_eng 
+573.46 573.936 JEN _eng listen_eng 
+573.931 576.348 JEN _eng Im_eng licensed_eng in_eng the_eng state_eng of_eng Florida_eng 
+574.449 575.599 JOC _eng you_eng have_eng to_eng start_eng over_eng 
+575.727 576.232 JOC Florida_eng 
+576.342 578.095 JEN Im_eng not_eng licensed_eng anywhere_eng else_eng 
+577.462 579.751 JOC _eng if_eng you_eng move_eng to_eng another_eng state_eng you_eng have_eng to_eng start_eng 
+578.062 579.426 JEN _eng if_eng I_eng go_eng to_eng California_eng 
+579.745 580.012 JOC yeah_eng 
+579.932 584.769 JEN _eng I_eng either_eng have_eng to_eng ho_eng take_eng the_eng test_eng or_eng hope_eng that_eng my_eng scores_eng are_eng valid_eng enough_eng for_eng that_eng 
+581.762 582.726 JOC _eng take_eng the_eng test_eng 
+584.766 585.823 JOC yeah_eng take_eng the_eng test_eng 
+585.01 586.688 JEN so_eng Im_eng not_eng even_eng talking_eng about_eng the_eng country_eng 
+586.688 588.348 JEN Im_eng talking_eng about_eng the_eng frikking_eng state_eng 
+587.344 588.127 JOC _eng the_eng state_eng 
+588.345 589.779 JEN come_eng on_eng 
+589.791 590.696 JOC no_eng youre_eng right_eng 
+589.802 592.374 JEN like_eng I_eng was_eng like_eng and_eng then_eng Antonio_engspa se_spa quedaba_spa así_spa 
+592.365 592.557 JEN he_eng goes_eng 
+592.551 596.21 JEN _eng oh_eng my_eng god_eng because_eng what_eng do_eng you_eng think_eng in_eng _eng in_eng the_eng field_eng of_eng medical_eng assistant_eng 
+596.181 596.425 JEN I_eng go_eng 
+596.327 596.894 JEN _eng Ill_eng tell_eng you_eng right_eng now_eng 
+596.93 599.032 JEN _eng look_eng a_eng medical_eng assistant_eng makes_eng the_eng minimum_eng wage_eng 
+599.029 601.484 JEN _eng they_eng work_eng like_eng a_eng dog_eng 
+601.469 604.423 JEN _eng and_eng everybody_eng that_eng came_eng from_eng Cuba_engspa is_eng a_eng medical_eng assistant_eng 
+604.415 605.733 JEN _eng and_eng they_eng all_eng think_eng that_eng theyre_eng doctors_eng 
+605.669 610.654 JEN and_eng not_eng to_eng be_eng mean_eng or_eng nothing_eng but_eng its_eng an_eng over_eng eh_spa como_spa se_spa dice_spa like_eng um_eng 
+610.607 611.443 spa_spa está_spa explotado_spa 
+611.333 613.51 JEN its_eng yes_eng i_eng its_eng an_eng overpopulated_eng field_eng 
+613.478 614.79 JEN its_eng really_eng 
+614.766 615.591 JEN I_eng dont_eng know_eng like_eng 
+615.422 616.16 JEN and_eng I_eng feel_eng really_eng bad_eng 
+616.136 616.92 JEN because_eng Martassengspaeng_eng asking_eng me_eng 
+616.897 617.17 JEN and_eng Im_eng like_eng 
+617.17 617.553 JEN _eng er_eng 
+617.544 619.593 JEN _eng bueno_spa Marta_engspa er_eng yeah_eng 
+619.582 620.47 JEN or_eng you_eng know_eng 
+619.651 621.898 JOC but_eng I_eng mean_eng the_eng way_eng I_eng see_eng it_eng is_eng 
+621.32 624.054 JEN _eng I_eng mean_eng its_eng good_eng that_eng they_eng have_eng that_eng that_eng motivation_eng 
+623.125 628.366 JOC _eng if_eng thats_eng what_eng he_eng wants_eng to_eng start_eng with_eng _eng and_eng continue_eng more_eng power_eng to_eng you_eng 
+627.164 628.122 JEN more_eng power_eng to_eng him_eng 
+628.099 628.905 JEN but_eng the_eng ri_eng 
+628.859 629.736 JOC more_eng power_eng to_eng you_eng 
+628.9 629.422 JEN and_eng I_eng told_eng him_eng 
+629.411 629.585 JEN I_eng go_eng 
+629.585 631.14 JEN _eng the_eng biggest_eng problem_eng youre_eng gonna_eng have_eng is_eng your_eng English_eng 
+631.121 632.201 JEN _eng forget_eng anything_eng else_eng 
+632.189 633.629 JEN _eng the_eng knowledge_eng is_eng there_eng obviously_eng 
+633.118 635.817 JOC _eng but_eng did_eng you_eng notice_eng how_eng hes_eng already_eng uttering_eng words_eng 
+635.675 636.499 JEN thats_eng good_eng though_eng 
+636.476 638.885 JOC I_eng thought_eng that_eng was_eng uh_eng _eng Im_eng _eng Im_eng very_eng impressed_eng 
+637.784 639.729 JEN _eng yeah_eng no_eng no_eng no_eng thats_eng very_eng good_eng 
+639.481 640.468 JOC thats_eng why_eng I_eng told_eng him_eng 
+640.451 640.741 JOC I_eng said_eng 
+640.729 645.381 JOC _eng you_eng know_eng right_eng off_eng the_eng bat_eng I_eng could_eng tell_eng that_eng youre_eng the_eng kind_eng of_eng people_eng that_eng are_eng gonna_eng be_eng successful_eng wherever_eng you_eng go_eng 
+643.053 643.698 JEN _eng youre_eng not_eng 
+643.68 644.011 JEN _eng right_eng 
+645.375 646.083 JOC because_eng 
+646.063 649.332 JEN yeah_eng and_eng hes_eng asking_eng _eng he_eng even_eng asked_eng me_eng to_eng like_eng 
+647.776 648.768 JOC so_eng 
+648.787 649.884 JOC they_eng are_eng xxx_eng 
+649.252 649.757 JEN _eng _eng spa_eng cómo_eng 
+649.878 651.179 JOC they_eng are_eng very_eng like_eng 
+651.152 652.284 JOC _eng what_eng do_eng I_eng have_eng to_eng do_eng 
+651.896 652.226 JEN right_eng 
+652.209 653.875 JEN no_eng he_eng was_eng even_eng asking_eng Marta_engspa like_eng 
+652.302 653.527 JOC _eng what_eng do_eng I_eng have_eng to_eng do_eng 
+653.504 654.503 JOC where_eng do_eng I_eng have_eng to_eng go_eng 
+653.858 654.845 JEN _eng _eng spa_eng cómo_eng se_eng dice_eng 
+654.485 655.803 JOC sign_eng me_eng up_eng 
+654.909 655.443 JEN _eng yeah_eng 
+655.411 656.369 JEN yeah_eng 
+656.142 657.559 spa_spa así_spa que_spa tiene_spa interés_spa 
+656.491 657.019 JOC xxx_eng 
+657.53 659.869 JEN they_eng have_eng _eng they_eng have_eng interest_eng 
+659.204 660.835 JOC and_eng not_eng just_eng _eng some_eng of_eng them_eng 
+660.829 661.445 JOC but_eng all_eng of_eng them_eng 
+661.423 662.932 JOC like_eng you_eng could_eng tell_eng that_eng 
+662.323 663.275 JEN xxx_eng 
+662.967 666.127 JOC and_eng you_eng could_eng tell_eng also_eng that_eng hes_eng a_eng modern_eng man_eng 
+666.007 666.43 JOC like_eng 
+666.419 667.191 JOC _eng oh_eng wheres_eng your_eng wife_eng 
+667.191 668.578 JOC _eng oh_eng no_eng shes_eng over_eng there_eng 
+668.575 669.724 JEN yeah_eng 
+669.225 671.013 JOC _eng signing_eng up_eng for_eng English_eng classes_eng 
+670.992 672.727 JEN oh_eng yeah_eng thats_eng great_eng 
+672.129 675.754 JOC who_eng do_eng you_eng know_eng that_eng comes_eng here_eng a_eng month_eng later_eng and_eng signs_eng up_eng for_eng English_eng classes_eng 
+675.365 676.259 JEN nobody_eng 
+675.797 678.275 JOC for_eng god_eng sakes_eng xxx_eng 
+676.348 677.631 JEN not_eng even_eng young_eng people_eng 
+677.602 678.281 JEN yeah_eng 
+678.271 684.242 JOC that_eng shes_eng been_eng here_eng since_eng shes_eng was_eng twelve_eng _eng eight_eng years_eng later_eng she_eng has_eng nothing_eng to_eng show_eng for_eng it_eng whatsoever_eng except_eng a_eng baby_eng 
+680.246 680.774 JEN _eng yeah_eng 
+684.225 686.826 JOC oh_eng whoopdedoo_eng you_eng know_eng how_eng to_eng lay_eng flat_eng on_eng your_eng back_eng 
+685.915 687.598 JEN _eng yeah_eng you_eng know_eng how_eng to_eng open_eng your_eng legs_eng 
+686.867 687.668 JOC how_eng about_eng that_eng 
+687.557 687.882 JEN good_eng 
+687.874 688.437 JOC how_eng about_eng that_eng 
+688.435 689.852 JOC thats_eng her_eng special_eng talent_eng 
+689.012 689.987 JEN _eng thats_eng her_eng talent_eng 
+689.935 690.602 JOC how_eng about_eng that_eng 
+690.579 691.682 JOC thats_eng her_eng special_eng talent_eng 
+691.662 693.67 JOC dammit_eng I_eng didnt_eng know_eng that_eng was_eng a_eng special_eng talent_eng 
+693.66 696.731 JOC because_eng if_eng I_eng woulda_eng thought_eng that_eng was_eng a_eng special_eng talent_eng I_eng woulda_eng kept_eng on_eng doing_eng it_eng 
+696.582 697.685 JEN Americas_eng most_eng talented_eng 
+697.668 698.922 JOC I_eng dont_eng know_eng 
+698.912 700.729 JOC apparently_eng thats_eng a_eng special_eng talent_eng 
+700.713 704.842 JOC well_eng anyways_eng so_eng I_eng told_eng him_eng _eng so_eng a_eng couple_eng of_eng people_eng from_eng work_eng have_eng mentioned_eng que_spa 
+704.815 706.057 OSE www_eng 
+704.867 710.225 JOC _eng oh_eng hes_eng very_eng _eng _eng hes_eng very_eng happy_eng happy_eng and_eng this_eng and_eng that_eng 
+706.144 707.956 JEN _eng Lili_engspa I_eng dont_eng know_eng if_eng I_eng can_eng xxx_eng 
+707.945 708.624 JEN _eng _eng spa_eng embullado_eng 
+709.356 710.319 JEN _eng xxx_eng 
+710.008 712.93 JOC and_eng the_eng change_eng in_eng his_eng personality_eng and_eng ble_eng ble_eng bli_eng ble_eng ble_eng bla_eng 
+711.386 714.375 JEN oh_eng my_eng god_eng Lili_engspa we_eng both_eng cant_eng walk_eng over_eng there_eng to_eng open_eng the_eng thing_eng 
+712.86 714.34 JOC _eng oh_eng no_eng she_eng wants_eng to_eng go_eng out_eng 
+714.317 716.054 JEN ok_eng I_eng think_eng we_eng both_eng have_eng to_eng walk_eng over_eng there_eng 
+715.305 716.118 JOC oh_eng no_eng 
+716.083 716.791 JEN what_eng do_eng we_eng do_eng 
+716.573 717.89 JOC oh_eng no_eng I_eng dont_eng know_eng 
+717.892 720.587 JEN we_eng both_eng have_eng to_eng part_eng _eng we_eng both_eng have_eng to_eng walk_eng 
+720.575 722.032 JEN and_eng we_eng should_eng just_eng leave_eng it_eng open_eng I_eng think_eng 
+722.021 722.549 JOC yeah_eng 
+722.543 722.963 JEN ok_eng but_eng 
+722.955 724.656 JOC ts_eng j_eng yell_eng to_eng Chaquita_engspa 
+724.575 725.498 JOC and_eng see_eng if_eng she_eng can_eng open_eng it_eng 
+725.488 726.585 JEN Chaquita_engspa 
+726.579 728.002 JEN she_eng cant_eng hear_eng me_eng 
+727.981 729.032 JOC open_eng 
+728.184 730.616 JEN _eng open_eng the_eng door_eng _eng for_eng the_eng dog_eng _eng please_eng 
+730.605 731.83 JOC open_eng the_eng door_eng a_eng little_eng bit_eng 
+731.821 734.166 JEN Chaquita_eng 
+734.149 737.216 JOC just_eng open_eng it_eng a_eng así_spa así_spa 
+736.751 737.618 JEN just_eng crack_eng it_eng 
+737.345 738.175 JOC _eng just_eng like_eng that_eng 
+737.595 738.947 JEN _eng because_eng Im_eng not_eng 
+738.146 739.052 JOC just_eng like_eng that_eng 
+739.046 740.224 JOC so_eng she_eng can_eng go_eng in_eng and_eng out_eng 
+739.919 740.673 JEN _eng oh_eng there_eng she_eng goes_eng 
+740.667 741.416 spa_spa ya_spa las_spa ha_spa 
+741.416 742.183 JOC just_eng like_eng that_eng 
+742.156 742.864 JEN thats_eng perfect_eng 
+742.852 743.63 JEN thank_eng you_eng 
+743.617 745.492 JEN because_eng now_eng were_eng trapped_eng 
+745.492 747.671 JEN look_eng xxx_eng 
+747.445 751.301 JOC and_eng now_eng _eng and_eng mire_spa la_spa xxx_eng was_eng just_eng to_eng stick_eng her_eng head_eng _eng just_eng to_eng have_eng the_eng door_eng open_eng 
+748.886 750.332 JEN _eng sí_spa sí_spa sí_spa just_eng to_eng 
+751.29 752.439 JOC and_eng thats_eng all_eng it_eng was_eng about_eng 
+752.07 753.544 JEN oh_eng because_eng she_eng wants_eng to_eng see_eng whats_eng going_eng on_eng 
+753.713 754.543 JEN so_eng ok_eng so_eng xxx_eng says_eng 
+754.532 755.6 JEN _eng oh_engspa está_spa muy_spa embullado_spa 
+755.571 757.191 JEN _eng hes_eng a_eng little_eng bit_eng friendlier_eng 
+755.699 756.68 JOC _eng yeah_eng 
+757.118 758.024 JEN _eng _eng spa_eng está_eng de_eng xxx_eng 
+758.041 762.804 JOC everybodys_eng noticed_eng that_eng hes_eng happier_eng that_eng hes_eng more_eng conversational_eng da_eng da_eng di_eng da_eng da_eng da_eng 
+761.3 762.879 JEN _eng why_eng because_eng was_eng _eng hes_eng a_eng little_eng bit_eng 
+762.885 763.942 JOC very_eng quiet_eng 
+763.915 766.435 JEN but_eng he_eng was_eng a_eng little_eng bit_eng like_eng serious_eng before_eng 
+765.657 767.137 JOC _eng very_eng serious_eng 
+767.123 770.414 JOC very_eng serious_eng like_eng intimidating_eng serious_eng 
+770.394 771.073 JEN u 
+770.817 774.924 JOC like_eng one_eng of_eng my_eng coworkers_eng is_eng still_eng very_eng like_eng wow_eng 
+774.778 778.252 JOC but_eng then_eng when_eng he_eng stays_eng quiet_eng and_eng he_eng looks_eng at_eng me_eng I_eng wanna_eng like_eng go_eng under_eng the_eng table_eng 
+777.422 780.162 JEN _eng laughs_eng lu I_eng dont_eng know_eng whats_eng going_eng on_eng 
+778.565 780.156 JOC _eng a I_eng wanna_eng hide_eng 
+780.142 780.798 JOC I_eng wanna_eng hide_eng 
+780.774 781.645 JOC Im_eng scared_eng 
+781.652 783.939 JOC and_eng then_eng um_eng _eng and_eng J_d_eng makes_eng fun_eng of_eng Carlos_engspa 
+783.934 784.956 JOC _eng Carlos_engspa le_spa tiene_spa miedo_spa 
+784.934 785.799 JOC _eng Carlos_engspa le_spa tiene_spa miedo_spa 
+785.781 786.153 JOC _eng _eng spa_eng míralo_eng 
+786.124 786.449 JOC _eng _eng spa_eng míralo_eng 
+786.449 786.791 JOC _eng _eng spa_eng míralo_eng 
+786.791 788.685 JOC _eng gasp_eng gasp_eng gasp_eng gasp_eng 
+787.954 789.063 JEN oh_eng my_eng god_eng 
+788.639 790.212 JOC and_eng J_d_eng imitates_eng Carlos_engspa 
+789.929 791.224 JOC its_eng hilarious_eng 
+790.301 794.437 JEN well_eng but_eng to_eng a_eng certain_eng degree_eng I_eng mean_eng he_eng has_eng to_eng kind_eng of_eng have_eng that_eng presence_eng because_eng of_eng his_eng position_eng 
+793.31 794.274 JOC oh_eng my_eng god_eng 
+794.268 796.679 JOC in_eng his_eng position_eng and_eng 
+794.949 796.893 JEN _eng I_eng mean_eng he_eng can_eng be_eng 
+796.571 799.798 JOC not_eng just_eng his_eng position_eng but_eng lets_eng _eng lets_eng talk_eng 
+796.954 797.906 JEN _eng part_eng of_eng a_eng group_eng 
+799.793 801.448 JOC hes_eng a_eng writer_eng for_eng gods_eng sakes_eng 
+801.334 802.286 JEN what_eng do_eng you_eng mean_eng hes_eng a_eng writer_eng 
+802.268 803.673 JOC hes_eng written_eng two_eng books_eng already_eng 
+803.664 805.051 JEN published_eng 
+805.039 806.374 JOC apparently_eng not_eng 
+806.363 807.199 JEN oh_eng 
+807.174 809.026 JEN but_eng like_eng books_eng about_eng what_eng like_eng 
+807.592 808.736 JOC _eng but_eng apparently_eng 
+808.724 810.216 JEN like_eng like_eng novel_eng or_eng 
+810.199 811.719 JOC like_eng I_eng think_eng like_eng novels_eng 
+811.687 812.9 JEN really_eng 
+812.859 814.165 JEN I_eng didnt_eng know_eng that_eng shit_eng 
+813.428 815.346 JOC I_eng _eng I_eng have_eng not_eng had_eng the_eng luxury_eng of_eng reading_eng them_eng 
+815.288 816.339 JEN I_eng would_eng like_eng to_eng 
+816.304 817.418 JOC so_eng would_eng I_eng 
+817.374 818.355 JEN just_eng to_eng see_eng 
+818.349 819.794 JOC he_eng plays_eng three_eng instruments_eng 
+819.779 821.172 JEN I_eng think_eng you_eng told_eng me_eng that_eng 
+821.143 822.42 JEN what_eng are_eng they_eng 
+822.405 824.095 JOC drums_eng bass_eng and_eng guitar_eng 
+824.066 826.695 JEN very_eng interesting_eng 
+826.681 835.95 JOC now_eng _eng I_eng didnt_eng factor_eng in_eng _eng factor_eng in_eng twenty_eng six_eng years_eng of_eng law_eng enforcement_eng with_eng rank_eng at_eng that_eng 
+828.413 830.451 JEN _eng all_eng the_eng percussion_eng _eng percussion_eng xxx_eng 
+839.079 842.522 JOC hello_eng I_eng mean_eng the_eng guy_eng has_eng a_eng hell_eng of_eng a_eng resume_eng 
+839.439 840.769 JEN _eng yeah_eng yeah_eng 
+842.176 844.277 JEN yeah_eng he_eng has_eng 
+842.855 843.435 JOC _eng right_eng 
+843.414 848.203 JOC and_eng now_eng _eng and_eng now_eng you_eng _eng you_eng know_eng _eng and_eng now_eng you_eng add_eng the_eng forty_eng five_eng years_eng 
+848.177 850.418 JEN yeah_eng 
+850.395 850.958 JOC you_eng know_eng 
+850.955 853.538 JOC and_eng he_eng pretty_eng much_eng _eng he_eng looks_eng at_eng people_eng that_eng way_eng very_eng 
+853.505 854.898 JEN and_eng 
+854.886 855.467 JOC and_eng 
+855.467 856.599 JEN hes_eng like_eng Donaldssengspaeng_eng xxx_eng 
+856.564 857.563 JEN _eng and_eng you_eng are_eng 
+857.249 858.23 JOC _eng and_eng you_eng are_eng 
+858.21 860.468 JOC _eng and_eng youre_eng here_eng to_eng see_eng 
+860.451 861.943 JOC _eng right_eng 
+861.94 864.384 JOC and_eng youre_eng lucky_eng if_eng he_eng might_eng even_eng speak_eng to_eng you_eng 
+862.66 863.827 JEN _eng oh_eng my_eng god_eng 
+864.366 875.324 JEN speaking_eng of_eng that_eng you_eng know_eng the_eng other_eng day_eng Tommy_engspa and_eng I_eng _eng well_eng we_eng didnt_eng get_eng into_eng a_eng fight_eng or_eng anything_eng but_eng he_eng pretty_eng much_eng told_eng me_eng that_eng _eng I_eng have_eng to_eng change_eng my_eng ways_eng because_eng Im_eng so_eng harsh_eng and_eng that_eng I_eng dont_eng xxx_eng 
+871.904 872.566 JOC _eng uh_eng oh_eng 
+872.937 875.317 JOC _eng oh_eng we_eng visited_eng this_eng before_eng 
+875.321 876.374 JEN yeah_eng but_eng 
+876.368 878.516 JEN and_eng I_eng _eng I_eng almost_eng started_eng crying_eng and_eng everything_eng 
+878.423 879.021 JEN because_eng I_eng was_eng like_eng 
+878.76 879.282 JOC gasp_eng 
+878.999 879.975 JEN _eng but_eng I_eng dont_eng understand_eng 
+879.946 880.927 JEN _eng how_eng can_eng you_eng say_eng that_eng 
+880.909 882.86 JEN I_eng dont_eng even_eng realize_eng that_eng Im_eng doing_eng that_eng 
+882.839 884.737 JOC I_eng think_eng Im_eng much_eng harsher_eng than_eng you_eng are_eng though_eng 
+884.72 885.898 JEN but_eng he_eng says_eng that_eng Im_eng harsh_eng 
+885.877 886.678 JEN and_eng I_eng thought_eng 
+886.661 888.071 JEN _eng but_eng I_eng dont_eng realize_eng that_eng Im_eng doing_eng it_eng 
+887.595 889.041 JOC but_eng when_eng are_eng you_eng harsh_eng 
+887.857 888.814 JEN _eng and_eng I_eng even_eng told_eng him_eng 
+888.799 891.394 JEN _eng give_eng me_eng an_eng example_eng so_eng I_eng can_eng cut_eng it_eng out_eng 
+891.371 892.358 JEN _eng I_eng mean_eng I_eng dont_eng know_eng 
+891.661 892.259 JOC _eng uh_eng huh_eng 
+892.251 895.385 JEN _eng but_eng you_eng dont_eng even_eng realize_eng that_eng youre_eng doing_eng it_eng 
+895.38 898.32 JEN _eng and_eng you_eng dont_eng realize_eng the_eng power_eng of_eng your_eng eyes_eng 
+896.48 897.653 JOC _eng you_eng know_eng what_eng you_eng have_eng to_eng do_eng 
+898.309 899.528 JEN and_eng I_eng look_eng at_eng him_eng 
+898.396 899.47 JOC _eng thats_eng what_eng it_eng is_eng 
+899.471 900.075 JEN and_eng I_eng go_eng 
+900.069 901.834 JOC its_eng the_eng facial_eng expressions_eng 
+900.22 901.236 JEN _eng the_eng power_eng 
+901.825 903.99 JOC you_eng know_eng when_eng I_eng was_eng in_eng the_eng academy_eng xxx_eng 
+902.607 903.228 JEN _eng and_eng I_eng go_eng to_eng him_eng 
+903.265 904.414 JEN _eng the_eng power_eng of_eng my_eng eyes_eng 
+904.397 905.157 JEN and_eng he_eng goes_eng 
+905.148 906.611 JEN _eng you_eng could_eng sit_eng there_eng and_eng say_eng 
+906.588 907.401 JEN _eng hi_eng how_eng are_eng you_eng 
+907.383 910.164 JEN _eng but_eng your_eng eyes_eng are_eng saying_eng I_eng dont_eng know_eng what_eng 
+909.272 911.066 JOC your_eng eyes_eng are_eng saying_eng something_eng else_eng 
+911.048 912.848 JOC well_eng I_eng will_eng tell_eng you_eng what_eng 
+912.833 913.926 JEN and_eng Im_eng like_eng 
+913.92 916.701 JEN _eng but_eng I_eng dont_eng _eng I_eng mean_eng I_eng know_eng when_eng I_eng make_eng faces_eng 
+914.402 917.579 JOC _eng when_eng I_eng was_eng in_eng the_eng academy_eng I_eng used_eng to_eng get_eng in_eng trouble_eng for_eng that_eng 
+917.561 918.914 JEN for_eng making_eng faces_eng 
+918.896 919.959 JOC for_eng making_eng faces_eng 
+919.956 922.447 JOC because_eng it_eng didnt_eng matter_eng if_eng I_eng had_eng learned_eng to_eng shut_eng up_eng 
+922.435 924.374 JEN right_eng and_eng you_eng were_eng smiling_eng yeah_eng 
+923.044 924.374 JOC because_eng my_eng face_eng said_eng it_eng all_eng 
+924.359 925.537 JEN yeah_eng 
+925.189 926.385 JOC I_eng would_eng sit_eng there_eng and_eng go_eng 
+926.38 928.632 JEN right_eng 
+928.624 929.443 JEN well_eng thats_eng xxx_eng 
+929.013 930.343 JOC and_eng then_eng the_eng instructor_eng would_eng go_eng 
+930.331 932.456 JOC _eng Miss_eng xxx_eng do_eng you_eng have_eng a_eng problem_eng 
+932.427 933.367 JOC and_eng Id_eng have_eng to_eng go_eng 
+933.358 934.496 JOC you_eng know_eng 
+933.637 935.843 JEN _eng xxx_eng no_eng I_eng didnt_eng say_eng anything_eng 
+935.822 938.208 JOC and_eng it_eng didnt_eng matter_eng what_eng I_eng was_eng saying_eng 
+938.202 940.234 JOC because_eng my_eng face_eng was_eng saying_eng something_eng else_eng 
+938.382 939.357 JEN _eng well_eng thats_eng what_eng 
+939.922 941.827 JEN well_eng xxx_eng you_eng dont_eng realize_eng 
+941.823 944.923 JEN so_eng anyways_eng go_eng back_eng to_eng the_eng you_eng p_eng _eng he_eng tends_eng to_eng look_eng at_eng people_eng like_eng that_eng 
+944.897 946.076 JOC and_eng he_eng does_eng the_eng same_eng thing_eng 
+946.047 948.38 JOC he_eng has_eng this_eng _eng he_eng has_eng this_eng poker_eng face_eng 
+946.099 946.987 JEN _eng I_eng dont_eng think_eng thats_eng a_eng 
+946.981 948.322 JEN _eng is_eng that_eng a_eng bad_eng thing_eng 
+948.307 948.835 JOC I_eng dont_eng know_eng 
+948.835 951.105 JOC he_eng has_eng this_eng poker_eng face_eng all_eng the_eng time_eng 
+951.084 956.509 JOC but_eng hes_eng definitely_eng mastered_eng the_eng art_eng of_eng _eng of_eng being_eng quiet_eng _eng and_eng observing_eng 
+956.01 961.626 JEN well_eng I_eng think_eng and_eng Ive_eng _eng I_eng mean_eng I_eng s_eng _eng I_eng do_eng this_eng because_eng obviously_eng I_eng think_eng Tommy_engspa is_eng much_eng more_eng quiet_eng and_eng observant_eng 
+961.605 963.451 JEN and_eng I_eng think_eng people_eng like_eng that_eng are_eng 
+963.451 965.436 JEN I_eng dont_eng wanna_eng say_eng that_eng theyre_eng smarter_eng _eng or_eng more_eng 
+965.415 967.743 JEN I_eng think_eng theyre_eng a_eng better_eng judge_eng of_eng character_eng 
+967.717 968.716 JOC its_eng a_eng talent_eng 
+968.704 969.43 JEN its_eng a_eng talent_eng 
+969.421 970.442 JOC its_eng enviable_eng 
+970.448 971.644 JEN its_eng um_eng 
+971.627 973.159 JOC I_eng want_eng to_eng learn_eng 
+973.138 973.968 JEN we_eng cant_eng 
+973.951 975.077 JEN were_eng too_eng social_eng 
+975.061 976.844 JOC we_eng can_eng 
+975.061 976.844 JEN _eng you_eng know_eng what_eng it_eng is_eng 
+976.826 978.986 JEN but_eng its_eng not_eng in_eng our_eng nature_eng 
+978.977 980.207 JOC but_eng we_eng can_eng 
+980.173 981.543 JEN but_eng um_eng do_eng you_eng want_eng to_eng 
+981.543 982.727 JOC sometimes_eng 
+982.701 986.894 JOC its_eng something_eng that_eng I_eng think_eng I_eng wanna_eng _eng I_eng wanna_eng do_eng it_eng 
+984.026 987.225 JEN _eng I_eng like_eng _eng I_eng like_eng to_eng be_eng _eng I_eng like_eng to_eng be_eng Madam_eng Butterfly_eng 
+987.035 987.958 JEN remember_eng that_eng 
+987.133 988.277 JOC _eng xxx_eng 
+988.283 988.916 JOC no_eng _eng laughs_eng 
+988.313 990.914 JEN xxx_eng remember_eng _eng laughs_eng 
+990.451 991.653 JOC _eng oh_engspa Madam_butterfly_engspa 
+991.641 993.296 JOC xxx_eng Madam_butterfly_engspa 
+993.273 994.509 JOC I_eng wanna_eng do_eng it_eng 
+993.516 994.126 JEN _eng I_eng want_eng to_eng 
+994.488 996.729 JOC when_eng _eng and_eng _eng and_eng you_eng know_eng what_eng though_eng 
+996.713 1001.056 JOC I_eng think_eng that_eng _eng in_eng my_eng job_eng I_eng have_eng to_eng center_eng myself_eng more_eng than_eng in_eng your_eng job_eng 
+1001.035 1004.025 JEN well_eng yeah_eng even_eng though_eng the_eng other_eng day_eng I_eng told_eng the_eng patient_eng something_eng 
+1003.987 1004.556 JEN and_eng I_eng was_eng like_eng 
+1004.538 1008.911 JEN as_eng soon_eng as_eng I_eng said_eng it_eng boy_eng I_eng was_eng like_eng noise_eng not_eng _eng didnt_eng do_eng good_eng 
+1005.422 1006.461 JOC _eng said_eng it_eng 
+1006.467 1007.019 JOC _eng you_eng were_eng like_eng 
+1007.007 1008.801 JOC _eng ah_eng ah_eng priŋk_eng 
+1008.884 1009.964 JEN but_eng you_eng know_eng what_eng 
+1009.952 1010.452 JEN hey_eng 
+1010.446 1011.398 JEN I_eng said_eng it_eng 
+1011.381 1012.176 JEN what_eng do_eng you_eng want_eng me_eng to_eng tell_eng you_eng 
+1012.17 1014.384 JEN e_eng e_eng 
+1012.17 1014.384 JOC _eng oh_eng no_eng _eng no_eng 
+1014.396 1015.698 JOC what_eng was_eng it_eng 
+1015.692 1016.987 JEN well_eng it_eng wasnt_eng anything_eng bad_eng 
+1016.964 1019.7 JEN like_eng now_eng xxx_eng 
+1019.682 1020.646 spa_spa ay_spa xxx_spa 
+1020.01 1021.165 JEN _eng with_eng the_eng _eng los_spa viejitos_spa 
+1021.055 1022.076 JEN I_eng told_eng you_eng that_eng right_eng 
+1021.298 1021.978 JOC _eng o 
+1021.96 1023.252 JEN so_eng theres_eng 
+1023.24 1024.836 JEN you_eng know_eng weve_eng been_eng getting_eng a_eng lot_eng of_eng viejitos_spa 
+1024.836 1025.841 JEN whatever_eng cool_eng 
+1025.83 1028.375 spa_spa pero_spa hay_spa una_spa vieja_spa que_spa es_spa xxx_spa 
+1028.352 1029.838 JEN pobrecita_spa you_eng know_eng shes_eng alone_eng 
+1029.745 1031.272 JEN and_eng you_eng know_eng how_eng it_eng is_eng 
+1031.263 1035.804 JEN so_eng every_eng time_eng that_eng she_eng goes_eng for_eng therapy_eng shell_eng ask_eng you_eng a_eng thousand_eng and_eng one_eng questions_eng 
+1035.804 1036.553 spa_spa pobrecita_spa 
+1036.526 1037.53 JOC thats_eng her_eng social_eng hour_eng 
+1037.507 1038.593 JEN thats_eng her_eng social_eng hour_eng 
+1038.569 1039.585 spa_spa pero_spa sigh_spa 
+1039.576 1041.282 JEN you_eng know_eng if_eng you_eng had_eng one_eng patient_eng 
+1041.253 1044.565 JEN but_eng you_eng have_eng _eng ten_eng fifteen_eng patients_eng going_eng at_eng a_eng time_eng 
+1041.726 1042.55 JOC _eng _eng spa_eng pobrecita_eng 
+1044.553 1045.29 JEN I_eng dont_eng have_eng the_eng time_eng 
+1045.286 1054.811 JEN and_eng no_eng matter_eng how_eng much_eng I_eng really_eng want_eng to_eng sit_eng there_eng and_eng answer_eng her_eng questions_eng and_eng not_eng be_eng rude_eng _eng I_eng cant_eng sit_eng there_eng and_eng answer_eng especially_eng when_eng theyre_eng just_eng _eng redundant_eng questions_eng 
+1049.157 1050.144 JOC _eng reminds_eng me_eng of_eng something_eng 
+1050.132 1050.753 JOC _eng go_eng ahead_eng 
+1054.805 1055.559 JEN when_eng theyre_eng just_eng 
+1055.53 1057.626 JEN _eng oh_eng my_eng god_eng is_eng she_eng really_eng asking_eng me_eng this_eng 
+1058.772 1060.882 JEN so_eng _eng she_eng starts_eng 
+1060.874 1063.138 JEN _eng _eng spa_eng no_eng porque_eng cuando_eng voy_eng voy_eng a_eng ver_eng el_eng médico_eng otra_eng vez_eng 
+1063.076 1066.257 JEN weve_eng already_eng told_eng you_eng this_eng mind_eng you_eng 
+1066.248 1068.587 JEN I_eng forgot_eng her_eng name_eng 
+1068.578 1072.206 JEN fulanita_spa esa_spa te_spa dijo_spa que_spa in_eng four_eng weeks_eng 
+1072.186 1073.812 JEN _eng _eng spa_eng pero_eng yo_eng no_eng entiendo_eng 
+1073.783 1077.872 JEN _eng _eng spa_eng y_eng si_eng yo_eng me_eng siento_eng mal_eng yo_eng no_eng lo_eng puedo_eng ver_eng antes_eng de_eng las_eng cuatro_eng semanas_eng 
+1077.32 1078.313 JOC oh_eng my_eng god_eng 
+1078.303 1079.424 JEN bueno_spa of_eng course_eng 
+1079.401 1080.834 JEN _eng but_eng w_eng do_eng you_eng feel_eng bad_eng 
+1080.771 1082.262 JEN _eng are_eng you_eng having_eng an_eng emergency_eng 
+1082.224 1083.02 JEN _eng whats_eng going_eng on_eng 
+1082.433 1083.919 JOC but_eng they_eng cant_eng stand_eng the_eng limitations_eng 
+1083.792 1084.227 JEN right_eng 
+1084.198 1085.852 JEN _eng no_eng no_eng no_eng no_eng no_eng pero_spa imagínate_spa 
+1085.826 1087.51 JEN _eng _eng spa_eng porque_eng yo_eng no_eng me_eng siento_eng mejor_eng 
+1087.492 1090.226 JEN _eng youve_eng come_eng for_eng three_eng sessions_eng 
+1090.486 1093.115 JOC laughs_eng 
+1091.687 1093.051 JEN _eng I_eng dont_eng know_eng what_eng to_eng tell_eng you_eng 
+1093.013 1094.313 JEN I_eng told_eng her_eng that_eng 
+1093.35 1095.648 JOC youre_eng not_eng supposed_eng to_eng feel_eng good_eng at_eng this_eng point_eng 
+1094.685 1095.474 JEN yeah_eng I_eng told_eng her_eng 
+1095.439 1097.779 JEN _eng _eng spa_eng tú_eng has_eng venido_eng a_eng tres_eng xxx_eng imagínate_eng 
+1097.747 1098.983 JEN _eng _eng spa_eng eso_eng no_eng es_eng magia_eng 
+1098.977 1100.939 JEN _eng _eng spa_eng quisiera_eng yo_eng que_eng fuera_eng magia_eng pero_eng no_eng es_eng así_eng 
+1102.51 1105.717 JEN _eng _eng spa_eng que_eng yo_eng lo_eng que_eng quiero_eng es_eng _eng ver_eng e_eng 
+1105.694 1106.257 JEN whatever_eng 
+1106.24 1107.762 JEN she_eng starts_eng giving_eng this_eng whole_eng thing_eng 
+1107.239 1108.273 spa_spa resultados_spa 
+1108.267 1109.538 JOC she_eng wants_eng to_eng see_eng the_eng progress_eng 
+1108.511 1108.929 JEN _eng yeah_eng yeah_eng 
+1109.074 1110.339 JEN _eng no_eng and_eng then_eng she_eng tells_eng me_eng 
+1110.348 1111.817 JEN and_eng they_eng did_eng x_rays_eng 
+1112.07 1114.502 JEN _eng _eng spa_eng y_eng los_eng _eng las_eng placas_eng ya_eng están_eng 
+1114.357 1120.408 JEN you_eng know_eng how_eng they_eng normally_eng give_eng you_eng like_eng the_eng sheet_eng which_eng the_eng guy_eng the_eng doctor_eng actually_eng has_eng to_eng interpret_eng and_eng say_eng 
+1120.276 1121.141 JEN _eng we_eng found_eng a_eng fracture_eng 
+1121.118 1122.018 JEN _eng we_eng found_eng this_eng or_eng whatever_eng 
+1122.006 1122.68 JEN I_eng go_eng 
+1122.68 1124.108 JEN _eng _eng spa_eng no_eng eso_eng se_eng demora_eng una_eng semana_eng 
+1124.112 1125.87 JEN _eng _eng spa_eng porque_eng yo_eng quiero_eng ese_eng papel_eng 
+1125.894 1126.579 JEN so_eng look_eng I_eng go_eng 
+1126.584 1127.24 JEN _eng for_eng your_eng rek_eng 
+1127.188 1127.954 JEN I_eng mean_eng she_eng can_eng get_eng it_eng 
+1127.937 1128.924 JEN its_eng her_eng personal_eng records_eng 
+1128.916 1129.316 JEN and_eng I_eng go_eng 
+1129.293 1130.657 JEN _eng ok_eng for_eng your_eng records_eng 
+1130.651 1134.102 JEN _eng no_eng because_eng I_eng have_eng a_eng _eng a_eng friend_eng whose_eng a_eng doctor_eng in_eng Cuba_engspa 
+1134.084 1134.8 JEN _eng _eng spa_eng aquí_eng no_eng es_eng nada_eng 
+1134.782 1136.007 JEN _eng pero_spa es_spa un_spa doctor_engspa en_spa Cuba_engspa ba_eng ba_eng ba_eng 
+1135.99 1138.436 JEN and_eng hes_eng gonna_eng tell_eng me_eng what_eng I_eng have_eng to_eng do_eng 
+1136.166 1137.263 JOC _eng and_eng he_eng wants_eng to_eng look_eng at_eng them_eng 
+1138.679 1140.492 JEN xxx_eng 
+1139.175 1140.336 JOC _eng sigh_eng 
+1140.854 1142.271 JEN because_eng that_eng just_eng riles_eng me_eng up_eng 
+1142.242 1143.153 JEN like_eng there_eng is_eng no_eng 
+1142.793 1144.61 JOC why_eng does_eng that_eng even_eng bother_eng me_eng though_eng 
+1144.328 1145.222 JEN it_eng bothers_eng me_eng 
+1145.025 1145.936 JOC _eng it_eng bothers_eng me_eng 
+1145.216 1148.179 JEN so_eng of_eng course_eng I_eng _eng I_eng did_eng the_eng whole_eng 
+1148.162 1148.87 JEN and_eng I_eng go_eng 
+1148.853 1149.626 JEN _eng ok_eng 
+1149.608 1151.75 JEN _eng _eng spa_eng y_eng qué_eng lo_eng que_eng ese_eng médico_eng te_eng está_eng diciendo_eng 
+1151.742 1153.571 JEN _eng _eng spa_eng ese_eng hombre_eng que_eng te_eng está_eng diciendo_eng 
+1153.547 1155.382 JEN _eng _eng spa_eng no_eng porque_eng él_eng piensa_eng que_eng me_eng tengo_eng que_eng operar_eng 
+1155.368 1156.105 JEN I_eng go_eng 
+1156.035 1164.157 JEN _eng ok_eng the_eng doctor_eng that_eng saw_eng you_eng here_eng _eng is_eng a_eng board_eng certified_eng orthopedic_eng in_eng the_eng state_eng of_eng Florida_eng _eng not_eng in_eng Cuba_eng 
+1164.151 1164.818 JEN _eng here_eng 
+1164.609 1165.468 JOC _eng in_eng Cuba_eng 
+1165.457 1166.984 JEN _eng here_eng 
+1166.964 1169.362 JEN _eng and_eng he_eng didnt_eng tell_eng you_eng that_eng 
+1169.35 1170.488 JEN _eng I_eng dont_eng understand_eng 
+1170.465 1172.386 JEN _eng is_eng it_eng that_eng you_eng want_eng to_eng be_eng operated_eng 
+1172.384 1173.185 JEN _eng I_eng mean_eng is_eng that_eng 
+1172.633 1173.26 JOC _eng probably_eng 
+1173.26 1173.574 JEN yeah_eng 
+1173.62 1174.561 JEN I_eng _eng no_eng I_eng asked_eng her_eng 
+1174.462 1174.706 JEN I_eng go_eng 
+1174.688 1176.627 JEN _eng _eng spa_eng es_eng que_eng lo_eng que_eng tú_eng quieres_eng es_eng operarte_eng 
+1176.578 1178.227 JEN _eng _eng spa_eng sí_eng 
+1178.233 1180.545 JEN _eng _eng spa_eng yo_eng de_eng verdad_eng que_eng pienso_eng que_eng es_eng la_eng única_eng forma_eng 
+1180.539 1180.788 JEN I_eng go_eng 
+1180.785 1181.725 JEN _eng _eng spa_eng bueno_eng imagínate_eng 
+1181.719 1183.525 JEN _eng _eng spa_eng yo_eng creo_eng que_eng ento_eng entonces_eng está_eng 
+1182.793 1184.523 JOC _eng and_eng you_eng would_eng think_eng thats_eng a_eng last_eng resort_eng 
+1184.508 1186.766 JOC that_eng thats_eng something_eng that_eng somebody_eng would_eng wanna_eng avoid_eng 
+1186.168 1186.708 JEN no_eng 
+1186.72 1187.202 JOC no_eng 
+1186.867 1188.173 JEN and_eng ah_eng _eng and_eng so_eng you_eng know_eng 
+1188.167 1188.696 JEN and_eng I_eng told_eng her_eng 
+1188.696 1189.549 JEN _eng _eng spa_eng bueno_eng imagínate_eng 
+1189.522 1191.025 JEN _eng _eng spa_eng yo_eng creo_eng que_eng está_eng en_eng un_eng lugar_eng equivocado_eng 
+1191.037 1197.88 JEN _eng _eng spa_eng porque_eng _eng cualquier_eng médico_eng que_eng sea_eng bueno_eng lo_eng último_eng aunque_eng sea_eng cirujano_eng lo_eng último_eng xxx_eng que_eng va_eng a_eng hacer_eng es_eng operarte_eng 
+1197.851 1198.584 JEN _eng _eng spa_eng porque_eng uno_eng 
+1198.584 1199.298 JEN _eng even_eng a_eng surgeon_eng 
+1199.287 1200.215 JEN _eng and_eng you_eng know_eng this_eng very_eng well_eng 
+1200.212 1202.186 JOC yeah_eng its_eng the_eng _eng its_eng the_eng last_eng resort_eng 
+1200.874 1203.666 JEN _eng theyre_eng gonna_eng do_eng all_eng the_eng conservative_eng treatment_eng 
+1203.544 1204.49 JEN lets_eng do_eng pills_eng 
+1203.863 1204.519 JOC _eng until_eng 
+1204.502 1204.896 JOC right_eng 
+1204.519 1205.314 JEN _eng lets_eng do_eng this_eng 
+1204.887 1205.909 JOC its_eng the_eng last_eng thing_eng 
+1205.334 1205.955 JEN na_eng na_eng na_eng 
+1205.972 1208.645 JEN the_eng last_eng thing_eng they_eng wanna_eng do_eng is_eng cut_eng you_eng open_eng 
+1208.636 1210.18 JEN ok_eng 
+1210.139 1212.485 JOC no_eng especially_eng when_eng it_eng comes_eng to_eng things_eng like_eng that_eng 
+1210.795 1211.37 JEN _eng its_eng probably_eng 
+1212.527 1213.578 JOC because_eng thats_eng 
+1212.632 1214.53 JEN _eng yeah_eng and_eng were_eng not_eng talking_eng a_eng thirty_eng year_eng old_eng woman_eng 
+1214.299 1216.319 JEN were_eng talking_eng an_eng eighty_eng year_eng old_eng woman_eng 
+1214.357 1215.849 JOC _eng youre_eng not_eng removing_eng a_eng tumor_eng 
+1215.838 1221.757 JOC youre_eng talking_eng about_eng _eng things_eng that_eng are_eng more_eng sensitive_eng where_eng you_eng have_eng the_eng probability_eng que_spa no_spa va_spa a_spa quedar_spa bien_spa 
+1217.477 1218.232 JEN _eng yeah_eng 
+1219.795 1220.991 JEN _eng so_eng I_eng told_eng her_eng that_eng 
+1221.119 1221.78 JEN _eng I_eng told_eng her_eng 
+1221.769 1222.494 JEN _eng _eng spa_eng fíjate_eng bien_eng 
+1222.49 1223.791 JEN _eng _eng spa_eng y_eng _eng y_eng tú_eng le_eng vas_eng a_eng creer_eng 
+1223.785 1224.18 JEN and_eng I_eng told_eng her_eng 
+1224.168 1224.424 JEN and_eng I_eng said_eng 
+1224.412 1225.364 JEN _eng thats_eng where_eng I_eng pass_eng the_eng line_eng 
+1225.349 1225.756 JEN I_eng told_eng her_eng 
+1225.75 1232.12 JEN _eng _eng spa_eng tú_eng le_eng vas_eng a_eng creer_eng m_eng bien_eng _eng mejor_eng a_eng una_eng persona_eng que_eng no_eng tiene_eng licencia_eng aquí_eng o_eng a_eng una_eng persona_eng que_eng estudió_eng aquí_eng y_eng tiene_eng licencia_eng aquí_eng 
+1232.132 1232.614 JOC right_eng 
+1232.593 1233.528 JEN _eng _eng spa_eng quién_eng tiene_eng más_eng valor_eng 
+1233.011 1234.126 JOC _eng yeah_eng who_eng do_eng you_eng prefer_eng 
+1234.127 1235.985 JEN _eng _eng spa_eng no_eng pero_eng ese_eng hombre_eng es_eng mi_eng amigo_eng 
+1235.979 1236.194 JEN I_eng go_eng 
+1236.095 1237.303 JEN _eng no_eng I_eng understand_eng that_eng 
+1236.357 1237.181 JOC _eng _eng spa_eng a_eng está_eng bien_eng 
+1237.293 1238.193 JEN _eng I_eng understand_eng that_eng 
+1237.7 1238.547 JOC _eng xxx_eng 
+1238.181 1239.122 JEN _eng and_eng I_eng respect_eng that_eng 
+1239.112 1240.656 JEN _eng but_eng you_eng have_eng to_eng understand_eng too_eng 
+1240.644 1242.601 JEN _eng _eng spa_eng bueno_eng para_eng que_eng fue_eng eso_eng 
+1242.598 1243.788 JEN and_eng I_eng was_eng like_eng 
+1243.782 1245.076 JEN _eng oh_eng shoot_eng 
+1245.055 1245.926 JEN I_eng shouldnt_eng have_eng said_eng that_eng 
+1245.914 1246.727 JEN because_eng its_eng not_eng my_eng clinic_eng 
+1246.71 1247.342 JEN its_eng not_eng my_eng 
+1247.331 1248.312 JEN but_eng you_eng know_eng its_eng like_eng 
+1248.306 1249.072 JEN _eng listen_eng 
+1249.07 1251.461 JOC yeah_eng but_eng the_eng ignorance_eng _eng the_eng ignorance_eng is_eng unbarable_eng 
+1249.505 1250.701 JEN _eng that_eng it_eng _eng that_eng really_eng riles_eng me_eng 
+1250.678 1251.554 JEN that_eng really_eng riles_eng me_eng 
+1251.531 1253.104 JOC the_eng ignorance_eng is_eng unbarable_eng 
+1251.601 1253.394 JEN _eng and_eng you_eng know_eng shes_eng an_eng older_eng _eng but_eng shes_eng an_eng older_eng lady_eng 
+1253.386 1255.511 JEN so_eng what_eng can_eng you_eng expect_eng 
+1255.522 1256.486 spa_spa bueno_spa 
+1256.453 1258.764 JEN so_eng tell_eng me_eng about_eng the_eng old_eng _eng tell_eng me_eng about_eng the_eng old_eng guy_eng 
+1257.266 1257.899 JOC mm_eng 
+1258.775 1259.391 spa_spa viejo_spa 
+1259.376 1260.966 JOC so_eng yeah_eng so_eng a_eng lot_eng of_eng people_eng have_eng noticed_eng 
+1260.955 1265.706 JOC and_eng even_eng we_eng went_eng to_eng have_eng breakfast_eng at_eng a_eng place_eng where_eng we_eng usually_eng eat_eng breakfast_eng by_eng ourselves_eng 
+1265.673 1266.381 JOC but_eng like_eng 
+1266.387 1267.635 JEN you_eng and_eng the_eng team_eng 
+1267.612 1268.937 JOC me_eng and_eng the_eng team_eng 
+1268.943 1270.928 JOC but_eng _eng he_eng wanted_eng to_eng join_eng us_eng 
+1270.867 1273.967 JEN oh_eng my_eng god_eng he_eng wants_eng to_eng be_eng buddies_eng _eng with_eng the_eng guys_eng 
+1273.952 1276.408 JOC well_eng _eng I_eng think_eng 
+1275.468 1276.426 JEN _eng hes_eng a_eng smart_eng guy_eng 
+1276.426 1277.511 JEN you_eng know_eng why_eng hes_eng doing_eng that_eng 
+1276.524 1277.267 JOC _eng no_eng he_eng is_eng l_eng 
+1277.256 1278.864 JOC yeah_eng hes_eng levantando_spa la_spa pata_spa 
+1278.837 1280.039 JEN but_eng you_eng know_eng why_eng hes_eng doing_eng that_eng 
+1279.528 1281.809 JOC no_eng he_eng is_eng _eng hes_eng doing_eng the_eng like_eng the_eng dog_eng 
+1280.033 1281.084 JEN _eng you_eng know_eng why_eng hes_eng doing_eng that_eng 
+1281.789 1283.849 JEN no_eng but_eng not_eng only_eng that_eng 
+1283.844 1284.976 JEN not_eng only_eng that_eng 
+1284.029 1285.614 JOC _eng hes_eng marking_eng the_eng territory_eng 
+1285.083 1286.575 JEN _eng but_eng not_eng only_eng that_eng 
+1286.551 1288.188 JEN I_eng cant_eng beat_eng them_eng 
+1288.167 1289.653 JEN I_eng mean_eng not_eng that_eng they_eng have_eng anything_eng where_eng 
+1289.282 1290.234 JOC so_eng Im_eng gonna_eng join_eng them_eng 
+1290.182 1290.849 JEN Im_eng gonna_eng join_eng it_eng 
+1290.843 1293.035 JEN Im_eng gonna_eng let_eng them_eng know_eng that_eng Im_eng one_eng of_eng them_eng 
+1291.868 1294.55 JOC _eng Im_eng gonna_eng let_eng them_eng know_eng that_eng Im_eng their_eng friend_eng 
+1294.5 1296.317 JOC and_eng that_eng everythings_eng good_eng 
+1295.185 1297.484 JEN and_eng theyre_eng gonna_eng take_eng care_eng of_eng her_eng for_eng me_eng 
+1296.87 1298.246 JOC _eng yeah_eng theyre_eng taking_eng care_eng of_eng 
+1297.474 1298.989 JEN because_eng they_eng like_eng me_eng 
+1298.246 1298.809 JOC _eng right_eng 
+1298.971 1300.034 JOC and_eng Im_eng the_eng daddy_eng 
+1300.049 1301.929 JEN mmhm_eng yeah_eng hes_eng very_eng smart_eng 
+1301.924 1302.98 JOC and_eng Im_eng the_eng daddy_eng 
+1302.697 1303.544 JEN _eng Im_eng the_eng daddy_eng 
+1303.202 1305.959 JOC no_eng hes_eng very_eng _eng hes_eng brilliant_eng _eng hes_eng beyond_eng brilliant_eng 
+1304.618 1305.698 JEN _eng thats_eng funny_eng 
+1305.933 1307.489 JEN ok_eng so_eng you_eng go_eng to_eng have_eng breakfast_eng 
+1306.339 1307.669 JOC _eng yeah_eng let_eng me_eng tell_eng you_eng 
+1307.46 1308.905 JEN and_eng the_eng waitress_eng takes_eng it_eng off_eng 
+1307.675 1308.998 JOC he_eng suites_eng me_eng 
+1308.983 1310.254 JEN I_eng mean_eng xxx_eng 
+1309.32 1311.944 JOC _eng bueno_spa it_eng turns_eng out_eng that_eng the_eng waitress_eng has_eng a_eng crush_eng on_eng him_eng 
+1311.929 1314.947 JEN gasp_eng how_eng do_eng you_eng know_eng that_eng 
+1314.927 1318.526 JOC bueno_spa short_eng of_eng taking_eng on_eng _eng off_eng her_eng clothes_eng and_eng sitting_eng on_eng his_eng lap_eng 
+1318.504 1319.218 JEN no_eng 
+1319.195 1320.554 spa_spa para_spa qué_spa 
+1320.53 1324.197 JOC she_eng couldnt_eng even_eng take_eng our_eng order_eng right_eng 
+1324.193 1325.435 JEN oh_eng my_eng xxx_eng 
+1324.593 1328.961 JOC _eng Ive_eng never_eng seen_eng her_eng that_eng _eng enthralled_eng by_eng someone_eng 
+1327.753 1328.688 JEN that_eng excited_eng 
+1328.671 1329.669 JEN that_eng excited_eng 
+1328.951 1330.78 JOC _eng oh_eng excited_eng with_eng 
+1330.757 1333.282 JOC oh_eng my_eng god_eng ella_spa está_spa 
+1332.109 1332.974 JEN _eng yeah_eng 
+1333.273 1335.014 JOC _eng _eng spa_eng loca_eng 
+1335.096 1336.657 JOC and_eng when_eng I_eng told_eng her_eng 
+1336.634 1338.149 JOC _eng _eng spa_eng oye_eng ese_eng es_eng mi_eng novio_eng 
+1338.147 1339.732 JEN she_eng probably_eng thought_eng you_eng were_eng kidding_eng 
+1338.989 1340.516 JOC _eng I_eng came_eng back_eng in_eng the_eng afternoon_eng 
+1339.72 1341.003 JEN _eng she_eng probably_eng thought_eng you_eng were_eng kidding_eng 
+1340.504 1342.785 JOC no_eng it_eng took_eng me_eng like_eng twenty_eng minutes_eng to_eng convince_eng her_eng 
+1342.766 1343.468 spa_spa no_spa no_spa espérate_spa 
+1343.282 1344.443 JEN _eng she_eng probably_eng thought_eng you_eng were_eng kidding_eng 
+1343.451 1344.217 JOC _eng let_eng me_eng rewind_eng 
+1344.215 1344.754 JOC no_eng no_eng wait_eng 
+1344.685 1345.556 JOC start_eng the_eng story_eng from_eng the_eng beginning_eng 
+1345.538 1347.32 JOC ok_eng so_eng we_eng get_eng to_eng breakfast_eng 
+1347.301 1350.784 JOC she_eng cant_eng even_eng take_eng the_eng order_eng 
+1350.768 1352.637 JOC even_eng J_d_eng and_eng Carlos_engspa were_eng like_eng 
+1352.632 1355.937 JOC _eng _eng spa_eng a_eng ba_eng métete_eng en_eng la_eng cocina_eng por_eng dios_eng 
+1355.91 1356.653 JOC _eng _eng spa_eng por_eng dios_eng 
+1356.113 1357.512 JEN _eng make_eng us_eng a_eng coffee_eng xxx_eng 
+1357.007 1358.627 JOC _eng they_eng were_eng _eng they_eng were_eng screaming_eng _eng laughs_eng 
+1358.581 1359.139 JOC and_eng they_eng were_eng like_eng 
+1359.115 1361.513 JOC _eng my_eng god_eng what_eng is_eng wrong_eng with_eng this_eng woman_eng 
+1359.957 1360.619 JEN _eng _eng spa_eng qué_eng pena_eng 
+1360.592 1362.078 JEN _eng they_eng were_eng embarrassed_eng for_eng her_eng 
+1361.445 1362.072 JOC _eng they_eng were_eng like_eng 
+1362.06 1363.616 JOC _eng xxx_eng weve_eng never_eng seen_eng you_eng like_eng this_eng 
+1363.613 1364.304 JOC and_eng I_eng was_eng like_eng 
+1364.287 1365.755 JOC _eng oh_eng my_eng god_eng youre_eng not_eng kidding_eng 
+1365.749 1367.398 JOC _eng this_eng woman_eng has_eng a_eng crush_eng on_eng you_eng 
+1367.39 1367.814 JEN oh_eng my_eng god_eng 
+1367.808 1368.911 JOC and_eng he_eng told_eng me_eng 
+1368.168 1369.439 JEN _eng because_eng he_eng had_eng been_eng there_eng before_eng 
+1369.416 1370.646 JEN and_eng he_eng had_eng sensed_eng it_eng 
+1370.141 1371.511 JOC we_eng go_eng there_eng all_eng the_eng time_eng 
+1371.427 1372.007 JOC Sergiossengspaeng_eng 
+1371.427 1372.681 JEN yeah_eng but_eng him_eng him_eng 
+1372.483 1373.546 JOC yeah_eng he_eng goes_eng there_eng all_eng the_eng time_eng 
+1373.501 1374.639 JOC we_eng go_eng there_eng all_eng the_eng time_eng 
+1374.372 1375.469 JEN _eng everybody_eng goes_eng there_eng ok_eng 
+1375.115 1376.015 JOC everybody_eng goes_eng there_eng all_eng the_eng time_eng 
+1376.005 1377.085 JOC thats_eng the_eng hangout_eng 
+1376.209 1377.602 JEN _eng so_eng he_eng had_eng kinda_eng sensed_eng it_eng 
+1377.677 1378.38 JEN and_eng he_eng was_eng like_eng 
+1378.374 1379.036 JEN _eng oh_eng my_eng god_eng 
+1379.041 1380.094 JOC no_engspa ella_spa está_spa enamorada_spa 
+1380.088 1381.319 JEN but_eng shes_eng like_eng an_eng older_eng lady_eng 
+1381.31 1383.272 JOC yeah_eng well_eng shes_eng about_eng his_eng age_eng 
+1382.79 1383.365 JEN _eng his_eng age_eng 
+1383.365 1385.077 JEN ok_eng but_eng shes_eng _eng Cuban_eng 
+1383.719 1384.142 JOC _eng yeah_eng 
+1385.074 1386.769 JEN and_eng she_eng looks_eng _eng not_eng great_eng 
+1385.869 1389.412 JOC shes_eng no_eng shes_eng Columbian_eng or_eng something_eng 
+1387.961 1388.657 JEN _eng Im_eng like_eng 
+1388.832 1390.167 JEN _eng ok_eng but_eng she_eng doesnt_eng look_eng great_eng 
+1390.151 1392.497 JEN she_eng looks_eng like_eng _eng she_eng looks_eng like_eng her_eng age_eng or_eng probably_eng even_eng more_eng 
+1391.91 1393.536 JOC she_eng looks_eng her_eng age_eng or_eng maybe_eng a_eng little_eng more_eng 
+1393.509 1395.001 JEN ok_eng _eng yeah_eng 
+1393.695 1394.949 JOC _eng yeah_eng _eng yeah_eng 
+1394.944 1397.133 JOC and_eng _eng its_eng so_eng funny_eng 
+1397.111 1397.698 JOC because_eng he_eng tells_eng me_eng 
+1397.779 1398.023 JOC he_eng goes_eng 
+1398.011 1399.335 JOC _eng oh_eng because_eng you_eng look_eng twenty_eng 
+1399.387 1400.06 JOC he_eng goes_eng _eng he_eng goes_eng 
+1400.049 1401.316 JOC _eng you_eng dont_eng look_eng thirty_eng five_eng 
+1401.293 1403.058 JOC _eng you_eng look_eng more_eng like_eng twenty_eng five_eng 
+1403.043 1403.64 JOC you_eng know_eng 
+1403.646 1404.082 JEN e 
+1404.064 1404.854 JOC and_eng he_eng goes_eng _eng he_eng goes_eng 
+1404.861 1408.013 JOC _eng oh_eng and_eng there_eng _eng when_eng we_eng must_eng go_eng out_eng people_eng look_eng _eng people_eng stare_eng at_eng you_eng 
+1408.001 1408.976 JOC _eng and_eng they_eng must_eng wonder_eng 
+1408.962 1412.621 JOC _eng what_eng is_eng that_eng girl_eng doing_eng with_eng that_eng viejo_spa _eng laughs_eng 
+1411.571 1412.703 JEN _eng he_eng must_eng be_eng loaded_eng 
+1412.698 1415.699 JOC laughs_eng 
+1412.756 1413.842 JEN _eng he_eng must_eng be_eng loaded_eng 
+1413.94 1415.815 JEN _eng thats_eng the_eng sugar_eng daddy_eng 
+1415.789 1417.67 JEN because_eng you_eng know_eng I_eng say_eng that_eng too_eng 
+1417.67 1421.002 JEN when_eng I_eng see_eng like_eng a_eng young_eng girl_eng or_eng a_eng younger_eng girl_eng with_eng a_eng guy_eng 
+1420.459 1423.617 JOC yeah_eng but_eng I_eng dont_eng think_eng he_eng looks_eng that_eng much_eng older_eng than_eng I_eng yeah_eng 
+1422.404 1423.652 JEN _eng no_eng I_eng know_eng but_eng 
+1423.663 1424.7 JOC and_eng I_eng dont_eng 
+1424.7 1430.426 JOC and_eng I_eng guess_eng at_eng the_eng end_eng of_eng the_eng day_eng I_eng dont_eng realize_eng that_eng I_eng _eng I_eng really_eng dont_eng look_eng my_eng age_eng 
+1430.417 1431.096 JOC but_eng 
+1430.579 1431.229 JEN _eng yeah_eng thats_eng the_eng thing_eng 
+1431.223 1432.141 JEN you_eng dont_eng realize_eng _eng you_eng think_eng 
+1432.141 1432.855 JEN _eng no_eng Im_eng thirtyfive_eng 
+1432.849 1434.039 JEN _eng Im_eng fine_eng with_eng it_eng whatever_eng 
+1433.049 1434.216 JOC I_eng think_eng Im_eng fine_eng 
+1434.216 1434.791 JOC yeah_eng 
+1434.779 1439.39 JEN you_eng think_eng that_eng everybody_eng because_eng you_eng know_eng me_eng and_eng we_eng all_eng look_eng the_eng same_eng 
+1437.004 1438.09 JOC _eng in_eng my_eng age_eng group_eng 
+1438.066 1438.537 JOC _eng right_eng 
+1438.531 1439.889 JOC we_eng all_eng look_eng the_eng same_eng 
+1439.612 1440.396 JEN but_eng when_eng you_eng meet_eng 
+1440.367 1441.412 JEN because_eng I_eng know_eng it_eng happens_eng to_eng you_eng 
+1440.68 1441.075 JOC _eng right_eng 
+1441.389 1442.463 JEN today_eng mismo_spa 
+1442.437 1444.26 JEN I_eng did_eng an_eng evaluation_eng on_eng a_eng man_eng 
+1444.248 1446.536 JEN pobrecito_spa hes_eng only_eng been_eng here_eng seven_eng months_eng from_eng Cuba_eng 
+1446.495 1447.104 JOC uhuh_eng 
+1447.101 1450.306 JEN and_eng you_eng know_eng over_eng there_eng they_eng just_eng dont_eng got_eng the_eng nutrients_eng and_eng stuff_eng right_eng 
+1450.286 1452.01 JEN so_eng they_eng dont_eng look_eng good_eng 
+1452.005 1454.014 JEN so_eng Im_eng evaluating_eng this_eng man_eng 
+1453.654 1454.676 spa_spa xxx_spa tenido_spa 
+1454.066 1456.744 JEN _eng mind_eng you_eng I_eng _eng I_eng just_eng get_eng his_eng name_eng and_eng his_eng diagnosis_eng 
+1456.715 1458.428 JEN Im_eng not_eng looking_eng at_eng his_eng age_eng 
+1458.407 1459.963 JEN fractured_eng wrist_eng pa_eng pa_eng pa_eng 
+1459.94 1460.776 JEN I_eng start_eng talking_eng to_eng him_eng 
+1460.754 1461.196 JEN the_eng man_eng starts_eng 
+1461.178 1463.779 JEN _eng _eng spa_eng no_eng porque_eng llevo_eng siete_eng meses_eng a 
+1463.765 1465.17 JEN still_eng not_eng looking_eng at_eng his_eng age_eng 
+1465.146 1465.588 JOC mmhm_eng 
+1465.559 1467.097 JEN I_eng did_eng everything_eng I_eng could_eng to_eng him_eng 
+1467.033 1467.341 JOC mmhm_eng 
+1467.322 1469.133 JOC and_eng youre_eng thinking_eng hes_eng in_eng his_eng forties_eng 
+1467.845 1468.721 JEN _eng after_eng 
+1469.139 1470.788 JEN Im_eng thinking_eng hes_eng pushing_eng fifty_eng 
+1470.793 1471.525 JOC yeah_eng 
+1471.494 1472.8 JEN after_eng he_eng leaves_eng 
+1472.753 1473.49 JOC hes_eng thirty_eng 
+1473.45 1475.04 JEN _eng I_eng go_eng to_eng write_eng his_eng paperwork_eng 
+1475.029 1476.567 JEN born_eng in_eng nineteen_eng seventy_eng two_eng 
+1476.547 1477.551 JOC yeah_eng 
+1477.559 1478.412 JEN and_eng I_eng go_eng like_eng this_eng 
+1478.389 1479.654 JEN _eng oh_eng my_eng god_eng 
+1479.556 1479.886 JOC yeah_eng 
+1479.672 1480.664 JEN and_eng Rogerssengspaeng_eng behind_eng me_eng 
+1480.667 1481.241 JEN and_eng I_eng go_eng 
+1481.207 1481.595 JEN _eng oh_eng my_eng god_eng 
+1481.607 1481.897 JEN and_eng Roger_engspa goes_eng 
+1481.897 1482.443 JEN _eng what_eng happened_eng 
+1482.455 1482.658 JEN and_eng I_eng go_eng 
+1482.687 1484.974 JEN _eng Roger_engspa did_eng you_eng see_eng that_eng gentleman_eng that_eng just_eng left_eng 
+1484.791 1485.156 JEN a_eng new_eng guy_eng 
+1485.145 1485.574 JEN and_eng he_eng goes_eng 
+1485.545 1485.824 JEN _eng yeah_eng 
+1485.807 1486.114 JEN I_eng go_eng 
+1486.097 1487.072 JEN _eng guess_eng what_eng year_eng he_eng was_eng born_eng 
+1487.061 1489.127 JEN Roger_engspa was_eng born_eng in_eng nineteen_eng seventy_eng 
+1489.124 1490.053 JEN and_eng he_eng goes_eng 
+1489.937 1490.825 JEN _eng I_eng dont_eng know_eng 
+1490.808 1491.214 JEN I_eng go_eng 
+1491.191 1491.777 JEN _eng seventy_eng two_eng 
+1491.76 1492.027 JEN he_eng goes_eng 
+1492.013 1495.478 JEN _eng oh_eng my_eng god_eng that_eng mans_eng like_eng my_eng ma_eng _eng that_eng mans_eng my_eng dads_eng age_eng 
+1492.634 1493.522 JOC oh_eng my_eng god_eng 
+1494.95 1495.641 JOC laughs_eng 
+1495.585 1496.403 JEN I_eng go_eng 
+1496.391 1497.448 JEN _eng I_eng know_eng right_eng 
+1497.432 1497.792 JEN I_eng go_eng 
+1497.763 1501.08 JEN _eng are_eng we_eng totally_eng like_eng _eng our_eng _eng our_eng perception_eng is_eng out_eng there_eng 
+1501.016 1503.93 JEN _eng because_eng you_eng know_eng we_eng think_eng that_eng were_eng cool_eng were_eng young_eng and_eng hip_eng 
+1503.492 1505.93 JOC no_eng as_eng far_eng as_eng Im_eng concerned_eng Im_eng cool_eng and_eng hip_eng 
+1505.913 1510.217 JEN because_eng everybody_eng that_eng you_eng know_eng thats_eng your_eng age_eng more_eng or_eng less_eng fits_eng the_eng bill_eng I_eng think_eng 
+1510.22 1512.229 JOC I_eng dont_eng know_eng but_eng 
+1510.748 1514.005 JEN _eng so_eng when_eng you_eng see_eng someone_eng _eng Its_eng like_eng short_eng 
+1513.976 1514.928 JOC but_eng I_eng mean_eng think_eng of_eng it_eng 
+1514.324 1515.729 JEN does_eng that_eng happen_eng to_eng you_eng with_eng the_eng shortness_eng 
+1515.709 1519.238 JEN like_eng I_eng _eng I_eng know_eng that_eng Im_eng short_eng 
+1519.217 1522.545 JEN but_eng I_eng dont_eng realize_eng it_eng until_eng 
+1521.309 1523.143 JOC _eng I_eng _eng I_eng think_eng Im_eng big_eng 
+1523.157 1527.745 JEN _eng until_eng either_eng Im_eng standing_eng next_eng to_eng someone_eng very_eng tall_eng or_eng I_eng see_eng someone_eng very_eng short_eng 
+1527.746 1529.023 JEN like_eng the_eng other_eng day_eng I_eng was_eng in_eng Publix_engspa 
+1528.948 1530.602 JEN and_eng I_eng _eng I_eng just_eng cracked_eng myself_eng up_eng 
+1530.6 1532.237 JEN I_eng was_eng there_eng pushing_eng my_eng little_eng cart_eng 
+1532.231 1533.752 JEN and_eng from_eng a_eng distance_eng there_eng was_eng a_eng g_eng 
+1533.729 1535.099 JEN she_eng must_eng have_eng been_eng Philapino_engspa or_eng something_eng 
+1535.102 1537.291 JEN the_eng lady_eng was_eng like_eng this_eng tiny_eng 
+1535.834 1538.185 JOC yes_eng I_eng saw_eng one_eng in_eng the_eng mall_eng yesterday_eng 
+1537.478 1538.593 JEN she_eng was_eng like_eng this_eng tiny_eng 
+1538.454 1538.744 JOC yes_eng 
+1538.575 1540.125 JEN and_eng Im_eng _eng as_eng Im_eng pushing_eng the_eng cart_eng 
+1540.114 1540.88 JEN mind_eng you_eng shes_eng far_eng away_eng 
+1540.851 1541.281 JEN and_eng I_eng go_eng 
+1541.26 1543.703 JEN xxx_eng short_eng _eng whisper_eng 
+1541.73 1543.106 JOC _eng shes_eng very_eng short_eng _eng whisper_eng 
+1543.723 1545.749 JEN and_eng Im_eng doing_eng the_eng whole_eng to_eng myself_eng 
+1544.762 1545.883 JOC yeah_eng yeah_eng yeah_eng 
+1545.792 1548.694 JEN as_eng soon_eng as_eng I_eng walked_eng by_eng her_eng she_eng was_eng still_eng shorter_eng than_eng me_eng 
+1548.7 1550.047 JEN but_eng couple_eng of_eng inches_eng 
+1549.304 1550.401 JOC but_eng not_eng that_eng much_eng 
+1550.399 1550.857 JOC mmhm_eng 
+1550.834 1551.641 JEN and_eng I_eng thought_eng 
+1551.641 1555.467 JEN _eng oh_eng my_eng god_eng is_eng that_eng what_eng I_eng look_eng like_eng pushing_eng the_eng frikking_eng Publix_engspa cart_eng 
+1555.04 1557.252 JOC laughs_eng 
+1557.219 1559.117 JEN because_eng I_eng dont_eng feel_eng that_eng thats_eng what_eng I_eng look_eng like_eng 
+1559.099 1562.329 JEN I_eng feel_eng that_eng Im_eng walking_eng around_eng very_eng _eng tall_eng and_eng proud_eng 
+1560.617 1564.297 JOC _eng well_eng I_eng think_eng Im_eng tall_eng _eng until_eng Kathy_engspa comes_eng over_eng 
+1564.289 1565.438 JEN right_eng mm_eng yeah_eng 
+1565.212 1566.077 JOC shes_eng eleven_eng 
+1566.001 1566.483 JEN yeah_eng 
+1566.71 1567.76 JEN and_eng then_eng you_eng go_eng 
+1567.093 1567.447 JOC _eng yeah_eng 
+1567.658 1568.866 JOC yup_eng 
+1568.854 1569.644 JEN and_eng youre_eng taller_eng than_eng 
+1569.661 1569.853 JOC right_eng 
+1569.841 1570.073 JEN yeah_eng 
+1570.05 1571.17 JOC right_eng 
+1571.173 1574.639 JOC and_eng _eng and_eng I_eng really_eng _eng I_eng do_eng think_eng Im_eng _eng Im_eng big_eng 
+1574.624 1575.408 JOC and_eng its_eng funny_eng 
+1575.414 1577.852 JOC because_eng people_eng at_eng work_eng think_eng Im_eng big_eng too_eng 
+1577.848 1580.745 JEN well_eng because_eng I_eng think_eng either_eng they_eng know_eng you_eng already_eng 
+1580.746 1582.314 JEN they_eng dont_eng associate_eng 
+1581.315 1584.752 JOC thats_eng something_eng that_eng somebody_eng _eng somebody_eng used_eng to_eng tell_eng me_eng all_eng the_eng time_eng 
+1582.337 1583.718 JEN _eng or_eng your_eng personality_eng 
+1584.731 1587.704 JOC whenever_eng and_eng _eng and_eng as_eng a_eng matter_eng of_eng fact_eng I_eng get_eng that_eng comment_eng a_eng lot_eng 
+1587.689 1589.326 JOC and_eng then_eng _eng and_eng I_eng even_eng get_eng it_eng from_eng Frank_engspa 
+1589.32 1593.491 JOC and_eng Frankssengspaeng_eng only_eng like_eng _eng five_eng eight_eng five_eng nine_eng 
+1591.146 1592.765 JEN _eng hes_eng xxx_eng five_eng eight_eng five_eng nine_eng 
+1593.336 1593.957 JEN yeah_eng 
+1593.944 1597.415 JOC maybe_eng _eng no_eng maybe_eng hes_eng _eng maybe_eng hes_eng like_eng between_eng five_eng nine_eng and_eng five_eng ten_eng 
+1595.662 1596.829 JEN _eng a_eng little_eng smaller_eng 
+1597.65 1598.584 JEN yeah_eng hes_eng not_eng 
+1598.666 1598.95 JOC no_eng 
+1598.944 1599.687 JEN hes_eng average_eng 
+1599.672 1600.357 JOC normal_eng 
+1600.34 1601.152 JEN yeah_eng hes_eng normal_eng 
+1600.793 1602.488 JOC _eng but_eng for_eng me_eng thats_eng super_eng tall_eng 
+1602.466 1603.186 JEN yeah_eng for_eng 
+1602.664 1603.087 JOC _eng because_eng 
+1603.186 1603.952 JEN well_eng not_eng really_eng 
+1603.941 1605.804 JEN Jeff_engspa was_eng six_eng something_eng 
+1605.612 1606.326 JOC four_eng 
+1606.295 1612.218 JOC but_eng _eng even_eng when_eng I_eng put_eng on_eng my_eng big_eng six_eng inch_eng heals_eng Im_eng still_eng only_eng five_eng six_eng 
+1607.353 1608.468 JEN _eng that_eng was_eng extreme_eng too_eng 
+1612.191 1615.186 JOC so_eng hes_eng five_eng ten_eng so_eng Im_eng good_eng 
+1612.301 1613.439 JEN _eng yeah_eng it_eng doesnt_eng 
+1614.246 1615.308 JEN no_eng its_eng still_eng good_eng right_eng 
+1615.301 1627.444 JOC but_eng its_eng funny_eng how_eng people_eng who_eng know_eng me_eng and_eng even_eng people_eng who_eng know_eng me_eng who_eng see_eng me_eng every_eng day_eng now_eng that_eng he_eng gets_eng to_eng stand_eng up_eng close_eng to_eng me_eng and_eng put_eng his_eng arms_eng around_eng me_eng and_eng he_eng says_eng things_eng like_eng 
+1627.43 1629.908 JOC _eng wow_eng youre_eng really_eng tiny_eng 
+1629.888 1631.572 JOC and_eng Im_eng like_eng 
+1631.554 1632.117 JOC _eng yeah_eng 
+1632.1 1632.559 JOC you_eng know_eng 
+1632.489 1633.661 JOC _eng Im_eng only_eng five_eng feet_eng tall_eng 
+1633.65 1634.021 JEN right_eng 
+1633.731 1634.288 JOC _eng and_eng hes_eng like_eng 
+1634.291 1635.428 JOC _eng oh_eng my_eng god_eng 
+1635.428 1636.682 JOC hes_eng like_eng in_eng shock_eng 
+1636.656 1638.838 JOC and_eng I_eng dont_eng wear_eng heels_eng to_eng work_eng any_more_eng 
+1638.827 1639.64 JOC I_eng wear_eng sneakers_eng 
+1639.552 1639.831 JEN yeah_eng 
+1639.819 1640.924 JOC but_eng I_eng think_eng its_eng 
+1640.936 1642.474 JEN your_eng presence_eng 
+1641.824 1642.637 JOC _eng I_eng think_eng its_eng attitude_eng 
+1642.619 1643.304 JOC its_eng presence_eng 
+1643.293 1643.595 JOC yeah_eng 
+1643.432 1643.949 JEN your_eng presence_eng 
+1643.859 1645.473 JOC people_eng think_eng _eng people_eng think_eng youre_eng taller_eng 
+1644.027 1644.306 JEN _eng yeah_eng 
+1645.496 1645.873 JOC but_eng 
+1645.856 1646.692 JEN right_eng 
+1646.677 1647.148 JOC youre_eng short_eng 
+1646.886 1650.334 JEN _eng and_eng I_eng think_eng it_eng has_eng to_eng do_eng with_eng if_eng youre_eng used_eng to_eng seeing_eng someone_eng in_eng cariño_spa 
+1648.105 1648.877 JOC _eng I_eng think_eng 
+1650.318 1651.846 JEN its_eng like_eng um_eng 
+1651.835 1653.849 JOC I_eng think_eng Im_eng _eng I_eng swear_eng Im_eng big_eng 
+1653.817 1656.07 JEN its_eng kind_eng of_eng like_eng with_eng Andrew_engspa 
+1656.047 1659.025 JEN I_eng know_eng Andrewssengspaeng_eng huge_eng 
+1659.005 1661.071 JEN but_eng Ive_eng known_eng him_eng for_eng so_eng long_eng 
+1661.042 1662.656 JEN it_eng doesnt_eng shock_eng me_eng any_more_eng 
+1662.64 1664.132 JEN it_eng doesnt_eng surprise_eng me_eng any_more_eng 
+1663.935 1664.475 JOC mmhm_eng 
+1664.481 1665.729 JEN its_eng normal_eng 
+1665.703 1666.551 JEN its_eng 
+1666.545 1667.282 JOC yeah_eng me_eng either_eng 
+1666.841 1667.381 JEN _eng you_eng know_eng what_eng I_eng mean_eng 
+1667.247 1668.292 JOC yeah_eng its_eng xxx_eng 
+1667.375 1668.948 JEN its_eng almost_eng kinda_eng like_eng its_eng normal_eng 
+1668.939 1670.785 JEN now_eng if_eng someone_eng points_eng it_eng out_eng to_eng you_eng 
+1670.732 1670.947 JEN you_eng go_eng 
+1670.93 1671.986 JEN _eng oh_eng yeah_eng yeah_eng 
+1671.96 1672.61 JEN ah_eng whatever_eng 
+1672.547 1673.052 JOC mmhm_eng 
+1672.959 1675.147 JEN or_eng maybe_eng you_eng see_eng someone_eng out_eng in_eng the_eng street_eng 
+1675.132 1677.007 JEN and_eng maybe_eng theyre_eng not_eng even_eng as_eng fat_eng as_eng him_eng 
+1676.995 1677.366 JEN and_eng you_eng go_eng 
+1677.355 1679.265 JEN _eng oh_eng my_eng god_eng that_eng persons_eng huge_eng 
+1677.657 1678.945 JOC _eng oh_eng my_eng god_eng that_eng persons_eng huge_eng 
+1678.932 1680.191 JOC youre_eng right_eng 
+1680.191 1680.934 JOC why_eng is_eng that_eng 
+1680.913 1682.05 spa_spa es_spa cariño_spa 
+1682.033 1684.239 JEN I_eng think_eng its_eng just_eng _eng you_eng get_eng used_eng to_eng it_eng 
+1684.224 1685.809 JOC wow_eng youre_eng right_eng 
+1685.194 1685.71 JEN _eng right_eng 
+1685.774 1686.488 JOC no_eng youre_eng right_eng 
+1686.467 1687.204 JEN because_eng you_eng see_eng Andrew_engspa 
+1687.216 1688.267 JEN and_eng you_eng know_eng hes_eng a_eng big_eng guy_eng 
+1688.245 1689.081 JOC no_eng but_eng youre_eng right_eng 
+1689.081 1690.99 JOC but_eng you_eng _eng you_eng _eng you_eng get_eng over_eng it_eng really_eng quick_eng 
+1689.185 1689.911 JEN _eng but_eng youre_eng used_eng to_eng it_eng 
+1689.917 1690.317 JEN _eng yeah_eng 
+1690.961 1691.478 JEN hes_eng a_eng big_eng guy_eng 
+1691.455 1692.575 JEN you_eng just_eng say_eng hes_eng a_eng big_eng guy_eng 
+1692.546 1693.347 JEN hes_eng a_eng big_eng guy_eng _eng whispers_eng 
+1693.339 1694.396 JEN xxx_eng _eng whispers_eng 
+1694.396 1695.156 JOC yeah_eng you_eng get_eng over_eng it_eng 
+1695.063 1696.265 JEN and_eng then_eng you_eng see_eng some_eng really_eng fat_eng guy_eng 
+1696.265 1696.474 JEN and_eng you_eng go_eng 
+1696.462 1697.391 JEN _eng wow_eng that_eng guys_eng fat_eng 
+1696.593 1697.871 JOC _eng oh_eng wow_eng that_eng guys_eng huge_eng 
+1697.492 1698.223 JEN and_eng then_eng you_eng sit_eng there_eng and_eng go_eng 
+1698.2 1698.467 JEN _eng u_eng 
+1698.473 1699.233 JOC oh_eng 
+1699.224 1700.884 JOC but_eng no_eng 
+1699.95 1700.373 JEN _eng well_eng 
+1700.391 1702.022 JEN so_eng oh_eng my_eng god_eng 
+1701.07 1701.401 JOC _eng mm_eng 
+1701.989 1702.894 JEN so_eng lets_eng go_eng back_eng 
+1702.877 1705.09 JEN I_eng dont_eng know_eng if_eng xxx_eng the_eng xxx_eng story_eng 
+1705.078 1706.077 JEN but_eng Im_eng gonna_eng say_eng it_eng anyways_eng 
+1706.065 1707.029 JEN ok_eng 
+1707.015 1711.889 JEN I_eng think_eng I_eng told_eng you_eng that_eng Tommyssengspaeng_eng friend_eng that_eng really_eng tall_eng guy_eng 
+1711.865 1712.463 JOC the_eng gringo_spa 
+1712.365 1713.253 JEN the_eng awkwardly_eng 
+1712.464 1713.241 JOC that_eng _eng well_eng 
+1713.224 1714.31 JOC is_eng he_eng a_eng gringo_spa 
+1713.352 1714.048 JEN _eng well_eng hes_eng not_eng gringo_spa 
+1714.269 1715.099 JOC no_eng hes_eng not_eng 
+1715.084 1716.007 JOC he_eng just_eng looks_eng gringo_spa 
+1715.2 1715.734 JEN _eng hes_eng 
+1716.007 1717.133 JEN right_eng 
+1717.129 1718.598 JEN he_eng saw_eng Jana_engspa 
+1718.575 1720.346 JEN and_eng he_eng was_eng all_eng about_eng 
+1719.051 1720.218 JOC _eng o 
+1720.23 1723.094 JOC and_eng he_eng bought_eng her_eng the_eng Coach_engspa thing_eng 
+1721.997 1722.421 JEN _eng yes_eng 
+1722.415 1723.251 JEN ok_eng xxx_eng 
+1723.251 1724.337 JEN so_eng we_eng went_eng to_eng the_eng Heat_engspa game_eng 
+1724.314 1725.475 JEN and_eng the_eng whole_eng thing_eng right_eng 
+1725.442 1726.894 JEN ok_eng very_eng good_eng 
+1726.885 1728.963 JEN then_eng a_eng couple_eng of_eng days_eng later_eng 
+1728.585 1730.315 JOC _eng what_eng does_eng he_eng do_eng again_eng xxx_eng 
+1730.013 1731.035 JEN he_eng 
+1731.076 1731.645 JOC no_eng 
+1731.645 1732.492 JEN by_eng no_eng means_eng 
+1732.484 1733.628 JOC hes_eng eating_eng a_eng cable_eng 
+1733.616 1734.922 JOC hes_eng comiendose_spa un_spa cable_spa 
+1734.436 1735.051 JEN _eng mmhm_eng 
+1735.069 1737.478 JOC pant_eng like_eng J_d_eng says_eng pant_eng pant_eng 
+1735.846 1736.421 JEN _eng yeah_eng yeah_eng 
+1737.474 1740.423 JEN n_eng n_eng yeah_eng hes_eng eating_eng _eng hes_eng in_eng the_eng cable_eng 
+1738.769 1743.131 JOC _eng _eng spa_eng la_eng rata_eng la_eng rata_eng comiéndose_eng cable_eng _eng laughs_eng 
+1740.435 1741.267 JEN _eng hes_eng in_eng the_eng 
+1741.813 1742.829 JEN hes_eng in_eng the_eng cable_eng 
+1743.387 1744.501 spa_spa pero_spa espérate_spa 
+1744.492 1746.507 JOC why_eng would_eng he_eng buy_eng her_eng such_eng a_eng gift_eng then_eng 
+1746.5 1747.632 JEN it_eng was_eng ten_eng dollars_eng 
+1747.608 1750.006 JEN I_eng mean_eng it_eng normally_eng runs_eng like_eng twe_eng twenty_eng or_eng thirty_eng 
+1749.959 1751.373 JEN but_eng he_eng _eng I_eng guess_eng he_eng went_eng to_eng see_eng all_eng of_eng it_eng 
+1751.362 1752.528 JEN its_eng still_eng a_eng cute_eng little_eng gift_eng 
+1751.884 1753.202 JOC _eng aw_eng o ok_eng 
+1752.552 1754.572 JEN _eng I_eng mean_eng it_eng was_eng _eng it_eng was_eng a_eng very_eng cute_eng sign_eng 
+1753.179 1754.607 JOC _eng that_eng is_eng cute_eng 
+1754.584 1755.373 JEN it_eng was_eng very_eng cute_eng ok_eng 
+1755.336 1757.31 JEN so_eng this_eng is_eng the_eng thing_eng 
+1757.31 1762.892 JEN so_eng about_eng a_eng week_eng after_eng the_eng Heat_engspa game_eng whatever_eng _eng he_eng _eng calls_eng up_eng Tommy_engspa 
+1762.857 1766.761 JEN _eng hey_eng Im_eng gonna_eng do_eng a_eng barbecue_eng in_eng my_eng house_eng so_eng everyone_eng can_eng come_eng over_eng and_eng hang_eng out_eng bi_eng bi_eng bi_eng ba_eng ba_eng ba_eng 
+1766.117 1766.715 JOC _eng mmhm_eng 
+1766.728 1768.481 JEN and_eng Tommy_engspa 
+1768.075 1768.934 JOC _eng what_eng does_eng she_eng say_eng about_eng him_eng 
+1768.981 1769.631 JOC does_eng she_eng like_eng 
+1769.613 1770.629 JEN so_eng Tommy_engspa goes_eng 
+1770.609 1773.274 JEN _eng i ok_eng yeah_eng well_eng be_eng there_eng 
+1773.253 1775.157 JEN so_eng Tommy_engspa hangs_eng up_eng the_eng phone_eng and_eng tells_eng me_eng 
+1775.128 1777.311 JEN _eng oh_eng my_eng god_eng this_eng guys_eng gonna_eng do_eng a_eng barbecue_eng at_eng his_eng house_eng 
+1777.308 1778.434 JEN and_eng I_eng go_eng 
+1778.428 1779.711 JEN _eng ok_eng so_eng whats_eng the_eng problem_eng 
+1779.705 1783.892 JEN Tommy_engspa has_eng been_eng to_eng his_eng house_eng one_eng or_eng two_eng times_eng previously_eng when_eng the_eng guy_eng was_eng still_eng married_eng mind_eng you_eng 
+1783.785 1784.261 JOC mmhm_eng 
+1784.249 1786.478 JOC oh_eng I_eng remember_eng this_eng situation_eng 
+1786.469 1788.152 JEN that_eng the_eng house_eng was_eng super_eng tiny_eng 
+1787.891 1788.756 JOC that_eng they_eng dont_eng clean_eng up_eng 
+1787.967 1789.122 JEN _eng and_eng it_eng was_eng really_eng piggy_eng 
+1789.11 1790.358 JEN right_eng it_eng was_eng really_eng piggy_eng whatever_eng 
+1790.356 1791.337 JOC sighs_eng 
+1791.105 1791.935 JEN so_eng Tommy_engspa tells_eng me_eng 
+1791.929 1794.658 JEN _eng oh_eng my_eng god_eng this_eng guys_eng gonna_eng do_eng a_eng barbecue_eng 
+1794.643 1796.257 spa_spa imagínate_spa tú_spa 
+1796.24 1797.215 JEN and_eng me_spa da_spa pena_spa 
+1797.215 1798.184 JEN Im_eng not_eng gonna_eng tell_eng him_eng no_eng 
+1798.155 1799.235 JEN what_eng am_eng I_eng gonna_eng tell_eng him_eng 
+1798.252 1799.314 JOC _eng is_eng he_eng living_eng alone_eng now_eng 
+1799.308 1800.771 JEN hes_eng living_eng alone_eng but_eng in_eng the_eng same_eng house_eng 
+1800.771 1802.571 JEN because_eng it_eng was_eng h_eng _eng its_eng his_eng dads_eng house_eng 
+1802.561 1804.256 JEN so_eng the_eng chick_eng left_eng 
+1804.233 1805.516 JOC with_eng the_eng kids_eng 
+1805.471 1806.185 JEN right_eng 
+1806.168 1806.974 JOC where_eng did_eng they_eng go_eng 
+1806.388 1807.102 JEN _eng he_eng has_eng the_eng kids_eng 
+1807.085 1808.199 JEN I_eng dont_eng know_eng where_eng she_eng went_eng 
+1808.196 1809.212 JEN but_eng whatever_eng _eng mumbles_eng 
+1809.195 1810.356 JEN so_eng anyway_eng 
+1809.595 1810.693 JOC _eng _eng spa_eng ella_eng es_eng gringa_eng también_eng 
+1810.664 1811.773 JEN no_eng shes_eng Hispanic_eng 
+1811.767 1812.354 JEN shes_eng hispanic_eng 
+1812.359 1813.021 JOC oh_eng 
+1813.019 1814.83 JEN so_eng _eng he_eng isnt_eng 
+1814.482 1816.014 JOC _eng why_eng do_eng I_eng think_eng that_eng hes_eng un_spa gringo_spa 
+1814.818 1815.463 JEN _eng hes_eng Cuban_eng 
+1815.991 1816.328 JEN hes_eng Cuban_eng 
+1816.31 1816.804 JEN hes_eng Cuban_eng 
+1816.713 1817.27 JOC hes_eng Cuban_eng _eng whispers_eng 
+1817.276 1818.774 JEN e hes_eng just_eng blond_eng and_eng blue_eng eyed_eng 
+1818.785 1819.499 JOC ok_eng 
+1819.163 1819.854 JEN or_eng green_eng eyes_eng 
+1819.839 1821.07 JEN e so_eng anyways_eng 
+1821.058 1821.662 JEN so_eng Tommy_engspa says_eng 
+1821.65 1822.921 JEN _eng oh_eng my_eng god_eng Im_eng not_eng gonna_eng tell_eng him_eng 
+1822.906 1824.375 spa_spa qué_spa pena_spa 
+1823.754 1824.381 JOC _eng _eng spa_eng que_eng no_eng 
+1824.352 1824.903 JEN you_eng know_eng 
+1824.904 1825.71 JEN _eng I_eng cant_eng go_eng to_eng your_eng house_eng 
+1825.687 1827.011 JEN _eng because_eng youre_eng a_eng pig_eng or_eng whatever_eng 
+1825.85 1826.86 JOC laughs_eng 
+1826.985 1829.696 JEN and_eng Id_eng much_eng less_eng eat_eng there_eng 
+1829.679 1830.62 JEN so_eng 
+1830.638 1833.297 JOC oye_spa send_eng Mona_engspa before_eng laughs_eng 
+1832.363 1833.954 JEN _eng yeah_eng yeah_eng listen_eng 
+1833.821 1834.407 JOC oh_eng my_eng god_eng 
+1833.931 1834.784 JEN _eng you_eng need_eng a_eng help_eng 
+1834.767 1835.603 JEN so_eng anyways_eng 
+1835.744 1837.707 JEN so_eng of_eng course_eng he_eng calls_eng Jana_engspa 
+1837.691 1839.346 JEN inviting_eng her_eng over_eng 
+1839.311 1840.669 JEN so_eng she_eng goes_eng 
+1840.66 1844.114 JEN this_eng is_eng where_eng the_eng whole_eng I_eng turned_eng into_eng xxx_eng 
+1844.064 1845.33 JEN thats_eng what_eng Marie_engspa tells_eng me_eng 
+1845.336 1845.864 JEN she_eng goes_eng 
+1845.847 1847.577 JEN _eng oh_eng my_eng god_eng but_eng youve_eng turned_eng into_eng xxx_eng 
+1847.596 1849.943 JEN I_eng called_eng Jana_engspa 
+1849.891 1850.129 JEN and_eng I_eng go_eng 
+1850.1 1850.901 JEN _eng hey_eng are_eng you_eng gonna_eng go_eng 
+1850.889 1851.226 JEN and_eng she_eng goes_eng 
+1851.226 1852.486 JEN _eng yeah_eng of_eng course_eng theres_eng free_eng food_eng 
+1852.482 1853.475 JEN _eng yeah_eng Im_eng going_eng 
+1852.866 1853.226 JOC _eng uhuh_eng 
+1853.458 1853.87 JEN _eng Im_eng going_eng 
+1853.691 1853.998 JEN I_eng go_eng 
+1853.987 1854.451 JEN _eng ok_eng great_eng 
+1854.451 1855.548 JEN _eng Ill_eng meet_eng you_eng there_eng 
+1855.531 1856.976 JEN _eng were_eng gonna_eng go_eng like_eng around_eng three_eng or_eng four_eng 
+1856.483 1858.517 JOC _eng have_eng they_eng been_eng talking_eng on_eng the_eng phone_eng 
+1858.508 1859.193 JOC no_eng 
+1858.618 1859.216 JEN _eng not_eng really_eng 
+1859.216 1861.649 JEN this_eng was_eng briefly_eng after_eng the_eng whole_eng Heat_engspa game_eng 
+1861.639 1863.798 JEN ok_eng 
+1863.776 1864.659 JEN so_eng 
+1864.252 1865.576 JOC _eng its_eng those_eng xxx_eng back_eng there_eng 
+1865.083 1865.582 JEN yeah_eng 
+1865.57 1867.615 JOC Im_eng not_eng about_eng to_eng call_eng it_eng a_eng humane_eng 
+1865.693 1866.471 JEN on_eng the_eng way_eng o_eng 
+1867.639 1869.027 JOC Owen_engspa tells_eng me_eng every_eng day_eng 
+1869.032 1871.124 JOC _eng por_spa qué_spa tú_spa no_spa llamas_spa al_spa animal_eng control_eng 
+1871.13 1873.823 JOC bi_eng bu_eng bu_eng bi_eng pa_eng pa_eng bi_eng du_eng du_eng du_eng di_eng di_eng di_eng 
+1872.047 1872.993 JEN _eng yeah_eng thats_eng really_eng sad_eng 
+1874.164 1877.525 JOC ay_spa but_eng at_eng the_eng end_eng of_eng the_eng day_eng you_eng know_eng its_eng just_eng not_eng in_eng my_eng nature_eng 
+1876.568 1878.112 JEN _eng you_eng know_eng whats_eng gonna_eng happen_eng yeah_eng 
+1878.085 1879.089 spa_spa ay_spa _spa sigh_spa 
+1879.014 1880.767 JEN so_eng _eng ok_eng so_eng I_eng tell_eng Jana_engspa 
+1880.751 1882.888 JEN _eng listen_eng Im_eng gonna_eng be_eng there_eng like_eng between_eng three_eng or_eng four_eng 
+1882.866 1885.015 JEN _eng its_eng a_eng barbecue_eng whatever_eng 
+1885.021 1886.066 JEN _eng ok_eng what_eng are_eng you_eng gonna_eng wear_eng 
+1886.054 1886.455 JEN and_eng I_eng told_eng her_eng 
+1886.437 1889.144 JEN _eng xxx_eng I_eng actually_eng thought_eng of_eng wearing_eng like_eng one_eng of_eng my_eng cute_eng summer_eng dresses_eng 
+1889.152 1892.033 JEN _eng but_eng at_eng the_eng end_eng of_eng the_eng day_eng its_eng this_eng guys_eng house_eng 
+1892.027 1894.192 JEN _eng whatever_eng I_eng think_eng Im_eng just_eng gonna_eng wear_eng little_eng bermudas_eng 
+1894.171 1896.238 JEN _eng and_eng you_eng know_eng call_eng it_eng a_eng day_eng 
+1896.222 1900.98 JEN _eng oh_eng I_eng just_eng bought_eng this_eng little_eng _eng I_eng just_eng got_eng this_eng little_eng um_eng like_eng summer_eng dress_eng from_eng Old_navy_engspa 
+1896.356 1898.521 JOC raspberry_eng _eng laughs_eng 
+1900.968 1902.048 JEN _eng because_eng I_eng went_eng to_eng go_eng buy_eng shorts_eng 
+1902.036 1903.058 JEN _eng and_eng Im_eng too_eng fat_eng 
+1903.013 1903.832 JEN _eng and_eng ba_eng ba_eng ba_eng ba_eng ba_eng ba_eng 
+1903.843 1904.772 JEN _eng ok_eng yeah_eng 
+1904.751 1907.922 JEN she_eng calls_eng me_eng like_eng at_eng three_eng thirty_eng 
+1907.916 1912.933 JEN were_eng in_eng the_eng Publix_engspa nearby_eng _eng buying_eng stuff_eng to_eng take_eng to_eng the_eng frikking_eng barbecue_eng 
+1912.931 1914.527 JOC mmhm_eng 
+1914.516 1915.131 JEN she_eng calls_eng me_eng 
+1915.108 1916.391 JEN _eng hey_eng Im_eng here_eng already_eng 
+1916.387 1918.813 JEN _eng oh_eng my_eng god_eng I_eng cant_eng believe_eng I_eng beat_eng you_eng ba_eng ba_eng bi_eng ba_eng ba_eng ba_eng ba_eng 
+1918.798 1919.019 JEN I_eng go_eng 
+1919.013 1920.534 JEN _eng bueno_spa were_eng almost_eng there_eng 
+1920.534 1921.538 JEN _eng were_eng in_eng the_eng Publix_engspa 
+1921.516 1922.654 JEN right_eng 
+1922.648 1924.071 JOC come_eng in_eng _eng yells_eng 
+1924.056 1925.589 JEN enter_eng _eng yells_eng 
+1925.565 1927.696 JOC enter_eng _eng yells_eng 
+1927.681 1929.608 spa_spa abre_spa _spa yells_spa 
+1929.592 1931.658 JOC the_eng doors_eng not_eng locked_eng 
+1930.788 1931.142 JEN _eng xxx_eng 
+1931.637 1933.291 JOC did_eng I_eng lock_eng the_eng door_eng 
+1933.276 1936.382 JEN maybe_eng Chaquita_engspa did_eng or_eng somebody_eng did_eng on_eng their_eng way_eng out_eng 
+1935.355 1936.464 JOC _eng I_eng hope_eng not_eng 
+1936.469 1938.809 JEN I_eng dont_eng think_eng she_eng knew_eng _eng she_eng would_eng know_eng how_eng 
+1938.771 1940.431 spa_spa abre_spa _spa yells_spa 
+1940.415 1943.144 JEN I_eng think_eng you_eng can_eng disconnect_eng yourself_eng for_eng two_eng seconds_eng 
+1943.111 1945.044 JOC what_eng a_eng grave_eng inconvenience_eng 
+1945.062 1946.492 JEN what_eng a_eng great_eng 
+1946.242 1947.258 JOC I_eng dont_eng understand_eng 
+1946.538 1948.639 JEN but_eng was_eng it_eng somebody_eng knocking_eng or_eng was_eng it_eng them_eng playing_eng 
+1948.63 1950.871 JEN oh_eng yeah_eng yeah_eng now_eng yeah_eng yeah_eng now_eng theres_eng knocking_eng ok_eng 
+1950.681 1952.434 JOC the_eng doors_eng not_eng locked_eng 
+1952.407 1956.209 JOC oh_eng it_eng is_eng locked_eng 
+1956.211 1957.634 JOC somebody_eng knocking_eng 
+1956.74 1958.075 JEN a I_eng told_eng you_eng 
+1957.61 1958.992 JOC somebodys_eng at_eng the_eng door_eng 
+1958.978 1960.946 JOC I_eng dont_eng know_eng why_eng somebody_eng did_eng that_eng 
+1960.928 1962.815 spa_spa yo_spa no_spa cerré_spa la_spa puerta_spa _spa 
+1962.811 1965.981 OSE www_eng 
+1965.978 1967.528 OSE www_eng 
+1967.522 1968.462 JEN hes_eng having_eng a_eng blast_eng 
+1968.445 1969.194 JEN hes_eng having_eng a_eng blast_eng 
+1969.179 1972.824 OSE www_eng 
+1972.792 1974.511 JEN no_eng pero_spa remember_eng theyre_eng on_eng break_eng 
+1974.418 1976.351 JOC Im_eng hooked_eng up_eng to_eng the_eng microphone_eng with_eng my_eng friend_eng 
+1976.212 1977.407 JOC so_eng do_eng your_eng thing_eng 
+1977.399 1978.049 OSE www_eng 
+1978.038 1978.369 JEN yes_eng 
+1978.369 1981.477 OSE www_eng 
+1981.453 1982.521 JOC well_eng theyre_eng not_eng going_eng to_eng bed_eng yet_eng 
+1982.521 1984.611 JOC but_eng Im_eng hooked_eng up_eng to_eng this_eng thing_eng now_eng so_eng 
+1983.177 1984.849 spa_spa sí_spa él_spa está_spa _spa él_spa está_spa _spa está_spa bien_spa 
+1985.143 1985.834 spa_spa él_spa está_spa bien_spa 
+1985.811 1987.228 OSE www_eng 
+1987.205 1988.627 spa_spa xxx_spa que_spa si_spa no_spa 
+1988.627 1990.909 spa_spa no_spa pero_spa me_spa lo_spa tiene_spa que_spa volver_spa a_spa traer_spa 
+1990.855 1991.824 OSE www_eng 
+1991.772 1992.161 spa_spa dale_spa 
+1992.161 1992.73 spa_spa ah_spa sí_spa mira_spa 
+1992.719 1995.424 spa_spa hablen_spa con_spa este_spa muchacho_spa que_spa está_spa de_spa lo_spa más_spa interesante_spa 
+1993.816 1995.389 JOC _eng _eng spa_eng mira_eng pero_eng siéntense_eng ahí_eng afuera_eng 
+1995.455 1996.355 JEN hes_eng smoking_eng 
+1996.349 1997.185 JEN and_eng hes_eng drinking_eng 
+1996.64 1998.126 spa_spa e_spa este_spa muchacho_spa habla_spa español_spa 
+1998.099 2005.056 OSE www_eng 
+2005.227 2008.35 OSE www_eng 
+2008.411 2009.619 spa_spa estamos_spa en_spa la_spa grabadora_spa 
+2009.624 2012.881 spa_spa porque_spa ella_spa tiene_spa un_spa estudio_spa que_spa está_spa haciendo_spa de_spa la_spa universidad_spa 
+2012.879 2014.237 OSE www_eng 
+2014.214 2016.067 JEN xxx_eng 
+2014.384 2014.935 JOC _eng the_eng second_eng one_eng 
+2014.929 2015.504 JOC _eng the_eng second_eng one_eng 
+2015.51 2016.206 JOC _eng Marta_engspa the_eng second_eng one_eng 
+2016.195 2016.752 JOC _eng the_eng second_eng one_eng 
+2016.748 2017.363 JOC mmhm_eng 
+2017.357 2019.139 spa_spa xxx_spa _spa él_spa es_spa inglés_spa 
+2019.116 2020.196 spa_spa pero_spa sabe_spa español_spa 
+2019.438 2022.045 spa_spa oye_spa pero_spa siéntate_spa allá_spa fuera_spa quince_spa minutos_spa 
+2022.027 2023.618 OSE www_eng 
+2023.632 2024.317 spa_spa cómo_spa qué_spa no_spa 
+2024.311 2026.012 spa_spa allí_spa está_spa en_spa el_spa pasillo_spa en_spa el_spa pasillo_spa 
+2026.006 2028.206 JEN pero_spa why_eng _eng why_eng do_eng you_eng insist_eng on_eng the_eng plastic_eng cups_eng 
+2028.134 2029.022 JEN I_eng dont_eng understand_eng 
+2028.215 2030.212 JOC whats_eng with_eng you_eng and_eng the_eng pl_eng _eng and_eng the_eng styro_eng 
+2030.096 2030.653 OSE www_eng 
+2030.644 2034.899 JOC ay_spa pero_spa yo_eng _eng pero_spa _eng pero_spa _eng pero_spa now_eng that_eng youre_eng here_eng why_eng dont_eng you_eng get_eng the_eng other_eng cups_eng Marta_engspa 
+2034.822 2036.673 OSE www_eng 
+2036.656 2037.3 spa_spa ay_spa 
+2037.299 2038.918 JEN oh_eng my_eng God_eng bueno_spa 
+2038.918 2040.306 JEN so_eng Jana_engspa calls_eng me_eng 
+2039.383 2040.276 JOC _eng anyways_eng 
+2040.289 2042.24 JEN _eng oh_eng Im_eng already_eng here_eng pi_eng pi_eng pi_eng ba_eng ba_eng ba_eng 
+2041.975 2042.416 JOC _eng uhuh_eng 
+2042.352 2042.933 JEN xxx_eng 
+2042.567 2044.512 JOC _eng and_eng I_eng cant_eng believe_eng I_eng beat_eng you_eng here_eng da_eng da_eng da_eng 
+2043.746 2043.99 JEN _eng right_eng 
+2043.995 2045.005 JEN so_eng I_eng _eng I_eng go_eng to_eng her_eng 
+2044.978 2046.859 JEN _eng well_eng were_eng in_eng Publix_engspa down_eng the_eng street_eng 
+2048.115 2049.7 JEN _eng were_eng buying_eng things_eng to_eng take_eng 
+2049.69 2051.646 JEN _eng did_eng you_eng buy_eng anything_eng to_eng take_eng 
+2049.91 2050.323 JOC _eng mmhm_eng 
+2051.629 2052.946 JOC no_eng she_eng just_eng showed_eng up_eng 
+2052.926 2054.993 JEN hi i 
+2054.72 2055.881 JOC no_eng she_eng just_eng showed_eng up_eng 
+2055.866 2057.544 JEN so_eng yeah_eng eso_spa me_spa puso_spa 
+2056.923 2057.608 JOC _eng what_eng a_eng shocker_eng 
+2057.59 2061.219 JEN ya_spa eso_spa me_spa puso_spa a_spa _eng a_spa _eng you_eng know_eng whatever_eng 
+2060.47 2060.905 JOC _eng yeah_eng 
+2060.902 2062.012 JEN so_eng I_eng had_eng a_eng 
+2062.006 2063.597 JEN ah_eng whatever_eng we_eng show_eng up_eng at_eng xxx_eng 
+2063.597 2064.479 JEN wed_eng sip_eng beer_eng 
+2064.764 2067.257 JEN and_eng I_eng took_eng turkey_eng burgers_eng whatever_eng 
+2067.262 2068.458 JOC mmhm_eng 
+2068.455 2070.295 JEN shes_eng there_eng sitting_eng there_eng whatever_eng 
+2070.273 2071.051 JEN xxx_eng 
+2071.028 2073.828 JEN as_eng soon_eng as_eng I_eng walk_eng in_eng that_eng we_eng go_eng to_eng the_eng house_eng 
+2073.815 2076.764 JEN xxx_eng _eng whispers_eng 
+2076.766 2078.507 JOC is_eng it_eng a_eng house_eng house_eng or_eng what_eng is_eng it_eng 
+2078.287 2079.709 JEN ok_eng this_eng is_eng what_eng happened_eng 
+2079.688 2080.908 JEN its_eng not_eng in_eng xxx_eng 
+2080.89 2082.208 JEN but_eng it_eng very_eng well_eng should_eng be_eng 
+2082.214 2083.288 JOC pfw_eng 
+2083.278 2084.694 JEN its_eng a_eng house_eng 
+2084.694 2085.931 JOC laughs_eng 
+2085.915 2087.262 JEN yeah_eng it_eng very_eng well_eng should_eng be_eng 
+2087.246 2088.152 JEN it_eng was_eng a_eng house_eng 
+2088.146 2091.409 JEN it_eng was_eng a_eng normal_eng house_eng at_eng one_eng point_eng in_eng time_eng 
+2091.418 2093.397 JEN and_eng its_eng owned_eng by_eng this_eng guys_eng dad_eng 
+2093.403 2095.377 JEN so_eng apparently_eng he_eng got_eng slick_eng to_eng the_eng game_eng 
+2095.391 2097.852 JEN he_eng divided_eng the_eng house_eng up_eng 
+2097.849 2099.073 JOC oh_eng my_eng goodness_eng 
+2097.965 2100.6 JEN _eng le_spa hizo_spa a_eng car_eng port_eng or_eng whatever_eng 
+2100.562 2101.891 JEN dos_spa efficiency_eng 
+2101.886 2103.169 JOC oh_eng my_eng goodness_eng 
+2102.851 2105.928 JEN _eng so_eng this_eng guy_eng lives_eng on_eng like_eng _eng this_eng side_eng of_eng the_eng house_eng 
+2105.924 2108.083 JEN and_eng its_eng like_eng this_eng 
+2108.19 2109.293 JOC oh_eng my_eng god_eng 
+2108.399 2110.518 JEN and_eng I_eng dont_eng know_eng how_eng many_eng bedrooms_eng it_eng has_eng maybe_eng two_eng 
+2110.57 2111.813 JOC oh_eng my_eng goodness_eng 
+2111.0 2111.842 JEN three_eng pushing_eng it_eng 
+2111.865 2113.049 JOC oh_eng my_eng goodness_eng 
+2112.704 2120.538 JEN then_eng next_eng to_eng _eng on_eng _eng on_eng the_eng same_eng little_eng side_eng is_eng two_eng efficiencies_eng which_eng happen_eng to_eng be_eng rented_eng out_eng to_eng _eng family_eng 
+2116.962 2118.117 JOC _eng oh_eng my_eng goodness_eng 
+2119.139 2120.416 JOC _eng oh_eng my_eng goodness_eng 
+2120.39 2121.713 JOC oh_eng my_eng goodness_eng 
+2121.237 2122.392 JEN parientes_spa whatever_eng 
+2121.882 2123.06 JOC oh_eng my_eng goodness_eng 
+2122.938 2123.803 JEN exactly_eng 
+2123.765 2124.85 JOC ps_eng 
+2124.537 2125.251 JEN um_eng 
+2125.233 2126.569 spa_spa siéntete_spa si_spa quiere_spa 
+2126.582 2127.383 OSE www_eng 
+2127.383 2128.01 JOC ok_engspa dale_eng 
+2127.975 2129.538 JEN I_eng wanna_eng go_eng xxx_eng 
+2128.638 2129.55 JOC _eng _eng spa_eng bueno_eng bueno_eng 
+2129.515 2133.145 JEN so_eng um_eng and_eng they_eng even_eng divided_eng up_eng the_eng fence_eng and_eng everything_eng 
+2133.124 2134.07 JEN no_engspa no_engspa no_engspa está_spa 
+2134.035 2134.738 JEN its_eng horrible_eng 
+2134.221 2135.283 spa_spa ay_spa no_spa no_spa no_spa no_spa 
+2134.674 2136.05 JEN it_eng should_eng be_eng in_eng xxx_eng Im_eng telling_eng you_eng 
+2136.026 2136.903 JOC where_eng is_eng it_eng 
+2136.894 2137.905 JOC down_eng south_eng 
+2137.905 2139.739 JEN Bird_road_engspa and_eng like_eng the_eng turn_eng pike_eng 
+2139.374 2139.81 spa_spa ay_spa 
+2139.821 2140.489 spa_spa ay_spa 
+2140.287 2141.86 spa_spa abre_spa abre_spa 
+2141.262 2142.266 JEN _eng e_eng e_eng 
+2141.99 2143.04 OSE www_eng 
+2143.04 2145.484 spa_spa no_spa no_spa muchacha_spa te_spa dice_spa suavecito_spa 
+2145.471 2147.021 spa_spa deja_spa si_spa quiere_spa la_spa puerta_spa 
+2147.026 2148.106 spa_spa abre_spa xxx_spa un_spa pocatico_spa 
+2147.438 2149.331 JOC _eng _eng spa_eng deja_eng xxx_eng nada_eng así_eng así_eng 
+2149.304 2150.999 spa_spa sí_spa porque_spa ya_spa xxx_spa 
+2149.751 2153.886 spa_spa déjalo_spa xxx_spa abierto_spa así_spa así_spa así_spa así_spa _spa así_spa 
+2153.172 2153.753 JEN _eng _eng spa_eng allí_eng 
+2153.749 2155.513 JOC xxx_eng yesterday_eng 
+2154.915 2155.502 JEN _eng so_eng 
+2155.502 2157.243 JEN so_eng bueno_spa 
+2157.228 2158.226 JEN so_eng we_eng get_eng there_eng whatever_eng 
+2158.209 2158.894 JEN shes_eng sitting_eng there_eng 
+2158.876 2163.639 JEN as_eng soon_eng as_eng I_eng walk_eng into_eng the_eng backyard_eng _eng sure_eng enough_eng I_eng see_eng a_eng dog_eng 
+2161.288 2162.147 JOC _eng mmhm_eng 
+2163.613 2165.215 JEN and_eng the_eng dog_eng looks_eng familiar_eng 
+2165.192 2167.363 JEN but_eng Im_eng not_eng sure_eng 
+2167.313 2169.792 JEN and_eng Jana_engspa goes_eng 
+2169.782 2171.593 JEN _eng oh_eng look_eng this_eng is_eng my_eng dog_eng 
+2171.57 2172.662 JEN _eng I_eng brought_eng here_eng 
+2172.629 2178.43 JEN and_eng I_eng turned_eng _eng thats_eng where_eng I_eng turned_eng into_eng apparently_eng xxx_eng together_eng 
+2177.962 2179.443 JOC why_eng would_eng she_eng bring_eng her_eng dog_eng 
+2179.419 2180.714 JOC which_eng dog_eng did_eng she_eng bring_eng 
+2180.702 2182.165 JEN she_eng only_eng has_eng one_eng dog_eng 
+2181.306 2182.275 JOC which_eng dog_eng is_eng that_eng 
+2182.255 2183.485 JEN she_eng only_eng has_eng one_eng dog_eng 
+2183.468 2184.774 JOC ok_eng what_eng dog_eng is_eng that_eng 
+2184.765 2185.92 JOC its_eng that_eng mutt_eng 
+2185.159 2191.728 JEN _eng its_eng a_eng mutt_eng thats_eng a_eng mix_eng between_eng a_eng Boston_terrier_eng and_eng a_eng 
+2191.717 2192.646 JEN I_eng dont_eng remember_eng 
+2192.556 2193.258 JOC and_eng how_eng big_eng is_eng it_eng 
+2193.235 2194.285 JOC and_eng why_eng would_eng she_eng bring_eng it_eng 
+2194.135 2194.959 JEN exactly_eng 
+2194.941 2196.352 JEN so_eng I_eng do_eng this_eng 
+2196.35 2197.598 JOC sigh_eng 
+2197.592 2198.846 JEN I_eng do_eng this_eng 
+2198.822 2200.32 JEN and_eng I_eng tell_eng her_eng 
+2199.138 2201.745 JOC isnt_eng it_eng her_eng first_eng time_eng visiting_eng his_eng home_eng 
+2201.06 2202.221 JEN she_eng doesnt_eng know_eng this_eng guy_eng 
+2202.215 2204.275 JEN shes_eng met_eng him_eng one_eng time_eng 
+2202.4 2202.911 JOC _eng yeah_eng 
+2203.085 2203.916 JOC _eng once_eng 
+2203.907 2205.881 JOC and_eng shes_eng never_eng been_eng to_eng his_eng house_eng 
+2204.476 2205.898 JEN _eng shes_eng never_eng been_eng to_eng his_eng house_eng 
+2205.877 2209.244 JEN she_eng doesnt_eng know_eng if_eng the_eng guy_eng frikking_eng has_eng a_eng dog_eng has_eng what_eng 
+2208.426 2209.302 JOC wow_eng 
+2209.27 2210.658 JOC wow_eng 
+2209.613 2210.785 JEN youre_eng in_eng a_eng barbecue_eng 
+2210.768 2211.424 JOC wow_eng 
+2211.343 2213.908 JEN its_eng understood_eng that_eng were_eng gonna_eng be_eng outside_eng 
+2212.55 2214.451 JOC and_eng theres_eng gonna_eng be_eng other_eng guests_eng there_eng 
+2214.382 2216.053 JEN its_eng gonna_eng be_eng understood_eng that_eng were_eng outside_eng 
+2215.02 2215.746 JOC _eng brilliant_eng 
+2216.019 2216.64 JOC thats_eng brilliant_eng 
+2216.111 2216.28 JEN right_eng 
+2216.657 2217.435 JEN exactly_eng 
+2217.432 2218.529 JEN so_eng I_eng get_eng there_eng 
+2218.512 2219.528 JEN we_eng go_eng to_eng the_eng backyard_eng 
+2219.505 2221.2 JEN the_eng guys_eng cooking_eng up_eng the_eng barbecue_eng 
+2221.199 2223.068 JEN xxx_eng 
+2223.062 2224.566 JEN I_eng see_eng the_eng dog_eng 
+2224.56 2225.299 JOC xxx_eng 
+2225.288 2227.32 OSE www_eng 
+2227.315 2229.614 spa_spa no_spa no_spa se_spa lo_spa están_spa haciendo_spa el_spa estudio_spa ni_spa nada_spa 
+2227.449 2228.43 JOC _eng _eng spa_eng a_eng quién_eng 
+2229.82 2230.65 OSE www_eng 
+2230.662 2231.103 JEN no_engspa 
+2230.889 2231.527 JOC xxx_eng 
+2231.533 2232.996 OSE www_eng 
+2232.898 2235.023 spa_spa no_spa ellos_spa están_spa allí_spa xxx_spa 
+2235.002 2236.052 spa_spa no_spa no_spa dale_spa 
+2235.96 2238.009 spa_spa y_spa ese_spa americano_spa habla_spa español_spa también_spa 
+2238.0 2239.567 spa_spa e_spa no_spa es_spa americano_spa 
+2239.567 2240.728 spa_spa es_spa inglés_spa 
+2239.654 2242.771 JOC _eng _eng spa_eng sí_eng sí_eng ese_eng ese_eng el_eng inglés_eng el_eng inglés_eng 
+2241.216 2242.133 JEN _eng _eng spa_eng inglés_eng 
+2242.891 2244.441 OSE www_eng 
+2244.417 2247.043 JEN so_eng _eng I_eng do_eng the_eng _eng I_eng lw_eng look_eng 
+2246.985 2247.612 JEN and_eng I_eng go_eng 
+2247.583 2247.851 JEN and_eng shes_eng 
+2247.846 2249.465 JEN _eng oh_eng look_eng I_eng brought_eng my_eng dog_eng 
+2249.456 2252.714 OSE www_eng 
+2252.703 2253.945 JOC hes_eng so_eng cute_eng 
+2253.928 2254.764 OSE www_eng 
+2254.731 2255.149 JEN yes_eng 
+2255.12 2257.337 JOC laughs_eng 
+2257.32 2258.435 JEN yes_eng 
+2258.408 2259.761 JEN so_eng I_eng look_eng at_eng her_eng 
+2259.733 2261.138 JEN xxx_eng my_eng dog_eng 
+2261.12 2263.378 JEN and_eng I_eng do_eng one_eng of_eng these_eng _eng I_eng do_eng a_eng xxx_eng 
+2263.352 2264.769 JOC gasp_eng raspberry_eng 
+2264.765 2265.571 JEN and_eng I_eng look_eng at_eng her_eng 
+2265.566 2265.873 JEN and_eng I_eng go_eng 
+2265.856 2267.911 JEN _eng and_eng did_eng you_eng ask_eng him_eng if_eng you_eng could_eng bring_eng your_eng dog_eng 
+2267.925 2270.531 JEN I_eng turned_eng in_eng I_eng turned_eng into_eng xxx_eng gasp_eng 
+2268.284 2269.567 JOC ah_eng 
+2270.873 2272.51 JOC gasp_eng 
+2272.473 2274.545 JEN _eng did_eng you_eng ask_eng him_eng if_eng you_eng could_eng bring_eng your_eng dog_eng 
+2274.513 2275.529 OSE www_eng 
+2275.482 2276.626 JOC why_eng would_eng she_eng do_eng that_eng 
+2276.597 2278.617 JEN _eng yeah_eng ji_eng 
+2278.602 2280.332 JEN i_eng yeah_eng yeah_eng 
+2280.31 2282.324 JEN I_eng was_eng 
+2282.297 2284.184 JEN I_eng was_eng insulted_eng 
+2283.081 2284.399 JOC _eng it_eng set_eng a_eng tone_eng 
+2284.254 2286.152 JEN I_eng _eng it_eng set_eng a_eng tone_eng 
+2286.126 2287.71 JEN so_eng then_eng I_eng _eng Im_eng like_eng 
+2287.705 2288.871 JEN _eng I_eng cant_eng frikking_eng believe_eng this_eng 
+2288.879 2289.622 spa_spa bueno_spa 
+2289.599 2291.615 JEN sure_eng enough_eng I_eng _eng I_eng tell_eng this_eng guy_eng 
+2291.615 2292.463 JEN _eng listen_eng we_eng brought_eng beer_eng 
+2292.445 2293.072 JEN _eng we_eng brought_eng this_eng 
+2293.066 2293.949 JEN _eng no_eng put_eng it_eng in_eng the_eng fridge_eng 
+2293.931 2294.28 JEN whatever_eng 
+2294.271 2297.516 JEN so_eng Tommy_engspa and_eng I_eng go_eng back_eng inside_eng to_eng start_eng guardando_spa las_spa cosas_spa 
+2297.504 2298.383 JEN and_eng I_eng tell_eng Tommy_engspa 
+2298.366 2299.266 JEN _eng I_eng cant_eng believe_eng her_eng 
+2299.121 2300.676 JOC _eng xxx_eng 
+2299.266 2300.601 JEN _eng what_eng the_eng fuck_eng is_eng wrong_eng with_eng her_eng 
+2300.643 2302.315 JEN _eng she_eng brought_eng her_eng fucking_eng dog_eng 
+2302.32 2303.632 JEN xxx_eng 
+2303.63 2304.634 JEN and_eng Tommy_engspa goes_eng 
+2304.617 2305.661 JEN _eng pero_spa whats_eng your_eng problem_eng 
+2305.627 2307.502 JOC thats_eng xxx_eng didnt_eng care_eng _eng laughs_eng 
+2306.01 2306.277 JEN I_eng go_eng 
+2306.277 2307.51 JEN _eng Tommy_engspa I_eng think_eng thats_eng kom_eng 
+2307.51 2307.708 JEN yeah_eng 
+2307.702 2308.985 JEN stutters_eng I_eng go_eng to_eng Tommy_engspa 
+2308.886 2309.826 JEN _eng thats_eng completely_eng tacky_eng 
+2309.809 2311.109 JEN _eng she_eng doesnt_eng know_eng this_eng guy_eng 
+2311.118 2312.291 JEN _eng she_eng doesnt_eng know_eng him_eng 
+2311.838 2313.974 JOC yeah_eng but_eng then_eng again_eng what_eng do_eng you_eng want_eng from_eng her_eng 
+2312.25 2312.941 JEN _eng she_eng doesnt_eng know_eng xxx_eng 
+2313.788 2314.915 JEN ok_eng but_eng wait_eng 
+2314.923 2315.695 JEN so_eng then_eng Tommy_engspa goes_eng 
+2315.678 2317.338 JEN _eng oh_eng ok_eng whatever_eng just_eng drop_eng it_eng 
+2317.35 2318.458 spa_spa bueno_spa 
+2318.438 2319.681 JEN so_eng we_eng go_eng back_eng outside_eng 
+2319.675 2320.226 JEN I_eng get_eng a_eng beer_eng 
+2320.232 2320.488 JEN Im_eng like_eng 
+2320.464 2320.859 JEN _eng you_eng know_eng what_eng 
+2320.848 2322.647 JEN _eng let_eng me_eng just_eng go_eng outside_eng and_eng do_eng my_eng 
+2322.635 2323.675 JEN _eng Im_eng gonna_eng relax_eng 
+2323.662 2326.936 JEN pobrecita_spa the_eng dog_eng is_eng a_eng puppy_eng 
+2326.907 2328.591 JEN its_eng barely_eng a_eng year_eng old_eng 
+2328.576 2331.978 JEN and_eng its_eng a_eng super_eng hyper_eng active_eng dog_eng 
+2331.957 2334.761 JEN now_eng its_eng _eng imagínate_spa it_eng lives_eng in_eng an_eng apartment_eng 
+2334.705 2338.943 JEN so_eng now_eng its_eng in_eng this_eng _eng a_eng backyard_eng the_eng size_eng of_eng I_eng dont_eng even_eng know_eng who_eng 
+2338.655 2339.897 JOC and_eng its_eng going_eng crazy_eng 
+2339.87 2343.335 JEN and_eng she_eng brought_eng it_eng little_eng toys_eng to_eng play_eng which_eng ok_eng is_eng understandable_eng 
+2343.306 2344.775 JEN but_eng now_eng the_eng dog_eng wants_eng to_eng play_eng 
+2344.755 2347.884 JEN now_eng the_eng dog_eng wants_eng to_eng play_eng fetch_eng and_eng catch_eng and_eng the_eng whole_eng thing_eng 
+2347.858 2349.93 JEN Im_eng not_eng gonna_eng play_eng with_eng the_eng dog_eng fetch_eng and_eng catch_eng 
+2349.947 2351.968 JEN I_eng came_eng to_eng a_eng barbecue_eng to_eng have_eng 
+2350.017 2351.509 JOC _eng no_eng _eng right_eng 
+2351.613 2351.938 JEN yeah_eng 
+2351.918 2352.563 JOC right_eng 
+2352.545 2353.039 JEN xxx_eng 
+2352.992 2353.997 JOC right_eng 
+2353.981 2356.106 JEN so_eng now_eng the_eng dog_eng is_eng xxx_eng 
+2356.106 2357.958 JEN you_eng know_eng I_eng cant_eng blame_eng the_eng dog_eng 
+2357.937 2358.843 JOC mmhm_eng 
+2358.838 2361.409 JEN the_eng dog_eng brings_eng the_eng little_eng ball_eng the_eng little_eng bone_eng 
+2361.369 2362.263 JEN it_eng wants_eng to_eng do_eng this_eng 
+2361.409 2361.769 JOC _eng mmhm_eng 
+2362.251 2363.157 JEN it_eng wants_eng to_eng do_eng that_eng 
+2363.119 2363.677 JEN and_eng Im_eng like_eng 
+2363.642 2364.35 JEN _eng listen_eng 
+2364.327 2365.435 JEN _eng get_eng away_eng from_eng me_eng 

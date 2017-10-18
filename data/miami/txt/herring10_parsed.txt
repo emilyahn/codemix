@@ -1,0 +1,839 @@
+0.6 2.949 PAI oh_eng now_eng that_eng I_eng _eng now_eng that_eng I_eng remember_eng antes_spa de_spa que_spa se_spa me_spa olvide_spa 
+2.926 4.882 PAI this_eng lady_eng from_eng the_eng school_eng 
+4.87 5.364 SAR mmhm_eng 
+5.204 9.424 PAI she_eng told_eng me_eng _eng she_eng told_eng me_eng that_eng she_eng bought_eng the_eng subway_eng passes_eng _eng for_eng the_eng whole_eng year_eng 
+9.384 11.073 SAR subway_eng passes_eng to_eng where_eng to_eng New_York_eng 
+11.053 12.962 PAI to_eng New_York_eng its_eng forty_eng bucks_eng 
+13.706 17.171 SAR yeah_eng but_eng you_eng know_eng what_eng she_eng bought_eng I_eng told_eng you_eng she_eng bought_eng that_eng pass_eng 
+17.15 19.507 PAI which_eng one_eng 
+17.15 19.507 SAR _eng its_eng a_eng special_eng pass_eng that_eng they_eng give_eng 
+19.507 21.196 SAR um_eng 
+21.128 23.746 SAR its_eng a_eng special_eng pass_eng 
+23.723 28.895 SAR its_eng called_eng something_eng and_eng it_eng gives_eng you_eng also_eng discounts_eng to_eng certain_eng museums_eng _eng in_eng New_York_eng 
+28.883 30.781 SAR its_eng like_eng a_eng 
+30.781 32.053 PAI but_eng for_eng the_eng whole_eng year_eng 
+32.061 38.465 SAR y_eng yeah_eng con_spa ese_spa pase_spa you_eng can_eng _eng you_eng know_eng you_eng can_eng use_eng it_eng and_eng you_eng can_eng _eng you_eng have_eng certain_eng discounts_eng 
+38.407 42.428 SAR but_eng _eng it_eng comes_eng out_eng more_eng expensive_eng doesnt_eng it_eng 
+42.368 45.774 PAI I_eng dont_eng know_eng she_eng says_eng she_eng can_eng use_eng it_eng up_eng and_eng down_eng as_eng many_eng times_eng as_eng she_eng wants_eng 
+42.372 43.731 SAR _eng like_eng I_eng would_eng h_eng 
+45.751 47.324 SAR was_eng she_eng gonna_eng give_eng it_eng to_eng you_eng 
+47.312 48.794 PAI I_eng wonder_eng if_eng it_eng has_eng a_eng picture_eng 
+48.783 50.054 PAI I_eng should_eng ask_eng her_eng 
+49.68 50.887 SAR I_eng dont_eng know_eng 
+50.835 53.598 SAR I_eng dont_eng know_eng because_eng I_eng saw_eng that_eng 
+53.551 54.335 SAR they_eng talk_eng about_eng it_eng 
+54.341 55.496 SAR its_eng called_eng something_eng 
+55.484 59.942 SAR its_eng like_eng a_eng _eng a_eng supersaver_eng I_eng dont_eng know_eng what_eng 
+59.928 62.075 SAR and_eng I_eng was_eng like_eng why_eng do_eng they_eng keep_eng on_eng referencing_eng this_eng 
+62.041 64.537 SAR I_eng wonder_eng what_eng it_eng is_eng 
+62.041 64.519 PAI _eng but_eng she_eng just_eng told_eng me_eng as_eng in_eng subway_eng only_eng 
+64.505 65.469 SAR yes_eng for_eng the_eng subway_eng 
+65.445 67.506 SAR its_eng for_eng the_eng _eng its_eng _eng its_eng for_eng that_eng 
+67.492 69.878 SAR but_eng there_eng may_eng be_eng something_eng different_eng that_eng she_eng bought_eng 
+69.861 73.731 SAR because_eng this_eng one_eng serves_eng as_eng _eng as_eng a_eng _eng as_eng a_eng thing_eng for_eng the_eng subway_eng 
+73.708 79.691 SAR but_eng it_eng also_eng gives_eng you_eng if_eng you_eng have_eng that_eng card_eng sometimes_eng you_eng can_eng get_eng into_eng certain_eng museums_eng and_eng things_eng like_eng that_eng 
+79.659 85.351 SAR pero_spa bueno_spa I_eng checked_eng out_eng the_eng prize_eng and_eng I_eng was_eng like_eng if_eng we_eng are_eng just_eng gonna_eng use_eng 
+82.396 85.653 PAI _eng she_eng told_eng me_eng she_eng paid_eng forty_eng two_eng dollars_eng or_eng forty_eng dollars_eng or_eng something_eng like_eng that_eng 
+85.644 89.55 SAR Its_eng like_eng using_eng the_eng metro_eng here_eng _eng and_eng you_eng buy_eng the_eng annual_eng pass_eng it_eng comes_eng out_eng cheaper_eng 
+89.543 95.264 SAR xxx_eng 
+89.543 95.264 PAI _eng xxx_eng 
+95.246 96.291 spa_spa ay_spa yo_spa sabía_spa 
+96.291 98.433 spa_spa ay_spa Dios_spa mío_spa _spa laugh_spa 
+98.421 99.518 spa_spa tú_spa eres_spa de_spa madre_spa 
+99.059 101.085 PAI that_eng was_eng Katherine_engspa Hart_engspa by_eng the_eng way_eng 
+101.067 101.961 SAR laugh_eng 
+101.067 101.961 PAI laugh_eng 
+101.92 103.366 SAR whoever_eng wants_eng to_eng know_eng 
+103.366 107.502 SAR the_eng xxx_eng _eng laugh_eng 
+103.366 107.502 PAI laugh_eng 
+107.486 109.396 spa_spa qué_spa vergüenza_spa 
+109.374 111.667 spa_spa yo_spa sabía_spa 
+109.374 111.667 PAI _eng Im_eng gonna_eng kill_eng her_eng 
+111.655 115.782 SAR laugh_eng 
+111.655 115.782 spa_spa xxx_spa _spa laugh_spa 
+115.776 117.204 PAI y_eng él_eng los_eng oye_eng _eng laugh_eng 
+117.163 117.813 SAR eh_engspa 
+117.802 118.899 spa_spa él_spa los_spa escucha_spa 
+118.898 120.639 spa_spa ahora_spa me_spa mandaron_spa un_spa 
+120.728 123.781 SAR tú_spa por_spa fin_spa did_eng you_eng book_eng _eng the_eng hotel_eng _eng for_eng September_eng 
+122.806 124.002 PAI _eng no_eng 
+123.985 129.227 SAR porque_spa me_spa mandaron_spa ahora_spa un_spa special_eng el_spa western_engspa de_eng Times_Square_engspa in_eng one_eng seventy_eng nine_eng 
+129.215 131.717 SAR but_eng they_eng only_eng have_eng one_eng day_eng in_eng September_eng 
+131.715 134.768 PAI one_eng day_eng 
+131.715 134.768 SAR _eng one_eng day_eng 
+134.794 141.069 SAR Paige_engspa yo_spa no_spa sabía_spa que_spa a_spa María_spa la_spa estaban_spa recording_eng también_spa 
+140.438 141.152 PAI _eng eh_engspa 
+141.127 142.963 SAR que_spa a_spa María_spa la_spa estaban_spa recording_eng también_spa 
+142.875 144.326 PAI _eng María_engspa is_eng on_eng all_eng day_eng 
+144.301 145.59 SAR yeah_eng I_eng saw_eng her_eng with_eng that_eng thing_eng 
+145.561 146.455 SAR I_eng thought_eng it_eng was_eng her_eng I_Pod_eng 
+146.449 146.78 SAR and_eng I_eng go_eng 
+146.774 147.72 SAR _eng what_eng kind_eng of_eng I_Pod_eng is_eng that_eng 
+147.714 148.935 SAR and_eng then_eng miré_spa _eng miré_spa bien_spa 
+148.929 149.318 spa_spa y_spa dije_spa 
+149.318 150.659 SAR _eng _eng spa_eng no_eng ella_eng debe_eng estar_eng haciendo_eng otra_eng cosa_eng 
+150.059 153.635 PAI _eng yeah_eng because_eng her_eng sister_eng does_eng no_spa sé_spa qué_spa cosa_spa 
+153.567 155.96 SAR yeah_eng he_eng explained_eng it_eng to_eng me_eng that_eng shes_eng doing_eng a_eng more_eng extensive_eng one_eng 
+155.954 157.44 SAR hers_eng is_eng thirty_eng hours_eng 
+157.264 159.348 PAI wow_eng 
+157.264 159.406 SAR _eng she_eng has_eng to_eng be_eng recorded_eng or_eng something_eng 
+159.375 163.508 PAI imagínate_spa tú_spa _eng thirty_eng hours_eng 
+163.47 165.298 PAI shes_eng been_eng at_eng it_eng for_eng a_eng long_eng time_eng too_eng 
+165.275 168.166 PAI imagínate_spa thirty_eng hours_eng is_eng almost_eng a_eng week_eng with_eng it_eng 
+168.12 173.756 SAR so_eng what_eng eh_engspa bueno_spa so_eng I_eng went_eng to_eng go_eng check_eng for_eng you_eng 
+173.744 177.382 SAR and_eng they_eng only_eng have_eng one_eng day_eng in_eng _eng in_eng _eng in_eng September_eng that_eng you_eng can_eng get_eng discount_eng 
+179.385 180.859 PAI Im_eng just_eng gonna_eng go_eng and_eng 
+180.575 186.443 spa_spa pero_spa que_spa tengo_spa que_spa esperar_spa a_spa _spa _spa a_spa coger_spa el_spa dinero_spa ese_spa en_spa mayo_spa 
+186.38 189.34 spa_spa qué_spa dinero_spa 
+189.294 192.173 PAI el_spa dinero_spa ese_spa que_spa nos_spa van_spa a_spa dar_spa with_eng the_eng taxes_eng 
+192.121 193.369 SAR oh_engspa ok_eng 
+193.381 197.113 PAI and_eng Im_eng still_eng four_eng months_eng ahead_eng 
+197.047 197.65 SAR yeah_eng 
+197.63 201.961 PAI eh_engspa I_eng mean_eng how_eng much_eng ero_eng itll_eng probably_eng go_eng up_eng yeah_eng second_eng month_eng to_eng the_eng first_eng 
+201.925 208.483 spa_spa tengo_spa un_spa dolor_spa de_spa cabeza_spa _spa de_spa perros_spa 
+208.421 210.86 SAR what_eng did_eng you_eng eat_eng yesterday_eng que_spa te_spa cayó_spa mal_spa 
+209.827 211.336 PAI _eng I_eng went_eng to_eng Publix_engspa yesterday_eng night_eng 
+211.028 212.589 PAI and_eng I_eng did_eng some_eng shopping_eng 
+212.589 215.491 PAI y_spa _eng I_eng didnt_eng wanna_eng cook_eng 
+215.481 217.582 SAR o_k_engspa 
+216.532 224.605 PAI _eng so_eng I_eng made_eng xxx_eng thats_eng turkey_eng and_eng stuffing_eng _eng and_eng macaroni_eng and_eng cheese_eng 
+224.569 229.004 SAR yo_spa no_spa sé_spa por_spa qué_spa tú_spa comes_spa macaroni_eng and_eng cheese_eng si_spa tú_spa sabes_spa que_spa te_spa va_spa a_spa caer_spa mal_spa 
+228.991 230.837 spa_spa siempre_spa te_spa cae_spa mal_spa 
+230.803 235.651 PAI no_eng no_eng no_eng something_eng something_eng happened_eng something_eng that_eng chicken_eng 
+235.654 237.906 SAR chicken_eng but_eng whats_eng wrong_eng with_eng the_eng chicken_eng 
+236.456 238.772 PAI _eng the_eng _eng the_eng turkey_eng I_eng dont_eng know_eng me_spa dio_spa un_spa asco_spa 
+238.556 240.24 SAR _eng but_eng what_eng kind_eng of_eng turkey_eng was_eng it_eng 
+240.216 242.817 PAI desmenuzado_spa con_spa stuffing_eng todo_spa mezclado_spa 
+242.803 244.082 SAR you_eng got_eng that_eng at_eng Publix_engspa 
+244.047 244.5 PAI yeah_eng 
+244.454 245.411 SAR sounds_eng good_eng 
+245.381 245.845 PAI it_eng did_eng 
+245.862 246.686 PAI it_eng looked_eng good_eng 
+246.699 249.927 SAR y_spa no_spa te_spa dio_spa asco_spa or_eng something_eng 
+249.764 251.291 SAR dont_eng throw_eng up_eng now_eng 
+251.022 253.536 SAR because_eng then_eng I_eng gotta_eng go_eng with_eng you_eng 
+253.504 254.392 PAI laugh_eng 
+254.375 255.35 SAR to_eng the_eng bathroom_eng 
+255.296 259.573 SAR and_eng I_eng dont_eng wanna_eng be_eng _eng laughs_eng 
+259.564 260.574 SAR no_eng thank_eng you_eng 
+260.519 262.899 PAI pero_spa my_eng god_eng 
+262.856 266.577 PAI sigh_eng its_eng hot_eng 
+266.552 271.748 SAR xxx_eng found_eng that_eng thing_eng for_eng the_eng _eng for_eng the_eng wine_eng thing_eng expensive_eng 
+271.754 273.06 PAI fifty_eng dollars_eng 
+273.025 274.018 SAR fifty_eng dollars_eng 
+273.973 276.719 PAI xxx_eng for_eng two_eng hours_eng its_eng twenty_eng five_eng bucks_eng an_eng hour_eng 
+276.689 279.173 PAI unless_eng you_eng drink_eng like_eng a_eng fish_eng its_eng _eng its_eng good_eng to_eng go_eng 
+279.137 281.703 SAR hes_eng like_eng xxx_eng I_eng would_eng wanna_eng go_eng 
+281.696 284.668 SAR pero_spa theres_eng a_eng whole_eng bunch_eng of_eng restaurants_eng participating_eng 
+284.673 286.834 SAR what_eng I_eng wanted_eng to_eng ask_eng Adelina_engspa was_eng 
+286.811 289.632 PAI is_eng that_eng the_eng one_eng that_eng they_eng was_eng doing_eng in_eng Coral_Gables_engspa that_eng they_eng closed_eng it_eng down_eng 
+289.588 291.126 SAR Ive_eng never_eng seen_eng it_eng before_eng 
+291.539 292.34 PAI I_eng think_eng so_eng 
+292.328 293.634 PAI Ive_eng seen_eng it_eng in_eng a_eng _eng in_eng a_eng _eng in_eng a_eng 
+293.222 296.044 SAR _eng maybe_eng like_eng I_eng bumped_eng into_eng it_eng going_eng home_eng since_eng its_eng on_eng my_eng way_eng 
+296.049 298.052 SAR and_eng I_eng noticed_eng that_eng the_eng streets_eng are_eng closed_eng 
+296.815 299.978 PAI _eng I_eng _eng yes_eng and_eng _eng and_eng _eng and_eng John_engspa has_eng gone_eng to_eng it_eng 
+299.97 303.456 SAR but_eng I_eng wanted_eng to_eng ask_eng Adelina_engspa because_eng they_eng have_eng a_eng list_eng of_eng 
+303.433 306.735 SAR xxx_eng it_eng says_eng _eng it_eng says_eng that_eng they_eng are_eng gonna_eng be_eng serving_eng 
+306.712 308.552 SAR theres_eng gonna_eng be_eng wine_eng right_eng obviously_eng 
+308.552 309.422 PAI mmhm_eng 
+309.401 311.967 SAR but_eng its_eng gonna_eng be_eng xxx_eng 
+311.972 313.041 spa_spa por_spa cincuenta_spa pesos_spa 
+312.803 316.494 SAR _eng exactly_eng from_eng _eng from_eng this_eng place_eng Wild_Oats_engspa or_eng something_eng right_eng 
+313.406 314.376 PAI _eng oh_engspa no_eng 
+316.467 317.959 spa_spa espérate_spa 
+317.947 320.437 SAR but_eng then_eng Im_eng saying_eng fifty_eng dollars_eng 
+320.415 322.708 SAR and_eng are_eng you_eng gonna_eng get_eng hors_doeuvres_eng 
+322.702 325.297 SAR but_eng then_eng I_eng went_eng into_eng the_eng restaurant_eng section_eng 
+325.268 328.072 SAR and_eng it_eng has_eng all_eng the_eng restaurants_eng participating_eng 
+328.055 335.467 SAR so_eng Im_eng like_eng bueno_spa is_eng each_eng restaurant_eng gonna_eng have_eng like_eng a_eng booth_eng that_eng you_eng can_eng sample_eng their_eng food_eng porque_spa está_spa Flemmings_engspa ahí_spa 
+335.457 337.936 PAI no_eng yeah_eng Wild_Oats_engspa is_eng not_eng a_eng 
+337.89 346.058 SAR ok_eng or_eng are_eng they_eng just_eng gonna_eng _eng pass_eng the_eng stupid_eng hors_doeuvres_eng and_eng thats_eng it_eng por_eng cincuenta_spa pesos_spa 
+338.639 340.758 PAI _eng its_eng a_eng healthy_eng store_eng 
+346.005 348.337 spa_spa no_spa hay_spa manera_spa que_spa tú_spa te_spa puedas_spa tomar_spa 
+348.312 350.773 spa_spa cincuenta_spa 
+348.312 350.773 SAR bueno_spa theyre_eng gonna_eng have_eng premium_eng drinks_eng too_eng 
+352.89 353.424 SAR you_eng know_eng 
+353.163 353.981 PAI _eng it_eng doesnt_eng sound_eng bad_eng though_eng 
+354.477 356.526 SAR but_eng _eng I_eng dont_eng know_eng 
+356.526 357.341 SAR I_eng wanted_eng to_eng go_eng 
+357.318 358.74 SAR but_eng then_eng Rafi_engspa was_eng like_eng 
+357.318 358.74 PAI John_engspa ha_spa ido_spa 
+358.707 363.002 SAR _eng but_eng then_eng we_eng had_eng _eng we_eng left_eng the_eng girls_eng yesterday_eng to_eng go_eng to_eng do_eng the_eng taxes_eng 
+363.014 363.948 SAR so_eng Rafissengspaeng_eng like_eng 
+364.018 366.856 SAR _eng I_eng dont_eng know_eng if_eng I_eng wanna_eng leave_eng the_eng girls_eng again_eng you_eng know_eng 
+366.833 368.946 SAR so_eng I_eng dont_eng know_eng 
+366.833 368.946 PAI _eng xxx_eng your_eng moms_eng gonna_eng mind_eng 
+368.929 369.464 SAR I_eng dont_eng know_eng 
+369.446 370.468 SAR I_eng have_eng to_eng ask_eng her_eng 
+370.447 372.015 spa_spa y_spa después_spa que_spa le_spa grité_spa hoy_spa 
+370.976 372.462 PAI _eng _eng spa_eng no_eng y_eng después_eng que_eng te_eng xxx_eng 
+372.432 374.139 SAR laugh_eng 
+374.438 375.639 SAR its_eng only_eng for_eng two_eng hours_eng anyway_eng 
+375.465 376.817 SAR we_eng are_eng gonna_eng be_eng right_eng there_eng 
+376.799 380.48 SAR you_eng know_eng 
+380.535 381.15 SAR because_eng he_eng says_eng 
+381.162 382.741 SAR _eng it_eng sounds_eng good_eng Ive_eng always_eng wanted_eng to_eng go_eng 
+382.793 384.169 SAR I_eng always_eng wanted_eng to_eng go_eng to_eng the_eng one_eng in_eng South_Beach_engspa 
+384.163 385.544 SAR but_eng the_eng one_eng South_Beach_engspa is_eng so_eng expensive_eng 
+385.519 386.977 PAI thats_eng two_eng hundred_eng dollars_eng 
+386.889 387.958 SAR yeah_eng its_eng really_eng expensive_eng 
+387.858 389.779 SAR and_eng they_eng keep_eng on_eng and_eng they_eng keep_eng on_eng 
+387.858 388.699 PAI _eng thats_eng ridiculous_eng 
+388.704 390.058 PAI but_eng my_eng brother_eng told_eng me_eng its_eng 
+390.025 394.441 SAR they_eng keep_eng on_eng hiring_eng the_eng prize_eng thinking_eng that_eng people_eng are_eng not_eng gonna_eng go_eng 
+394.422 395.955 SAR and_eng more_eng people_eng go_eng 
+394.422 396.001 PAI _eng and_eng the_eng people_eng are_eng going_eng 
+395.925 397.167 SAR yeah_eng 
+397.138 398.508 PAI now_eng next_eng year_eng itll_eng be_eng three_eng hundred_eng bucks_eng 
+398.503 401.38 PAI but_eng Im_eng gonna_eng tell_eng my_eng brother_eng next_eng year_eng para_spa que_spa me_spa dé_spa los_spa tickets_eng 
+398.669 403.597 SAR _eng and_eng here_eng _eng but_eng here_eng in_eng _eng here_eng in_eng miracle_eng _eng here_eng in_eng this_eng one_eng 
+403.576 407.448 SAR they_eng have_eng a_eng V_I_P_eng for_eng one_eng fifty_eng 
+407.467 408.587 SAR that_eng you_eng go_eng in_eng the_eng tent_eng 
+408.663 409.829 SAR and_eng I_eng dont_eng know_eng what_eng they_eng give_eng you_eng 
+409.818 410.665 SAR is_eng Adelina_engspa here_eng 
+410.656 411.69 PAI Ive_eng seen_eng the_eng tent_eng 
+411.687 413.307 PAI yeah_eng lets_eng go_eng there_eng 
+413.284 415.147 PAI Ive_eng seen_eng that_eng tent_eng 
+415.136 418.009 SAR Sharon_engspa 
+418.005 420.69 SAR el_spa _eng el_spa food_eng festival_eng ese_spa 
+420.632 421.793 OSE www_eng 
+421.829 424.492 SAR ellos_spa dijeron_spa que_spa iban_spa a_spa dar_spa appetizers_eng at_eng Wild_Oats_engspa 
+424.469 425.938 OSE www_eng 
+426.002 427.146 spa_spa pero_spa hay_spa comida_spa 
+427.12 427.747 OSE www_eng 
+427.792 431.299 SAR entonces_spa todos_spa esos_spa restaurants_eng that_eng are_eng participating_eng will_eng have_eng booths_eng 
+431.282 433.709 SAR and_eng they_eng are_eng provide_eng food_eng for_eng you_eng free_eng 
+433.614 436.159 OSE www_eng 
+436.145 439.553 SAR oh_eng ok_eng because_eng if_eng theyre_eng just_eng giving_eng appetizers_eng 
+437.895 440.217 PAI _eng John_engspa has_eng gone_eng 
+440.166 443.08 SAR eh_engspa 
+443.063 446.111 SAR no_engspa they_eng have_eng a_eng list_eng of_eng the_eng restaurants_eng that_eng are_eng participating_eng 
+445.431 446.331 OSE www_eng 
+446.33 448.908 SAR its_eng just_eng in_eng the_eng little_eng thing_eng where_eng you_eng buy_eng the_eng ticket_eng 
+448.873 455.524 SAR it_eng tells_eng you_eng no_eng eh_engspa you_eng know_eng the_eng wine_eng and_eng premium_eng drinks_eng and_eng hors_doeuvres_eng from_eng Wild_Oats_engspa 
+455.518 455.965 SAR Im_eng like_eng 
+455.946 458.564 PAI y_spa Wild_Oats_engspa es_spa un_spa _eng un_spa healthy_eng store_eng 
+458.623 461.467 SAR sí_spa pero_spa they_eng have_eng everything_eng más_spa o_spa menos_spa 
+461.456 465.534 SAR but_eng still_eng I_eng mean_eng you_eng know_eng its_eng hors_doeuvres_eng its_eng just_eng 
+465.476 466.476 SAR I_eng mean_eng 
+465.733 469.354 OSE www_eng 
+467.781 469.94 SAR _eng Im_eng sure_eng they_eng probably_eng have_eng a_eng sampling_eng no_eng 
+469.912 472.054 PAI when_eng you_eng do_eng that_eng xxx_eng thing_eng 
+472.037 473.314 SAR que_spa everybody_eng has_eng 
+472.077 473.871 OSE _eng www_eng 
+473.777 476.929 OSE www_eng 
+475.135 476.743 SAR yeah_eng but_eng you_eng are_eng paying_eng for_eng that_eng right_eng 
+476.736 477.49 OSE www_eng 
+477.485 478.448 SAR _eng thats_eng probably_eng what_eng it_eng is_eng 
+478.454 480.306 spa_spa ah_spa bueno_spa pero_spa mientras_spa que_spa todo_spa el_spa mundo_spa tenga_spa 
+480.289 482.088 SAR porque_spa estaba_spa hasta_spa el_spa Flemmings_engspa y_spa todo_spa 
+482.078 482.751 OSE www_eng 
+482.792 485.839 SAR y_spa va_spa a_spa estar_eng _eng theres_eng a_eng whole_eng bunch_eng of_eng them_eng 
+484.864 486.524 OSE www_eng 
+486.052 489.625 SAR Archies_engspa pizza_eng _eng that_eng Archies_engspa place_eng pizza_eng and_eng 
+488.244 489.538 spa_spa oye_spa tú_spa no_spa tienes_spa que_spa recoger_spa a_spa la_spa niña_spa 
+489.503 491.471 OSE www_eng 
+491.436 491.988 spa_spa qué_spa hora_spa es_spa 
+491.957 493.843 SAR fifteen_eng 
+493.814 494.604 PAI oh_engspa 
+494.602 497.905 spa_spa vamos_spa saltando_spa para_spa allá_spa 
+497.865 498.672 SAR _eng _eng spa_eng qué_eng andas_eng haciendo_eng 
+498.648 500.529 OSE www_eng 
+500.489 501.731 SAR xxx_eng 
+500.489 501.731 OSE www_eng 
+501.728 506.871 OSE www_eng 
+504.69 505.299 SAR _eng sneeze_eng 
+506.859 507.254 PAI pu_eng 
+507.271 507.649 SAR pu_eng 
+507.606 510.294 spa_spa quién_spa 
+510.291 513.826 PAI who_eng _eng whos_eng that_eng 
+513.813 516.228 SAR shes_eng probably_eng pregnant_eng isnt_eng she_eng 
+516.157 518.799 PAI she_eng knows_eng you_eng 
+518.799 519.71 OSE www_eng 
+519.602 520.386 PAI she_eng is_eng lying_eng 
+520.014 521.256 SAR so_eng howd_eng you_eng add_eng her_eng 
+521.245 523.445 SAR shes_eng browsing_eng 
+523.415 525.609 OSE www_eng 
+525.647 528.707 OSE www_eng 
+528.739 530.916 OSE www_eng 
+530.917 533.326 spa_spa ella_spa se_spa mete_spa donde_spa se_spa mete_spa la_spa mamá_spa de_spa xxx_spa 
+533.175 536.75 spa_spa y_spa después_spa te_spa manda_spa todas_spa estas_spa manos_spa _spa de_spa _spa de_spa cosas_spa ahí_spa 
+536.146 537.197 OSE www_eng 
+537.18 537.987 spa_spa no_spa 
+537.972 541.141 SAR Rafis_eng mom_eng también_spa se_spa mete_spa en_spa todas_spa esas_spa cosas_spa hei_eng 
+540.891 542.73 SAR laugh_eng 
+542.712 549.669 spa_spa te_spa vas_spa a_spa xxx_spa el_spa papel_spa ese_spa 
+549.633 551.095 spa_spa ay_spa no_spa 
+551.083 552.534 SAR laugh_eng 
+552.517 553.835 PAI its_eng just_eng fine_eng 
+553.856 558.765 SAR laugh_eng 
+553.856 558.765 PAI _eng laugh_eng 
+558.697 560.334 spa_spa ay_spa pero_spa vete_spa a_spa vomitar_spa 
+560.328 563.434 spa_spa no_spa y_spa no_spa hables_spa de_spa eso_spa 
+563.415 565.766 SAR laugh_eng 
+565.739 566.761 PAI oh_eng my_eng goodness_eng 
+566.742 568.924 PAI what_eng is_eng that_eng 
+568.884 573.247 SAR nice_eng to_eng even_eng to_eng have_eng your_eng attention_eng now_eng xxx_eng you_eng dirty_eng sneaky_eng immoral_eng _eng laugh_eng 
+573.004 575.036 PAI unfaithful_eng xxx_eng doubts_eng 
+574.101 575.106 SAR _eng oh_eng my_eng god_eng what_eng 
+575.1 576.911 OSE www_eng 
+576.9 577.852 SAR qué_spa website_eng 
+577.834 579.885 OSE www_eng 
+579.799 580.391 SAR oh_eng I_eng dont_eng know_eng 
+580.403 582.01 SAR I_eng have_eng it_eng um_eng 
+581.975 584.698 SAR just_eng do_eng the_eng Core_Gables_eng food_eng and_eng wine_eng festival_eng 
+584.669 587.299 PAI lost_eng dog_eng mira_spa esto_spa 
+587.263 599.386 PAI last_eng humping_eng his_eng wife_eng best_eng friend_eng on_eng hidden_eng camera_eng answer_eng to_eng Steven_engspa _eng to_eng see_eng the_eng old_eng dog_eng participating_eng tricks_eng xxx_eng 
+599.003 600.037 SAR oh_eng my_eng god_eng 
+599.299 600.071 PAI _eng sigh_eng 
+600.08 601.537 PAI oh_eng my_eng god_eng thats_eng terrible_eng 
+601.531 603.11 SAR look_eng at_eng what_eng she_eng did_eng 
+603.093 605.554 PAI gasp_eng 
+603.093 605.554 SAR _eng gasp_eng 
+605.548 607.4 PAI and_eng a_eng B_M_W_eng 
+607.389 608.26 SAR she_eng passed_eng it_eng 
+608.172 609.444 PAI _eng inside_eng the_eng car_eng 
+609.42 611.046 PAI gasp_eng 
+611.05 614.092 SAR oh_engspa 
+611.05 614.092 PAI _eng _eng spa_eng ay_eng dios_eng mío_eng 
+614.12 615.467 SAR I_eng think_eng she_eng is_eng mad_eng 
+614.143 615.507 PAI _eng _eng spa_eng la_eng mato_eng 
+615.484 626.026 SAR gasp_eng 
+618.551 626.026 OSE www_eng 
+626.032 627.942 SAR no_eng you_eng have_eng to_eng show_eng her_eng the_eng other_eng one_eng 
+627.895 629.428 SAR look_eng at_eng what_eng she_eng did_eng to_eng that_eng car_eng 
+628.076 628.785 PAI _eng _eng spa_eng no_eng repitas_eng 
+628.674 629.701 spa_spa no_spa lo_spa repitas_spa 
+629.66 630.809 spa_spa no_spa lo_spa repitas_spa alto_spa 
+630.801 634.231 PAI a_eng killer_eng 
+632.991 634.901 SAR _eng look_eng at_eng what_eng she_eng did_eng laughs_eng 
+635.713 636.723 SAR no_eng look_eng at_eng the_eng other_eng one_eng 
+636.729 638.255 spa_spa dale_spa 
+638.248 640.349 SAR laugh_eng 
+639.2 640.349 OSE www_eng 
+640.285 641.557 SAR laugh_eng 
+641.561 644.167 PAI _eng _eng spa_eng ay_eng dios_eng mío_eng mira_eng esto_eng 
+643.353 644.92 OSE www_eng 
+645.395 648.75 OSE www_eng 
+648.732 649.94 PAI laugh_eng 
+648.732 649.94 SAR _eng laugh_eng 
+649.923 652.861 spa_spa y_spa esto_spa 
+649.923 652.861 OSE www_eng 
+652.821 655.863 PAI ay_spa dios_spa mío_spa how_eng embarrassing_eng 
+652.943 655.462 SAR _eng oh_eng my_eng god_eng 
+655.855 658.897 SAR did_eng you_eng find_eng it_eng 
+658.869 660.738 OSE www_eng 
+660.715 662.253 SAR xxx_eng 
+662.271 663.641 spa_spa pero_spa dónde_spa tú_spa estás_spa buscando_spa 
+663.613 666.318 SAR estás_spa metida_spa en_spa Tag_engspa 
+666.405 667.316 spa_spa qué_spa es_spa eso_spa 
+667.277 668.757 SAR son_spa un_spa website_eng there_eng 
+668.734 671.288 spa_spa son_spa 
+671.334 673.236 spa_spa ya_spa yo_spa ni_spa me_spa meto_spa ahí_spa 
+673.218 674.1 spa_spa sí_spa ya_spa vi_spa ya_spa 
+674.056 683.753 spa_spa todo_spa el_spa mundo_spa quiere_spa saber_spa dónde_spa _spa dónde_spa comprar_spa el_spa _spa el_spa delantal_spa 
+679.934 681.611 PAI _eng _eng spa_eng en_eng qué_eng nos_eng metemos_eng 
+683.741 685.471 spa_spa ay_spa está_spa comiquísimo_spa 
+685.419 688.649 SAR I_eng got_eng like_eng six_eng comments_eng _eng on_eng the_eng thing_eng 
+686.647 687.808 PAI _eng that_eng is_eng hilarious_eng 
+688.654 691.417 SAR everybody_eng wants_eng to_eng know_eng 
+688.654 691.429 PAI _eng that_eng is_eng I_eng am_eng gonna_eng go_eng look_eng at_eng it_eng 
+691.276 692.506 SAR stop_eng 
+692.487 694.049 SAR everybody_eng wants_eng to_eng go_eng 
+694.003 695.245 SAR everybody_eng wants_eng to_eng see_eng 
+695.193 697.24 PAI _eng _eng spa_eng xxx_eng ella_eng los_eng vio_eng 
+697.159 698.802 SAR sí_spa she_eng said_eng it_eng was_eng 
+698.784 701.582 SAR she_eng says_eng those_eng last_eng two_eng pictures_eng was_eng a_eng bit_eng disturbing_eng 
+701.553 701.989 SAR and_eng I_eng said_eng 
+702.001 703.614 SAR _eng oh_eng god_eng I_eng sent_eng those_eng out_eng 
+703.578 705.593 SAR I_eng wasnt_eng supposed_eng to_eng 
+705.598 709.729 spa_spa lo_spa encontraste_spa o_spa no_spa 
+709.717 710.315 spa_spa ah_spa no_spa 
+710.299 719.571 spa_spa igual_spa que_spa Carla_engspa no_spa ha_spa hecho_spa nada_spa 
+719.519 720.703 spa_spa Carla_engspa estaba_spa de_spa madre_spa 
+720.709 722.746 spa_spa y_spa ya_spa porque_spa como_spa ella_spa está_spa en_spa el_spa chisme_spa xxx_spa lado_spa 
+722.652 726.217 PAI I_eng think_eng xxx_eng 
+726.196 728.843 spa_spa ay_spa qué_spa bueno_spa 
+728.831 729.853 spa_spa dónde_spa 
+729.85 734.465 PAI oh_engspa Maggie_engspa mira_spa Maggie_engspa has_eng more_eng than_eng me_eng 
+734.448 739.55 spa_spa qué_spa es_spa esto_spa xxx_spa 
+739.529 741.526 spa_spa qué_spa es_spa eso_spa _spa qué_spa es_spa 
+741.529 747.322 SAR is_eng that_eng the_eng noise_eng coming_eng from_eng there_eng 
+747.293 752.358 SAR the_eng dog_eng sniffing_eng 
+752.718 753.617 PAI I_eng dont_eng know_eng 
+753.629 754.918 PAI I_eng guess_eng they_eng have_eng something_eng wrong_eng here_eng 
+754.778 756.792 SAR oh_engspa its_eng probably_eng that_eng no_engspa 
+757.02 758.553 spa_spa este_spa manda_spa unas_spa cosas_spa tan_spa 
+758.558 760.665 spa_spa ellas_spa con_spa sus_spa angelitos_spa están_spa de_spa madre_spa 
+760.648 774.42 SAR I_eng go_eng to_eng the_eng main_eng page_eng _eng go_eng to_eng your_eng main_eng page_eng xxx_eng in_eng 
+774.404 776.471 spa_spa tienes_spa que_spa cambiar_spa eso_spa 
+776.436 778.195 PAI it_eng xxx_eng _eng and_eng I_eng cant_eng open_eng it_eng 
+776.448 777.272 SAR _eng _eng spa_eng mira_eng para_eng allá_eng 
+778.175 779.087 spa_spa ay_spa 
+779.081 780.114 SAR laugh_eng 
+780.135 781.847 spa_spa ahí_spa arriba_spa ahí_spa arriba_spa 
+781.807 783.307 SAR oh_engspa 
+783.278 784.393 PAI laugh_eng 
+783.278 784.393 SAR _eng laugh_eng 
+784.357 785.861 SAR you_eng go_eng in_eng 
+785.815 788.171 SAR and_eng then_eng you_eng _eng and_eng you_eng redo_eng it_eng 
+788.154 789.245 SAR go_eng in_eng the_eng countdown_eng 
+789.205 790.041 SAR and_eng redo_eng it_eng 
+790.196 791.7 PAI how_eng _eng and_eng xxx_eng I_eng did_eng 
+790.37 791.833 SAR right_eng there_eng press_eng it_eng 
+791.764 793.0 PAI _eng and_eng they_eng do_eng not_eng no_eng longer_eng have_eng it_eng 
+792.982 793.598 PAI I_eng tried_eng it_eng 
+793.604 797.023 SAR what_eng do_eng you_eng mean_eng 
+796.963 798.85 SAR or_eng there_eng go_eng the_eng _eng that_eng one_eng 
+798.856 802.014 spa_spa sí_spa 
+801.974 802.461 spa_spa sí_spa 
+802.444 805.976 SAR right_eng there_eng click_eng the_eng link_eng 
+805.96 808.706 SAR no_eng no_eng there_eng 
+805.96 808.706 PAI _eng here_eng 
+808.653 814.828 SAR wait_eng xxx_eng there_eng 
+814.811 817.534 SAR now_eng pick_eng one_eng 
+817.539 818.956 SAR wait_eng hold_eng on_eng 
+818.921 820.657 SAR something_eng xxx_eng bla_eng bla_eng bla_eng 
+820.715 820.901 SAR yeah_eng 
+820.901 821.684 PAI I_eng wanna_eng see_eng them_eng 
+821.667 823.505 SAR pick_eng 
+823.468 827.259 SAR pick_eng like_eng My_space_engspa flowers_eng or_eng 
+827.25 834.207 spa_spa ay_spa qué_spa lindo_spa está_spa ese_spa 
+834.196 840.395 spa_spa ok_spa 
+840.377 842.659 PAI enter_eng the_eng date_eng 
+842.629 843.831 PAI it_eng will_eng be_eng 
+842.629 843.831 SAR _eng may_eng 
+843.96 844.883 PAI may_eng 
+844.866 846.915 PAI ninth_eng 
+844.866 846.915 SAR _eng ninth_eng 
+846.909 849.446 PAI two_eng thousand_eng and_eng eight_eng 
+849.406 852.599 PAI and_eng then_eng you_eng put_eng what_eng you_eng want_eng 
+852.553 855.49 PAI New_York_eng trip_eng 
+855.472 869.104 spa_spa no_spa te_spa cabe_spa 
+869.102 870.205 PAI ah_engspa 
+870.199 871.923 SAR just_eng xxx_eng 
+871.9 873.642 PAI gross_eng 
+873.619 873.897 SAR no_eng 
+873.871 882.615 SAR put_eng girl_eng 
+882.594 883.616 PAI I_eng know_eng what_eng Im_eng gonna_eng do_eng 
+882.594 883.612 SAR _eng and_eng gap_eng 
+883.624 884.999 PAI xxx_eng 
+884.97 892.785 SAR xxx_eng 
+892.733 899.751 PAI now_eng what_eng do_eng I_eng do_eng 
+899.739 900.244 SAR eh_engspa 
+900.255 902.24 spa_spa lo_spa qué_spa 
+902.199 903.564 PAI and_eng now_eng what_eng do_eng I_eng do_eng 
+903.543 904.222 SAR go_eng down_eng a_eng minute_eng 
+904.199 905.336 SAR and_eng let_eng me_eng see_eng that_eng quick_eng post_eng 
+905.305 908.823 SAR oh_eng Ill_eng tell_eng you_eng where_eng 
+908.823 910.234 SAR ok_eng copy_eng the_eng thing_eng 
+910.241 911.901 PAI copy_eng 
+911.872 913.654 SAR ok_eng now_eng open_eng My_space_engspa 
+912.754 913.864 PAI _eng or_eng should_eng I_eng copy_eng it_eng like_eng that_eng 
+913.812 914.288 SAR yeah_eng 
+914.277 916.605 SAR thats_eng what_eng I_eng would_eng do_eng yeah_eng 
+916.603 920.168 SAR thats_eng gonna_eng take_eng forever_eng 
+920.127 924.63 PAI ok_eng 
+924.619 924.787 SAR yeah_eng 
+924.77 926.116 PAI eh_engspa 
+926.066 926.769 PAI copy_eng 
+926.066 926.722 SAR _eng copy_eng 
+926.687 928.469 SAR now_eng go_eng to_eng your_eng My_space_engspa 
+928.459 935.83 SAR now_eng you_eng have_eng to_eng go_eng into_eng going_eng home_eng 
+933.885 935.679 PAI xxx_eng 
+935.67 938.004 SAR profile_eng about_eng me_eng ok_eng 
+937.986 942.53 SAR go_eng into_eng profile_eng there_eng 
+942.519 943.83 spa_spa dónde_spa 
+943.819 945.52 SAR ahí_spa mismo_spa profile_eng profile_eng 
+943.819 945.502 PAI _eng _eng spa_eng ahí_eng 
+945.482 947.212 spa_spa ahí_spa 
+947.183 948.954 PAI about_eng me_eng 
+948.919 951.026 SAR ahora_spa tienes_spa que_spa buscar_spa el_spa countdown_eng 
+948.919 951.026 PAI _eng _eng spa_eng imagínate_eng tú_eng 
+951.004 953.001 spa_spa debe_spa estar_spa en_spa 
+953.001 954.179 SAR go_eng all_eng the_eng way_eng down_eng 
+954.17 955.215 spa_spa debe_spa estar_spa abajo_spa 
+955.199 959.088 SAR I_eng can_eng más_spa o_spa menos_spa 
+959.14 960.034 SAR go_eng down_eng a_spa ver_spa 
+960.028 960.928 PAI yeah_eng 
+960.91 961.885 spa_spa espérate_spa espérate_spa espérate_spa 
+961.862 962.901 PAI counters_eng 
+961.862 962.901 SAR _eng let_eng me_eng see_eng 
+962.914 964.29 SAR where_eng does_eng it_eng say_eng counters_eng 
+964.254 964.794 PAI here_eng 
+964.254 965.392 SAR _eng no_eng no_eng no_eng 
+965.387 969.375 spa_spa ve_spa arriba_spa arriba_spa 
+969.369 970.316 SAR to_eng the_eng top_eng 
+970.328 971.024 PAI this_eng is_eng 
+971.0 972.858 SAR does_eng it_eng say_eng something_eng countdown_eng 
+972.846 973.769 SAR yeah_eng there_eng it_eng is_eng 
+972.846 973.769 PAI _eng xxx_eng 
+973.762 974.662 spa_spa dónde_spa 
+974.633 975.736 SAR no_spa ves_spa New_York_eng 
+975.71 979.068 spa_spa pero_spa ahora_spa no_spa sé_spa 
+979.031 982.84 SAR at_eng ok_eng go_eng _eng sí_spa I_eng know_eng pero_spa it_eng doesnt_eng start_eng there_eng 
+979.031 982.857 PAI _eng éste_spa mira_spa el_spa countdown_eng aquí_spa está_spa 
+982.857 984.61 SAR it_eng probably_eng starts_eng all_eng the_eng way_eng on_eng the_eng top_eng 
+984.573 985.606 SAR go_eng down_eng a_eng minute_eng 
+985.576 988.333 SAR because_eng you_eng have_eng to_eng 
+988.322 989.216 PAI countdowns_eng 
+989.2 994.035 SAR oh_eng it_eng starts_eng all_eng the_eng way_eng there_eng then_eng 
+994.004 995.543 spa_spa es_spa de_spa aquí_spa para_spa arriba_spa no_spa 
+995.519 999.443 SAR mira_spa bien_spa en_spa la_spa página_spa donde_spa está_spa el_spa countdown_eng cómo_spa empieza_spa 
+999.439 1001.575 SAR you_eng _eng you_eng took_eng it_eng away_eng right_eng 
+1001.54 1002.567 PAI the_eng countdown_eng no_eng 
+1002.503 1003.328 SAR where_eng is_eng it_eng 
+1003.397 1004.042 PAI its_eng in_eng the_eng page_eng 
+1004.029 1007.616 SAR just_eng stick_eng it_eng under_eng I_eng _eng where_eng I_eng like_eng to_eng meet_eng 
+1007.522 1008.723 PAI and_eng where_eng is_eng that_eng 
+1008.7 1009.443 SAR right_eng there_eng 
+1008.7 1009.431 PAI _eng here_eng 
+1009.409 1012.137 SAR see_eng how_eng it_eng starts_eng 
+1012.131 1013.957 SAR see_eng embedded_eng type_eng 
+1013.962 1015.808 SAR now_eng look_eng for_eng the_eng same_eng thing_eng on_eng the_eng top_eng 
+1015.801 1017.879 SAR but_eng then_eng erase_eng from_eng there_eng 
+1017.859 1024.355 SAR it_eng doesnt_eng have_eng the_eng same_eng thing_eng does_eng it_eng 
+1024.334 1026.836 SAR nope_eng 
+1026.824 1027.991 spa_spa no_spa 
+1027.96 1031.112 SAR es_spa que_spa you_eng might_eng _eng you_eng might_eng erase_eng your_eng background_eng thats_eng why_eng 
+1031.067 1034.173 PAI ok_eng 
+1034.151 1035.463 spa_spa xxx_spa así_spa mismo_spa lo_spa pongo_spa 
+1035.431 1037.353 SAR put_eng previous_eng section_eng ahí_spa 
+1037.334 1043.447 SAR there_eng it_eng is_eng 
+1043.416 1045.384 PAI but_eng thats_eng not_eng the_eng one_eng I_eng picked_eng 
+1045.341 1048.765 SAR oh_eng its_eng down_eng there_eng 
+1048.779 1050.857 SAR look_eng at_eng it_eng down_eng there_eng 
+1050.844 1058.175 SAR I_eng dont_eng know_eng how_eng to_eng get_eng rid_eng of_eng 
+1058.161 1059.543 SAR are_eng you_eng gonna_eng change_eng your_eng layout_eng 
+1059.517 1060.602 PAI no_eng 
+1060.573 1062.071 PAI because_eng I_eng need_eng it_eng 
+1062.037 1066.872 SAR yeah_eng go_eng save_eng the_eng changes_eng 
+1066.829 1071.223 PAI so_eng now_eng what_eng I_eng can_eng do_eng is_eng 
+1070.572 1073.213 SAR _eng now_eng go_eng to_eng view_eng my_eng profile_eng 
+1073.16 1074.513 spa_spa dónde_spa está_spa eso_spa 
+1074.499 1075.521 spa_spa ahí_spa arriba_spa 
+1075.515 1076.398 PAI right_eng there_eng in_eng the_eng corner_eng 
+1076.357 1078.337 SAR arriba_spa arriba_spa arriba_spa there_eng 
+1078.307 1084.792 spa_spa ahora_spa tienes_spa que_spa quitar_spa el_spa de_spa arriba_spa 
+1084.78 1086.127 spa_spa pero_spa no_spa sé_spa 
+1086.114 1093.418 spa_spa pero_spa yo_spa puedo_spa volver_spa a_spa hacerlo_spa de_spa ahí_spa mismo_spa 
+1093.412 1094.435 SAR I_eng thought_eng you_eng could_eng 
+1094.4 1095.421 SAR but_eng you_eng cant_eng 
+1095.391 1104.942 PAI Im_eng gonna_eng put_eng the_eng other_eng one_eng now_eng xxx_eng 
+1104.938 1108.119 SAR oh_eng just_eng like_eng mine_eng that_eng I_eng have_eng double_eng 
+1108.096 1110.035 PAI you_eng do_eng 
+1110.012 1111.184 SAR yeah_eng I_eng have_eng two_eng of_eng them_eng 
+1111.155 1114.437 PAI and_eng now_eng fun_eng hearts_eng 
+1114.421 1116.958 spa_spa qué_spa romántico_spa 
+1116.928 1120.835 PAI oh_eng 
+1120.795 1123.976 PAI we_eng are_eng going_eng in_eng September_eng 
+1123.981 1125.889 PAI xxx_eng 
+1125.871 1127.317 PAI no_eng 
+1127.293 1128.211 SAR xxx_eng 
+1128.199 1132.326 SAR y_spa por_spa fin_spa Peggy_engspa cogió_spa el_spa esto_spa o_spa no_spa 
+1132.271 1134.564 PAI five_eng six_eng seven_eng 
+1134.535 1135.423 PAI no_eng 
+1135.384 1138.867 SAR you_eng have_eng to_eng change_eng the_eng year_eng 
+1138.821 1139.947 SAR shes_eng not_eng going_eng 
+1139.933 1140.711 SAR at_eng all_eng 
+1140.258 1142.783 PAI _eng she_eng xxx_eng she_eng doesnt_eng get_eng it_eng cheap_eng 
+1142.76 1143.346 SAR did_eng she_eng go_eng 
+1143.329 1145.54 SAR when_eng is_eng she_eng leaving_eng for_eng _eng for_eng the_eng cruise_eng 
+1145.51 1147.873 PAI ay_spa no_eng I_eng wanna_eng go_eng back_eng 
+1147.859 1149.02 PAI how_eng do_eng I_eng go_eng back_eng 
+1148.81 1151.353 SAR xxx_eng 
+1151.328 1156.326 SAR god_eng its_eng still_eng three_eng hundred_eng and_eng eleven_eng days_eng away_eng 
+1156.319 1157.144 SAR laugh_eng 
+1157.103 1160.472 spa_spa me_spa muero_spa _spa laugh_spa 
+1160.488 1162.543 PAI oh_eng my_eng god_eng 
+1162.52 1164.633 SAR thats_eng a_eng long_eng time_eng 
+1164.608 1164.881 PAI why_eng 
+1164.869 1167.801 PAI there_eng is_eng only_eng three_eng hundred_eng and_eng sixty_eng five_eng days_eng _eng of_eng the_eng year_eng 
+1164.869 1167.783 SAR _eng laugh_eng 
+1167.772 1170.703 PAI that_eng doesnt_eng sound_eng right_eng 
+1170.666 1174.579 PAI it_eng cant_eng be_eng three_eng hundred_eng days_eng from_eng now_eng 
+1174.609 1178.471 PAI its_eng 
+1178.471 1179.905 PAI right_eng now_eng were_eng in_eng March_eng 
+1179.883 1183.157 PAI April_eng May_eng June_eng July_eng August_eng 
+1183.169 1185.715 spa_spa uno_spa dos_spa tres_spa cuatro_spa cinco_spa 
+1185.691 1188.669 PAI no_eng thats_eng wrong_eng 
+1188.639 1191.083 SAR six_eng times_eng thirty_eng 
+1191.048 1192.07 PAI its_eng a_eng hundred_eng and_eng eighty_eng 
+1192.058 1196.272 SAR ok_eng when_eng xxx_eng finish_eng 
+1192.058 1196.272 PAI _eng no_eng thats_eng just_eng _eng thats_eng not_eng right_eng 
+1196.236 1198.401 SAR finish_eng putting_eng it_eng there_eng and_eng then_eng 
+1198.391 1204.606 SAR it_eng probably_eng hasnt_eng refreshed_eng or_eng 
+1204.573 1214.914 SAR singing_eng 
+1214.866 1216.143 SAR a_eng hundred_eng and_eng sixty_eng 
+1216.074 1216.911 PAI thats_eng what_eng I_eng thought_eng 
+1216.911 1218.124 PAI I_eng was_eng like_eng hello_eng 
+1218.12 1229.067 PAI copy_eng 
+1229.037 1233.182 SAR xxx_eng 
+1233.138 1236.812 PAI Im_eng gonna_eng go_eng to_eng 
+1236.812 1237.84 spa_spa dónde_spa ahora_spa 
+1237.816 1238.93 PAI profile_eng no_spa 
+1238.919 1239.929 SAR home_eng 
+1241.043 1242.732 SAR then_eng profile_eng 
+1242.676 1245.381 spa_spa y_spa voy_spa a_spa 
+1245.355 1246.353 SAR profile_eng ahí_spa abajo_spa 
+1246.339 1251.122 spa_spa aquí_spa 
+1251.104 1253.885 SAR no_spa aquí_spa en_spa éste_spa en_spa control_eng panel_eng tiene_spa que_spa ser_spa 
+1252.033 1253.275 PAI _eng _eng spa_eng ah_eng en_eng _eng en_eng 
+1253.817 1258.078 SAR sí_spa but_eng now_eng I_eng dont_eng know_eng which_eng one_eng is_eng 
+1257.59 1259.396 PAI _eng _eng spa_eng lo_eng voy_eng a_eng poner_eng aquí_eng abajo_eng 
+1259.407 1261.784 PAI Id_eng like_eng to_eng meet_eng 
+1261.761 1263.508 PAI and_eng what_eng Ill_eng do_eng is_eng Ill_eng separate_eng it_eng 
+1263.513 1265.916 SAR you_eng think_eng you_eng will_eng 
+1265.916 1267.558 SAR but_eng I_eng doubt_eng its_eng separated_eng 
+1267.529 1268.261 PAI yeah_eng look_eng 
+1268.242 1270.663 spa_spa ya_spa 
+1270.634 1274.358 SAR preview_eng xxx_eng 
+1270.634 1274.358 PAI _eng preview_eng 
+1274.348 1280.291 spa_spa ah_spa pero_spa tienes_spa que_spa sacar_spa el_spa de_spa arriba_spa 
+1280.277 1283.255 PAI yeah_eng but_eng now_eng I_eng gotta_eng figure_eng out_eng how_eng the_eng heck_eng to_eng do_eng that_eng 
+1283.281 1284.036 PAI now_eng 
+1284.015 1286.401 SAR go_eng into_eng save_eng 
+1285.112 1286.575 PAI _eng save_eng all_eng changes_eng 
+1286.56 1290.455 SAR I_eng wonder_eng where_eng the_eng countdown_eng begins_eng for_eng that_eng one_eng 
+1290.453 1292.548 SAR it_eng should_eng be_eng the_eng first_eng thing_eng 
+1292.519 1296.513 SAR I_eng would_eng wanna_eng say_eng to_eng take_eng off_eng all_eng of_eng that_eng until_eng a_spa ver_spa 
+1292.769 1293.965 PAI _eng xxx_eng 
+1296.455 1298.934 SAR go_eng in_eng the_eng bottom_eng a_spa ver_spa 
+1298.894 1299.643 SAR right_eng there_eng 
+1299.66 1301.03 SAR no_eng thats_eng your_eng background_eng 
+1301.013 1301.901 SAR that_eng I_eng know_eng 
+1301.883 1302.458 PAI here_eng 
+1302.429 1303.497 SAR all_eng that_eng is_eng your_eng background_eng 
+1303.439 1304.391 SAR go_eng up_eng go_eng up_eng 
+1304.396 1306.329 SAR to_eng yeah_eng thats_eng your_eng si_eng 
+1306.417 1308.158 SAR este_spa I_eng think_eng its_eng up_eng to_eng here_eng 
+1308.128 1313.097 SAR from_eng object_eng all_eng the_eng way_eng to_eng c_countdown_eng New_York_eng New_York_eng 
+1313.061 1314.884 SAR go_eng down_eng a_eng little_eng bit_eng more_eng 
+1314.845 1318.555 SAR go_eng down_eng 
+1318.528 1320.862 SAR go_eng down_eng 
+1320.839 1322.1 PAI I_eng cant_eng 
+1321.995 1324.543 spa_spa espérate_spa 
+1324.509 1327.794 SAR where_eng it_eng says_eng A_eng _eng H_eng R_eng 
+1326.842 1327.783 PAI _eng _eng spa_eng aquí_eng 
+1327.777 1328.915 spa_spa hasta_spa aquí_spa 
+1328.89 1330.893 SAR hasta_spa object_eng 
+1330.829 1333.592 spa_spa no_spa pero_spa no_spa quites_spa la_spa A_spa esa_spa 
+1333.557 1334.643 spa_spa no_spa 
+1334.642 1335.925 spa_spa al_spa final_spa 
+1335.937 1337.498 SAR no_eng because_eng thats_eng probably_eng the_eng beginning_eng of_eng 
+1337.484 1340.525 SAR everything_eng _eng everything_eng starts_eng when_eng you_eng are_eng _eng when_eng you_eng are_eng e_eng 
+1339.917 1340.55 PAI _eng _eng spa_eng aquí_eng 
+1340.553 1342.143 SAR uhuh_eng right_eng 
+1342.133 1344.612 spa_spa no_spa pero_spa no_spa quites_spa la_spa cosita_spa esa_spa 
+1344.583 1345.564 PAI ah_engspa 
+1345.522 1348.616 SAR no_spa ahí_spa ahí_spa right_eng 
+1348.578 1349.066 SAR xxx_eng 
+1349.048 1349.826 spa_spa lo_spa coge_spa 
+1349.803 1351.167 SAR ok_eng so_eng separate_eng it_eng 
+1351.132 1351.823 spa_spa espérate_spa 
+1351.795 1354.617 SAR there_eng 
+1354.587 1357.78 SAR yeah_eng 
+1357.743 1361.209 SAR delete_eng 
+1361.207 1363.03 spa_spa ay_spa dios_spa mío_spa 
+1362.974 1364.228 SAR now_eng do_eng a_eng preview_eng 
+1364.213 1365.339 SAR not_eng that_eng one_eng 
+1365.3 1366.258 SAR the_eng bottom_eng 
+1366.218 1367.152 SAR down_eng 
+1367.137 1372.222 SAR see_eng if_eng it_eng did_eng it_eng 
+1372.21 1373.435 PAI what_eng is_eng this_eng 
+1372.727 1373.795 SAR _eng whatever_eng we_eng did_eng we_eng did_eng it_eng 
+1373.801 1374.544 SAR there_eng you_eng go_eng 
+1374.526 1374.944 SAR go_eng down_eng 
+1374.927 1375.699 SAR we_eng did_eng it_eng 
+1375.693 1377.243 spa_spa no_spa pero_spa qué_spa es_spa esto_spa 
+1377.231 1378.601 SAR there_eng it_eng is_eng Paige_engspa 
+1377.231 1378.613 PAI _eng oh_engspa ok_eng ok_eng 
+1378.611 1380.899 spa_spa y_spa esto_spa no_spa me_spa salió_spa 
+1380.868 1383.619 SAR thats_eng who_eng you_eng use_eng to_eng do_eng your_eng background_eng 
+1383.593 1384.841 SAR so_eng thats_eng gonna_eng come_eng out_eng 
+1384.841 1386.391 PAI so_eng entonces_spa save_eng all_eng changes_eng 
+1386.393 1390.334 spa_spa ay_spa dios_spa mío_spa 
+1390.32 1404.959 SAR now_eng go_eng into_eng view_eng my_eng profile_eng on_eng the_eng top_eng 
+1403.171 1404.982 PAI ok_eng 
+1404.978 1406.093 SAR sniff_eng 
+1406.092 1412.355 SAR singing_eng there_eng you_eng go_eng 
+1412.325 1419.613 spa_spa vieja_spa mira_spa la_spa canción_spa esa_spa 
+1419.591 1421.054 PAI I_eng know_eng 
+1421.042 1422.772 PAI I_eng gotta_eng xxx_eng 
+1422.755 1425.953 SAR y_spa xxx_eng todo_spa eso_spa de_spa Hannah_Montana_engspa 
+1423.655 1425.971 PAI _eng girls_eng just_eng wanna_eng have_eng fun_eng 
+1425.847 1427.042 spa_spa dónde_spa estaba_spa xxx_spa música_spa 
+1427.008 1427.727 spa_spa cómo_spa lo_spa quito_spa 
+1427.869 1430.226 spa_spa no_spa 
+1430.063 1432.179 SAR tiene_eng que_eng ir_eng en_eng música_eng _eng arriba_eng 
+1432.165 1432.525 PAI here_eng 
+1432.467 1433.652 SAR no_engspa 
+1433.634 1437.53 PAI yeah_eng 
+1437.507 1442.968 SAR and_eng then_eng you_eng gotta_eng find_eng the_eng 
+1442.943 1445.474 spa_spa aquí_spa pongo_spa la_spa _spa la_spa música_spa 
+1445.461 1446.924 SAR yeah_eng 
+1446.895 1447.58 SAR who_eng sings_eng that_eng 
+1447.557 1448.683 PAI Madonna_engspa 
+1448.632 1455.639 SAR girls_eng just_eng wanna_eng have_eng fun_eng _eng singing_eng 
+1455.581 1456.986 SAR thats_eng Cyndi_Louper_engspa 
+1456.967 1459.045 PAI right_eng thats_eng what_eng I_eng thought_eng Cyndi_Louper_engspa right_eng 
+1459.054 1461.173 SAR go_eng back_eng 
+1461.131 1464.457 spa_spa xxx_spa el_spa nombre_spa de_spa la_spa canción_spa 
+1464.388 1465.526 SAR ay_spa I_eng dont_eng know_eng 
+1465.479 1466.553 SAR that_eng thing_eng is_eng so_eng annoying_eng 
+1466.542 1467.848 SAR and_eng youre_eng not_eng typing_eng anything_eng 
+1467.795 1471.423 SAR sometimes_eng you_eng cant_eng even_eng find_eng the_eng artist_eng 
+1471.4 1479.741 PAI typing_eng singing_eng 
+1479.724 1480.989 SAR she_eng may_eng not_eng even_eng be_eng there_eng 
+1480.982 1483.46 spa_spa y_spa dónde_spa está_spa la_spa canción_spa 
+1483.425 1485.759 SAR now_eng you_eng gotta_eng go_eng into_eng her_eng site_eng 
+1485.759 1486.479 spa_spa cuál_spa 
+1486.471 1486.924 spa_spa ésta_spa 
+1486.912 1489.252 SAR cualquiera_spa porque_spa now_eng we_eng dont_eng know_eng which_eng ones_eng which_eng 
+1489.22 1491.321 SAR we_eng dont_eng know_eng which_eng ones_eng true_eng and_eng which_eng ones_eng not_eng 
+1491.314 1496.473 SAR they_eng have_eng material_eng girls_eng material_eng girls_eng 
+1496.447 1498.229 PAI material_eng material_eng _eng singing_eng 
+1498.345 1499.338 SAR but_eng thats_eng Madonna_engspa 
+1498.838 1500.162 PAI _eng thats_eng Madonna_engspa 
+1500.156 1502.165 SAR go_eng back_eng and_eng try_eng the_eng other_eng one_eng 
+1502.116 1503.341 SAR lets_eng see_eng 
+1503.309 1510.414 PAI true_eng colors_eng 
+1509.415 1510.292 SAR _eng true_eng colors_eng 
+1510.242 1515.399 SAR I_eng see_eng your_eng true_eng colors_eng _eng singing_eng 
+1515.316 1517.028 PAI ah_eng so_eng si_spa no_spa la_spa tiene_spa no_spa la_spa puedo_spa coger_spa 
+1516.819 1517.8 SAR uhuh_eng 
+1517.729 1523.898 SAR es_spa que_spa yo_spa no_spa creo_spa que_spa ella_spa tiene_spa un_spa site_eng porque_spa those_eng are_eng just_eng people_eng I_eng think_eng 
+1523.888 1527.197 SAR maybe_eng is_eng this_eng a_eng Chinese_eng pop_eng 
+1527.16 1529.691 SAR nope_eng 
+1529.686 1534.47 SAR digo_spa I_eng dont_eng know_eng how_eng to_eng go_eng to_eng that_eng other_eng site_eng and_eng like_eng look_eng for_eng it_eng you_eng know_eng 
+1534.425 1537.652 SAR you_eng can_eng go_eng into_eng top_eng artist_eng 
+1537.645 1539.601 SAR and_eng search_eng on_eng the_eng top_eng 
+1539.624 1542.316 SAR and_eng see_eng 
+1542.294 1544.274 SAR but_eng shes_eng not_eng a_eng top_eng artist_eng any_more_eng 
+1543.452 1544.566 PAI _eng xxx_eng 
+1544.552 1547.582 SAR or_eng you_eng can_eng do_eng a_eng 
+1547.545 1559.229 spa_spa no_spa se_spa puede_spa ni_spa mover_spa esto_spa 
+1559.234 1561.161 SAR pero_spa go_eng down_eng 
+1561.126 1562.293 SAR oh_eng there_eng you_eng go_eng 
+1562.264 1564.401 SAR eh_eng nice_eng glasses_eng 
+1562.949 1564.093 PAI _eng what_eng up_eng 
+1564.366 1566.798 SAR hes_eng going_eng to_eng the_eng airport_eng 
+1566.788 1568.529 spa_spa en_spa qué_spa lo_spa puedo_spa ayudar_spa 
+1568.483 1570.126 spa_spa vas_spa al_spa aeropuerto_spa 
+1570.101 1571.396 spa_spa discúlpame_spa 
+1571.367 1573.294 PAI it_eng _eng it_eng sounds_eng like_eng youre_eng saying_eng escúpame_spa 
+1572.295 1573.282 SAR _eng _eng spa_eng escúpame_eng 
+1573.31 1574.152 SAR laughing_eng 
+1574.158 1575.853 PAI oh_eng 
+1579.529 1580.417 spa_spa escúpame_spa 
+1580.611 1585.541 OSE www_eng 
+1584.902 1586.528 spa_spa discúlpame_spa 
+1586.486 1588.705 SAR laughing_eng 
+1588.688 1593.053 spa_spa en_spa qué_spa te_spa puedo_spa ayudar_spa 
+1590.665 1593.666 OSE www_eng 
+1593.018 1594.8 SAR laughing_eng 
+1593.018 1595.241 PAI _eng thats_eng just_eng xxx_eng 
+1595.224 1598.51 SAR laughing_eng 
+1598.493 1599.886 SAR oh_eng god_eng 
+1598.493 1599.886 PAI _eng _eng spa_eng dime_eng 
+1599.605 1602.894 OSE www_eng 
+1602.911 1603.677 spa_spa sí_spa 
+1603.589 1605.864 spa_spa muy_spa bien_spa 
+1605.847 1607.159 spa_spa adiós_spa pues_spa entonces_spa 
+1607.234 1608.407 spa_spa hasta_spa luego_spa 
+1608.388 1610.315 PAI passport_eng office_eng 
+1610.318 1612.344 PAI of_eng course_eng not_eng its_eng never_eng on_eng 
+1612.344 1613.679 PAI its_eng never_eng on_eng 
+1613.66 1615.576 spa_spa nunca_spa 
+1615.561 1617.639 PAI yeah_eng nunca_spa la_spa tienes_spa puesta_spa 
+1617.624 1621.531 SAR laughing_eng 
+1621.526 1624.834 PAI you_eng are_eng being_eng recorded_eng 
+1624.776 1626.114 SAR yes_eng 
+1626.062 1627.554 SAR hello_eng _eng laughing_eng 
+1626.062 1631.502 PAI _eng laughing_eng 
+1630.337 1631.446 OSE www_eng 
+1631.467 1633.029 PAI why_eng and_eng then_eng who_eng 
+1633.022 1635.833 OSE www_eng 
+1635.305 1637.227 SAR mmhm_eng partners_eng in_eng crime_eng 
+1637.202 1640.445 PAI M_eng I_eng A_eng mean_eng F_eng I_eng xxx_eng 
+1637.966 1640.363 SAR _eng oh_eng hes_eng going_eng to_eng the_eng airport_eng 
+1640.333 1642.051 SAR laugh_eng 
+1642.032 1643.715 SAR hiss_eng 
+1642.682 1643.715 PAI _eng and_eng she_eng doesnt_eng even_eng work_eng here_eng 
+1643.69 1645.135 SAR and_eng I_eng dont_eng even_eng work_eng here_eng _eng laughing_eng 
+1643.69 1645.147 PAI _eng and_eng she_eng knows_eng 
+1645.141 1650.473 SAR laughing_eng 
+1645.141 1650.473 PAI _eng laughing_eng 
+1650.459 1656.171 OSE www_eng 
+1656.177 1657.204 PAI what_eng is_eng he_eng talking_eng about_eng 
+1657.627 1659.896 spa_spa qué_spa es_spa eso_spa 
+1659.858 1660.689 PAI what_eng is_eng he_eng talking_eng about_eng 
+1660.015 1662.116 SAR _eng is_eng he_eng making_eng fun_eng of_eng my_eng cups_eng 
+1662.05 1663.2 PAI oh_engspa 
+1663.186 1665.09 SAR laughing_eng 
+1663.186 1665.09 PAI _eng laughing_eng 
+1665.072 1667.478 SAR theyre_eng so_eng small_eng 
+1667.453 1668.55 spa_spa qué_spa lindo_spa 
+1668.527 1672.244 PAI I_eng know_eng like_eng everybody_eng who_eng keeps_eng coming_eng to_eng me_eng and_eng telling_eng me_eng are_eng you_eng teasing_eng me_eng _eng laughing_eng 
+1670.085 1672.169 SAR _eng you_eng see_eng _eng laughing_eng 
+1672.218 1681.45 PAI like_eng I_eng have_eng forty_eng three_eng days_eng _eng for_eng my_eng first_eng one_eng and_eng a_eng hundred_eng and_eng sixty_eng two_eng 
+1681.379 1683.875 SAR tienes_spa que_spa quitar_spa todo_spa eso_spa de_spa Hannah_Montana_engspa ya_spa 
+1683.862 1684.976 PAI ay_spa I_eng know_eng 
+1684.936 1685.899 SAR dale_spa go_eng into_eng 
+1685.893 1688.158 SAR thats_eng easy_eng because_eng you_eng just_eng have_eng it_eng in_eng one_eng section_eng 
+1688.21 1688.976 SAR go_eng into_eng home_eng 
+1688.992 1691.152 PAI look_eng Im_eng jolly_eng 
+1691.137 1691.95 SAR ay_spa how_eng nice_eng 
+1691.942 1692.639 SAR go_eng into_eng home_eng 
+1692.616 1694.955 SAR you_eng should_eng seem_eng nauseated_eng 
+1694.941 1695.679 SAR home_eng 
+1695.83 1698.575 SAR m_eng go_eng into_eng profile_eng 
+1698.677 1700.784 spa_spa eso_spa está_spa aquí_spa abajo_spa 
+1700.766 1703.646 SAR music_eng under_eng music_eng borra_spa todo_spa lo_spa que_spa hay_spa under_eng music_eng 
+1703.628 1705.927 SAR all_eng the_eng way_eng down_eng 
+1705.918 1708.362 spa_spa ya_spa 
+1708.334 1712.072 spa_spa bueno_spa pi_spa 
+1712.066 1714.359 PAI oh_eng so_eng I_eng can_eng even_eng add_eng things_eng in_eng here_eng huh_eng 
+1713.198 1715.456 SAR _eng of_eng course_eng you_eng can_eng add_eng them_eng anywhere_eng 
+1715.445 1718.986 SAR thats_eng where_eng people_eng _eng thats_eng where_eng people_eng add_eng their_eng slide_eng shows_eng and_eng stuff_eng 
+1715.445 1718.568 PAI _eng _eng spa_eng oh_eng podíamos_eng empezar_eng a_eng jugar_eng aquí_eng 
+1718.986 1720.31 SAR you_eng add_eng them_eng in_eng different_eng sections_eng 
+1720.234 1721.807 SAR you_eng dont_eng have_eng to_eng add_eng it_eng in_eng one_eng place_eng 
+1721.779 1723.468 SAR ya_spa ahora_spa view_eng profile_eng 
+1723.439 1725.453 spa_spa ahí_spa arriba_spa 
+1725.423 1731.697 spa_spa me_spa duele_spa la_spa muela_spa otra_spa vez_spa 
+1731.681 1732.61 spa_spa ya_spa 
+1732.604 1734.694 spa_spa ah_spa muy_spa bien_spa 
+1734.646 1735.911 SAR do_eng it_eng 
+1735.903 1741.201 spa_spa ah_spa ya_spa yo_spa sé_spa jugar_spa con_spa eso_spa 
+1741.186 1742.192 SAR so_eng now_eng you_eng have_eng all_eng that_eng ts_eng 
+1742.158 1744.642 SAR everything_eng that_eng you_eng have_eng xxx_eng come_eng out_eng on_eng this_eng side_eng 
+1744.651 1745.865 SAR because_eng you_eng have_eng nothing_eng on_eng this_eng side_eng 
+1745.85 1747.685 PAI _eng _eng spa_eng yo_eng voy_eng a_eng agregar_eng 
+1745.862 1747.615 SAR _eng all_eng you_eng have_eng is_eng under_eng the_eng general_eng section_eng 
+1747.615 1747.952 spa_spa eh_spa 
+1747.952 1749.896 spa_spa ya_spa yo_spa sé_spa cómo_spa jugar_spa aquí_spa 
+1749.873 1750.581 spa_spa voy_spa ahora_spa a_spa mi_spa casa_spa 
+1750.563 1755.526 spa_spa y_spa voy_spa a_spa cambiar_spa todo_spa _spa si_spa me_spa acuerdo_spa 
+1755.509 1756.682 spa_spa y_spa la_spa canción_spa 
+1756.676 1758.075 SAR you_eng can_eng just_eng go_eng and_eng pick_eng 
+1757.703 1759.921 PAI _eng no_spa la_spa canción_spa es_spa a_spa meterme_spa ahí_spa en_spa music_eng 
+1759.892 1763.026 spa_spa y_spa ya_spa 
+1763.016 1767.626 spa_spa no_spa me_spa voy_spa de_spa aquí_spa que_spa va_spa no_spa me_spa puedo_spa meter_spa _spa 
+1767.59 1768.129 spa_spa qué_spa 
+1768.09 1773.597 spa_spa tengo_spa hambre_spa 
+1773.562 1775.391 spa_spa qué_spa pasó_spa 
+1775.371 1777.635 spa_spa que_spa ya_spa 
+1777.607 1781.107 PAI ok_eng I_eng think_eng we_eng are_eng _eng done_eng 
+1781.081 1784.895 PAI where_eng is_eng that_eng 
+1784.866 1788.413 PAI Julio_engspa then_eng here_eng 
+1788.396 1795.645 spa_spa qué_spa lindo_spa 
+1795.524 1797.428 PAI now_eng Im_eng gonna_eng change_eng it_eng around_eng 
+1797.422 1798.816 PAI now_eng I_eng know_eng what_eng to_eng do_eng 
+1798.742 1801.458 SAR I_eng did_eng mine_eng xxx_eng already_eng 
+1801.476 1802.95 PAI yeah_eng I_eng think_eng xxx_eng New_York_eng is_eng old_eng 
+1802.936 1805.544 SAR t_eng old_eng news_eng 
+1802.936 1805.515 PAI _eng I_eng need_eng to_eng clean_eng it_eng 
+1805.478 1808.189 PAI but_eng now_eng I_eng know_eng how_eng to_eng play_eng 
+1808.162 1811.459 SAR old_eng news_eng 

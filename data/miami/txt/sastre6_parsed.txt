@@ -1,0 +1,827 @@
+0.46 1.022 AAR well_eng no_eng 
+0.993 5.236 AAR we_eng rode_eng for_eng _eng for_eng uh_engspa nine_eng days_eng 
+6.075 7.039 ALY xxx_eng 
+6.272 11.02 AAR _eng from_eng _eng Miami_engspa to_eng _eng Sanford_engspa 
+11.304 18.708 AAR from_eng Sanford_engspa _eng we_eng took_eng the_eng train_eng the_eng Amtrak_engspa train_eng and_eng rode_eng it_eng to_eng _eng uh_engspa Virginia_engspa 
+18.543 19.791 ALY mhmm_engspa 
+19.738 24.67 AAR then_eng from_eng Virginia_engspa _eng we_eng crossed_eng all_eng over_eng in_eng through_eng New_York_eng 
+27.786 31.78 AAR then_eng we_eng crossed_eng in_eng through_eng Boston_engspa 
+31.806 36.643 AAR then_eng we_eng went_eng in_eng through_eng ah_engspa _eng 
+36.574 37.421 AAR what_eng is_eng it_eng 
+37.369 38.513 AAR _eng Niagara_Falls_engspa 
+38.509 41.661 AAR then_eng we_eng crossed_eng back_eng from_eng Niagara_Falls_engspa 
+41.63 45.542 AAR we_eng stopped_eng in_eng Philadelphia_engspa 
+45.638 53.759 AAR then_eng from_eng Philadelphia_engspa _eng we_eng rode_eng down_eng through_eng _eng ah_engspa Virginia_engspa 
+53.747 55.82 AAR we_eng went_eng to_eng the_eng Laurie_Camerons_engspa 
+55.886 57.0 ALY mhmm_engspa 
+57.188 62.378 AAR then_eng from_eng the_eng Laurie_Camerons_engspa we_eng went_eng to_eng _eng _eng back_eng to_eng the_eng Amtraks_engspa station_eng 
+62.463 67.388 AAR we_eng rode_eng back_eng to_eng _eng Sanford_engspa 
+67.359 68.88 AAR and_eng then_eng we_eng rode_eng back_eng to_eng Miami_engspa 
+68.636 69.727 ALY ok_engspa 
+69.705 71.139 AAR and_eng that_eng was_eng it_eng 
+71.159 74.183 ALY that_eng was_eng a_eng very_eng good_eng experience_eng 
+74.332 77.397 ALY why_eng had_eng it_eng _eng _eng what_eng is_eng the_eng next_eng _eng _eng the_eng next_eng trip_eng that_eng we_eng did_eng 
+79.345 82.707 AAR no_eng as_eng far_eng as_eng long_eng trips_eng we_eng havent_eng done_eng any_eng other_eng long_eng ones_eng 
+82.698 84.898 ALY no_eng the_eng short_eng one_eng that_eng we_eng did_eng 
+84.88 86.75 AAR oh_engspa weve_eng been_eng to_eng 
+85.391 86.976 ALY _eng we_eng went_eng to_eng Lisberg_engspa 
+87.24 89.109 AAR yeah_eng weve_eng been_eng to_eng Lisberg_engspa 
+88.935 93.425 AAR weve_eng been_eng to_eng _eng yawn_eng ah_engspa 
+93.199 94.273 ALY Tampa_engspa 
+94.624 95.466 AAR Tampa_engspa 
+95.239 99.014 AAR weve_eng been_eng to_eng _eng eh_engspa s_eng eh_engspa Silverprings_engspa 
+98.966 103.076 AAR weve_eng been_eng to_eng um_eng _eng Rocksprings_engspa 
+103.05 110.636 AAR we_eng went_eng to_eng _eng _eng um_eng _eng 
+110.601 111.693 AAR I_eng forgot_eng the_eng name_eng now_eng 
+111.658 113.428 AAR where_eng _eng where_eng was_eng that_eng place_eng 
+113.479 115.296 AAR where_eng we_eng saw_eng the_eng 
+115.29 116.567 AAR _eng for_eng the_eng bike_eng rally_eng 
+116.561 118.776 spa_spa fuimos_spa a_spa 
+118.509 120.529 ALY I_eng forget_eng the_eng name_eng of_eng that_eng place_eng 
+120.395 121.725 AAR eh_engspa 
+124.185 125.433 AAR no_eng I_eng cant_eng forget_eng it_eng 
+125.357 126.536 AAR I_eng forgot_eng the_eng name_eng 
+126.934 130.655 AAR weve_eng been_eng to_eng _eng xxx_eng 
+130.446 131.833 ALY mhmm_engspa 
+132.045 133.7 AAR Everglade_City_engspa 
+135.367 138.777 AAR um_eng _eng Naples_engspa 
+138.824 139.689 AAR eh_engspa 
+139.666 140.717 ALY Marco_Island_engspa 
+140.392 141.355 AAR Marco_Island_engspa 
+141.317 145.447 AAR and_eng weve_eng been_eng to_eng uh_engspa 
+145.284 146.103 ALY yes_eng 
+145.284 146.103 AAR _eng yeah_eng 
+146.481 148.654 AAR we_eng went_eng to_eng _eng ah_engspa 
+148.636 150.302 AAR the_eng bike_eng doesnt_eng have_eng a_eng year_eng yet_eng 
+150.56 152.185 AAR it_eng wont_eng have_eng a_eng year_eng until_eng July_eng 
+152.174 153.167 AAR and_eng Ive_eng already_eng 
+152.828 154.302 OSE www_eng 
+154.133 154.655 ALY yes_eng 
+154.481 154.76 AAR _eng yeah_eng 
+154.719 156.971 AAR weve_eng got_eng almost_eng ten_eng thousand_eng miles_eng on_eng the_eng bike_eng 
+156.484 158.173 ALY ten_eng thousand_eng miles_eng on_eng the_eng bike_eng 
+158.193 161.34 AAR and_eng weve_eng only_eng been_eng _eng _eng _eng and_eng we_eng havent_eng had_eng it_eng a_eng year_eng 
+162.492 164.187 AAR we_eng ride_eng 
+163.923 165.334 OSE www_eng 
+165.272 166.05 AAR well_eng no_eng 
+165.406 165.795 ALY _eng yeah_eng 
+165.772 169.591 ALY mostly_eng _eng _eng mostly_eng he_eng _eng _eng sometimes_eng he_eng goes_eng 
+165.928 168.546 AAR _eng he_eng du_eng _eng he_eng mo_eng _eng sometimes_eng he_eng goes_eng 
+168.488 169.382 AAR sometimes_eng he_eng doesnt_eng 
+169.556 170.677 ALY sometimes_eng he_eng doesnt_eng 
+171.086 172.114 AAR it_eng all_eng depends_eng 
+172.028 172.986 AAR if_eng he_eng doesnt_eng have_eng 
+172.038 173.762 ALY depending_eng how_eng she_eng feels_eng 
+172.968 175.435 AAR like_eng this_eng _eng _eng this_eng weekend_eng were_eng not_eng going_eng 
+175.501 177.225 AAR because_eng this_eng weekend_eng 
+175.501 180.89 ALY _eng this_eng weekend_eng the_eng _eng the_eng club_eng does_eng not_eng have_eng anything_eng _eng eh_engspa designed_eng 
+179.711 180.35 AAR _eng they_eng do_eng 
+180.327 180.936 AAR they_eng do_eng 
+180.777 181.764 ALY they_eng do_eng 
+181.346 184.144 AAR _eng theyre_eng gonna_eng go_eng eat_eng at_eng _eng at_eng Rib_City_engspa at_eng Immokalee_engspa 
+185.367 188.554 AAR and_eng _eng but_eng theyre_eng changing_eng it_eng because_eng of_eng Good_Friday_eng 
+188.627 191.971 AAR theyre_eng gonna_eng _eng _eng theyre_eng not_eng gonna_eng have_eng club_eng on_eng Friday_eng 
+191.93 193.445 AAR but_eng theyre_eng gonna_eng have_eng it_eng on_eng Saturday_eng 
+193.413 196.333 AAR plus_eng Saturday_eng we_eng gotta_eng go_eng to_eng my_eng sisters_eng party_eng 
+196.359 200.312 AAR and_eng then_eng Sunday_eng we_eng got_eng the_eng wedding_eng for_eng Juans_engspa sister_eng 
+200.245 200.913 ALY yeah_eng 
+200.913 201.784 AAR so_eng we_eng cant_eng 
+200.913 203.659 ALY _eng Sunday_eng I_eng have_eng the_eng wedding_eng on_eng Juans_engspa sister_eng 
+203.65 205.194 AAR thats_eng a_eng nice_eng ride_eng to_eng Immokalee_engspa 
+205.026 209.031 AAR Immokalee_engspa all_eng there_eng is_eng _eng _eng is_eng all_eng _eng _eng _eng its_eng a_eng little_eng town_eng all_eng Mexicans_eng 
+209.134 213.209 AAR but_eng ah_engspa we_eng just_eng go_eng there_eng to_eng _eng to_eng _eng _eng to_eng eat_eng 
+213.519 214.698 AAR we_eng go_eng for_eng the_eng ride_eng 
+214.651 216.097 AAR and_eng we_eng cruise_eng through_eng town_eng 
+215.954 217.835 AAR we_eng cruise_eng through_eng town_eng 
+217.226 218.613 OSE www_eng 
+218.559 223.832 AAR ah_engspa and_eng Immokalee_engspa is_eng um_eng _eng sniffs_eng um_eng 
+223.782 228.02 AAR what_eng we_eng do_eng is_eng is_eng we_eng take_eng _eng Alligator_Alley_engspa 
+228.271 234.433 AAR when_eng we_eng get_eng to_eng where_eng the_eng Seminole_engspa tribes_eng are_eng _eng we_eng go_eng through_eng that_eng road_eng there_eng right_eng where_eng the_eng gas_eng station_eng is_eng 
+234.43 235.76 AAR follow_eng that_eng road_eng 
+235.732 238.635 AAR and_eng thats_eng called_eng Snake_Road_engspa I_eng think_eng its_eng called_eng 
+238.596 240.669 AAR and_eng that_eng goes_eng in_eng through_eng their_eng town_eng 
+240.712 248.681 AAR and_eng then_eng from_eng there_eng we_eng cross_eng over_eng I_eng think_eng its_eng into_eng ah_engspa State_Road_engspa thirty_eng one_eng _eng eh_engspa or_eng four_eng thirty_eng one_eng 
+248.652 251.444 AAR and_eng that_eng takes_eng us_eng all_eng the_eng way_eng across_eng into_eng Immokalee_engspa 
+251.447 254.152 AAR and_eng then_eng um_eng _eng xxx_eng 
+254.043 255.622 OSE www_eng 
+255.558 257.236 AAR yeah_eng its_eng a_eng _eng _eng its_eng a_eng little_eng town_eng 
+256.123 258.137 ALY _eng no_eng I_eng remember_eng seeing_eng the_eng sign_eng 
+258.102 261.025 ALY but_eng I_eng dont_eng know_eng exactly_eng what_eng it_eng is_eng 
+259.509 265.069 AAR _eng it_eng looks_eng a_eng little_eng bit_eng like_eng _eng um_eng _eng 
+265.005 265.464 AAR I_eng dont_eng know_eng 
+265.448 268.95 AAR it_eng looks_eng _eng _eng _eng it_eng looks_eng a_eng little_eng bit_eng like_eng ah_engspa Naples_engspa 
+268.927 270.349 AAR ah_engspa something_eng like_eng that_eng 
+270.222 272.224 AAR on_eng the_eng outer_eng reaches_eng of_eng Naples_engspa 
+272.362 276.46 AAR because_eng its_eng not_eng as_eng uh_engspa _eng _eng as_eng modern_eng _eng as_eng Naples_engspa 
+276.404 279.272 AAR because_eng its_eng all_eng _eng imagine_eng its_eng all_eng uh_engspa agricultural_eng 
+279.07 279.999 OSE www_eng 
+279.906 281.857 AAR yeah_eng its_eng all_eng agricultural_eng 
+281.812 285.599 AAR and_eng like_eng I_eng said_eng the_eng only_eng thing_eng theres_eng there_eng is_eng just_eng pretty_eng much_eng um_eng Mexicans_eng 
+285.599 286.278 AAR thats_eng it_eng 
+286.298 288.394 AAR theyre_eng all_eng little_eng people_eng 
+288.365 290.245 AAR none_eng of_eng them_eng go_eng over_eng four_eng feet_eng 
+290.266 292.57 AAR theyre_eng all_eng tiny_eng little_eng people_eng 
+292.732 296.511 AAR and_eng the_eng kids_eng are_eng all_eng you_eng know_eng ʧini_eng eh_engspa chinito_spa types_eng 
+296.675 300.35 AAR and_eng they_eng have_eng uh_engspa _eng uh_engspa the_eng little_eng Asian_eng looks_eng 
+300.394 305.683 AAR the_eng same_eng way_eng when_eng we_eng ride_eng _eng to_eng the_eng _eng the_eng toy_eng run_eng 
+305.692 308.101 AAR we_eng did_eng the_eng toy_eng run_eng this_eng year_eng 
+308.09 315.12 AAR que_spa fue_spa _eng _eng _eng they_eng said_eng there_eng was_eng like_eng forty_eng thousand_eng motorcycles_eng _eng there_eng 
+315.703 317.497 AAR we_eng rode_eng um_eng 
+317.491 319.842 OSE www_eng 
+319.805 320.444 AAR no_eng 
+320.525 320.891 ALY no_eng 
+320.525 323.219 AAR _eng thats_eng _eng thats_eng _eng this_eng _eng this_eng is_eng the_eng main_eng toy_eng run_eng 
+323.214 327.823 AAR the_eng one_eng that_eng um_eng _eng deals_eng eh_engspa your_eng _eng your_eng uncles_eng ah_engspa 
+327.997 331.091 AAR Santaclause_eng is_eng our_eng personal_eng toy_eng run_eng 
+328.223 329.506 ALY _eng xxx_eng 
+330.266 331.218 OSE www_eng 
+331.622 334.971 AAR we_eng took_eng _eng we_eng went_eng like_eng _eng we_eng went_eng like_eng two_eng hundred_eng bikes_eng 
+331.709 335.139 ALY _eng what_eng everybody_eng _eng what_eng everybody_eng 
+335.043 338.528 ALY eh_engspa we_eng went_eng two_eng hundred_eng bikes_eng at_eng the_eng toy_eng run_eng 
+338.515 339.327 spa_spa xxx_spa nosotros_spa 
+339.31 341.081 AAR our_eng own_eng private_eng _eng our_eng own_eng one_eng 
+339.362 340.216 ALY of_eng ours_eng 
+340.216 341.081 ALY of_eng the_eng club_eng 
+341.051 341.702 AAR right_eng 
+341.681 347.436 ALY and_eng then_eng we_eng took_eng _eng everybody_eng took_eng a_eng toy_eng _eng to_eng donate_eng for_eng the_eng poor_eng children_eng 
+347.432 349.586 AAR yeah_eng we_eng took_eng a_eng truck_eng full_eng of_eng toys_eng 
+349.04 352.409 ALY and_eng we_eng took_eng about_eng _eng there_eng were_eng about_eng two_eng trucks_eng 
+350.087 365.248 AAR _eng because_eng what_eng happens_eng is_eng is_eng that_eng _eng that_eng _eng that_eng main_eng toy_eng run_eng _eng which_eng is_eng the_eng south_eng Florida_engspa presidents_eng council_eng is_eng what_eng its_eng called_eng _eng they_eng um_eng um_eng _eng its_eng a_eng bunch_eng of_eng ah_engspa clubs_eng that_eng are_eng associated_eng 
+365.308 370.743 AAR and_eng then_eng what_eng happens_eng is_eng is_eng uh_engspa _eng everybody_eng goes_eng and_eng donates_eng a_eng toy_eng 
+370.758 379.32 AAR apart_eng from_eng donating_eng a_eng toy_eng everybody_eng pays_eng _eng _eng um_eng you_eng pay_eng ten_eng dollars_eng per_eng person_eng _eng to_eng ride_eng in_eng the_eng toy_eng run_eng 
+379.371 396.721 AAR and_eng this_eng year_eng after_eng they_eng paid_eng everything_eng they_eng _eng _eng they_eng uh_engspa _eng they_eng _eng they_eng got_eng all_eng the_eng money_eng that_eng they_eng grossed_eng out_eng after_eng they_eng paid_eng all_eng the_eng debts_eng that_eng they_eng had_eng to_eng pay_eng we_eng donated_eng to_eng Joe_engspa Dimaggio_engspa I_eng think_eng was_eng uh_engspa five_eng hundred_eng and_eng eighty_eng seven_eng thousand_eng dollars_eng 
+396.712 401.275 AAR plus_eng _eng we_eng donated_eng about_eng twenty_eng thousand_eng toys_eng 
+402.424 405.773 AAR so_eng _eng but_eng that_eng was_eng _eng that_eng _eng də_eng thats_eng the_eng biggest_eng toy_eng run_eng 
+405.773 410.652 AAR that_eng ones_eng the_eng one_eng we_eng leave_eng from_eng uh_engspa _eng Pampano_engspa Pampano_Beach_engspa 
+410.66 411.636 AAR and_eng we_eng ride_eng 
+411.618 414.892 AAR they_eng close_eng I_ninety_eng five_eng and_eng five_eng ninety_eng five_eng 
+415.289 416.27 AAR they_eng close_eng it_eng 
+415.928 417.219 ALY they_eng close_eng it_eng for_eng us_eng 
+416.719 429.155 AAR _eng and_eng _eng and_eng the_eng bikes_eng _eng will_eng go_eng all_eng the_eng way_eng from_eng Pampano_engspa _eng all_eng the_eng way_eng through_eng I_eng nine_eng _eng ninety_eng five_eng five_eng ninety_eng five_eng all_eng the_eng way_eng to_eng Markham_Park_engspa 
+429.833 435.663 AAR the_eng line_eng _eng and_eng theres_eng people_eng already_eng on_eng both_eng ends_eng and_eng the_eng lines_eng still_eng riding_eng through_eng thats_eng how_eng many_eng bikes_eng go_eng 
+435.583 437.476 AAR and_eng they_eng close_eng everything_eng 
+437.449 441.17 AAR they_eng have_eng uh_engspa police_eng come_eng from_eng all_eng over_eng the_eng _eng the_eng counties_eng 
+441.171 443.302 AAR and_eng they_eng _eng they_eng close_eng it_eng off_eng 
+443.281 448.147 AAR they_eng close_eng off_eng completely_eng uh_engspa I_ninety_eng five_eng only_eng motorcycle_eng travel_eng 
+448.126 449.258 AAR and_eng thats_eng through_eng 
+449.252 450.361 AAR we_eng had_eng a_eng lot_eng of_eng fun_eng 
+450.357 456.083 AAR we_eng were_eng there_eng parking_eng bikes_eng from_eng _eng what_eng was_eng it_eng seven_eng or_eng eight_eng in_eng the_eng morning_eng 
+456.085 457.617 ALY at_eng eight_eng in_eng the_eng morning_eng 
+457.598 463.23 AAR until_eng _eng _eng until_eng like_eng ah_engspa _eng two_eng oclock_eng 
+463.215 467.177 AAR bikes_eng parking_eng bikes_eng _eng from_eng that_eng time_eng in_eng the_eng morning_eng 
+467.084 468.419 AAR and_eng then_eng we_eng parked_eng them_eng 
+468.398 471.663 AAR and_eng then_eng once_eng that_eng we_eng parked_eng all_eng the_eng bikes_eng then_eng we_eng 
+471.378 473.4 ALY then_eng all_eng the_eng bikes_eng left_eng 
+473.284 474.3 AAR had_eng to_eng leave_eng 
+473.383 475.391 ALY _eng and_eng then_eng that_eng everybody_eng left_eng 
+475.381 478.522 ALY then_eng we_eng were_eng _eng ha_eng were_eng allowed_eng to_eng leave_eng 
+478.495 485.127 AAR yeah_eng well_eng we_eng were_eng the_eng last_eng ones_eng because_eng we_eng were_eng _eng _eng we_eng _eng there_eng were_eng _eng we_eng were_eng the_eng first_eng ones_eng in_eng and_eng were_eng the_eng last_eng ones_eng out_eng 
+480.251 483.655 ALY _eng we_eng were_eng the_eng last_eng ones_eng so_eng imagine_eng that_eng what_eng about_eng 
+483.661 485.1 ALY _eng how_eng many_eng bikes_eng 
+485.341 487.721 AAR well_eng it_eng was_eng about_eng they_eng estimated_eng forty_eng thousand_eng bikes_eng 
+487.53 489.259 ALY forty_eng thousand_eng bikes_eng 
+489.239 490.992 AAR thats_eng a_eng lot_eng of_eng bikes_eng 
+490.983 492.184 AAR I_eng never_eng seen_eng so_eng many_eng 
+492.184 496.015 ALY I_eng have_eng never_eng seen_eng so_eng many_eng bikes_eng in_eng my_eng life_eng 
+498.015 499.153 ALY its_eng really_eng nice_eng 
+498.19 499.089 AAR _eng its_eng a_eng lot_eng of_eng fun_eng 
+499.068 500.189 ALY it_eng is_eng a_eng lot_eng of_eng fun_eng 
+500.183 501.768 AAR we_eng have_eng a_eng lot_eng of_eng fun_eng 
+500.748 502.681 ALY _eng its_eng tiring_eng sometimes_eng 
+502.629 504.022 ALY but_eng its_eng a_eng lot_eng of_eng fun_eng 
+503.461 504.68 AAR _eng I_eng dont_eng like_eng 
+504.581 505.266 AAR groans_eng 
+505.245 507.265 AAR eh_engspa shes_eng always_eng complaining_eng que_spa 
+507.253 508.995 AAR _eng _eng spa_eng tú_eng siempre_eng quieres_eng estar_eng en_eng el_eng club_eng 
+508.795 511.226 AAR _eng _eng spa_eng no_eng quieres_eng ir_eng _eng a_eng ningún_eng lugar_eng más_eng 
+511.226 512.249 AAR _eng no_spa quieres_spa ask_eng 
+512.238 513.358 AAR _eng we_eng having_eng fun_eng 
+513.337 514.974 AAR every_eng time_eng we_eng go_eng 
+514.563 515.863 ALY every_eng Friday_eng 
+515.85 519.676 ALY every_eng Friday_eng we_eng get_eng reunited_eng over_eng there_eng 
+516.169 517.359 AAR _eng we_eng go_eng on_eng Fridays_eng 
+517.505 521.72 AAR _eng _eng spa_eng e_eng ella_eng se_eng pone_eng _eng se_eng pone_eng mala_eng toda_eng la_eng noche_eng 
+520.422 521.949 ALY _eng they_eng send_eng food_eng 
+521.927 526.997 AAR on_eng f_eng _eng and_eng Friday_eng night_eng they_eng get_eng _eng you_eng get_eng to_eng eat_eng e_eng una_spa completa_spa 
+522.434 523.624 ALY _eng they_eng send_eng food_eng 
+523.613 525.534 ALY _eng they_eng send_eng drinks_eng 
+526.081 528.758 ALY _eng you_eng get_eng to_eng eat_eng what_eng you_eng like_eng for_eng six_eng dollars_eng 
+528.121 529.99 AAR _eng so_eng youre_eng complete_eng for_eng six_eng dollars_eng 
+530.544 531.618 ALY not_eng bad_eng at_eng all_eng 
+530.637 532.129 AAR _eng con_spa muchas_spa las_spa veces_spa con_spa dessert_eng 
+532.184 535.122 ALY and_eng sometimes_eng they_eng have_eng the_eng desserts_eng 
+535.121 539.753 ALY I_eng do_eng the_eng Cuban_eng coffee_eng I_eng sell_eng it_eng for_eng twenty_eng five_eng cents_eng a_eng little_eng cup_eng 
+535.121 538.104 AAR _eng te_spa compras_spa a_eng _eng a_eng _eng a_eng bottled_eng water_eng 
+539.907 540.83 AAR yeah_eng thats_eng what_eng she_eng likes_eng 
+540.824 542.467 AAR thats_eng her_eng favourite_eng part_eng making_eng coffee_eng 
+542.435 543.659 ALY making_eng coffee_eng 
+543.654 545.581 ALY I_eng love_eng Cuban_eng coffee_eng 
+545.566 547.325 AAR yeah_eng j_eng yeah_eng 
+546.193 547.261 ALY _eng er_eng yeah_eng 
+547.47 549.038 AAR we_eng go_eng there_eng every_eng Friday_eng 
+549.022 549.858 AAR and_eng 
+549.271 550.52 ALY every_eng Friday_eng we_eng go_eng 
+550.493 551.961 AAR and_eng then_eng they_eng have_eng karaoke_engspa 
+550.493 552.408 ALY _eng and_eng we_eng have_eng an_eng excellent_eng time_eng 
+552.397 553.691 AAR they_eng have_eng karaoke_engspa 
+553.682 558.217 AAR se_spa ponen_spa en_spa um_eng _eng the_eng uh_engspa attorney_eng del_spa club_engspa 
+558.212 559.849 AAR I_eng guess_eng hes_eng not_eng the_eng attorney_eng 
+559.843 560.696 AAR but_eng hes_eng an_eng attorney_eng 
+560.641 564.107 AAR so_eng _eng they_eng use_eng him_eng for_eng _eng for_eng stuff_eng in_eng the_eng club_engspa 
+564.103 571.985 AAR he_eng um_eng _eng _eng he_eng has_eng a_eng _eng an_eng I_Pod_eng _eng with_eng eighty_eng gigs_eng of_eng music_eng 
+571.959 574.554 AAR ok_eng _eng so_eng hes_eng got_eng 
+574.542 575.123 OSE www_eng 
+575.111 576.098 spa_spa llenito_spa 
+575.315 576.877 ALY completely_eng full_eng 
+576.41 581.979 AAR _eng all_eng video_eng de_spa _eng de_spa _eng for_eng karao_eng karaoke_engspa and_eng _eng and_eng all_eng kinds_eng of_eng songs_eng 
+577.939 581.991 ALY _eng all_eng videos_eng _eng karaokes_engspa and_eng the_eng music_eng 
+581.982 583.915 ALY all_eng type_eng of_eng songs_eng 
+582.643 586.919 AAR and_eng all_eng he_eng does_eng is_eng uh_engspa he_eng hooks_eng it_eng up_eng to_eng the_eng T_V_eng 
+586.909 593.315 AAR and_eng then_eng uh_engspa and_eng the_eng mo_eng _eng and_eng when_eng we_eng get_eng there_eng sometimes_eng hell_eng just_eng put_eng music_eng _eng just_eng different_eng kinds_eng of_eng music_eng 
+593.305 600.122 AAR and_eng then_eng after_eng ten_eng _eng we_eng put_eng the_eng volume_eng up_eng on_eng the_eng _eng on_eng the_eng ah_engspa _eng the_eng system_eng del_spa club_engspa 
+600.178 601.704 AAR because_eng a_eng lot_eng of_eng people_eng complain_eng 
+601.693 604.891 AAR _eng ah_engspa you_eng cant_eng have_eng the_eng loud_eng music_eng the_eng whole_eng time_eng because_eng we_eng dont_eng all_eng come_eng for_eng that_eng 
+604.895 605.981 AAR well_eng thats_eng fine_eng 
+605.975 615.873 AAR so_eng then_eng they_eng _eng we_eng made_eng an_eng agreement_eng que_spa e_eng from_eng seven_eng to_eng _eng _eng until_eng uh_engspa ten_eng oclock_eng its_eng _eng the_eng musics_eng down_eng low_eng 
+615.838 618.789 AAR then_eng at_eng ten_eng _eng we_eng shoot_eng up_eng the_eng music_eng 
+618.773 622.99 AAR and_eng then_eng _eng she_eng starts_eng dancing_eng con_spa las_spa _eng las_spa mujeres_spa del_spa club_engspa 
+622.978 623.681 AAR and_eng theres_eng about_eng 
+623.676 626.117 ALY theres_eng about_eng _eng about_eng six_eng seven_eng 
+625.252 626.192 AAR _eng six_eng or_eng seven_eng 
+626.111 627.521 AAR theyre_eng always_eng there_eng bailando_spa 
+627.516 628.99 AAR and_eng theyre_eng having_eng a_eng good_eng time_eng 
+627.556 630.907 ALY _eng we_eng get_eng that_eng what_eng to_eng dance_eng alone_eng 
+630.385 630.884 AAR yeah_eng 
+630.874 634.363 AAR y_spa después_spa entonces_spa he_eng starts_eng putting_eng a_eng karaoke_engspa music_eng 
+634.361 639.941 AAR and_eng a_eng lot_eng of_eng the_eng people_eng theres_eng a_eng few_eng of_eng them_eng that_eng drink_eng two_eng or_eng three_eng beers_eng and_eng they_eng get_eng drunk_eng or_eng they_eng get_eng buzzed_eng out_eng 
+642.518 643.673 AAR and_eng you_eng see_eng everybody_eng 
+643.667 644.875 AAR _eng squeal_eng 
+644.863 646.529 AAR singing_eng to_eng the_eng songs_eng you_eng know_eng 
+644.863 646.099 ALY _eng everybody_eng singing_eng 
+646.398 648.377 AAR but_eng we_eng have_eng a_eng real_eng good_eng time_eng 
+648.374 653.89 AAR e_eng la_spa otra_spa noche_spa nos_spa fuimos_spa _eng _eng weve_eng had_eng nights_eng when_eng weve_eng left_eng like_eng at_eng one_eng one_eng thirty_eng in_eng the_eng morning_eng 
+653.864 656.151 ALY the_eng other_eng day_eng we_eng left_eng about_eng 
+656.134 657.434 OSE www_eng 
+657.429 657.684 AAR yeah_eng 
+657.67 659.226 AAR its_eng _eng it_eng 
+657.67 660.271 ALY _eng the_eng other_eng day_eng we_eng left_eng about_eng twelve_eng thirty_eng 
+660.394 662.908 AAR mira_spa we_eng did_eng _eng we_eng just_eng went_eng to_eng 
+660.951 665.607 ALY _eng so_eng we_eng got_eng here_eng at_eng _eng went_eng _eng no_eng we_eng went_eng _eng no_eng we_eng left_eng one_eng day_eng at_eng twelve_eng 
+665.594 672.139 ALY and_eng then_eng everybody_eng wanted_eng to_eng go_eng to_eng Latin_America_engspa to_eng drink_eng coffee_eng and_eng pan_spa cubano_spa 
+672.123 674.207 AAR no_eng that_eng was_eng when_eng we_eng did_eng the_eng valentines_eng party_eng 
+674.198 680.225 ALY ah_engspa deba_eng a_eng the_eng day_eng of_eng the_eng valentines_eng party_eng everybody_eng wanted_eng to_eng go_eng and_eng eat_eng something_eng 
+677.353 678.253 AAR _eng _eng spa_eng d_eng la_eng _eng u_eng la_eng 
+679.124 680.993 AAR _eng la_spa fiesta_spa del_spa kl_eng _eng the_eng 
+680.442 682.804 ALY so_eng it_eng ended_eng at_eng are_eng twelve_eng no_eng 
+682.801 683.84 AAR we_eng ended_eng at_eng twelve_eng 
+683.834 686.499 AAR and_eng then_eng well_eng we_eng got_eng home_eng like_eng at_eng four_eng in_eng the_eng morning_eng 
+686.478 689.91 AAR because_eng we_eng went_eng _eng to_eng el_spa Versailles_engspa 
+688.093 688.929 ALY _eng yeah_eng 
+689.894 691.304 ALY el_spa Versailles_engspa 
+691.304 692.5 OSE www_eng 
+692.473 694.795 ALY el_spa Versailles_engspa está_spa en_spa la_spa treinta_spa y_spa siete_spa 
+692.473 694.778 AAR _eng ah_engspa right_eng over_eng there_eng on_eng main_eng street_eng 
+694.768 697.984 AAR right_eng back_eng to_eng thirty_eng seven_eng in_eng front_eng of_eng la_spa carreta_spa 
+697.975 700.108 AAR thats_eng where_eng todos_spa los_spa cubanos_spa y_spa esto_spa hang_eng out_eng 
+700.096 701.693 AAR I_eng wonder_eng if_eng xxx_eng 
+700.096 702.999 ALY _eng _eng spa_eng donde_eng todos_eng los_eng cubanos_eng van_eng a_eng 
+702.941 704.039 spa_spa es_spa _spa es_spa la_spa ocho_spa 
+704.051 704.811 ALY exactly_eng 
+704.074 706.797 AAR _eng _eng spa_eng la_eng _eng ea_eng después_eng de_eng que_eng tú_eng pasas_eng la_eng treinta_eng y_eng siente_eng en_eng la_eng ocho_eng 
+705.312 706.52 ALY _eng _eng spa_eng dónde_eng van_eng 
+706.888 709.773 spa_spa la_spa ocho_spa y_spa la_spa treinta_spa _spa _spa y_spa la_spa treinta_spa y_spa siete_spa 
+707.347 710.423 AAR _eng está_spa la_spa carreta_spa on_eng your_eng _eng on_eng _eng on_eng the_eng south_eng side_eng 
+710.406 712.951 AAR y_spa _eng y_spa Versaille_engspa está_spa to_eng the_eng 
+712.904 714.28 OSE www_eng 
+714.277 714.997 AAR thats_eng right_eng 
+714.997 715.543 spa_spa correcto_spa 
+714.997 716.657 AAR _eng _eng spa_eng después_eng de_eng que_eng tú_eng pasas_eng todo_eng eso_eng 
+716.654 718.303 spa_spa está_spa por_spa ahí_spa 
+718.291 719.966 AAR and_eng they_eng um_eng 
+719.966 721.202 spa_spa y_spa fuimos_spa para_spa allá_spa 
+721.202 723.971 AAR we_eng _eng I_eng think_eng fuimos_spa como_spa veinticinco_spa para_spa allá_spa 
+723.974 731.148 AAR y_spa _eng you_eng know_eng porque_spa en_spa el_spa grupo_spa siempre_spa theres_eng _eng those_eng who_eng _eng _eng who_eng are_eng very_eng active_eng 
+731.132 734.034 AAR and_eng then_eng theres_eng a_eng lot_eng who_eng just_eng go_eng to_eng hang_eng out_eng 
+734.029 734.615 AAR and_eng they_eng leave_eng 
+734.597 736.649 AAR they_eng dont_eng really_eng _eng stay_eng 
+736.632 738.414 OSE www_eng 
+738.394 740.095 AAR yeah_eng we_eng have_eng a_eng club_eng house_eng 
+740.089 742.695 AAR we_eng have_eng a_eng warehouse_eng that_eng we_eng rent_eng 
+742.675 744.784 AAR and_eng then_eng um_eng 
+744.765 748.736 AAR Ill_eng show_eng you_eng pictures_eng when_eng were_eng done_eng with_eng the_eng _eng motor_eng mouthing_eng here_eng 
+748.722 750.562 ALY yeah_eng you_eng can_eng see_eng all_eng the_eng pictures_eng 
+750.55 752.71 ALY you_eng can_eng see_eng the_eng Valentines_eng picture_eng 
+753.216 754.499 AAR and_eng Halloween_eng party_eng 
+754.484 756.876 OSE www_eng 
+756.843 757.957 ALY yeah_eng 
+757.951 759.176 OSE www_eng 
+759.168 763.591 AAR yeah_eng uh_engspa you_eng should_eng see_eng _eng you_eng should_eng see_eng how_eng los_spa viejos_spa esos_spa like_eng Liliana_engspa 
+763.576 764.888 ALY no_eng my_eng god_eng 
+764.359 765.933 AAR Liliana_engspa is_eng _eng is_eng 
+765.178 768.355 ALY _eng Liliana_engspa enjoyed_eng the_eng trip_eng to_eng Canada_eng also_eng 
+766.689 767.711 AAR _eng they_eng call_eng her_eng nana_eng 
+768.35 769.871 AAR they_eng call_eng her_eng nana_eng 
+769.85 771.208 ALY they_eng call_eng her_eng nana_eng 
+771.179 772.816 AAR yeah_eng they_eng dont_eng even_eng call_eng her_eng Liliana_engspa 
+772.7 773.89 AAR they_eng call_eng her_eng nana_eng 
+773.871 775.584 ALY everybody_eng likes_eng her_eng 
+774.423 776.971 AAR _eng shes_eng _eng ella_spa llega_spa allí_spa e_eng 
+775.95 780.938 ALY and_eng theres_eng an_eng old_eng guy_eng that_eng he_eng _eng hes_eng a_eng _eng an_eng accountant_eng 
+780.917 781.712 AAR sí_spa ese_spa Ron_engspa 
+781.683 782.943 ALY yes_eng 
+782.933 786.673 ALY that_eng guy_eng hes_eng always_eng asking_eng for_eng her_eng how_eng she_eng doing_eng 
+786.654 790.462 ALY because_eng she_eng went_eng to_eng Canada_eng with_eng her_eng 
+786.932 787.82 AAR _eng shes_eng unreal_eng 
+788.087 790.363 AAR _eng hes_eng seventy_eng one_eng _eng seventy_eng one_eng years_eng old_eng 
+791.069 793.548 ALY and_eng Liliana_engspa rode_eng with_eng him_eng on_eng the_eng bike_eng 
+791.62 793.519 AAR _eng xxx_eng and_eng he_eng looks_eng good_eng 
+793.549 795.436 ALY and_eng he_eng looks_eng 
+794.582 795.337 OSE www_eng 
+795.31 796.906 ALY because_eng he_eng went_eng alone_eng 
+796.912 797.591 AAR yeah_eng 
+797.553 803.61 ALY and_eng then_eng in_eng the_eng way_eng back_eng she_eng drove_eng with_eng another_eng guy_eng from_eng the_eng club_eng that_eng he_eng was_eng alone_eng also_eng 
+803.547 804.783 spa_spa sí_spa el_spa _spa el_spa gaucho_spa 
+804.855 808.408 spa_spa él_spa le_spa dice_spa el_spa gaucho_spa _spa porque_spa es_spa argentino_spa 
+808.358 810.436 OSE www_eng 
+810.407 811.882 spa_spa ay_spa dios_spa mío_spa 
+811.766 812.654 AAR xxx_eng 
+812.65 819.062 AAR sí_spa ahora_spa después_spa que_spa todas_spa las_spa cosas_spa _eng um_eng I_eng gotta_eng pay_eng off_eng some_eng things_eng que_spa nos_spa quedan_spa ahora_spa 
+819.047 822.188 spa_spa e_spa xxx_spa de_spa ella_spa xxx_spa la_spa niña_spa 
+822.208 829.231 AAR once_eng I_eng get_eng those_eng things_eng squared_eng up_eng boy_eng I_eng see_eng _eng _eng see_eng uh_engspa _eng if_eng we_eng uh_engspa 
+829.196 833.919 ALY a_spa mí_spa I_eng get_eng scared_eng _eng for_eng her_eng to_eng be_eng on_eng a_eng bike_eng _eng you_eng know_eng 
+831.293 832.797 AAR _eng but_eng shell_eng ride_eng with_eng us_eng 
+832.756 834.474 AAR shell_eng ride_eng with_eng us_eng 
+833.902 836.061 ALY I_eng really_eng do_eng get_eng scared_eng 
+835.132 838.281 AAR _eng _eng spa_eng oye_eng u_eng allí_eng _eng allí_eng para_eng que_eng tú_eng 
+837.476 842.135 ALY _eng even_eng though_eng I_eng ride_eng but_eng I_eng have_eng respect_eng to_eng it_eng you_eng know_eng 
+842.106 844.892 AAR youre_eng not_eng that_eng _eng youre_eng not_eng that_eng well_eng balanced_eng 
+842.402 843.731 ALY _eng I_eng ride_eng 
+844.875 846.747 AAR you_eng have_eng to_eng be_eng 
+846.741 849.795 AAR e_eng d_eng e_eng how_eng do_eng I_eng say_eng 
+849.786 852.218 AAR em_eng you_eng have_eng to_eng be_eng cut_eng out_eng for_eng that_eng 
+852.191 860.173 AAR because_eng a_eng lot_eng of_eng people_eng cuando_spa montan_spa la_spa _eng la_spa _eng the_eng motorcycles_eng they_eng believe_eng that_eng a_eng motorcycle_eng just_eng by_eng turning_eng the_eng wheel_eng the_eng motorcycle_eng turns_eng 
+860.155 861.067 AAR and_eng youre_eng going_eng fast_eng 
+861.032 861.792 AAR it_eng doesnt_eng work_eng that_eng 
+861.351 862.007 OSE _eng www_eng 
+861.99 863.569 AAR no_eng it_eng doesnt_eng work_eng like_eng that_eng 
+863.542 872.312 AAR when_eng you_eng wanna_eng turn_eng you_eng have_eng to_eng _eng actually_eng with_eng your_eng body_eng turn_eng the_eng motorcycle_eng because_eng it_eng doesnt_eng _eng it_eng actually_eng wants_eng to_eng keep_eng going_eng straight_eng 
+872.309 875.049 AAR so_eng _eng you_eng know_eng you_eng turn_eng the_eng wheel_eng 
+875.038 876.123 AAR yes_eng you_eng do_eng 
+876.109 878.523 AAR but_eng if_eng you_eng could_eng actually_eng turn_eng 
+876.747 879.179 ALY _eng and_eng stop_eng moving_eng your_eng feets_eng 
+879.141 880.192 spa_spa la_spa tienes_spa loca_spa 
+879.501 880.836 AAR _eng xxx_eng 
+880.169 881.759 spa_spa tienes_spa un_spa reculillo_spa _spa 
+881.73 883.054 ALY come_eng on_eng 
+883.034 884.543 ALY laughs_eng 
+883.034 884.543 AAR e_eng 
+884.543 886.721 AAR the_eng um_eng _eng the_eng 
+885.746 887.493 ALY _eng _eng spa_eng reculillo_eng tiene_eng _eng 
+887.437 889.875 spa_spa déjame_spa sentarme_spa aquí_spa 
+889.872 891.805 spa_spa estoy_spa más_spa comoda_spa aquí_spa 
+890.081 894.911 AAR _eng the_eng bike_eng actually_eng you_eng have_eng to_eng actually_eng lean_eng into_eng the_eng way_eng you_eng wanna_eng go_eng 
+894.885 898.479 AAR you_eng have_eng to_eng push_eng your_eng body_eng weight_eng so_eng the_eng bike_eng will_eng go_eng into_eng the_eng curves_eng 
+898.472 906.835 AAR and_eng now_eng theres_eng one_eng old_eng guy_eng _eng que_eng he_eng drove_eng off_eng the_eng side_eng of_eng an_eng expressway_eng _eng because_eng we_eng were_eng coming_eng up_eng on_eng the_eng curve_eng 
+906.832 909.874 spa_spa y_spa parece_spa que_spa le_spa cogió_spa miedo_spa la_spa curva_spa 
+909.834 911.953 AAR and_eng he_eng didnt_eng lean_eng into_eng it_eng 
+911.945 913.692 AAR se_spa quedó_spa recto_spa on_eng the_eng bike_eng 
+913.698 920.33 AAR and_eng _eng and_eng what_eng happens_eng is_eng is_eng you_eng do_eng one_eng of_eng those_eng like_eng you_eng know_eng te_spa va_spa echando_spa por_spa un_spa lado_spa así_spa like_eng youre_eng gonna_eng fall_eng off_eng 
+920.234 922.464 AAR because_eng youre_eng afraid_eng the_eng bikes_eng not_eng gonna_eng turn_eng 
+922.452 924.408 AAR and_eng he_eng just_eng went_eng off_eng the_eng side_eng of_eng the_eng road_eng 
+924.185 926.002 OSE www_eng 
+925.992 928.628 AAR yeah_eng that_eng was_eng before_eng nos_spa hicimos_spa miembros_spa nosotros_spa 
+928.546 933.361 AAR or_eng actually_eng it_eng was_eng just_eng about_eng three_eng weeks_eng before_eng nos_spa hicimos_spa miembros_spa del_spa club_engspa 
+931.975 935.214 ALY _eng yeah_eng del_spa ah_engspa _eng _eng before_eng we_eng 
+933.775 937.161 AAR _eng yeah_eng he_eng broke_eng _eng he_eng broke_eng three_eng ribs_eng 
+936.522 937.578 OSE www_eng 
+937.561 938.072 AAR yeah_eng 
+937.924 939.213 ALY poor_eng thing_eng I_eng know_eng 
+939.198 943.511 spa_spa w_spa _spa y_spa el_spa _spa el_spa problema_spa que_spa tiene_spa que_spa la_spa cogió_spa miedo_spa a_spa la_spa moto_spa 
+943.196 944.02 OSE www_eng 
+943.91 944.711 spa_spa ahora_spa está_spa 
+944.74 946.174 AAR no_engspa pero_spa you_eng cant_eng 
+946.162 949.699 AAR if_eng youre_eng gonna_eng ride_eng it_eng you_eng _eng you_eng cant_eng be_eng afraid_eng of_eng it_eng 
+949.688 950.338 AAR because_eng 
+950.322 952.029 OSE www_eng 
+952.006 955.3 AAR no_eng youll_eng _eng d_eng the_eng _eng the_eng biggest_eng problem_eng why_eng people_eng 
+953.233 956.995 ALY I_eng am_eng _eng to_eng be_eng honest_eng with_eng you_eng Im_eng scared_eng of_eng it_eng 
+956.928 963.311 ALY Im_eng scared_eng that_eng I_eng wont_eng have_eng the_eng capacity_eng to_eng be_eng able_eng to_eng ride_eng it_eng to_eng learn_eng how_eng to_eng ride_eng it_eng 
+963.329 964.043 OSE www_eng 
+963.94 965.206 ALY no_eng I_eng dont_eng 
+965.189 967.632 ALY I_eng drive_eng _eng I_eng _eng I_eng ride_eng behind_eng him_eng 
+965.218 967.621 AAR _eng no_eng she_eng _eng she_eng _eng she_eng rides_eng behind_eng me_eng 
+967.593 970.369 ALY and_eng you_eng know_eng when_eng he_eng leans_eng 
+969.307 976.179 AAR _eng she_eng actually_eng doesnt_eng need_eng to_eng grab_eng on_eng to_eng me_eng because_eng my_eng bike_eng it_eng has_eng a_eng _eng a_eng _eng a_eng backrest_eng _eng for_eng her_eng 
+975.244 982.848 ALY so_eng when_eng Im_eng you_eng know_eng in_eng the_eng back_eng relaxed_eng when_eng he_eng turns_eng I_eng lean_eng a_eng little_eng bit_eng like_eng with_eng 
+981.611 983.382 AAR _eng yeah_eng shes_eng learning_eng 
+983.366 986.333 AAR yeah_eng shes_eng not_eng like_eng when_eng we_eng first_eng started_eng 
+983.807 984.301 ALY _eng so_eng 
+986.306 993.787 AAR yeah_eng she_eng would_eng like_eng you_eng know_eng when_eng you_eng get_eng on_eng the_eng curve_eng and_eng if_eng Im_eng going_eng really_eng fast_eng _eng you_eng have_eng to_eng really_eng lean_eng in_eng to_eng it_eng you_eng know_eng 
+993.906 996.675 AAR but_eng you_eng dont_eng fall_eng because_eng its_eng all_eng centrifical_eng force_eng 
+996.673 999.402 AAR so_eng you_eng _eng you_eng know_eng youre_eng actually_eng leaning_eng the_eng bike_eng pero_spa you_eng know_eng 
+997.811 998.781 ALY _eng you_eng dont_eng fall_eng 
+999.425 999.971 OSE www_eng 
+999.959 1000.423 AAR yeah_eng 
+1000.394 1000.812 ALY yes_eng 
+1000.809 1003.636 AAR and_eng Alyssa_engspa shes_eng gotten_eng used_eng to_eng it_eng 
+1003.627 1005.252 AAR yeah_eng ella_spa se_spa 
+1004.167 1006.013 ALY yeah_eng Ive_eng gotten_eng used_eng to_eng it_eng 
+1005.992 1009.208 spa_spa ahora_spa no_spa le_spa tengo_spa miedo_spa 
+1009.188 1010.836 AAR she_eng _eng shes_eng getting_eng _eng shes_eng 
+1010.825 1012.073 AAR and_eng we_eng have_eng a_eng good_eng time_eng 
+1012.052 1015.013 AAR ah_eng we_eng went_eng to_eng también_spa a_spa Saint_Augustine_eng 
+1014.95 1016.889 ALY oh_engspa San_Agustin_spa we_eng love_eng it_eng 
+1015.902 1017.289 AAR _eng we_eng went_eng a_eng big_eng group_eng 
+1016.866 1018.015 ALY Liliana_engspa went_eng 
+1017.854 1018.742 AAR yeah_eng 
+1018.72 1020.311 ALY Liliana_engspa went_eng in_eng her_eng car_eng 
+1019.249 1019.852 AAR _eng yeah_eng 
+1020.29 1022.693 AAR Liliana_engspa followed_eng us_eng in_eng her_eng car_eng con_spa Ana_engspa 
+1020.754 1022.722 ALY _eng behind_eng all_eng of_eng us_eng 
+1022.688 1024.529 spa_spa xxx_spa locas_spa 
+1023.559 1025.365 ALY _eng with_eng Ana_engspa with_eng her_eng friend_eng 
+1025.314 1028.971 AAR fíjate_spa que_spa they_eng gave_eng them_eng an_eng honorary_eng uh_eng diploma_eng 
+1028.97 1032.001 spa_spa a_spa _spa a_spa _spa a_spa ella_spa y_spa a_spa Ana_engspa 
+1030.456 1031.995 ALY _eng I_eng can_eng show_eng them_eng to_eng you_eng 
+1031.977 1032.773 ALY I_eng have_eng them_eng 
+1032.473 1034.778 AAR _eng les_spa regalaron_spa un_spa honorary_eng diploma_eng 
+1034.33 1035.636 spa_spa te_spa lo_spa voy_spa a_spa enseñar_spa 
+1034.778 1038.186 AAR _eng del_spa club_engspa for_eng a_eng attending_eng in_eng the_eng trip_eng 
+1038.172 1041.347 AAR e_spa iban_spa las_spa dos_spa locas_spa w_eng through_eng the_eng sunroof_eng taking_eng pictures_eng 
+1041.343 1046.634 ALY they_eng got_eng so_eng many_eng pictures_eng that_eng it_eng was_eng amazing_eng 
+1046.628 1048.434 ALY it_eng was_eng really_eng nice_eng 
+1047.708 1048.97 AAR _eng yeah_eng but_eng we_eng have_eng 
+1048.831 1050.143 ALY we_eng had_eng a_eng great_eng 
+1049.435 1050.665 AAR _eng its_eng a_eng lot_eng of_eng fun_eng 
+1050.651 1054.738 AAR theres_eng you_eng know_eng right_eng now_eng in_eng the_eng club_eng theres_eng a_eng lot_eng of_eng controversy_eng 
+1051.987 1052.811 ALY _eng its_eng worth_eng it_eng 
+1053.444 1054.529 ALY it_eng is_eng worth_eng it_eng 
+1054.687 1056.162 ALY people_eng that_eng like_eng it_eng 
+1054.728 1056.405 AAR _eng because_eng theres_eng a_eng lot_eng of_eng people_eng 
+1056.63 1059.353 ALY and_eng you_eng can_eng learn_eng how_eng to_eng ride_eng a_eng bike_eng good_eng 
+1059.335 1061.576 ALY and_eng you_eng know_eng you_eng go_eng easy_eng 
+1061.563 1063.606 ALY you_eng maintain_eng the_eng speed_eng limit_eng 
+1063.606 1066.172 ALY you_eng do_eng everything_eng one_eng behind_eng the_eng other_eng one_eng 
+1066.146 1067.998 ALY you_eng dont_eng have_eng no_eng problems_eng 
+1067.998 1070.622 ALY ahora_spa xxx_eng just_eng for_eng competition_eng 
+1070.607 1073.08 ALY then_eng youre_eng going_eng to_eng have_eng problems_eng 
+1073.058 1076.152 AAR yeah_eng theres_eng people_eng that_eng race_eng the_eng bikes_eng when_eng we_eng go_eng through_eng twenty_eng seven_eng 
+1075.261 1076.834 ALY _eng just_eng for_eng racing_eng 
+1076.822 1079.586 ALY you_eng know_eng I_eng dont_eng recommend_eng it_eng to_eng anybody_eng 
+1079.566 1080.849 ALY to_eng anybody_eng 
+1079.902 1084.868 AAR _eng no_eng they_eng ride_eng at_eng _eng close_eng to_eng a_eng hundred_eng and_eng sixty_eng miles_eng an_eng hour_eng 
+1084.845 1086.128 OSE www_eng 
+1086.104 1086.836 AAR no_eng 
+1086.82 1091.088 AAR a_eng weve_eng been_eng on_eng our_eng bike_eng a_eng like_eng weve_eng _eng weve_eng gone_eng up_eng to_eng about_eng a_eng hundred_eng 
+1091.081 1098.926 AAR once_eng you_eng get_eng used_eng to_eng cruising_eng at_eng seventy_eng five_eng eighty_eng _eng you_eng _eng actually_eng when_eng you_eng go_eng slower_eng it_eng feels_eng like_eng nothing_eng 
+1099.111 1107.113 AAR e_eng actually_eng last_eng weekend_eng yo_spa estaba_spa haciendo_spa signal_eng para_spa sacarle_spa pie_spa para_spa to_eng show_eng that_eng there_eng was_eng a_eng dead_eng otter_eng in_eng the_eng middle_eng of_eng the_eng road_eng 
+1107.587 1109.798 ALY Aaron_engspa thats_eng a_eng good_eng one_eng laughs_eng 
+1107.656 1109.02 AAR _eng and_eng I_eng took_eng out_eng my_eng foot_eng 
+1109.794 1119.832 AAR and_eng youre_eng supposed_eng to_eng actually_eng you_eng know_eng if_eng theres_eng something_eng on_eng the_eng road_eng or_eng some_eng kind_eng of_eng an_eng obstacle_eng _eng since_eng everybodys_eng riding_eng together_eng if_eng youre_eng in_eng front_eng the_eng guys_eng in_eng back_eng cant_eng really_eng see_eng when_eng theyre_eng coming_eng up_eng to_eng it_eng 
+1119.814 1123.985 AAR so_eng what_eng youre_eng supposed_eng to_eng do_eng is_eng youre_eng _eng something_eng on_eng the_eng road_eng on_eng your_eng side_eng youre_eng supposed_eng to_eng put_eng out_eng your_eng foot_eng 
+1123.964 1125.137 AAR and_eng to_eng show_eng you_eng know_eng 
+1125.096 1126.199 AAR youre_eng not_eng supposed_eng to_eng lay_eng 
+1126.193 1128.62 AAR but_eng apparently_eng I_eng calculated_eng wrong_eng 
+1128.6 1130.457 AAR and_eng I_eng left_eng my_eng foot_eng down_eng too_eng far_eng 
+1130.463 1131.851 AAR and_eng I_eng hit_eng that_eng damn_eng otter_eng 
+1131.775 1132.907 AAR I_eng almost_eng broke_eng my_eng leg_eng 
+1132.893 1134.419 ALY yes_eng 
+1134.419 1135.882 AAR I_eng almost_eng broke_eng my_eng leg_eng 
+1135.861 1138.073 ALY it_eng was_eng really_eng hard_eng 
+1137.109 1139.693 AAR were_eng doing_eng almost_eng seventy_eng miles_eng an_eng hour_eng imagínate_spa 
+1138.777 1140.727 ALY _eng the_eng pain_eng that_eng he_eng had_eng 
+1139.851 1141.455 AAR something_eng laying_eng there_eng and_eng then_eng you_eng kick_eng it_eng 
+1141.449 1142.831 AAR it_eng was_eng like_eng 
+1142.827 1149.376 AAR that_eng _eng los_spa _eng los_spa viejos_spa la_eng đə_eng they_eng were_eng all_eng cracking_eng up_eng _eng because_eng uh_eng when_eng we_eng came_eng back_eng it_eng was_eng still_eng there_eng 
+1149.361 1152.621 AAR and_eng he_eng goes_eng eh_engspa se_eng you_eng know_eng 
+1152.606 1154.953 AAR _eng _eng spa_eng seguro_eng que_eng ese_eng es_eng la_eng nutria_eng 
+1154.839 1156.319 AAR in_eng Spanish_eng es_spa una_spa nutria_spa 
+1156.263 1157.645 AAR _eng _eng spa_eng seguro_eng que_eng la_eng nutria_eng ese_eng dice_eng 
+1157.592 1159.322 AAR _eng _eng spa_eng coño_eng me_eng arrollaron_eng y_eng me_eng mataron_eng 
+1159.311 1161.976 AAR _eng _eng spa_eng y_eng ahora_eng viene_eng con_eng xxx_eng una_eng patata_eng a_eng mí_eng 
+1161.943 1164.109 AAR _eng _eng spa_eng coño_eng hasta_eng donde_eng voy_eng él_eng 
+1164.105 1166.607 OSE www_eng 
+1166.601 1168.319 AAR and_eng it_eng was_eng pretty_eng big_eng too_eng 
+1166.81 1167.791 ALY _eng _eng spa_eng mi_eng madre_eng 
+1168.309 1169.302 ALY it_eng was_eng big_eng 
+1169.296 1170.66 ALY it_eng was_eng about_eng like_eng that_eng 
+1170.653 1171.506 spa_spa no_engspa mi_spa amor_spa 
+1171.489 1173.341 AAR it_eng was_eng about_eng like_eng this_eng 
+1171.785 1173.306 ALY no_eng it_eng was_eng about_eng like_eng that_eng 
+1173.331 1174.573 AAR huge_eng sucker_eng 
+1173.615 1175.409 ALY _eng really_eng that_eng big_eng it_eng was_eng 
+1174.782 1175.508 AAR _eng yeah_eng 
+1175.496 1177.598 spa_spa yo_spa la_spa vi_spa más_spa chiquita_spa 
+1177.588 1178.25 spa_spa tú_spa 
+1178.018 1179.121 ALY laughs_eng 
+1178.273 1179.335 AAR _eng well_eng let_eng me_eng tell_eng you_eng 
+1179.274 1180.174 AAR it_eng didnt_eng feel_eng 
+1180.162 1183.43 spa_spa _spa yo_spa iba_spa a_spa tra_spa _spa yo_spa no_spa le_spa pasé_spa con_spa el_spa xxx_spa 
+1183.42 1185.8 AAR Jesus_eng that_eng thing_eng hurt_eng 
+1184.816 1186.174 ALY _eng oh_eng my_eng god_eng 
+1186.163 1187.62 AAR sniffs_eng 
+1187.608 1188.891 ALY dem_eng 
+1188.853 1191.738 AAR no_eng we_eng have_eng _eng we_eng have_eng such_eng a_eng good_eng time_eng 
+1188.986 1189.509 ALY _eng yeah_eng 
+1191.717 1194.521 ALY we_eng have_eng a_eng great_eng time_eng going_eng 
+1194.514 1195.704 spa_spa de_spa verdad_spa que_spa sí_spa 
+1194.67 1199.698 AAR _eng everybody_eng e_eng _eng theres_eng _eng _eng theres_eng people_eng in_eng our_eng age_eng group_eng 
+1199.695 1202.215 AAR and_eng theres_eng people_eng that_eng are_eng older_eng than_eng us_eng 
+1202.203 1211.974 AAR but_eng _eng the_eng good_eng thing_eng is_eng is_eng we_eng also_eng have_eng the_eng radio_eng on_eng the_eng _eng _eng on_eng the_eng thing_eng so_eng were_eng listening_eng to_eng everybody_eng talking_eng on_eng the_eng C_bs_eng 
+1211.971 1215.5 AAR so_eng you_eng _eng these_eng guys_eng are_eng all_eng _eng they_eng got_eng this_eng one_eng guy_eng xxx_eng 
+1215.485 1216.994 AAR this_eng guys_eng a_eng joke_eng 
+1219.494 1220.603 spa_spa es_spa un_spa alocado_spa 
+1219.651 1224.517 AAR _eng he_eng comes_eng up_eng _eng he_eng comes_eng up_eng with_eng these_eng things_eng _eng that_eng you_eng know_eng you_eng wouldnt_eng have_eng dreamed_eng 
+1224.444 1228.741 AAR but_eng then_eng _eng te_spa da_spa el_spa xxx_eng you_eng know_eng just_eng cracking_eng up_eng all_eng day_eng 
+1228.718 1233.965 AAR you_eng gotta_eng be_eng pissing_eng every_eng ten_eng minutes_eng because_eng he_eng just_eng cracks_eng you_eng up_eng with_eng the_eng things_eng he_eng comes_eng up_eng with_eng you_eng know_eng 
+1233.965 1235.898 spa_spa todo_spa locura_spa de_spa esa_spa de_spa loco_spa 
+1235.87 1237.073 AAR but_eng you_eng gotta_eng 
+1237.067 1238.785 ALY hes_eng crazy_eng 
+1238.77 1240.245 ALY hes_eng a_eng diabetic_eng 
+1240.256 1244.363 ALY but_eng he_eng likes_eng to_eng drink_eng a_eng lot_eng _eng you_eng know_eng a_eng lot_eng of_eng beer_eng 
+1244.342 1247.968 ALY and_eng er_eng his_eng wife_eng doesnt_eng like_eng it_eng 
+1247.968 1250.981 ALY and_eng you_eng know_eng theyre_eng always_eng in_eng a_eng debate_eng 
+1250.961 1252.934 ALY eh_eng middle_eng age_eng 
+1252.226 1255.837 AAR no_eng hes_eng gotta_eng be_eng _eng hes_eng gotta_eng be_eng in_eng his_eng fifties_eng 
+1252.998 1255.245 ALY _eng no_eng hes_eng about_eng 
+1255.596 1256.867 ALY in_eng his_eng fifties_eng 
+1255.927 1257.326 spa_spa él_spa no_spa puede_spa estar_spa más_spa que_spa eso_spa 
+1256.851 1260.775 ALY and_eng shes_eng about_eng I_eng would_eng say_eng forty_eng _eng forty_eng seven_eng forty_eng eight_eng 
+1258.174 1258.9 AAR _eng the_eng same_eng 
+1260.761 1261.162 AAR you_eng think_eng 
+1261.139 1262.381 AAR no_eng no_eng no_eng much_eng older_eng 
+1261.783 1262.358 ALY _eng yeah_eng 
+1262.355 1263.865 spa_spa no_spa más_spa está_spa en_spa los_spa cincuenta_spa 
+1263.882 1264.764 ALY in_eng the_eng fifties_eng 
+1264.753 1265.043 AAR yeah_eng 
+1265.034 1267.466 spa_spa no_engspa María_engspa está_spa en_spa los_spa cincuenta_spa y_spa pico_spa 
+1267.457 1270.232 spa_spa no_spa María_engspa no_spa es_spa tan_spa _spa tan_spa xxx_spa 
+1269.245 1270.783 spa_spa no_spa cincuenta_spa y_spa pico_spa no_spa 
+1270.087 1271.73 AAR _eng shes_eng not_eng no_eng spring_eng chicken_eng 
+1271.722 1272.772 OSE www_eng 
+1272.755 1273.701 ALY laughs_eng 
+1273.69 1275.346 AAR shes_eng _eng ya_spa está_spa 
+1274.243 1275.132 ALY _eng not_eng that_eng old_eng 
+1275.329 1276.113 ALY not_eng that_eng old_eng 
+1275.445 1279.776 spa_spa lo_spa que_spa pasa_spa es_spa que_spa es_spa una_spa xxx_spa cuando_spa fue_spa jovencita_spa tiene_spa que_spa haber_spa sido_spa bien_spa bonita_spa 
+1279.748 1281.757 ALY eh_eng shes_eng a_eng tall_eng lady_eng 
+1280.166 1281.211 AAR _eng _eng spa_eng poca_eng xxx_eng 
+1281.746 1283.378 ALY very_eng elegant_eng 
+1283.374 1284.048 spa_spa sí_spa 
+1283.618 1285.319 spa_spa siempre_spa está_spa bien_spa arreglada_spa 
+1285.319 1285.72 spa_spa sí_spa 
+1285.635 1287.162 ALY so_eng se_spa mantiene_spa muy_spa bien_spa 
+1286.291 1288.009 AAR _eng and_eng they_eng love_eng to_eng dress_eng up_eng 
+1287.989 1289.91 ALY and_eng she_eng love_eng to_eng dress_eng up_eng 
+1288.657 1291.077 AAR _eng whenever_eng we_eng have_eng a_eng Halloween_eng party_eng 
+1289.987 1295.353 ALY whenever_eng we_eng have_eng a_eng Halloween_eng San_spa Patrick_eng day_eng _eng any_eng 
+1293.582 1295.765 AAR se_spa ponen_spa peluca_spa para_spa Saint_eng Patrick_eng 
+1295.388 1298.081 ALY _eng she_eng got_eng a_eng green_eng peluca_spa 
+1295.759 1297.965 spa_spa fue_spa con_spa peluca_spa verde_spa 
+1297.953 1298.638 OSE www_eng 
+1298.632 1303.81 ALY for_eng San_spa Patrick_eng Day_eng with_eng her_eng hair_eng like_eng that_eng and_eng then_eng un_spa collar_spa en_spa verde_spa 
+1298.725 1304.164 AAR _eng en_spa _eng _eng en_spa una_spa fiesta_spa que_spa hicieron_spa de_spa _eng de_spa disfraz_spa she_eng went_eng dressed_eng like_eng saint_eng polly_eng girl_eng 
+1304.149 1308.007 AAR eh_eng para_spa Halloween_eng Ill_eng show_eng you_eng the_eng pictures_eng 
+1307.891 1311.118 AAR Ricky_engspa fue_spa like_eng the_eng angel_eng and_eng a_eng devil_eng 
+1311.092 1313.571 AAR yeah_eng together_eng 
+1313.551 1314.44 OSE www_eng 
+1314.434 1323.07 AAR yes_eng well_eng what_eng it_eng was_eng was_eng like_eng um_eng _eng _eng like_eng when_eng it_eng t_eng t_eng was_eng the_eng type_eng of_eng costume_eng like_eng when_eng people_eng get_eng into_eng a_eng horse_eng 
+1323.06 1325.232 AAR and_eng then_eng the_eng f_eng _eng youre_eng the_eng feet_eng of_eng the_eng horse_eng 
+1325.205 1327.881 AAR and_eng youre_eng in_eng the_eng horse_eng but_eng youre_eng also_eng riding_eng the_eng horse_eng 
+1327.844 1329.318 AAR thats_eng what_eng type_eng of_eng it_eng 
+1329.312 1330.91 AAR it_eng was_eng a_eng mix_eng between_eng 
+1330.893 1336.346 AAR a_eng half_eng part_eng of_eng him_eng was_eng the_eng devil_eng and_eng the_eng other_eng part_eng was_eng the_eng _eng the_eng _eng the_eng angel_eng 
+1336.319 1339.93 AAR pero_spa he_eng was_eng walking_eng around_eng riéndose_spa 
+1339.92 1342.161 AAR and_eng _eng and_eng we_eng had_eng such_eng a_eng good_eng time_eng 
+1342.152 1344.108 OSE www_eng 
+1344.079 1345.321 AAR oh_engspa 
+1345.301 1346.659 AAR look_eng whos_eng home_eng 
+1346.642 1348.517 ALY oh_eng look_eng whos_eng here_eng 
+1348.508 1350.11 OSE www_eng 
+1350.087 1351.515 ALY look_eng whos_eng here_eng 
+1351.51 1353.791 AAR were_eng _eng we_eng were_eng talking_eng shit_eng about_eng you_eng 
+1353.772 1354.782 OSE www_eng 
+1354.764 1357.086 ALY our_eng daughter_eng got_eng home_eng wow_eng 
+1355.118 1357.133 AAR xxx_eng 
+1357.071 1358.546 OSE www_eng 
+1358.524 1359.749 ALY how_eng nice_eng 
+1359.731 1362.804 OSE www_eng 
+1362.787 1363.338 AAR has_eng what_eng 
+1363.311 1368.109 OSE www_eng 
+1368.092 1369.2 ALY xxx_eng 
+1369.179 1371.438 AAR pero_spa we_eng 
+1371.414 1374.038 OSE www_eng 
+1374.019 1377.461 spa_spa está_spa en_spa el_spa mai_spa allí_spa mismito_spa puesto_spa está_spa 
+1375.9 1376.672 spa_spa todo_spa está_spa allí_spa 
+1376.666 1377.397 spa_spa todo_spa está_spa allí_spa 
+1377.435 1379.646 spa_spa todo_spa está_spa allí_spa mira_spa 
+1379.613 1382.161 ALY the_eng rice_eng in_eng the_eng thing_eng 
+1382.151 1384.154 ALY the_eng meat_eng is_eng over_eng here_eng 
+1386.937 1387.895 spa_spa oíste_spa 
+1387.874 1390.202 spa_spa y_spa el_spa xxx_spa 
+1390.164 1392.573 spa_spa lo_spa que_spa lo_spa tienes_spa que_spa sírvalo_spa al_spa plato_spa 
+1390.373 1392.52 AAR _eng y_spa ahora_eng _eng y_spa ahora_spa they_eng wanna_eng do_eng um_eng 
+1392.34 1394.105 spa_spa y_spa caliéntalo_spa en_spa el_spa plato_spa 
+1394.09 1396.807 AAR I_eng think_eng they_eng wanna_eng do_eng a_eng ride_eng up_eng to_eng Tennessee_eng or_eng something_eng 
+1396.798 1403.005 OSE www_eng 
+1402.989 1403.674 AAR oh_eng yeah_eng 
+1403.431 1404.951 ALY yeah_eng that_eng was_eng awesome_eng 
+1404.918 1406.689 OSE www_eng 
+1406.673 1407.741 ALY I_eng know_eng 
+1407.741 1410.274 ALY it_eng would_eng have_eng been_eng nice_eng for_eng you_eng to_eng 
+1410.259 1413.939 ALY yeah_eng but_eng there_eng was_eng another_eng guy_eng that_eng was_eng alone_eng 
+1412.865 1414.003 AAR _eng you_eng coulda_eng ridden_eng 
+1413.881 1415.431 ALY and_eng you_eng woulda_eng gone_eng with_eng us_eng 
+1414.812 1415.486 AAR you_eng coulda_eng ridden_eng 
+1415.474 1416.327 AAR there_eng was_eng space_eng 
+1416.3 1417.723 AAR there_eng was_eng people_eng that_eng _eng that_eng went_eng out_eng 
+1417.711 1420.126 AAR and_eng unos_spa señores_spa que_spa fueron_spa solos_spa 
+1420.076 1422.142 spa_spa es_spa como_spa todo_spa e_spa 
+1422.129 1425.531 AAR bueno_spa tú_spa primero_spa te_spa montas_spa like_eng we_eng didnt_eng know_eng any_eng one_eng in_eng the_eng club_eng 
+1425.513 1429.4 AAR when_eng we_eng went_eng we_eng were_eng just_eng _eng fresh_eng into_eng the_eng club_eng 
+1429.228 1432.125 OSE www_eng 
+1432.11 1432.952 AAR what_eng my_eng dad_eng 
+1432.94 1434.92 AAR my_eng dads_eng been_eng in_eng the_eng club_eng already_eng four_eng years_eng 
+1434.815 1435.663 OSE www_eng 
+1435.648 1439.316 AAR my_eng dad_eng _eng my_eng dad_eng went_eng into_eng the_eng club_eng when_eng I_eng bought_eng him_eng his_eng Harley_engspa 
+1439.313 1440.991 AAR I_eng actually_eng took_eng him_eng 
+1440.981 1443.89 AAR because_eng uh_engspa I_eng asked_eng the_eng _eng _eng the_eng people_eng at_eng the_eng dealer_eng 
+1443.803 1444.284 AAR and_eng they_eng told_eng me_eng 
+1444.279 1445.66 AAR _eng no_eng go_eng see_eng these_eng people_eng 
+1445.647 1447.203 AAR and_eng we_eng went_eng there_eng 
+1447.191 1447.818 AAR and_eng I_eng took_eng him_eng 
+1447.801 1450.671 AAR and_eng _eng you_eng know_eng when_eng he_eng first_eng went_eng in_eng the_eng first_eng it_eng was_eng like_eng 
+1450.659 1452.221 AAR _eng e you_eng know_eng e 
+1452.343 1458.717 spa_spa pero_spa xxx_spa empezaron_spa a_spa coger_spa _spa e_spa _spa e_spa presión_spa en_spa eso_spa en_spa _spa en_spa 
+1458.701 1461.445 AAR and_eng hes_eng uh_engspa _eng he_eng likes_eng it_eng 
+1461.433 1464.899 AAR we_eng have_eng _eng we_eng have_eng issues_eng in_eng the_eng club_eng que_spa they_eng have_eng to_eng be_eng worked_eng out_eng 
+1464.881 1468.953 AAR pero_spa _eng Im_eng pretty_eng sure_eng everybody_eng has_eng issues_eng _eng you_eng know_eng 
+1468.916 1469.885 AAR yeah_eng 
+1469.862 1471.174 ALY yes_eng 
+1471.128 1472.863 ALY xxx_eng 
+1471.302 1474.369 AAR _eng and_eng they_eng _eng they_eng have_eng _eng _eng they_eng have_eng a_eng lot_eng of_eng people_eng 
+1473.649 1475.541 ALY _eng its_eng a_eng case_eng right_eng 
+1475.584 1476.977 ALY I_eng can_eng 
+1476.951 1478.373 AAR the_eng typical_eng type_eng problems_eng 
+1477.647 1478.222 ALY _eng yes_eng 
+1478.361 1481.229 AAR que_spa yeah_eng theres_eng people_eng that_eng dont_eng want_eng to_eng pay_eng their_eng membership_eng 
+1479.586 1480.66 ALY _eng I_eng dont_eng like_eng it_eng 
+1481.232 1485.174 AAR or_eng _eng and_eng then_eng the_eng membership_eng in_eng this_eng place_eng is_eng _eng is_eng junk_eng money_eng 
+1485.17 1487.045 AAR and_eng we_eng have_eng a_eng club_eng house_eng 
+1487.036 1489.469 AAR and_eng theyre_eng paying_eng um_eng 
+1489.178 1490.577 AAR what_eng do_eng you_eng call_eng it_eng 
+1490.562 1494.567 AAR I_eng think_eng its_eng _eng eight_eng dollars_eng a_eng month_eng is_eng what_eng it_eng comes_eng out_eng to_eng 
+1494.56 1496.191 AAR thats_eng nothing_eng 
+1496.162 1498.96 AAR and_eng then_eng theres_eng people_eng that_eng complain_eng that_eng thats_eng too_eng much_eng money_eng 
+1498.951 1500.019 AAR and_eng Im_eng like_eng you_eng know_eng 
+1500.002 1500.855 AAR _eng give_eng me_eng a_eng break_eng 
+1500.814 1503.223 AAR you_eng know_eng thats_eng _eng thats_eng not_eng a_eng lot_eng of_eng money_eng 
+1503.193 1504.272 OSE www_eng 
+1504.261 1505.7 AAR and_eng you_eng have_eng a_eng place_eng to_eng go_eng to_eng 
+1505.695 1507.378 AAR its_eng every_eng there_eng every_eng Friday_eng 
+1507.363 1508.867 spa_spa después_spa como_spa 
+1507.88 1512.851 ALY _eng and_eng everybody_eng that_eng uh_engspa has_eng a_eng birthday_eng they_eng celebrate_eng it_eng over_eng there_eng 
+1512.836 1516.516 ALY everybody_eng you_eng can_eng take_eng bocaditos_spa pastelitos_spa 
+1516.507 1518.899 ALY e_eng you_eng know_eng everything_eng the_eng cake_eng 
+1518.896 1522.054 ALY and_eng everybody_eng sings_eng happy_eng birthday_eng to_eng that_eng person_eng 
+1522.025 1524.355 ALY and_eng you_eng know_eng they_eng get_eng all_eng wild_eng 
+1524.344 1525.245 ALY and_eng you_eng know_eng 
+1525.233 1527.857 ALY and_eng we_eng have_eng fun_eng 
+1527.835 1528.793 AAR no_eng they_eng do_eng 
+1528.805 1530.122 ALY so_eng its_eng really_eng nice_eng 
+1530.114 1535.298 AAR theres_eng a_eng lot_eng of_eng _eng theres_eng a_eng lot_eng of_eng uh_engspa _eng like_eng we_eng went_eng to_eng Calle_Ocho_spa this_eng weekend_eng 
+1534.035 1535.382 ALY _eng mama_engspa theres_eng corn_eng 
+1535.364 1536.769 ALY did_eng you_eng saw_eng it_eng 
+1535.898 1541.352 AAR _eng and_eng I_eng believe_eng we_eng sold_eng _eng like_eng six_eng thousand_eng five_eng hundred_eng dollars_eng worth_eng of_eng beer_eng 
+1541.338 1542.801 OSE www_eng 
+1542.784 1544.461 AAR in_eng Calle_Ocho_spa 
+1545.09 1545.734 AAR yeah_eng 
+1545.717 1547.528 OSE www_eng 
+1547.507 1558.722 AAR right_eng now_eng _eng I_eng believe_eng active_eng active_eng active_eng members_eng Id_eng say_eng theres_eng about_eng a_eng hundred_eng and_eng forty_eng _eng that_eng are_eng active_eng all_eng the_eng time_eng going_eng there_eng 
+1558.72 1563.637 AAR theres_eng actually_eng um_eng I_eng imagine_eng Im_eng member_eng six_eng hundred_eng and_eng something_eng 
+1563.605 1565.654 AAR yeah_eng six_eng eighty_eng four_eng 
+1565.638 1572.345 AAR but_eng what_eng happens_eng is_eng is_eng _eng that_eng a_eng lot_eng of_eng the_eng older_eng people_eng some_eng have_eng stopped_eng going_eng some_eng dont_eng go_eng 
+1572.326 1574.05 AAR and_eng those_eng are_eng some_eng of_eng the_eng issues_eng 
+1574.044 1576.65 AAR because_eng what_eng happens_eng is_eng these_eng people_eng get_eng lost_eng 
+1576.642 1578.122 AAR and_eng then_eng they_eng come_eng back_eng 
+1578.104 1580.435 AAR and_eng they_eng dont_eng pay_eng membership_eng for_eng a_eng couple_eng of_eng years_eng 
+1580.383 1581.253 AAR and_eng then_eng they_eng come_eng back_eng 
+1581.224 1583.572 AAR and_eng they_eng wanna_eng pay_eng _eng their_eng one_eng year_eng 
+1583.566 1584.286 AAR and_eng then_eng like_eng if_eng 
+1584.268 1585.801 AAR my_eng dad_eng was_eng complaining_eng 
+1585.749 1585.992 AAR he_eng said_eng 
+1585.984 1587.325 AAR _eng no_eng I_eng dont_eng think_eng they_eng should_eng do_eng that_eng 
+1587.267 1587.795 AAR I_eng say_eng 
+1587.789 1594.808 AAR _eng if_eng you_eng want_eng your_eng original_eng number_eng _eng you_eng have_eng to_eng pay_eng back_eng everything_eng that_eng you_eng havent_eng been_eng paying_eng if_eng you_eng wanna_eng keep_eng your_eng number_eng 
+1594.802 1596.613 AAR _eng or_eng not_eng _eng we_eng kill_eng your_eng number_eng 
+1596.602 1598.477 AAR _eng and_eng you_eng get_eng a_eng new_eng number_eng like_eng the_eng last_eng person_eng 
+1599.514 1604.328 AAR pero_spa they_eng _eng they_eng _eng you_eng know_eng the_eng president_eng of_eng the_eng club_eng no_eng tú_spa sabes_spa hes_eng real_eng político_spa 
+1604.317 1606.348 AAR hes_eng a_eng good_eng person_eng a_eng very_eng good_eng person_eng 
+1606.335 1610.97 AAR pero_spa _eng igual_spa lo_spa que_spa pasó_spa we_eng had_eng a_eng camping_eng trip_eng 
+1610.819 1612.561 AAR when_eng we_eng went_eng camping_eng 
+1612.532 1613.861 AAR and_eng um_eng 
+1612.939 1613.891 ALY _eng oh_eng he_eng went_eng 
+1613.868 1615.598 ALY but_eng I_eng _eng I_eng didnt_eng go_eng 
+1615.584 1616.75 AAR she_eng didnt_eng wanna_eng go_eng 
+1616.727 1618.927 ALY I_eng didnt_eng wanna_eng go_eng no_eng 
+1618.925 1623.081 ALY I_eng was_eng in_eng _eng I_eng had_eng my_eng plans_eng for_eng the_eng weekend_eng 
+1623.059 1627.483 ALY I_eng had_eng a_eng bridal_eng shower_eng _eng for_eng that_eng weekend_eng on_eng Sunday_eng 
+1627.48 1628.409 ALY and_eng then_eng I_eng said_eng 
+1628.403 1632.565 ALY Im_eng not_eng going_eng to_eng go_eng you_eng know_eng early_eng in_eng a_eng hurry_eng to_eng go_eng camping_eng 
+1632.556 1634.431 ALY and_eng then_eng pick_eng up_eng everything_eng back_eng 
+1633.741 1634.815 AAR _eng we_eng had_eng a_eng good_eng time_eng 
+1634.402 1636.016 ALY and_eng then_eng be_eng all_eng tired_eng 
+1635.976 1637.264 AAR they_eng took_eng karaoke_engspa 
+1637.243 1638.723 OSE www_eng 
+1638.575 1640.455 ALY they_eng took_eng karaokes_engspa 
+1638.72 1640.066 AAR _eng they_eng took_eng the_eng karaoke_engspa 
+1640.432 1642.116 ALY they_eng did_eng barbeque_eng 
+1641.67 1643.429 AAR _eng everybody_eng took_eng their_eng tents_eng 
+1642.094 1643.957 ALY _eng they_eng did_eng a_eng lot_eng of_eng things_eng 
+1643.942 1646.064 AAR and_eng um_eng one_eng guy_eng which_eng 
+1646.058 1647.497 ALY your_eng dad_eng do_eng 
+1646.899 1649.276 AAR _eng wasnt_eng a_eng member_eng of_eng the_eng club_eng paid_eng 
+1649.276 1651.511 AAR uh_engspa hadnt_eng gone_eng to_eng the_eng club_eng for_eng like_eng three_eng years_eng 
+1651.517 1652.747 AAR and_eng then_eng showed_eng up_eng 
+1652.721 1654.752 AAR because_eng he_eng wanted_eng to_eng go_eng to_eng the_eng camping_eng 
+1653.4 1655.884 ALY _eng _eng spa_eng siéntate_eng a_eng comer_eng ahí_eng mi_eng amor_eng 
+1654.747 1656.128 AAR _eng he_eng heard_eng about_eng it_eng 
+1656.119 1659.203 AAR and_eng um_eng _eng uh_engspa the_eng president_eng told_eng him_eng 
+1659.192 1659.993 AAR _eng you_eng cant_eng go_eng 
+1659.975 1661.635 AAR _eng youre_eng not_eng an_eng active_eng member_eng 
+1661.61 1662.127 AAR then_eng he_eng goes_eng 
+1662.121 1663.41 AAR _eng well_eng if_eng I_eng pay_eng can_eng I_eng go_eng 
+1663.416 1664.008 AAR well_eng he_eng says_eng 
+1663.99 1666.034 AAR _eng yeah_eng if_eng you_eng pay_eng your_eng membership_eng you_eng can_eng go_eng 
+1664.416 1667.214 ALY _eng _eng spa_eng te_eng serviste_eng la_eng _eng calentaste_eng la_eng arroz_eng y_eng el_eng bistec_eng 
+1666.099 1668.241 AAR _eng he_eng paid_eng his_eng _eng his_eng membership_eng 
+1668.192 1670.845 AAR and_eng uh_engspa he_eng showed_eng up_eng in_eng a_eng camper_eng 
+1668.546 1669.55 ALY _eng _eng spa_eng cogiste_eng maíz_eng 
+1670.825 1674.749 AAR and_eng his_eng camper_eng got_eng stuck_eng in_eng the_eng back_eng all_eng the_eng way_eng in_eng the_eng back_eng of_eng the_eng _eng of_eng the_eng thing_eng 
+1674.743 1677.596 AAR it_eng got_eng stuck_eng uh_engspa because_eng its_eng humid_eng over_eng there_eng 
+1677.564 1679.044 AAR and_eng it_eng got_eng stuck_eng in_eng the_eng ground_eng 
+1679.027 1681.488 AAR and_eng I_eng _eng and_eng the_eng presidente_spa had_eng to_eng wait_eng for_eng him_eng all_eng day_eng until_eng they_eng took_eng his_eng out_eng with_eng una_spa grúa_spa 
+1683.027 1683.509 ALY yeah_eng 
+1683.477 1684.139 AAR and_eng I_eng said_eng you_eng know_eng 
+1684.121 1685.631 AAR and_eng then_eng he_eng was_eng complaining_eng 
+1685.627 1690.846 AAR because_eng he_eng pulled_eng out_eng a_eng big_eng uh_engspa one_eng of_eng those_eng big_eng screen_eng type_eng T_Vs_eng one_eng of_eng the_eng projection_eng types_eng 
+1691.14 1692.347 AAR and_eng he_eng was_eng watching_eng a_eng movie_eng 
+1692.313 1696.57 AAR and_eng imagine_eng we_eng had_eng tremenda_spa _eng música_spa con_spa esta_spa tocando_spa 
+1696.561 1699.196 AAR and_eng everybody_eng was_eng singing_eng and_eng v_eng dancing_eng 
+1699.19 1701.462 AAR and_eng we_eng were_eng laughing_eng pa_eng jokes_eng 
+1701.451 1703.459 AAR and_eng he_eng was_eng complaining_eng that_eng the_eng music_eng was_eng too_eng loud_eng 
+1703.396 1703.686 AAR and_eng I_eng said_eng 
+1703.674 1704.382 AAR _eng look_eng 
+1704.373 1706.306 AAR _eng you_eng dont_eng make_eng the_eng rules_eng 
+1704.994 1705.935 ALY _eng Snappy_engspa 
+1705.925 1710.453 AAR _eng we_eng are_eng the_eng ones_eng that_eng planned_eng on_eng doing_eng all_eng of_eng this_eng 
+1707.649 1709.6 ALY _eng _eng spa_eng no_eng le_eng des_eng que_eng ya_eng ella_eng comió_eng 
+1710.42 1713.154 AAR _eng if_eng you_eng dont_eng agree_eng with_eng us_eng thats_eng fine_eng then_eng you_eng can_eng leave_eng 
+1713.13 1718.354 AAR _eng but_eng you_eng _eng how_eng you_eng gonna_eng be_eng not_eng even_eng an_eng active_eng active_eng member_eng and_eng then_eng you_eng gonna_eng come_eng and_eng complain_eng 
+1718.334 1721.823 AAR y_spa entonces_spa he_eng was_eng talking_eng all_eng kinda_eng st_eng ah_engspa junk_eng 
+1721.809 1723.115 AAR and_eng I_eng _eng and_eng I_eng him_eng 
+1723.109 1724.572 AAR _eng you_eng know_eng I_eng dont_eng really_eng appreciate_eng that_eng 
+1724.555 1726.668 AAR _eng I_eng dont_eng think_eng we_eng should_eng allow_eng people_eng like_eng that_eng 
+1726.647 1728.627 AAR we_eng dont_eng need_eng people_eng like_eng that_eng 
+1728.611 1732.425 spa_spa y_spa este_spa de_spa verdad_spa que_spa tipo_spa se_spa ve_spa que_spa es_spa un_spa pesado_spa de_spa madre_spa 
+1732.394 1733.143 AAR you_eng know_eng 
+1733.131 1735.877 AAR the_eng other_eng day_eng he_eng showed_eng up_eng at_eng the_eng club_eng on_eng Friday_eng 
+1735.819 1738.007 AAR and_eng uh_engspa he_eng asked_eng for_eng water_eng 
+1738.046 1739.648 AAR and_eng they_eng gave_eng him_eng a_eng bottle_eng of_eng water_eng 
+1739.631 1740.124 AAR mumble_eng 
+1740.118 1741.14 AAR _eng give_eng me_eng a_eng dollar_eng 
+1741.124 1741.513 AAR he_eng goes_eng 
+1741.49 1743.046 AAR _eng oh_eng you_eng gotta_eng pay_eng for_eng the_eng water_eng 
+1743.04 1744.212 AAR _eng what_eng do_eng you_eng think_eng 
+1744.198 1748.239 AAR _eng you_eng know_eng this_eng isnt_eng _eng this_eng isnt_eng a_eng not_eng for_eng profit_eng xxx_eng organization_eng 
+1748.231 1751.911 AAR _eng yeah_eng you_eng gotta_eng pay_eng for_eng your_eng stuff_eng here_eng like_eng everybody_eng else_eng does_eng 
+1751.867 1754.23 AAR _eng oh_eng I_eng didnt_eng think_eng that_eng was_eng right_eng 
+1754.224 1756.111 AAR give_eng me_eng a_eng break_eng man_eng 
+1756.102 1756.821 AAR _eng what_eng do_eng you_eng think_eng 
+1756.821 1759.279 AAR _eng you_eng gonna_eng pay_eng _eng around_eng a_eng hundred_eng dollars_eng a_eng year_eng 
+1759.273 1761.839 AAR _eng and_eng youre_eng gonna_eng think_eng youre_eng gonna_eng get_eng free_eng food_eng every_eng Friday_eng here_eng 
+1761.845 1762.977 AAR _eng whats_eng wrong_eng with_eng you_eng 
+1762.964 1763.405 AAR _eng what_eng do_eng you_eng think_eng 
+1763.405 1764.282 AAR _eng that_eng costs_eng money_eng 
+1764.27 1765.518 OSE www_eng 
+1765.501 1767.48 AAR y_eng yeah_eng the_eng food_eng is_eng six_eng dollars_eng 
+1767.454 1772.397 AAR you_eng get_eng your_eng um_eng _eng whatever_eng it_eng is_eng arroz_spa un_spa plato_spa lleno_spa de_spa comida_spa 
+1772.379 1774.428 OSE www_eng 
+1774.426 1777.218 AAR six_eng bucks_eng its_eng _eng you_eng cant_eng beat_eng it_eng 
+1777.198 1779.427 AAR sometimes_eng they_eng have_eng chicken_eng wings_eng 
+1779.404 1781.709 AAR sometimes_eng they_eng have_eng french_fries_eng hamburgers_eng 
+1781.7 1782.936 AAR it_eng depends_eng what_eng xxx_eng 
+1782.919 1786.593 AAR sometimes_eng people_eng from_eng the_eng members_eng will_eng bring_eng food_eng 
+1786.579 1788.959 AAR theyll_eng donate_eng the_eng food_eng for_eng that_eng Friday_eng 
+1788.933 1795.286 ALY yeah_eng they_eng can_eng donate_eng albóndigas_spa lasagna_engspa depending_eng what_eng they_eng do_eng you_eng know_eng 
+1795.309 1797.022 spa_spa o_spa xxx_spa 
+1797.001 1801.541 ALY xxx_eng with_eng yuca_spa and_eng um_eng carne_spa asada_spa 
+1801.528 1803.559 AAR xxx_eng 
+1803.549 1806.759 AAR the_eng other_eng day_eng fue_spa una_spa señora_spa que_spa es_spa española_spa 
+1806.75 1811.621 AAR y_spa hizo_spa e_eng esta_spa creo_spa que_spa es_spa xxx_eng o_spa xxx_eng whatever_eng they_eng do_eng 
+1810.767 1811.737 ALY xxx_eng 
+1811.722 1813.353 AAR _eng _eng spa_eng los_eng españoles_eng 
+1813.344 1814.841 AAR and_eng it_eng was_eng pretty_eng good_eng 
+1814.818 1816.533 spa_spa con_spa arroz_spa blanco_spa 
+1816.521 1818.437 AAR and_eng they_eng had_eng um_eng 
+1818.414 1820.01 spa_spa qué_spa más_spa hicieron_spa 

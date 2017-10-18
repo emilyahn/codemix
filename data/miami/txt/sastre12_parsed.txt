@@ -1,0 +1,1345 @@
+0.17 0.83 MAD he_eng goes_eng 
+0.697 4.365 MAD _eng Sandra_engspa made_eng an_eng appointment_eng because_eng Robert_engspa Farmerssengspaeng_eng having_eng an_eng issue_eng 
+4.371 6.026 MAD hes_eng having_eng issues_eng 
+6.02 6.316 MAD I_eng said_eng 
+6.403 6.85 MAD _eng ok_eng 
+6.955 7.693 MAD he_eng goes_eng 
+7.681 9.318 MAD _eng so_eng Im_eng on_eng my_eng way_eng to_eng Beech_engspa 
+9.324 13.208 MAD _eng and_eng si_spa la_spa inepta_spa pregunta_spa _eng Im_eng at_eng Beech_engspa 
+13.184 15.187 MAD but_eng Im_eng going_eng to_eng the_eng doctors_eng afterward_eng 
+15.169 17.108 MAD _eng ok_eng laugh_eng no_eng problem_eng 
+15.691 16.266 SAM _eng grunt_eng 
+17.224 17.804 SAM wow_eng 
+17.311 20.63 MAD _eng if_eng she_eng asks_eng youre_eng at_eng _eng youre_eng at_eng Beech_engspa 
+20.508 22.273 MAD at_eng a_eng meeting_eng that_eng Sandra_engspa set_eng up_eng 
+22.261 24.229 MAD but_eng I_eng was_eng like_eng 
+24.512 25.969 SAM _eng mumble_eng 
+24.574 25.926 MAD _eng how_eng nice_eng you_eng know_eng 
+25.928 28.25 MAD _eng why_eng _eng why_eng is_eng he_eng calling_eng me_eng here_eng you_eng know_eng 
+27.215 28.486 SAM _eng yeah_eng why_eng _eng why_eng 
+28.056 28.457 MAD _eng I_eng was_eng like_eng 
+28.283 29.061 MAD _eng oh_eng my_eng god_eng 
+28.457 29.751 SAM _eng well_eng está_spa igual_spa que_spa Derek_engspa 
+30.91 33.133 MAD yeah_eng that_eng after_eng theyre_eng a_eng block_eng away_eng they_eng call_eng you_eng 
+31.061 32.407 SAM _eng oh_eng my_eng god_eng 
+33.046 34.445 SAM oh_engspa you_eng should_eng have_eng seen_eng Derek_engspa today_eng 
+34.892 36.39 SAM he_eng was_eng ok_eng 
+36.63 39.823 SAM and_eng then_eng in_eng the_eng afternoon_eng he_eng wanted_eng to_eng leave_eng 
+39.817 41.46 SAM and_eng he_eng brought_eng that_eng older_eng auto_eng today_eng 
+42.216 44.358 SAM and_eng the_eng battery_eng was_eng running_eng up_eng 
+44.303 45.656 SAM apparently_eng it_eng was_eng dead_eng 
+45.673 46.933 SAM so_eng all_eng of_eng a_eng sudden_eng I_eng xxx_eng 
+46.989 47.813 SAM its_eng gonna_eng start_eng raining_eng 
+47.773 48.626 SAM he_eng tells_eng me_eng 
+48.614 50.426 SAM _eng can_eng you_eng come_eng and_eng give_eng me_eng a_eng jump_eng 
+50.414 50.878 SAM and_eng I_eng go_eng 
+50.873 51.314 SAM _eng yeah_eng sure_eng 
+51.321 52.046 SAM so_eng I_eng gave_eng him_eng a_eng jump_eng 
+52.005 52.815 SAM he_eng puts_eng the_eng car_eng inside_eng 
+53.201 54.658 SAM and_eng when_eng hes_eng laughing_eng 
+54.566 55.239 SAM she_eng goes_eng 
+55.227 56.348 SAM _eng because_eng its_eng raining_eng 
+56.835 59.565 SAM you_eng know_eng hes_eng putting_eng the_eng car_eng inside_eng because_eng its_eng raining_eng 
+59.683 60.106 SAM you_eng know_eng when_eng I_eng 
+60.072 60.722 SAM Im_eng like_eng 
+60.675 61.227 SAM _eng I_eng dont_eng know_eng 
+61.209 63.364 SAM so_eng anyways_eng he_eng jumps_eng the_eng car_eng whatever_eng 
+63.318 65.681 SAM Billy_engspa has_eng had_eng his_eng red_eng truck_eng 
+65.251 67.582 MAD _eng so_eng your_eng car_eng had_eng to_eng go_eng inside_eng too_eng to_eng jump_eng it_eng 
+67.193 69.0 SAM no_engspa _eng no_engspa _eng no_engspa I_eng jumped_eng it_eng outside_eng 
+67.555 68.466 MAD _eng oh_engspa ok_eng 
+68.957 74.178 SAM er_engspa _eng er_engspa _eng Billy_engspa had_eng his_eng red_eng truck_eng 
+74.116 75.799 MAD _eng washing_eng it_eng 
+74.992 75.712 SAM _eng or_eng 
+75.834 77.442 SAM no_eng over_eng a_eng month_eng he_eng said_eng 
+76.402 77.377 MAD _eng or_eng 
+77.511 78.179 SAM I_eng dont_eng know_eng 
+78.183 78.752 MAD ok_eng 
+78.734 80.522 MAD the_eng red_eng truck_eng is_eng the_eng 
+80.44 81.723 SAM _eng the_eng one_eng that_eng you_eng think_eng you_eng saw_eng 
+81.721 83.337 MAD that_eng I_eng saw_eng un_spa americano_spa 
+83.328 85.625 MAD I_eng saw_eng a_eng gringo_spa driving_eng it_eng 
+85.335 86.2 spa_spa ah_spa bueno_spa 
+86.369 87.93 SAM yo_spa sé_spa que_spa he_eng _eng he_eng told_eng me_eng 
+87.779 88.929 MAD _eng well_eng it_eng looked_eng like_eng his_eng 
+87.912 88.65 SAM I_eng didnt_eng know_eng 
+89.653 92.521 MAD lets_eng _eng lets_eng put_eng it_eng that_eng way_eng because_eng it_eng is_eng the_eng old_eng kind_eng like_eng Alvaritossengspaeng_eng 
+90.096 90.979 SAM _eng yeah_eng 
+92.469 93.914 SAM _eng xxx_eng 
+92.486 94.652 spa_spa xxx_spa uno_spa amarillo_spa así_spa 
+94.582 95.018 spa_spa y_spa tú_spa dices_spa 
+95.012 95.546 MAD _eng _eng spa_eng es_eng este_eng 
+95.244 95.964 SAM _eng right_eng 
+95.465 96.196 MAD you_eng know_eng 
+96.19 97.02 MAD and_eng I_eng was_eng like_eng 
+96.894 97.324 MAD and_eng Im_eng like_eng _eng whisper_eng _eng 
+97.314 98.484 MAD thats_eng not_eng Derek_engspa is_eng it_eng 
+98.509 101.352 MAD but_eng _eng its_eng _eng it_eng was_eng somebody_eng tall_eng because_eng they_eng were_eng like_eng that_eng crouched_eng down_eng 
+100.691 100.966 SAM _eng really_eng 
+101.277 101.938 MAD yeah_eng 
+102.211 102.533 SAM I_eng dont_eng know_eng 
+102.553 105.391 SAM he_eng had_eng a_eng fit_eng because_eng he_eng told_eng me_eng that_eng Billy_engspa had_eng the_eng car_eng over_eng a_eng month_eng 
+105.375 106.632 SAM he_eng was_eng obviously_eng doing_eng something_eng to_eng it_eng 
+106.645 107.901 SAM he_eng hasnt_eng done_eng anything_eng to_eng it_eng 
+107.83 108.538 SAM blah_engspa _eng blah_engspa _eng blah_engspa 
+108.529 109.243 SAM so_eng he_eng called_eng Billy_engspa 
+109.248 110.174 SAM and_eng then_eng Billy_engspa left_eng 
+110.249 111.079 SAM and_eng Derek_engspa wanted_eng to_eng leave_eng 
+111.017 111.319 SAM I_eng dont_eng know_eng 
+111.32 112.553 SAM he_eng was_eng going_eng somewhere_eng at_eng three_eng fifteen_eng 
+112.553 113.764 SAM oh_eng my_eng god_eng 
+113.755 115.212 SAM Billy_engspa left_eng 
+115.199 117.283 SAM and_eng he_eng _eng he_eng was_eng so_eng pissed_eng 
+117.295 119.019 SAM he_eng started_eng cursing_eng 
+119.077 121.51 SAM and_eng the_eng funny_eng thing_eng is_eng 
+121.475 123.112 SAM no_eng cough_eng entonces_spa he_eng comes_eng in_eng 
+123.112 124.284 SAM and_eng hes_eng pacing_eng back_eng and_eng forth_eng 
+124.341 125.531 spa_spa se_spa metió_spa para_spa la_spa oficina_spa 
+125.514 126.965 SAM I_eng didnt_eng know_eng he_eng was_eng there_eng 
+126.959 128.027 SAM so_eng Ellie_engspa calls_eng 
+128.01 129.037 SAM and_eng Im_eng like_eng 
+129.021 129.811 SAM _eng he_eng left_eng 
+129.811 131.041 SAM _eng but_eng I_eng think_eng hes_eng here_eng 
+131.025 131.332 SAM _eng wait_eng 
+131.268 132.447 SAM _eng let_eng me_eng try_eng to_eng find_eng him_eng for_eng you_eng 
+132.0 132.714 MAD _eng laugh_eng 
+132.662 134.183 SAM so_eng I_eng go_eng to_eng his_eng office_eng 
+133.991 134.369 SAM I_eng go_eng 
+134.363 134.955 SAM _eng are_eng you_eng here_eng 
+134.74 135.959 SAM and_eng he_eng goes_eng 
+135.82 136.285 SAM he_eng goes_eng 
+136.285 136.993 SAM _eng oh_eng my_eng god_eng 
+136.97 138.055 SAM he_eng starts_eng telling_eng me_eng about_eng it_eng 
+138.055 138.467 SAM and_eng Im_eng like_eng 
+138.458 140.298 SAM _eng ok_eng well_eng Ellie_engspa is_eng on_eng the_eng phone_eng 
+140.964 144.511 SAM and_eng um_eng _eng and_eng then_eng rushes_eng out_eng 
+144.502 145.483 SAM goes_eng into_eng the_eng waiting_eng room_eng 
+145.471 147.294 SAM picks_eng up_eng a_eng whole_eng bunch_eng of_eng shit_eng 
+147.294 150.02 SAM goes_eng to_eng the_eng Cadillac_engspa 
+150.0 151.742 SAM and_eng hes_eng like_eng 
+150.842 151.585 MAD _eng laugh_eng 
+151.73 153.445 SAM _eng Sam_engspa come_eng here_eng 
+153.445 154.71 SAM _eng open_eng the_eng _eng open_eng the_eng door_eng for_eng me_eng 
+154.707 156.715 SAM and_eng you_eng know_eng the_eng _eng the_eng big_eng xxx_eng thing_eng 
+156.582 156.953 MAD uhuh_eng 
+156.83 157.695 SAM and_eng Im_eng like_eng 
+157.678 159.826 SAM _eng isnt_eng _eng isnt_eng the_eng car_eng not_eng working_eng 
+159.986 160.561 SAM hes_eng like_eng 
+160.567 162.349 SAM _eng oh_engspa Im_eng gonna_eng try_eng 
+162.265 165.057 SAM _eng if_eng _eng if_eng a_eng Billy_engspa tells_eng him_eng tell_eng him_eng I_eng couldnt_eng wait_eng for_eng him_eng 
+165.022 165.8 SAM _eng forget_eng this_eng 
+165.74 167.145 SAM xxx_eng cursed_eng 
+167.137 167.759 SAM and_eng I_eng was_eng like_eng 
+167.76 170.093 SAM _eng hmm_eng well_eng the_eng car_eng didnt_eng start_eng 
+170.918 172.224 MAD so_eng he_eng had_eng loaded_eng it_eng for_eng nothing_eng 
+172.224 173.531 SAM _eng oh_eng my_eng god_eng xxx_eng 
+173.553 174.923 SAM he_eng blew_eng 
+174.499 175.637 MAD _eng and_eng was_eng it_eng all_eng there_eng or_eng not_eng 
+175.643 176.322 SAM no_engspa 
+176.014 176.466 MAD uhoh_engspa 
+176.339 178.974 SAM he_eng blew_eng up_eng 
+179.05 180.06 SAM he_eng took_eng everything_eng out_eng 
+180.054 181.767 spa_spa empezó_spa a_spa gritar_spa 
+181.918 183.566 MAD _eng and_eng he_eng had_eng gone_eng in_eng the_eng 
+183.415 184.129 SAM _eng in_eng the_eng Cadillac_engspa 
+184.042 184.722 MAD _eng in_eng the_eng Cadillac_engspa 
+184.06 185.877 SAM _eng yeah_eng because_eng like_eng _eng er_engspa Margaret_engspa is_eng here_eng 
+186.688 188.087 MAD ok_eng so_eng she_eng has_eng his_eng 
+186.839 188.911 SAM _eng so_eng shes_eng using_eng his_eng 
+188.859 189.637 MAD that_eng S_u_v_engspa 
+189.858 193.062 SAM yeah_eng because_eng como_spa Matt_engspa le_spa _eng le_spa chocó_spa el_spa de_eng _eng el_spa de_spa ella_spa 
+194.298 195.059 MAD oh_eng I_eng didnt_eng know_eng that_eng 
+195.083 199.031 SAM yeah_eng when_eng he_eng had_eng that_eng bad_eng accident_eng with_eng the_eng Yersengspa_eng _eng with_eng the_eng Yera_engspa 
+197.556 198.619 MAD _eng oh_eng yeah_eng you_eng told_eng me_eng 
+198.657 199.952 MAD on_eng _eng on_eng I_ninety_five_eng 
+199.933 200.914 SAM that_eng was_eng her_eng car_eng 
+200.89 203.032 SAM because_eng Matt_engspa has_eng the_eng old_eng cars_eng 
+203.014 203.92 MAD right_eng 
+204.102 205.292 SAM and_eng he_eng wasnt_eng really_eng driving_eng 
+205.288 207.053 SAM but_eng then_eng like_eng she_eng was_eng away_eng at_eng college_eng 
+207.049 209.524 SAM he_eng was_eng driving_eng her_eng car_eng 
+209.854 210.84 MAD ok_eng 
+210.796 212.979 MAD so_eng in_eng college_eng she_eng doesnt_eng have_eng a_eng car_eng 
+213.017 213.447 SAM no_eng 
+213.383 213.853 MAD ok_eng 
+213.801 214.567 SAM shes_eng in_eng Bostons_engspa 
+214.569 215.771 SAM she_eng dont_eng need_eng a_eng car_eng 
+215.782 216.798 MAD ok_eng 
+217.189 222.576 SAM and_eng now_eng shes_eng here_eng so_eng _eng sometimes_eng he_eng needs_eng that_eng car_eng home_eng 
+222.428 223.937 SAM and_eng he_eng had_eng a_eng fit_eng 
+223.977 226.578 spa_spa imagínate_spa cómo_spa fue_spa 
+226.58 228.397 SAM look_eng how_eng funny_eng que_spa Im_eng sitting_eng there_eng right_eng 
+228.423 229.41 SAM I_eng come_eng back_eng in_eng 
+229.404 230.716 SAM Im_eng sitting_eng at_eng my_eng computer_eng 
+230.829 235.026 SAM and_eng hes_eng in_eng that_eng waiting_eng room_eng because_eng como_spa el_spa Marcos_engspa no_spa empezó_spa hes_eng waiting_eng for_eng Billy_engspa 
+234.887 236.601 SAM and_eng he_eng was_eng blowing_eng up_eng 
+236.547 238.817 SAM and_eng he_eng started_eng cursing_eng again_eng 
+238.815 242.071 SAM all_eng of_eng a_eng sudden_eng I_eng see_eng Karen_engspa Neil_engspa didnt_eng come_eng in_eng today_eng 
+242.046 244.019 SAM so_eng his_eng office_eng is_eng dark_eng all_eng day_eng 
+243.762 245.382 SAM I_eng see_eng Karen_engspa from_eng Neilssengspaeng_eng office_eng 
+245.349 251.078 SAM _eng Sam_engspa _eng Sam_engspa _eng are_eng you_eng ok_eng 
+251.513 252.453 SAM _eng was_eng that_eng you_eng 
+251.63 252.176 MAD _eng laugh_eng 
+252.308 254.183 SAM and_eng Im_eng cracking_eng up_eng 
+254.043 255.071 SAM so_eng I_eng go_eng to_eng her_eng 
+254.914 256.406 SAM _eng wait_eng wait_eng wait_eng 
+256.4 257.607 SAM so_eng I_eng had_eng to_eng go_eng with_eng her_eng going_eng 
+257.564 258.283 SAM youre_eng so_eng cute_eng 
+258.283 259.096 SAM and_eng er_engspa she_eng goes_eng 
+259.081 260.457 SAM _eng was_eng that_eng Derek_engspa 
+260.442 261.348 SAM and_eng I_eng go_eng 
+261.371 262.248 SAM _eng gosh_eng whats_eng wrong_eng _eng whisper_eng 
+262.324 262.626 SAM and_eng I_eng go_eng 
+262.586 263.201 SAM _eng oh_eng my_eng god_eng 
+263.011 264.3 SAM so_eng I_eng start_eng telling_eng her_eng 
+264.296 264.795 SAM she_eng goes_eng 
+264.627 265.701 SAM _eng it_eng was_eng loud_eng 
+265.895 267.143 SAM _eng I_eng heard_eng it_eng all_eng the_eng way_eng over_eng there_eng 
+267.106 268.168 MAD and_eng she_eng thought_eng I_eng was_eng with_eng you_eng 
+268.151 268.731 SAM and_eng she_eng 
+268.726 269.544 SAM yeah_eng 
+269.548 270.506 SAM and_eng she_eng was_eng so_eng cute_eng 
+269.786 270.552 MAD _eng well_eng thats_eng good_eng 
+270.535 272.329 MAD she_eng went_eng looking_eng make_eng sure_eng you_eng were_eng ok_eng 
+272.376 272.91 SAM yeah_eng 
+272.904 273.49 SAM she_eng was_eng so_eng cute_eng 
+273.409 274.825 SAM she_eng answered_eng the_eng door_eng 
+274.756 278.14 SAM so_eng after_eng he_eng finally_eng left_eng I_eng went_eng _eng I_eng went_eng back_eng to_eng Jonatha_engspa 
+278.212 278.851 SAM you_eng know_eng but_eng I_eng go_eng 
+278.792 280.046 SAM _eng oh_engspa Kate_engspa you_eng are_eng so_eng cute_eng 
+280.063 281.212 SAM shes_eng like_eng 
+281.212 282.816 SAM _eng oh_eng my_eng god_eng that_eng was_eng scary_eng 
+282.826 283.982 SAM _eng I_eng heard_eng the_eng whole_eng thing_eng 
+283.964 285.421 SAM _eng it_eng was_eng loud_eng 
+285.998 287.13 SAM _eng whats_eng wrong_eng with_eng him_eng 
+287.14 287.947 SAM and_eng I_eng go_eng 
+287.692 289.514 MAD _eng thats_eng why_eng he_eng has_eng a_eng heart_eng attack_eng 
+289.434 290.038 SAM thats_eng what_eng she_eng said_eng 
+289.98 290.665 SAM and_eng she_eng goes_eng 
+290.698 293.247 SAM _eng you_eng would_eng have_eng thought_eng he_eng would_eng have_eng learned_eng already_eng 
+293.295 294.165 SAM because_eng 
+294.171 294.699 SAM she_eng goes_eng 
+294.514 295.524 SAM _eng you_eng know_eng what_eng the_eng mumble_eng 
+295.501 296.888 SAM then_eng we_eng were_eng all_eng laughing_eng 
+296.876 299.419 SAM because_eng it_eng was_eng _eng like_eng Pet_engspa didnt_eng go_eng as_eng the_eng three_eng girls_eng _eng 
+299.504 300.502 SAM she_eng goes_eng 
+300.514 301.193 SAM she_eng goes_eng 
+301.17 302.929 SAM _eng you_eng dont_eng understand_eng him_eng 
+302.616 305.368 SAM _eng he_eng blows_eng up_eng at_eng the_eng _eng at_eng the_eng smallest_eng things_eng 
+305.292 307.278 SAM at_eng the_eng littlest_eng things_eng he_eng blows_eng up_eng 
+307.221 307.592 SAM I_eng go_eng 
+307.581 308.928 SAM _eng because_eng hes_eng a_eng spoiled_eng brat_eng 
+308.899 311.087 SAM _eng things_eng go_eng like_eng this_eng a_eng little_eng bit_eng out_eng 
+310.869 311.304 SAM she_eng goes_eng 
+311.304 315.674 SAM _eng and_eng then_eng the_eng huge_eng things_eng that_eng are_eng really_eng important_eng you_eng dont_eng know_eng how_eng hes_eng taking_eng it_eng 
+316.029 317.149 SAM and_eng then_eng she_eng looks_eng 
+316.778 317.439 SAM and_eng she_eng goes_eng 
+317.445 320.259 SAM _eng I_eng guess_eng were_eng all_eng small_eng things_eng to_eng him_eng laughs_eng 
+320.637 321.757 MAD laugh_eng 
+321.502 323.766 SAM laugh_eng were_eng sitting_eng there_eng cracking_eng up_eng Mandy_engspa _eng laugh_eng 
+323.314 326.456 MAD _eng except_eng for_eng Mandy_engspa you_eng are_eng _eng you_eng _eng both_eng are_eng laugh_eng 
+326.461 327.006 SAM why_eng 
+326.943 327.976 MAD because_eng Wendyssengspaeng_eng tall_eng 
+328.098 329.52 SAM yeah_eng but_eng he_eng still_eng gangs_eng up_eng on_eng her_eng 
+329.468 330.693 SAM you_eng know_eng how_eng he_eng blows_eng up_eng 
+329.549 330.507 MAD _eng no_engspa I_eng know_eng 
+330.513 331.662 MAD I_eng know_eng 
+330.635 331.738 SAM _eng oh_eng my_eng god_eng 
+333.707 335.065 spa_spa pero_spa qué_spa de_spa eso_spa 
+335.003 335.496 SAM I_eng was_eng like_eng 
+335.473 336.866 SAM _eng oh_eng god_eng you_eng know_eng 
+336.92 338.627 MAD are_eng you_eng kidding_eng Trevor_engspa xxx_eng today_eng 
+338.754 339.695 MAD I_eng got_eng there_eng 
+339.821 344.352 MAD and_eng um_eng _eng I_eng thought_eng he_eng was_eng there_eng because_eng his_eng computer_eng was_eng on_eng 
+345.548 346.135 MAD so_eng Im_eng like_eng 
+346.192 346.906 MAD _eng Trevorssengspaeng_eng here_eng 
+346.78 347.721 MAD _eng he_eng beat_eng me_eng here_eng today_eng 
+347.78 349.197 MAD ok_eng you_eng know_eng 
+350.163 350.866 MAD I_eng go_eng over_eng 
+350.877 351.736 MAD I_eng sign_eng in_eng 
+353.489 354.789 MAD and_eng uh_eng I_eng go_eng 
+354.766 355.59 MAD _eng Trevorssengspaeng_eng here_eng 
+355.57 356.186 MAD she_eng was_eng like_eng 
+356.157 356.876 MAD _eng I_eng dont_eng know_eng 
+356.898 359.179 MAD _eng ok_eng he_eng hasnt_eng signed_eng in_eng 
+359.15 359.678 MAD _eng ok_eng 
+359.278 359.881 SAM _eng all_eng right_eng 
+359.989 361.841 MAD go_eng and_eng get_eng my_eng cups_eng and_eng get_eng coffee_eng 
+361.658 362.929 MAD and_eng I_eng go_eng and_eng sit_eng in_eng Miriamssengspaeng_eng desk_eng 
+362.912 366.418 MAD so_eng I_eng can_eng go_eng ahead_eng and_eng _eng and_eng put_eng everything_eng that_eng came_eng in_eng and_eng stuff_eng 
+366.343 369.698 MAD when_eng I_eng go_eng back_eng mentira_spa my_eng computer_eng was_eng working_eng 
+369.494 371.12 SAM aw_engspa they_eng fixed_eng it_eng 
+369.75 372.025 MAD _eng they_eng fixed_eng it_eng on_eng Friday_eng when_eng I_eng wasnt_eng there_eng 
+371.703 372.382 SAM oh_engspa 
+372.382 374.473 MAD and_eng had_eng it_eng _eng Rachel_engspa had_eng signed_eng for_eng it_eng 
+374.529 375.011 MAD so_eng I_eng go_eng by_eng 
+374.994 375.296 MAD and_eng I_eng go_eng 
+375.29 376.004 MAD _eng thank_eng you_eng Rachel_engspa 
+376.024 377.045 MAD and_eng I_eng go_eng over_eng 
+377.593 380.002 MAD cuando_spa voy_spa para_spa allá_spa está_spa Trevor_engspa sentado_spa in_eng the_eng desk_eng 
+379.907 380.36 MAD I_eng go_eng 
+380.22 381.521 MAD _eng oh_engspa I_eng thought_eng you_eng were_eng here_eng 
+381.455 381.873 MAD he_eng goes_eng 
+381.85 382.169 MAD _eng no_eng 
+382.163 382.395 MAD I_eng go_eng 
+382.355 383.185 MAD _eng because_eng your_eng computer_eng was_eng on_eng 
+383.113 383.693 MAD and_eng he_eng goes_eng 
+383.625 385.123 MAD _eng I_eng thought_eng I_eng shut_eng it_eng off_eng 
+385.078 385.502 MAD he_eng goes_eng 
+385.316 387.998 MAD _eng I_eng wasnt_eng here_eng a_eng minute_eng ago_eng you_eng know_eng when_eng you_eng came_eng by_eng 
+387.603 388.259 SAM _eng yeah_eng 
+388.323 388.683 MAD I_eng said_eng 
+388.668 389.655 MAD _eng the_eng computer_eng was_eng on_eng 
+389.62 390.218 MAD _eng I_eng thought_eng it_eng was_eng you_eng 
+390.177 390.595 MAD he_eng goes_eng 
+390.564 391.835 MAD _eng I_eng could_eng have_eng sworn_eng I_eng shut_eng it_eng off_eng 
+391.831 392.586 MAD I_eng said_eng 
+392.638 393.828 MAD _eng it_eng was_eng on_eng when_eng I_eng got_eng here_eng 
+393.679 395.281 SAM _eng maybe_eng they_eng were_eng working_eng on_eng it_eng 
+393.799 394.536 MAD _eng I_eng didnt_eng do_eng it_eng 
+395.244 396.55 MAD yeah_eng maybe_eng the_eng guy_eng 
+395.447 396.991 SAM _eng like_eng they_eng were_eng doing_eng yours_eng 
+396.686 398.47 MAD well_eng because_eng hes_eng been_eng having_eng problems_eng with_eng his_eng 
+398.135 398.576 SAM _eng yeah_eng 
+398.537 400.227 SAM so_eng they_eng probably_eng worked_eng on_eng it_eng 
+398.674 399.806 MAD _eng so_eng hopefully_eng 
+399.82 400.859 MAD yeah_eng they_eng tried_eng to_eng fix_eng it_eng 
+401.591 406.512 MAD so_eng entonces_spa you_eng know_eng I_eng do_eng like_eng the_eng things_eng he_eng had_eng picked_eng up_eng and_eng stuff_eng 
+406.528 407.248 spa_spa y_spa cojo_spa 
+407.255 409.484 MAD y_spa I_eng finished_eng that_eng 
+409.427 410.164 MAD and_eng I_eng go_eng 
+409.905 411.333 MAD _eng my_eng computers_eng working_eng 
+411.25 413.178 MAD _eng so_eng I_eng guess_eng Im_eng gonna_eng go_eng ahead_eng and_eng go_eng back_eng 
+413.189 414.786 MAD _eng Im_eng gonna_eng answer_eng emails_eng 
+415.616 420.73 MAD _eng input_eng all_eng the_eng new_eng purchases_eng that_eng we_eng just_eng did_eng into_eng my_eng spreadsheet_eng because_eng I_eng was_eng able_eng to_eng get_eng everything_eng 
+420.842 422.247 MAD like_eng it_eng wasnt_eng the_eng hard_eng drive_eng 
+421.742 422.166 SAM _eng all_eng right_eng 
+422.305 423.17 MAD it_eng was_eng the_eng memory_eng 
+423.086 425.077 SAM oh_engspa yeah_eng they_eng _eng they_eng needed_eng to_eng put_eng more_eng 
+424.137 425.06 MAD _eng so_eng 
+425.239 426.604 MAD right_eng so_eng I_eng just_eng went_eng ahead_eng 
+426.578 428.656 MAD and_eng um_eng I_eng did_eng all_eng of_eng that_eng 
+428.64 430.306 MAD and_eng then_eng I_eng was_eng sitting_eng there_eng 
+430.73 432.193 MAD Martha_engspa was_eng telling_eng me_eng 
+432.193 432.953 MAD and_eng its_eng what_eng it_eng is_eng 
+433.017 436.208 MAD even_eng though_eng I_eng _eng I_eng _eng tú_spa sabes_spa 
+435.357 436.234 SAM yeah_eng 
+436.199 438.028 MAD so_eng I_eng dont_eng get_eng any_eng of_eng her_eng things_eng 
+438.025 439.917 MAD I_eng guess_eng its_eng a_eng little_eng bit_eng of_eng that_eng 
+439.193 441.904 SAM _eng oh_eng thats_eng probably_eng what_eng it_eng is_eng 
+441.89 444.973 MAD because_eng ella_spa estaba_eng _eng she_eng showed_eng me_eng a_eng picture_eng of_eng her_eng daughter_eng 
+444.944 445.751 MAD beautiful_eng girl_eng 
+445.737 446.822 MAD she_eng doesnt_eng look_eng eighteen_eng 
+446.7 447.96 MAD she_eng looks_eng older_eng 
+447.008 447.618 SAM _eng grunt_eng 
+447.581 449.473 spa_spa pero_spa una_spa muchachita_spa linda_spa 
+449.415 449.961 MAD I_eng go_eng 
+449.773 451.009 MAD _eng _eng spa_eng ay_eng tu_eng hija_eng es_eng linda_eng 
+450.957 451.48 MAD she_eng goes_eng 
+451.404 452.031 MAD _eng _eng spa_eng gracias_eng 
+452.009 452.421 spa_spa a_spa mí_spa 
+452.416 452.938 MAD Im_eng like_eng 
+452.932 453.879 MAD _eng o_k_eng laugh_eng 
+453.501 454.825 SAM yeah_eng you_eng wish_eng it_eng 
+454.368 456.231 MAD y_spa entonces_spa cuando_spa viene_spa Trevor_engspa xxx_eng I_eng go_eng 
+456.237 457.613 MAD _eng show_eng her_eng _eng show_eng him_eng the_eng picture_eng 
+458.001 458.808 MAD she_eng goes_eng 
+458.779 459.417 MAD she_eng goes_eng 
+459.196 459.876 MAD _eng thats_eng me_eng 
+459.847 460.265 MAD he_eng goes_eng 
+460.102 462.679 MAD _eng sí_spa you_eng wish_eng that_eng was_eng you_eng laugh_eng 
+461.373 462.679 SAM _eng laugh_eng 
+462.672 465.104 SAM Ginny_engspa _eng whisper_eng 
+463.409 465.47 MAD _eng _eng spa_eng pero_eng no_eng de_eng lo_eng más_eng linda_eng 
+465.492 466.624 SAM uhuh_eng 
+465.788 471.208 MAD _eng y_spa entonces_spa er_engspa that_eng she_eng you_eng know_eng again_eng shes_eng telling_eng me_eng about_eng her_eng stepson_eng 
+471.291 472.853 MAD and_eng how_eng 
+472.806 473.214 MAD she_eng goes_eng like_eng 
+473.126 474.23 MAD _eng we_eng think_eng its_eng cancer_eng 
+473.41 474.553 SAM _eng hes_eng still_eng in_eng the_eng hospital_eng 
+474.548 475.447 MAD no_eng hes_eng out_eng 
+475.453 476.457 MAD hes_eng been_eng out_eng 
+476.411 477.317 MAD but_eng he_eng cant_eng sleep_eng 
+477.317 479.297 MAD they_eng have_eng to_eng give_eng him_eng valium_engspa to_eng sleep_eng 
+479.29 481.13 MAD dice_spa que_spa tiene_spa el_spa cuello_spa así_spa 
+481.113 482.1 SAM really_eng 
+481.791 482.615 spa_spa de_spa grande_spa 
+482.868 486.253 MAD entonces_spa they_eng did_eng an_eng M_R_I_eng _eng the_eng other_eng day_eng 
+485.651 486.742 SAM how_eng weird_eng 
+486.225 487.067 MAD and_eng y_spa dice_spa 
+487.067 491.711 MAD and_eng even_eng though_eng it_eng was_eng an_eng open_eng M_R_I_eng because_eng hes_eng claustrophobic_eng dice_spa que_spa he_eng was_eng 
+491.027 491.649 SAM _eng wow_engspa 
+491.531 494.674 MAD so_eng for_eng a_eng whole_eng hour_eng she_eng sat_eng there_eng with_eng him_eng while_eng they_eng did_eng the_eng M_R_I_eng 
+495.589 501.492 MAD y_spa entonces_spa she_eng tried_eng calling_eng the_eng guy_eng so_eng they_eng wouldnt_eng call_eng him_eng so_eng that_eng she_eng can_eng get_eng the_eng results_eng 
+501.495 502.476 SAM ah_engspa 
+502.424 503.637 MAD the_eng doctor_eng still_eng called_eng him_eng 
+503.568 505.164 MAD and_eng told_eng them_eng that_eng he_eng thinks_eng its_eng cancer_eng 
+504.996 505.814 SAM oh_eng really_eng 
+505.808 506.493 MAD yeah_eng 
+506.461 507.215 SAM wow_eng 
+507.361 507.785 MAD so_eng 
+507.781 509.122 SAM thats_eng horrible_eng 
+509.12 510.577 SAM kiss_eng hi_eng baby_eng 
+510.542 511.065 MAD youre_eng awake_eng 
+510.804 511.703 SAM _eng how_eng you_eng feeling_eng 
+512.1 512.895 MAD ok_eng 
+513.493 514.579 MAD kiss_eng go_eng in_eng 
+514.527 516.257 MAD xxx_eng in_eng there_eng 
+517.295 518.654 MAD huh_eng 
+518.811 519.38 MAD we_eng can_eng talk_eng 
+519.369 519.874 MAD you_eng cant_eng 
+519.839 520.274 MAD go_eng away_eng 
+522.154 526.128 MAD entonces_spa um_eng you_eng know_eng she_eng was_eng saying_eng that_eng it_eng was_eng um_eng 
+526.494 527.295 SAM thats_eng horrible_eng 
+526.917 528.229 MAD _eng you_eng know_eng she_eng tried_eng calling_eng 
+527.382 528.183 SAM _eng how_eng old_eng is_eng he_eng 
+528.096 528.781 SAM is_eng he_eng young_eng 
+528.316 529.251 MAD _eng thirty_eng seven_eng 
+529.222 530.058 SAM wow_eng 
+530.011 531.925 MAD but_eng she_eng says_eng you_eng know_eng she_eng called_eng the_eng guy_eng 
+531.809 533.127 MAD and_eng the_eng guy_eng told_eng her_eng 
+533.092 535.077 MAD I_eng guess_eng like_eng they_eng saw_eng her_eng with_eng him_eng 
+534.832 535.575 SAM right_eng 
+535.169 536.0 MAD _eng because_eng they_eng are_eng not_eng really_eng 
+536.005 538.612 MAD xxx_eng laws_eng _eng says_eng you_eng are_eng not_eng supposed_eng to_eng 
+536.66 538.065 SAM _eng yeah_eng mumble_eng 
+538.438 539.401 SAM _eng right_eng 
+538.605 540.439 MAD but_eng like_eng they_eng know_eng shes_eng the_eng stepmom_eng 
+540.467 543.354 MAD and_eng she_eng is_eng the_eng one_eng that_eng actually_eng goes_eng in_eng because_eng like_eng I_eng guess_eng the_eng moms_eng a_eng scaredy_cat_eng 
+543.327 545.372 MAD so_eng shes_eng the_eng one_eng that_eng goes_eng in_eng with_eng him_eng 
+544.676 545.552 SAM _eng whisper_eng 
+545.149 547.413 MAD and_eng _eng y_spa él_spa se_spa lleva_spa muy_spa bien_spa con_spa ella_spa 
+547.387 551.273 SAM so_eng entonces_spa he_eng was_eng like_eng él_spa _eng ella_spa le_eng _eng él_spa le_spa dice_spa Lucy_engspa 
+551.19 552.455 MAD you_eng know_eng her_eng name_eng is_eng not_eng Lucy_engspa _eng whisper_eng 
+552.438 553.099 MAD but_eng ok_eng 
+553.075 553.708 SAM Lucy_engspa 
+553.691 555.548 MAD and_eng thats_eng _eng thats_eng her_eng daughters_eng name_eng 
+555.759 556.078 SAM ok_eng 
+555.933 556.711 MAD go_eng figure_eng 
+556.754 557.538 MAD so_eng 
+557.53 559.144 SAM whats_eng her_eng name_eng 
+559.034 559.893 MAD Martha_engspa 
+560.238 561.771 MAD unless_eng Lucyssengspaeng_eng her_eng middle_eng name_eng 
+561.196 562.52 SAM yeah_eng middle_eng _eng middle_eng name_eng 
+562.511 566.474 MAD entonces_spa él_spa le_spa dice_spa Lucy_engspa tú_spa entras_spa conmigo_spa so_eng she_eng left_eng her_eng daughter_eng outside_eng 
+566.474 568.043 MAD and_eng she_eng _eng he_eng _eng _eng she_eng goes_eng 
+568.036 570.195 MAD _eng so_eng _eng I_eng did_eng what_eng I_eng like_eng to_eng do_eng for_eng a_eng whole_eng hour_eng 
+570.189 570.567 MAD she_eng goes_eng 
+570.526 571.763 MAD _eng xxx_eng afterwards_eng 
+571.642 575.017 MAD it_eng was_eng because_eng for_eng a_eng whole_eng hour_eng she_eng was_eng sitting_eng there_eng talking_eng to_eng him_eng while_eng they_eng were_eng doing_eng the_eng M_r_i_eng 
+574.993 576.125 SAM aw_engspa 
+575.609 582.083 MAD entonces_spa er_engspa _eng today_eng she_eng called_eng to_eng try_eng and_eng get_eng the_eng _eng los_spa resultados_spa 
+582.05 587.066 MAD but_eng they_eng must_eng have_eng done_eng other_eng things_eng because_eng dice_spa que_spa the_eng white_eng blood_eng count_eng _eng was_eng normal_eng again_eng 
+585.983 587.376 SAM _eng was_eng normal_eng 
+587.536 588.018 MAD she_eng goes_eng 
+587.867 589.557 MAD _eng so_eng its_eng not_eng looking_eng in_eng xxx_eng 
+589.464 590.16 MAD _eng its_eng not_eng this_eng 
+589.853 590.282 SAM _eng right_eng 
+590.137 590.851 MAD she_eng goes_eng 
+590.578 594.154 MAD _eng so_eng hay_spa infección_spa xxx_eng the_eng white_eng blood_eng count_eng would_eng be_eng lower_eng this_eng and_eng that_eng 
+593.056 593.677 SAM _eng yeah_eng 
+594.542 594.878 MAD she_eng goes_eng 
+594.872 596.591 MAD _eng but_eng apparently_eng they_eng think_eng 
+596.591 598.373 MAD so_eng entonces_spa she_eng kept_eng telling_eng the_eng guy_eng 
+598.355 599.098 MAD _eng please_eng call_eng me_eng 
+599.079 601.738 MAD she_eng gave_eng them_eng the_eng cell_eng phone_eng the_eng work_eng number_eng you_eng know_eng 
+602.353 604.919 MAD apparently_eng he_eng ended_eng up_eng calling_eng her_eng 
+605.012 605.801 SAM oh_eng really_eng 
+605.805 608.133 MAD he_eng _eng the_eng guy_eng _eng er_engspa her_eng stepson_eng called_eng her_eng 
+608.127 614.257 MAD and_eng said_eng _eng um_eng and_eng said_eng _eng that_eng the_eng doctor_eng had_eng called_eng him_eng 
+614.244 615.887 MAD and_eng he_eng _eng she_eng goes_eng 
+615.876 617.222 MAD _eng he_eng told_eng you_eng 
+617.066 617.547 MAD she_eng goes_eng 
+617.524 617.745 MAD _eng yeah_eng 
+617.745 618.076 MAD she_eng goes_eng 
+618.058 620.126 MAD _eng I_eng really_eng tried_eng for_eng them_eng not_eng to_eng tell_eng you_eng 
+620.117 621.638 MAD _eng I_eng wanted_eng to_eng be_eng the_eng one_eng to_eng 
+621.8 622.358 SAM mmhm_eng 
+622.302 622.842 MAD and_eng she_eng goes_eng 
+622.825 624.003 MAD _eng but_eng you_eng know_eng what_eng 
+623.974 625.617 MAD _eng that_eng doesnt_eng mean_eng its_eng true_eng 
+625.564 626.365 SAM _eng yeah_eng 
+625.64 628.791 MAD _eng tomorrow_eng when_eng we_eng go_eng to_eng the_eng biopsy_eng thats_eng the_eng one_eng thats_eng for_eng real_eng 
+628.835 629.723 SAM yeah_eng 
+629.67 633.051 MAD you_eng know_eng tomorrow_eng for_eng the_eng biopsy_eng thats_eng the_eng one_eng that_eng really_eng counts_eng 
+632.058 633.061 SAM _eng oh_eng my_eng god_eng 
+633.055 635.57 MAD but_eng apparently_eng he_eng doesnt_eng want_eng his_eng mom_eng and_eng dad_eng to_eng know_eng 
+635.601 636.292 SAM moan_eng 
+636.112 637.0 MAD I_eng guess_eng not_eng yet_eng 
+637.053 637.865 SAM right_eng 
+637.86 639.771 MAD so_eng um_eng _eng so_eng shes_eng like_eng 
+639.753 640.409 MAD _eng dont_eng worry_eng 
+640.322 641.924 MAD _eng I_eng wont_eng tell_eng them_eng you_eng know_eng 
+641.901 644.301 MAD _eng so_eng if_eng you_eng dont_eng wanna_eng tell_eng them_eng I_eng wont_eng say_eng anything_eng either_eng 
+644.307 646.594 MAD so_eng she_eng _eng ella_spa tenía_spa una_spa cara_spa pobrecita_spa 
+646.634 648.068 MAD so_eng I_eng _eng I_eng was_eng like_eng you_eng 
+647.93 649.294 MAD I_eng did_eng what_eng Mary_engspa said_eng 
+649.294 650.525 spa_spa cogí_spa una_spa cascarilla_spa 
+650.507 652.644 MAD _eng and_eng I_eng put_eng it_eng behind_eng my_eng neck_eng 
+652.701 656.503 MAD pero_spa con_spa todo_spa y_spa eso_spa I_eng can_eng still_eng _eng when_eng you_eng ask_eng _eng I_eng could_eng still_eng feel_eng it_eng a_eng little_eng bit_eng 
+656.183 656.653 MAD and_eng Im_eng like_eng 
+656.546 657.754 MAD _eng you_eng know_eng what_eng Im_eng gonna_eng have_eng to_eng take_eng 
+657.736 659.077 MAD and_eng I_eng was_eng good_eng 
+659.224 659.607 MAD I_eng went_eng 
+659.485 664.135 MAD and_eng I_eng got_eng _eng era_spa hoy_spa chickpeas_eng um_eng _eng sopa_spa de_spa garbanzos_spa 
+663.996 664.547 SAM yeah_eng 
+664.65 665.579 SAM oh_engspa ok_eng 
+665.533 666.647 MAD tú_spa sabes_spa er_engspa 
+666.566 668.545 SAM yeah_eng _eng yeah_eng I_eng know_eng yeah_eng la_spa sopa_spa de_spa garbanzos_spa 
+668.505 669.05 MAD uhuh_eng 
+668.943 669.483 SAM yeah_eng 
+669.111 670.318 MAD _eng _eng spa_eng sopa_eng de_eng garbanzos_eng 
+670.295 672.495 MAD so_eng I_eng had_eng that_eng 
+672.684 676.19 MAD and_eng I_eng ordered_eng café_spa con_spa leche_spa _eng with_eng no_eng sugar_eng 
+676.205 678.004 MAD but_eng it_eng was_eng hot_eng as_eng heck_eng so_eng I_eng had_eng to_eng wait_eng 
+678.302 680.862 MAD entonces_spa _eng I_eng kept_eng putting_eng off_eng taking_eng aspirins_eng 
+681.125 681.671 MAD because_eng I_eng was_eng like_eng 
+681.653 682.872 MAD _eng you_eng know_eng Im_eng gonna_eng _eng Im_eng gonna_eng see_eng 
+682.037 682.948 SAM _eng yeah_eng Ill_eng do_eng it_eng 
+682.849 684.382 SAM and_eng que_spa le_spa tuvieron_eng _eng que_spa le_spa tuvieron_spa 
+683.746 685.604 MAD _eng right_eng Im_eng gonna_eng _eng Im_eng gonna_eng wait_eng you_eng know_eng 
+685.827 686.501 MAD afterwards_eng Im_eng like_eng 
+686.298 686.779 MAD _eng you_eng know_eng what_eng 
+686.883 689.235 MAD _eng I_eng might_eng as_eng well_eng take_eng it_eng because_eng I_eng dont_eng wanna_eng _eng like_eng yesterday_eng 
+688.265 689.293 SAM _eng that_eng was_eng today_eng 
+689.281 690.059 MAD that_eng was_eng today_eng 
+689.765 690.648 SAM oh_engspa 
+690.667 691.288 MAD and_eng then_eng I_eng said_eng 
+691.149 692.153 MAD _eng did_eng you_eng know_eng xxx_eng 
+692.136 694.232 spa_spa xxx_spa cuando_spa ya_spa se_spa paró_spa ir_spa al_spa baño_spa _spa laugh_spa 
+694.225 695.415 MAD cogí_spa el_spa spray_eng 
+695.397 696.326 spa_spa y_spa empecé_spa a_spa echar_spa 
+696.334 696.978 MAD Im_eng like_eng 
+697.065 697.802 MAD _eng pfu 
+698.331 699.004 MAD you_eng know_eng 
+698.972 699.796 MAD _eng _eng spa_eng quédate_eng para_eng allá_eng 
+699.756 701.689 MAD _eng you_eng know_eng not_eng over_eng here_eng so_eng 
+700.935 701.666 SAM _eng yeah_eng 
+701.858 702.676 SAM oh_eng my_eng god_eng 
+701.858 702.676 MAD _eng I_eng dont_eng know_eng 
+704.173 707.36 MAD I_eng mean_eng ella_spa la_spa pobre_spa shes_eng not_eng a_eng bad_eng person_eng 
+707.372 709.177 SAM no_eng but_eng theyre_eng negative_eng 
+709.147 712.322 SAM youve_eng gotta_eng run_eng in_eng the_eng other_eng direction_eng como_spa dice_spa Mia_spa 
+709.211 709.948 MAD _eng yeah_eng 
+712.307 713.12 MAD I_eng know_eng 
+712.858 713.491 SAM _eng she_eng was_eng telling_eng 
+713.479 714.397 SAM who_eng was_eng she_eng telling_eng that_eng 
+714.337 716.149 SAM she_eng was_eng telling_eng 
+716.046 717.143 SAM was_eng it_eng Mia_eng or_eng er_engspa 
+717.643 720.319 MAD yeah_eng she_eng told_eng that_eng guy_eng that_eng one_eng time_eng when_eng we_eng were_eng out_eng 
+719.401 721.195 SAM _eng no_eng but_eng she_eng said_eng it_eng yesterday_eng too_eng 
+721.151 721.9 MAD oh_eng I_eng didnt_eng 
+721.842 722.683 SAM she_eng told_eng somebody_eng 
+722.683 725.0 SAM I_eng dont_eng know_eng if_eng it_eng was_eng _eng with_eng us_eng or_eng with_eng Emily_engspa 
+724.987 726.345 SAM you_eng know_eng what_eng 
+726.293 728.765 SAM when_eng you_eng see_eng people_eng like_eng that_eng you_eng run_eng in_eng the_eng other_eng direction_eng 
+728.472 730.133 SAM you_eng dont_eng wanna_eng be_eng there_eng xxx_eng 
+730.167 731.346 SAM or_eng was_eng it_eng Caroline_eng 
+731.334 732.553 SAM they_eng were_eng saying_eng that_eng 
+731.654 732.64 MAD _eng maybe_eng it_eng was_eng Caroline_eng 
+733.418 733.836 SAM she_eng goes_eng 
+733.836 734.387 SAM _eng you_eng dont_eng wanna_eng be_eng 
+734.364 735.507 SAM oh_engspa Caroline_engspa is_eng so_eng funny_eng 
+735.536 736.686 SAM I_eng have_eng to_eng call_eng her_eng 
+736.622 737.591 spa_spa qué_spa hizo_spa ahora_spa 
+737.535 739.572 SAM oh_eng my_eng god_eng she_eng called_eng at_eng eight_eng thirty_eng this_eng morning_eng 
+739.566 740.408 SAM but_eng I_eng didnt_eng hear_eng the_eng phone_eng 
+740.402 741.534 SAM and_eng then_eng I_eng heard_eng a_eng message_eng 
+741.323 745.879 SAM I_eng go_eng xxx_eng because_eng I_eng had_eng put_eng the_eng phone_eng on_eng low_eng yesterday_eng on_eng silent_eng 
+744.637 745.38 MAD _eng right_eng 
+745.869 749.891 SAM so_eng I_eng _eng and_eng I_eng see_eng a_eng missed_eng call_eng and_eng a_eng message_eng 
+748.716 750.539 MAD whisper_eng 
+750.527 751.131 SAM and_eng she_eng goes_eng 
+751.108 753.325 SAM _eng oh_engspa Sam_engspa I_eng need_eng to_eng talk_eng to_eng you_eng 
+752.888 756.615 SAM _eng um_eng I_eng found_eng a_eng website_eng _eng with_eng the_eng xxx_eng 
+756.562 760.954 SAM _eng and_eng I_eng think_eng theres_eng _eng you_eng should_eng check_eng it_eng out_eng because_eng Im_eng not_eng too_eng sure_eng thats_eng a_eng good_eng energy_eng 
+760.943 762.458 spa_spa me_spa dice_spa 
+762.441 764.218 SAM y_spa entonces_spa I_eng laughed_eng 
+764.197 767.878 SAM so_eng Mary_engspa writes_eng to_eng me_eng _eng Mary_engspa writes_eng to_eng me_eng 
+767.767 768.911 SAM and_eng she_eng goes_eng 
+768.835 772.08 SAM _eng oh_engspa boy_eng Ive_eng got_eng a_eng call_eng from_eng Caroline_eng _eng laugh_eng 
+771.959 772.969 MAD so_eng it_eng wasnt_eng just_eng you_eng _eng laugh_eng 
+773.114 774.227 MAD she_eng called_eng her_eng too_eng _eng laugh_eng 
+773.884 774.61 SAM _eng everybody_eng 
+774.887 776.233 SAM eight_eng thirty_eng in_eng the_eng morning_eng 
+775.032 776.106 MAD _eng oh_eng my_eng god_eng 
+776.085 777.942 SAM and_eng Mary_engspa picked_eng up_eng the_eng phone_eng 
+778.018 779.242 SAM and_eng shes_eng like_eng _eng she_eng told_eng her_eng 
+779.226 781.223 SAM _eng oh_engspa I_eng need_eng to_eng talk_eng to_eng you_eng because_eng I_eng dont_eng know_eng 
+781.234 782.273 SAM _eng you_eng need_eng to_eng check_eng this_eng out_eng 
+782.255 783.637 SAM _eng we_eng need_eng to_eng have_eng a_eng conversation_eng 
+783.625 784.873 SAM _eng I_eng dont_eng think_eng its_eng that_eng good_eng 
+784.539 785.752 SAM _eng you_eng need_eng to_eng be_eng aware_eng 
+785.729 786.472 SAM she_eng goes_eng 
+786.165 787.465 SAM _eng she_eng called_eng to_eng warn_eng me_eng 
+787.445 788.601 SAM and_eng I_eng was_eng like_eng 
+788.585 789.809 SAM _eng are_eng you_eng kidding_eng me_eng 
+789.705 790.088 SAM I_eng go_eng 
+790.088 790.32 SAM _eng well_eng 
+790.349 790.936 SAM so_eng I_eng answered_eng her_eng 
+790.924 791.261 SAM I_eng go_eng 
+791.052 792.12 SAM _eng she_eng wrote_eng me_eng an_eng email_eng 
+792.748 793.584 SAM _eng I_eng mean_eng she_eng called_eng me_eng up_eng 
+793.572 795.047 SAM _eng and_eng Im_eng gonna_eng call_eng her_eng later_eng 
+794.896 795.488 SAM and_eng Mary_engspa goes_eng 
+795.18 796.881 SAM _eng well_eng this_eng is_eng what_eng its_eng about_eng 
+798.54 799.626 SAM _eng this_eng is_eng what_eng its_eng about_eng 
+799.457 800.514 SAM and_eng Im_eng like_eng 
+800.553 803.505 SAM _eng ok_eng well_eng I_eng guess_eng you_eng know_eng Ill_eng talk_eng to_eng her_eng and_eng see_eng 
+803.487 806.163 SAM but_eng yesterday_eng when_eng she_eng was_eng leaving_eng Marys_eng house_eng she_eng goes_eng 
+805.884 807.097 SAM shes_eng so_eng funny_eng 
+807.15 807.829 SAM she_eng tells_eng me_eng 
+808.776 809.304 SAM she_eng _eng I_eng go_eng 
+809.176 809.786 SAM _eng what_eng did_eng you_eng think_eng 
+809.733 810.204 SAM she_eng goes_eng 
+810.209 812.752 SAM _eng oh_eng its_eng nice_eng and_eng this_eng and_eng this_eng and_eng the_eng energy_eng 
+812.705 813.199 SAM she_eng goes_eng 
+813.19 814.809 SAM _eng but_eng I_eng dont_eng know_eng 
+814.452 817.112 SAM _eng the_eng Jewish_eng thing_eng _eng thats_eng funny_eng 
+817.114 817.52 SAM she_eng goes_eng 
+817.505 818.15 SAM _eng I_eng dont_eng know_eng 
+818.138 820.147 SAM _eng do_eng you_eng think_eng it_eng has_eng anything_eng to_eng do_eng with_eng the_eng Jewish_eng 
+820.134 822.325 SAM _eng you_eng know_eng Ive_eng had_eng really_eng bad_eng experiences_eng with_eng Jewish_eng people_eng 
+822.32 824.096 SAM _eng I_eng dont_eng want_eng anything_eng that_eng belongs_eng to_eng them_eng 
+824.049 824.479 SAM I_eng go_eng 
+824.464 827.018 SAM _eng Caroline_engspa you_eng need_eng to_eng break_eng that_eng 
+827.0 828.249 SAM _eng not_eng all_eng Jewish_eng people_eng are_eng bad_eng 
+827.71 829.399 MAD _eng I_eng heard_eng _eng I_eng heard_eng when_eng you_eng said_eng that_eng 
+830.62 833.678 MAD but_eng the_eng thing_eng is_eng did_eng you_eng feel_eng anything_eng negative_eng while_eng you_eng were_eng there_eng 
+832.941 834.305 SAM _eng right_eng she_eng was_eng happy_eng 
+833.748 834.601 MAD _eng no_eng 
+834.613 835.158 SAM no_eng 
+835.019 835.913 SAM she_eng was_eng happy_eng 
+835.753 836.938 SAM she_eng was_eng you_eng know_eng 
+836.328 837.64 MAD _eng so_eng then_eng why_eng would_eng you_eng 
+837.592 840.338 MAD because_eng if_eng you_eng feel_eng something_eng all_eng of_eng a_eng sudden_eng 
+840.326 841.749 SAM right_eng if_eng you_eng feel_eng bad_eng 
+841.555 844.469 SAM because_eng usually_eng you_eng feel_eng bad_eng you_eng know_eng 
+843.674 844.603 MAD _eng exactly_eng 
+844.63 845.773 SAM that_eng was_eng funny_eng 
+845.268 847.486 MAD _eng like_eng that_eng time_eng that_eng you_eng had_eng that_eng coughing_eng fit_eng 
+847.619 848.107 SAM right_eng 
+847.985 849.14 SAM que_spa I_eng had_eng to_eng get_eng up_eng and_eng go_eng 
+850.178 851.083 MAD you_eng know_eng 
+850.875 854.474 SAM but_eng she_eng _eng and_eng then_eng but_eng she_eng went_eng to_eng check_eng it_eng out_eng whichs_eng smart_eng in_eng her_eng part_eng 
+855.014 856.302 SAM that_eng she_eng found_eng I_eng dont_eng know_eng what_eng she_eng found_eng 
+856.291 857.713 SAM but_eng I_eng _eng I_eng guess_eng Ill_eng find_eng out_eng tonight_eng 
+858.504 862.422 SAM esto_spa did_eng Trevorsengspa_eng _eng did_eng you_eng get_eng the_eng invitation_eng 
+862.393 864.843 SAM and_eng I_eng guess_eng from_eng 
+864.738 865.684 MAD you_eng know_eng I_eng dont_eng think_eng so_eng 
+865.673 867.908 MAD I_eng need_eng to_eng ask_eng David_engspa because_eng hes_eng the_eng one_eng that_eng got_eng the_eng mail_eng today_eng 
+868.015 870.117 SAM aw_engspa because_eng yours_eng should_eng have_eng come_eng in_eng 
+870.248 873.371 SAM and_eng then_eng Im_eng gonna_eng call_eng for_eng Trevor_engspa tomorrow_eng _eng to_eng see_eng that_eng 
+873.33 881.498 MAD well_eng I_eng _eng what_eng I_eng had_eng done_eng is_eng I_eng had_eng emailed_eng myself_eng the_eng thing_eng saying_eng that_eng June_eng six_eng though_eng the_eng eight_eng like_eng that_eng we_eng have_eng which_eng is_eng what_eng I_eng had_eng emailed_eng Kelly_engspa 
+878.667 879.16 SAM _eng right_eng 
+881.448 884.432 MAD but_eng remember_eng I_eng had_eng emailed_eng her_eng the_eng one_eng that_eng 
+883.264 884.762 SAM _eng from_eng San_Francisco_engspa 
+884.448 885.128 MAD from_eng San_Francisco_engspa 
+885.06 885.419 MAD and_eng I_eng said_eng 
+885.466 888.525 MAD _eng its_eng the_eng same_eng except_eng you_eng know_eng put_eng xxx_eng 
+886.981 887.532 SAM _eng right_eng 
+888.56 891.263 MAD entonces_spa what_eng I_eng had_eng done_eng is_eng gone_eng ahead_eng and_eng printed_eng it_eng out_eng 
+891.226 891.934 MAD and_eng I_eng go_eng to_eng Trevor_engspa 
+891.822 895.474 MAD _eng this_eng is_eng what_eng youll_eng be_eng getting_eng _eng er_engspa a_eng confirmation_eng this_eng way_eng 
+895.474 896.205 SAM right_eng 
+896.945 899.302 MAD but_eng apparently_eng he_eng left_eng it_eng there_eng like_eng he_eng went_eng 
+899.296 902.505 MAD when_eng I_eng got_eng to_eng my_eng desk_eng today_eng on_eng my_eng chair_eng 
+902.47 903.666 MAD he_eng had_eng put_eng the_eng papers_eng 
+903.482 904.719 MAD and_eng what_eng he_eng did_eng Friday_eng 
+904.719 906.53 MAD you_eng know_eng the_eng meeting_eng he_eng went_eng to_eng Friday_eng 
+906.516 907.607 SAM uhuh_eng 
+907.578 909.79 MAD which_eng of_eng course_eng he_eng slept_eng mo_eng probably_eng through_eng it_eng 
+909.774 912.066 MAD and_eng the_eng other_eng thing_eng that_eng he_eng does_eng is_eng set_eng certain_eng colours_eng 
+912.061 912.978 MAD you_eng know_eng how_eng kids_eng do_eng 
+912.949 913.436 SAM yeah_eng 
+913.532 914.96 MAD so_eng everything_eng was_eng coloured_eng 
+913.995 914.836 SAM _eng doodle_eng 
+914.942 916.266 MAD so_eng when_eng I_eng find_eng him_eng I_eng go_eng 
+916.078 917.767 MAD _eng nt_eng I_eng saw_eng that_eng you_eng had_eng fun_eng 
+917.818 918.427 MAD I_eng go_eng 
+918.216 922.817 MAD _eng and_eng I_eng also_eng noticed_eng you_eng only_eng had_eng blue_eng pen_eng with_eng you_eng because_eng you_eng didnt_eng do_eng it_eng in_eng colours_eng like_eng you_eng normally_eng do_eng _eng laugh_eng 
+922.076 922.918 SAM _eng laugh_eng 
+922.558 923.742 MAD so_eng he_eng was_eng cracking_eng up_eng 
+923.704 924.307 MAD I_eng go_eng 
+924.284 925.271 MAD _eng what_eng do_eng you_eng want_eng me_eng to_eng do_eng with_eng it_eng 
+925.242 925.532 MAD he_eng goes_eng 
+925.532 926.989 MAD _eng its_eng the_eng same_eng shit_eng as_eng always_eng 
+926.963 927.41 MAD _eng go_eng ahead_eng 
+927.305 928.844 MAD _eng and_eng just_eng file_eng it_eng you_eng know_eng 
+928.414 928.907 SAM _eng yeah_eng 
+928.69 929.079 MAD I_eng said_eng 
+929.079 929.74 MAD _eng ok_eng 
+930.055 940.91 MAD entonces_spa um_eng _eng so_eng um_eng he_eng _eng I_eng had_eng noticed_eng when_eng I_eng got_eng there_eng in_eng the_eng morning_eng that_eng he_eng had_eng _eng that_eng he_eng had_eng left_eng it_eng there_eng 
+939.219 940.403 SAM _eng that_eng he_eng had_eng taken_eng it_eng 
+940.91 942.367 MAD so_eng I_eng went_eng ahead_eng 
+941.804 943.221 SAM _eng but_eng you_eng dont_eng know_eng they_eng received_eng it_eng 
+943.139 943.842 MAD no_eng 
+943.839 945.615 MAD he_eng didnt_eng say_eng so_eng I_eng guess_eng not_eng 
+945.609 954.316 MAD entonces_spa but_eng when_eng he_eng left_eng today_eng since_eng I_eng went_eng over_eng there_eng afterwards_eng because_eng then_eng he_eng told_eng me_eng Albert_engspa had_eng been_eng there_eng to_eng drop_eng off_eng stuff_eng 
+945.668 946.086 SAM _eng yeah_eng 
+954.916 955.409 MAD I_eng looked_eng 
+955.426 956.616 MAD and_eng he_eng had_eng taken_eng it_eng 
+956.603 957.381 SAM aw_engspa 
+957.312 958.264 MAD so_eng I_eng guess_eng you_eng know_eng 
+958.293 959.308 MAD oh_engspa and_eng I_eng asked_eng him_eng 
+958.322 959.146 SAM yeah_eng and_eng Ive_eng 
+959.303 960.098 MAD I_eng said_eng 
+960.211 960.896 MAD I_eng said_eng 
+962.351 966.665 MAD _eng are_eng you_eng going_eng with_eng _eng are_eng you_eng _eng are_eng you_eng _eng laugh_eng gonna_eng go_eng by_eng yourself_eng on_eng Friday_eng 
+966.618 968.237 MAD _eng or_eng do_eng you_eng want_eng us_eng to_eng pick_eng you_eng up_eng _eng laugh_eng 
+968.27 969.164 MAD and_eng he_eng goes_eng 
+969.088 969.605 MAD _eng no_eng its_eng ok_eng 
+969.576 970.731 MAD _eng Ill_eng go_eng by_eng myself_eng 
+970.651 971.098 MAD I_eng said_eng 
+971.092 972.676 MAD _eng yeah_eng you_eng dont_eng want_eng a_eng car_eng full_eng of_eng women_eng huh_eng 
+972.665 973.176 MAD and_eng he_eng goes_eng _eng laugh_eng 
+972.839 973.327 SAM _eng he_eng 
+973.141 973.443 MAD _eng no_eng 
+973.454 973.733 MAD I_eng go_eng 
+973.729 974.733 MAD _eng you_eng have_eng enough_eng with_eng ladies_eng 
+974.572 974.844 MAD he_eng goes_eng 
+974.791 975.14 MAD _eng yes_eng _eng laugh_eng 
+975.193 975.547 MAD I_eng said_eng _eng laugh_eng 
+975.271 976.072 SAM _eng laugh_eng 
+975.553 976.023 MAD _eng ok_eng _eng laugh_eng 
+976.03 977.412 MAD laugh_eng 
+977.1 978.394 spa_spa y_spa 
+978.336 979.346 MAD hi_eng 
+979.77 982.771 SAM y_spa cómo_spa se_spa llama_spa xxx_eng Kelly_engspa va_spa con_spa nosotros_spa 
+981.418 986.706 MAD _eng Kelly_engspa said_eng shell_eng go_eng by_eng _eng on_eng her_eng own_eng because_eng she_eng doesnt_eng know_eng shes_eng gonna_eng be_eng there_eng exactly_eng at_eng seven_eng eight_eng _eng or_eng eight_eng 
+986.493 987.068 SAM yeah_eng 
+986.848 993.099 MAD but_eng maybe_eng shell_eng do_eng like_eng Julia_engspa and_eng go_eng after_eng _eng she_eng _eng after_eng making_eng sure_eng that_eng everything_eng is_eng ok_eng at_eng school_eng 
+990.127 991.161 SAM _eng the_eng 
+993.237 993.933 SAM oh_engspa ok_eng 
+993.914 997.362 SAM but_eng theyve_eng got_eng to_eng remember_eng that_eng they_eng are_eng not_eng gonna_eng be_eng let_eng in_eng until_eng after_eng the_eng break_eng 
+997.192 997.94 MAD ok_eng 
+998.027 999.067 MAD no_eng Ill_eng remind_eng her_eng 
+998.032 1001.985 SAM _eng and_eng they_eng have_eng to_eng be_eng there_eng porque_spa si_spa no_spa ya_spa después_spa 
+1000.843 1001.882 MAD _eng no_eng _eng no_eng Ill_eng remind_eng her_eng 
+1001.863 1003.332 MAD but_eng she_eng was_eng like_eng 
+1003.304 1004.366 MAD _eng no_eng I_eng dont_eng think_eng so_eng 
+1004.308 1004.726 MAD because_eng I_eng said_eng 
+1004.721 1005.847 MAD _eng are_eng we_eng picking_eng you_eng up_eng 
+1005.842 1006.284 MAD and_eng she_eng was_eng 
+1006.146 1007.963 MAD _eng no_eng no_eng no_eng Ill_eng go_eng on_eng my_eng own_eng 
+1007.951 1009.118 MAD _eng I_eng know_eng how_eng to_eng get_eng there_eng 
+1009.095 1009.954 MAD _eng Ill_eng go_eng on_eng my_eng own_eng 
+1009.918 1010.876 MAD _eng and_eng then_eng _eng then_eng you_eng know_eng 
+1010.888 1013.268 MAD because_eng I_eng guess_eng _eng I_eng guess_eng shes_eng xxx_eng like_eng Lidia_engspa 
+1013.168 1015.409 MAD just_eng make_eng sure_eng that_eng everythings_eng ok_eng at_eng school_eng and_eng then_eng go_eng 
+1015.584 1018.214 SAM oh_engspa yeah_eng they_eng start_eng early_eng anyways_eng xxx_eng probably_eng 
+1018.211 1021.488 MAD yeah_eng they_eng _eng if_eng they_eng start_eng the_eng way_eng theyre_eng supposed_eng to_eng its_eng at_eng seven_eng thirty_eng 
+1021.47 1023.467 SAM yeah_eng they_eng leave_eng what_eng ten_eng thirty_eng 
+1022.608 1025.878 MAD _eng but_eng now_eng you_eng dont_eng have_eng to_eng turn_eng in_eng the_eng ersengspa_eng _eng you_eng know_eng you_eng dont_eng have_eng to_eng 
+1024.805 1025.716 SAM _eng the_eng keys_eng 
+1025.881 1026.903 MAD yeah_eng they_eng turn_eng in_eng the_eng keys_eng 
+1026.891 1029.657 MAD but_eng you_eng dont_eng have_eng to_eng do_eng _eng grade_eng the_eng bubble_eng sheets_eng anymore_eng 
+1029.505 1030.184 SAM oh_eng really_eng 
+1030.149 1031.299 MAD like_eng its_eng all_eng electronic_eng 
+1030.77 1031.583 SAM _eng oh_engspa electronic_eng 
+1031.58 1032.503 SAM oh_engspa thats_eng cool_eng 
+1032.823 1036.236 MAD right_eng so_eng thats_eng why_eng nowadays_eng if_eng youve_eng get_eng a_eng check_eng off_eng sheet_eng its_eng like_eng 
+1036.237 1038.687 SAM yeah_eng seven_eng thirty_eng or_eng so_eng 
+1037.229 1041.414 MAD _eng ah_eng we_eng dont_eng have_eng to_eng turn_eng in_eng _eng grade_eng bubble_eng sheets_eng which_eng was_eng the_eng important_eng stuff_eng 
+1040.592 1043.664 SAM _eng yeah_eng which_eng was_eng everything_eng that_eng I_eng was_eng always_eng behind_eng 
+1043.104 1050.861 MAD _eng yeah_eng now_eng the_eng problem_eng will_eng be_eng that_eng if_eng some_eng of_eng these_eng people_eng arent_eng _eng like_eng for_eng her_eng right_eng now_eng she_eng should_eng already_eng be_eng inputting_eng the_eng grades_eng and_eng uploading_eng them_eng 
+1051.559 1054.813 MAD because_eng if_eng they_eng start_eng waiting_eng you_eng know_eng what_eng 
+1055.239 1059.941 MAD computers_eng are_eng gonna_eng be_eng stuck_eng and_eng slow_eng and_eng all_eng that_eng stuff_eng which_eng is_eng what_eng happens_eng in_eng the_eng other_eng quarters_eng 
+1060.059 1060.617 SAM oh_engspa really_eng 
+1060.605 1061.232 MAD yeah_eng 
+1061.236 1064.04 MAD so_eng I_eng had_eng um_eng another_eng Albert_engspa called_eng me_eng 
+1063.98 1067.047 MAD and_eng he_eng _eng and_eng I_eng got_eng some_eng of_eng his_eng papers_eng 
+1067.018 1067.529 MAD and_eng he_eng goes_eng 
+1067.291 1068.65 MAD _eng no_eng Im_eng putting_eng the_eng other_eng one_eng 
+1068.489 1069.11 MAD he_eng goes_eng 
+1069.081 1072.766 MAD _eng what_eng date_eng are_eng we_eng supposed_eng to_eng print_eng out_eng our_eng class_eng list_eng for_eng you_eng 
+1072.759 1073.31 MAD and_eng I_eng said_eng 
+1073.119 1075.801 MAD _eng well_eng its_eng always_eng supposed_eng to_eng be_eng the_eng last_eng day_eng of_eng the_eng quarter_eng 
+1075.822 1077.854 MAD _eng but_eng that_eng would_eng be_eng _eng the_eng fifth_eng 
+1076.054 1076.814 SAM _eng mmhm_eng 
+1078.241 1079.425 MAD and_eng then_eng he_eng goes_eng 
+1079.431 1080.04 MAD _eng yeah_eng but_eng 
+1080.029 1080.348 MAD I_eng go_eng 
+1080.254 1083.65 MAD _eng yeah_eng but_eng _eng Im_eng sure_eng you_eng have_eng mostly_eng seniors_eng so_eng you_eng know_eng what_eng 
+1083.529 1084.226 SAM _eng just_eng do_eng 
+1083.551 1087.9 MAD and_eng I_eng doubt_eng it_eng that_eng youre_eng gonna_eng be_eng having_eng any_eng kids_eng with_eng drop_eng today_eng 
+1087.888 1089.357 MAD _eng so_eng you_eng might_eng as_eng well_eng print_eng it_eng out_eng today_eng 
+1089.398 1089.74 MAD he_eng goes_eng 
+1089.723 1090.564 MAD _eng ok_eng _eng ok_eng 
+1090.956 1092.86 SAM y_spa Trevorssengspaeng_eng gonna_eng be_eng there_eng early_eng 
+1093.835 1094.56 MAD I_eng think_eng so_eng 
+1094.611 1095.848 SAM oh_engspa ok_eng 
+1095.82 1099.373 SAM no_eng because_eng what_eng you_eng can_eng do_eng then_eng is_eng like_eng what_eng we_eng did_eng with_eng Caroline_engspa 
+1098.119 1099.977 MAD _eng well_eng Ill_eng ask_eng him_eng Ill_eng ask_eng him_eng 
+1099.806 1100.439 SAM _eng yeah_eng 
+1100.42 1102.997 SAM a_spa menos_spa que_spa vaya_spa él_spa a_spa buscar_spa a_spa Julia_engspa a_spa lo_spa mejor_spa 
+1100.501 1101.569 MAD _eng because_eng 
+1102.359 1104.443 MAD yeah_eng para_spa no_spa tener_spa que_spa ir_spa en_spa dos_spa carros_spa 
+1104.283 1105.125 SAM right_eng 
+1105.118 1107.202 SAM maybe_eng thats_eng what_eng needs_eng done_eng I_eng dont_eng know_eng 
+1107.158 1108.836 MAD unless_eng like_eng the_eng kids_eng are_eng home_eng 
+1107.75 1108.894 SAM _eng but_eng they_eng can_eng call_eng you_eng 
+1108.744 1113.063 SAM like_eng thats_eng what_eng I_eng did_eng with_eng Caroline_engspa like_eng I_eng went_eng with_eng Rachel_engspa and_eng um_eng 
+1113.251 1114.743 MAD were_eng doing_eng a_eng study_eng _eng whisper_eng 
+1114.64 1116.341 SAM like_eng I_eng went_eng with_eng Rachel_engspa 
+1116.43 1119.61 SAM _eng then_eng what_eng we_eng did_eng is_eng that_eng when_eng we_eng got_eng there_eng I_eng called_eng you_eng know_eng with_eng the_eng cell_eng phone_eng 
+1119.175 1120.08 MAD _eng yeah_eng 
+1119.567 1120.293 SAM everybody_eng was_eng like_eng 
+1120.27 1120.925 SAM _eng hey_eng where_eng are_eng you_eng 
+1120.902 1122.423 SAM _eng were_eng over_eng here_eng you_eng know_eng whatever_eng you_eng know_eng 
+1121.326 1122.237 MAD _eng right_eng 
+1122.998 1124.316 MAD oh_engspa and_eng is_eng she_eng gonna_eng go_eng now_eng 
+1124.379 1125.291 SAM Caroline_engspa 
+1125.194 1128.804 MAD sí_spa porque_spa si_spa ella_spa estaba_spa oyendo_spa _eng oyendo_spa cuando_spa Mary_engspa vino_spa 
+1128.624 1129.965 spa_spa y_spa dijo_spa 
+1131.113 1133.842 MAD te_spa dijo_spa que_spa Amy_engspa was_eng gonna_eng be_eng a_eng volunteer_eng 
+1132.246 1133.122 SAM _eng a_eng volunteer_eng 
+1134.604 1135.985 MAD _eng or_eng something_eng like_eng that_eng 
+1136.02 1136.937 MAD she_eng goes_eng 
+1136.826 1137.302 MAD _eng what_eng 
+1137.244 1138.672 MAD and_eng then_eng Mia_engspa said_eng she_eng had_eng been_eng 
+1138.858 1139.996 MAD _eng oh_engspa the_eng millionaire_eng thats_eng right_eng 
+1139.979 1141.488 MAD _eng you_eng guys_eng have_eng that_eng coming_eng up_eng 
+1141.847 1143.67 MAD and_eng Caroline_engspa started_eng looking_eng around_eng like_eng 
+1143.835 1145.396 MAD _eng _eng spa_eng de_eng qué_eng hablan_eng _eng de_eng qué_eng hablan_eng 
+1145.355 1146.331 MAD and_eng then_eng Mia_engspa goes_eng 
+1146.29 1147.434 MAD _eng oh_engspa have_eng you_eng been_eng 
+1147.457 1148.043 MAD and_eng she_eng goes_eng 
+1148.034 1148.917 MAD _eng yeah_eng I_eng went_eng last_eng year_eng 
+1149.108 1150.414 MAD _eng are_eng you_eng going_eng this_eng time_eng 
+1150.563 1150.836 MAD she_eng goes_eng 
+1150.838 1151.924 MAD _eng oh_engspa I_eng didnt_eng know_eng anything_eng 
+1151.686 1153.062 MAD _eng I_eng didnt_eng get_eng anything_eng 
+1153.026 1153.699 SAM who_eng 
+1153.531 1154.448 SAM Caroline_engspa 
+1153.943 1154.802 MAD _eng Caroline_engspa 
+1154.686 1157.24 SAM I_eng thought_eng she_eng knew_eng because_eng we_eng talked_eng about_eng it_eng 
+1155.929 1156.777 MAD _eng _eng spa_eng quién_eng 
+1157.061 1157.595 MAD _eng xxx_eng 
+1157.607 1159.919 MAD xxx_eng dont_eng remember_eng porque_spa ella_spa es_spa despistada_spa so_eng 
+1159.72 1161.548 SAM Emily_engspa said_eng shes_eng hilarious_eng 
+1160.093 1162.602 MAD _eng entonces_spa _eng entonces_spa um_eng Mia_eng said_eng 
+1162.672 1163.902 MAD _eng I_eng went_eng last_eng year_eng 
+1164.029 1166.101 MAD _eng but_eng now_eng xxx_eng I_eng have_eng other_eng things_eng 
+1166.107 1167.257 MAD _eng Im_eng not_eng going_eng this_eng year_eng 
+1167.257 1170.881 MAD and_eng then_eng thats_eng when_eng I_eng guess_eng Mary_engspa said_eng xxx_eng is_eng going_eng 
+1170.889 1171.417 MAD and_eng then_eng she_eng goes_eng 
+1171.388 1172.346 MAD _eng oh_eng is_eng Maria_engspa going_eng 
+1172.363 1173.908 MAD _eng I_eng could_eng always_eng go_eng with_eng one_eng of_eng her_eng tickets_eng 
+1173.931 1175.092 MAD thats_eng what_eng she_eng said_eng 
+1173.931 1175.092 SAM _eng eh_engspa 
+1175.115 1175.806 MAD and_eng I_eng was_eng like_eng 
+1175.824 1176.381 MAD thinking_eng to_eng myself_eng 
+1176.387 1177.35 MAD I_eng thought_eng that_eng wont_eng work_eng 
+1177.546 1178.324 MAD one_eng of_eng them_eng was_eng mine_eng 
+1178.387 1179.09 MAD but_eng ok_eng 
+1179.107 1179.692 MAD he_eng 
+1179.697 1182.222 SAM actually_eng I_eng put_eng Mary_engspa with_eng me_eng 
+1183.882 1184.538 MAD ok_eng 
+1184.529 1187.084 SAM and_eng then_eng Trevor_engspa and_eng _eng and_eng Julia_engspa are_eng together_eng 
+1184.529 1186.612 MAD _eng Trevor_engspa and_eng Julia_engspa 
+1187.113 1189.017 SAM but_eng if_eng she_eng needs_eng me_eng to_eng sign_eng her_eng up_eng Ill_eng sign_eng her_eng up_eng 
+1189.006 1189.662 MAD yeah_eng 
+1189.72 1190.91 MAD I_eng dont_eng know_eng xxx_eng 
+1190.12 1190.619 SAM _eng she_eng told_eng me_eng 
+1190.631 1191.084 SAM and_eng I_eng go_eng 
+1191.09 1192.581 SAM _eng xxx_eng tonight_eng 
+1192.581 1193.667 SAM _eng fill_eng out_eng the_eng thing_eng 
+1192.581 1193.667 MAD _eng right_eng 
+1195.586 1197.455 SAM _eng Caroline_engspa you_eng dont_eng know_eng that_eng 
+1197.403 1198.767 SAM _eng just_eng fill_eng it_eng out_eng 
+1198.769 1199.181 SAM _eng and_eng you_eng know_eng what_eng 
+1199.193 1201.66 SAM _eng even_eng if_eng you_eng dont_eng get_eng your_eng tickets_eng in_eng time_eng your_eng name_eng is_eng already_eng there_eng 
+1201.689 1202.159 MAD exactly_eng 
+1201.944 1203.248 SAM thats_eng the_eng most_eng important_eng thing_eng 
+1202.877 1204.703 MAD yeah_eng because_eng the_eng ticket_eng I_eng think_eng is_eng just_eng a_eng 
+1204.703 1206.932 SAM yeah_eng eso_spa no_spa xxx_eng pasar_spa el_spa tiempo_spa 
+1205.539 1206.967 MAD _eng es_spa un_spa _eng un_spa foreshow_eng 
+1206.952 1207.445 MAD yeah_eng 
+1207.462 1208.258 SAM it_eng doesnt_eng have_eng a_eng xxx_eng 
+1208.281 1209.773 SAM it_eng doesnt_eng have_eng your_eng name_eng on_eng it_eng or_eng anything_eng 
+1209.674 1210.371 MAD _eng exactly_eng 
+1209.674 1210.323 SAM _eng its_eng just_eng 
+1210.335 1210.752 SAM you_eng know_eng 
+1210.756 1212.418 SAM they_eng do_eng have_eng 
+1212.453 1214.636 SAM registered_eng people_eng would_eng take_eng it_eng over_eng here_eng 
+1214.616 1215.388 SAM and_eng they_eng do_eng have_eng this_eng 
+1215.371 1217.223 SAM and_eng then_eng they_eng have_eng the_eng others_eng that_eng 
+1217.246 1218.378 SAM you_eng know_eng 
+1218.395 1219.597 SAM you_eng know_eng 
+1219.583 1221.737 spa_spa pero_spa 
+1221.8 1222.851 spa_spa sí_spa ella_spa es_spa un_spa poco_spa 
+1222.818 1223.799 MAD I_eng was_eng noticing_eng that_eng 
+1224.724 1225.763 SAM when_eng 
+1225.769 1230.498 MAD during_eng the_eng thing_eng when_eng Mia_engspa was_eng going_eng around_eng asking_eng what_eng did_eng you_eng feel_eng what_eng did_eng you_eng see_eng 
+1230.467 1231.935 SAM she_eng was_eng happy_eng though_eng 
+1231.97 1233.189 MAD I_eng know_eng but_eng 
+1232.375 1233.199 SAM _eng and_eng she_eng looked_eng 
+1233.222 1233.965 SAM you_eng know_eng 
+1233.489 1235.846 MAD _eng but_eng she_eng was_eng looking_eng around_eng a_spa ver_spa lo_spa que_spa decían_spa las_spa otras_spa 
+1237.428 1239.82 spa_spa creo_spa que_spa _spa que_spa xxx_spa 
+1237.428 1239.82 SAM _eng no_eng but_eng she_eng went_eng before_eng me_eng 
+1239.81 1242.498 SAM oh_eng yeah_eng xxx_eng was_eng a_eng yeah_eng 
+1242.556 1243.096 MAD right_eng 
+1243.204 1244.284 MAD cough_eng 
+1244.319 1245.77 SAM but_eng shes_eng the_eng one_eng that_eng started_eng it_eng 
+1245.768 1248.711 SAM so_eng it_eng went_eng around_eng that_eng way_eng 
+1248.751 1249.46 SAM because_eng she_eng jumped_eng 
+1249.461 1249.757 SAM and_eng said_eng 
+1249.775 1250.158 SAM _eng you_eng know_eng 
+1250.141 1251.737 SAM _eng I_eng felt_eng this_eng oh_eng my_eng god_eng 
+1251.731 1252.573 SAM _eng I_eng remember_eng buying_eng 
+1252.573 1252.915 SAM _eng you_eng know_eng 
+1252.91 1254.012 SAM and_eng it_eng was_eng all_eng good_eng 
+1254.035 1256.123 MAD I_eng know_eng exactly_eng so_eng 
+1256.222 1259.507 MAD if_eng you_eng are_eng feeling_eng all_eng good_eng why_eng all_eng of_eng a_eng sudden_eng do_eng you_eng wanna_eng 
+1259.536 1260.332 SAM yeah_eng 
+1264.635 1265.25 SAM xxx_eng did_eng you_eng like_eng it_eng 
+1265.262 1265.645 SAM and_eng she_eng goes_eng 
+1265.645 1266.295 SAM _eng no_eng it_eng was_eng good_eng 
+1266.301 1266.904 SAM _eng it_eng was_eng interesting_eng 
+1266.906 1267.208 SAM and_eng she_eng goes_eng 
+1267.206 1269.261 SAM _eng its_eng totally_eng different_eng from_eng Maria_Jose_engspa 
+1269.255 1270.323 SAM and_eng then_eng I_eng go_eng 
+1270.389 1273.996 SAM _eng yeah_eng because_eng its_eng xxx_eng its_eng a_eng lot_eng higher_eng level_eng and_eng 
+1274.019 1274.234 SAM you_eng know_eng 
+1274.251 1274.518 SAM she_eng goes_eng 
+1274.541 1275.638 SAM _eng but_eng you_eng know_eng whats_eng weird_eng 
+1275.586 1275.981 SAM and_eng I_eng go_eng 
+1275.94 1276.12 SAM _eng what_eng 
+1276.143 1276.37 SAM I_eng go_eng 
+1276.358 1277.026 SAM _eng what_eng did_eng you_eng feel_eng 
+1277.049 1277.461 SAM she_eng goes_eng 
+1277.484 1278.111 SAM _eng oh_eng my_eng god_eng 
+1278.163 1278.436 SAM she_eng goes_eng 
+1278.44 1280.721 SAM _eng you_eng know_eng like_eng when_eng your_eng heart_eng is_eng racing_eng and_eng whatever_eng 
+1280.715 1281.47 SAM she_eng goes_eng 
+1281.435 1282.091 SAM like_eng a_eng 
+1282.109 1283.566 SAM she_eng goes_eng not_eng racing_eng but_eng like_eng xxx_eng 
+1283.576 1285.52 SAM _eng oh_eng you_eng got_eng butterflies_eng in_eng your_eng stomach_eng 
+1285.561 1286.165 SAM _eng I_eng felt_eng them_eng 
+1286.217 1287.819 SAM but_eng it_eng was_eng butterflies_eng like_eng up_eng in_eng my_eng 
+1287.831 1288.086 SAM and_eng I_eng go_eng 
+1288.071 1288.767 SAM _eng did_eng it_eng go_eng away_eng 
+1288.732 1288.965 SAM she_eng goes_eng 
+1288.98 1291.215 SAM _eng after_eng a_eng while_eng at_eng first_eng it_eng was_eng still_eng there_eng 
+1291.248 1294.162 SAM entonces_spa shes_eng like_eng when_eng they_eng did_eng the_eng healings_eng she_eng goes_eng 
+1294.254 1295.038 SAM _eng oh_eng its_eng weird_eng 
+1295.032 1297.505 SAM you_eng know_eng when_eng they_eng were_eng saying_eng the_eng peoples_eng name_eng or_eng whatever_eng she_eng goes_eng 
+1297.494 1301.957 SAM _eng había_spa una_spa que_spa xxx_eng from_eng the_eng lady_eng that_eng had_eng two_eng cases_eng 
+1301.959 1302.191 SAM I_eng go_eng 
+1302.186 1303.126 SAM _eng yeah_eng xxx_eng 
+1303.167 1303.823 MAD mmhm_eng 
+1303.393 1303.95 SAM _eng she_eng goes_eng 
+1303.927 1306.68 SAM _eng había_spa una_spa que_spa when_eng they_eng said_eng the_eng name_eng and_eng everything_eng 
+1306.692 1307.063 SAM she_eng goes_eng 
+1307.067 1308.397 SAM _eng I_eng had_eng such_eng a_eng bad_eng feeling_eng 
+1308.42 1309.738 SAM _eng like_eng shes_eng not_eng gonna_eng get_eng better_eng 
+1309.807 1312.1 MAD well_eng thats_eng the_eng one_eng that_eng maybe_eng she_eng said_eng she_eng had_eng no_eng hope_eng 
+1312.071 1313.354 MAD she_eng had_eng lost_eng all_eng the_eng hope_eng 
+1312.17 1312.802 SAM _eng right_eng 
+1312.808 1316.271 SAM that_eng no_eng that_eng she_eng yeah_eng she_eng lost_eng hope_eng and_eng she_eng _eng and_eng she_eng um_eng 
+1316.283 1317.508 SAM theyve_eng taken_eng her_eng life_eng force_eng 
+1317.5 1319.956 SAM did_eng you_eng hear_eng when_eng Pia_engspa said_eng they_eng took_eng her_eng life_eng worse_eng 
+1317.5 1319.956 MAD _eng yeah_eng 
+1320.027 1321.705 SAM when_eng they_eng take_eng your_eng life_eng force_eng thats_eng it_eng 
+1321.728 1322.471 SAM you_eng dont_eng have_eng no_eng more_eng life_eng 
+1322.5 1323.052 MAD right_eng 
+1323.332 1324.708 SAM your_eng life_eng force_eng is_eng sucked_eng 
+1324.719 1325.352 MAD yeah_eng 
+1325.501 1328.491 SAM so_eng it_eng takes_eng a_eng lot_eng _eng to_eng put_eng it_eng back_eng into_eng you_eng 
+1328.471 1330.851 MAD I_eng was_eng gonna_eng say_eng yesterday_eng for_eng this_eng young_eng man_eng 
+1330.84 1332.349 MAD but_eng I_eng really_eng didnt_eng know_eng his_eng name_eng 
+1332.277 1333.142 SAM which_eng one_eng 
+1333.146 1334.33 MAD Marthassengspaeng_eng 
+1334.305 1334.955 SAM oh_eng 
+1334.378 1335.441 MAD _eng stepson_eng 
+1335.441 1336.584 MAD but_eng I_eng dont_eng really_eng know_eng his_eng name_eng 
+1336.574 1337.73 MAD I_eng know_eng she_eng calls_eng him_eng Dani_engspa 
+1337.735 1339.169 MAD so_eng I_eng think_eng his_eng name_eng is_eng Daniel_engspa 
+1339.163 1339.906 SAM oh_eng 
+1339.935 1340.673 MAD but_eng I_eng wasnt_eng 
+1340.69 1341.352 SAM yeah_eng 
+1341.352 1342.141 MAD totally_eng sure_eng 
+1342.135 1342.518 MAD you_eng know_eng 
+1342.542 1343.128 MAD and_eng I_eng was_eng like_eng 
+1343.13 1344.947 SAM yeah_eng 
+1344.36 1345.132 MAD _eng do_eng I_eng 
+1345.121 1345.87 MAD or_eng dont_eng I_eng 
+1345.875 1346.508 MAD you_eng know_eng 
+1346.543 1347.907 MAD but_eng we_eng can_eng do_eng it_eng 
+1347.913 1348.998 MAD you_eng have_eng the_eng powers_eng 
+1349.025 1349.873 SAM yeah_eng 
+1349.025 1349.873 MAD _eng laughing_eng 
+1349.885 1350.703 SAM thats_eng right_eng 
+1350.732 1351.937 MAD xxx_eng 
+1352.16 1353.42 MAD the_eng healing_eng 
+1352.16 1353.394 SAM _eng xxx_eng 
+1353.4 1359.594 MAD this_eng is_eng something_eng that_eng he_eng xxx_eng doing_eng for_eng linguistics_eng 
+1353.4 1359.594 SAM _eng xxx_eng 
+1359.609 1361.461 MAD that_eng means_eng how_eng do_eng we_eng speak_eng 
+1361.554 1368.21 MAD but_eng its_eng for_eng xxx_eng and_eng I_eng because_eng xxx_eng and_eng I_eng are_eng the_eng ones_eng that_eng switch_eng languages_eng 
+1368.215 1368.779 MAD you_eng dont_eng 
+1368.813 1369.943 SAM laughing_eng 
+1368.813 1369.943 MAD _eng laughing_eng 
+1370.007 1370.733 SAM yeah_eng 
+1370.756 1371.197 MAD so_eng 
+1371.211 1373.538 MAD pero_spa no_spa um_eng 
+1373.61 1374.875 MAD no_eng yesterday_eng was_eng fine_eng 
+1374.865 1375.8 MAD I_eng was_eng doing_eng 
+1375.8 1378.19 MAD I_eng started_eng coughing_eng which_eng I_eng _eng I_eng _eng I_eng was_eng 
+1377.758 1379.447 SAM but_eng there_eng was_eng something_eng going_eng around_eng because_eng I_eng felt_eng it_eng 
+1379.467 1380.465 SAM I_eng felt_eng like_eng 
+1380.436 1381.417 MAD but_eng I_eng was_eng 
+1380.622 1383.731 SAM _eng there_eng was_eng one_eng part_eng xxx_eng 
+1383.762 1385.324 SAM oh_eng my_eng god_eng Im_eng holding_eng on_eng to_eng it_eng 
+1385.347 1386.868 SAM thats_eng why_eng after_eng I_eng went_eng to_eng the_eng bathroom_eng 
+1385.347 1386.804 MAD _eng I_eng was_eng trying_eng 
+1386.794 1387.665 SAM I_eng hold_eng on_eng to_eng it_eng 
+1387.669 1388.563 SAM and_eng then_eng I_eng _eng I_eng said_eng 
+1388.54 1389.834 SAM _eng ok_eng bring_eng them_eng xxx_eng 
+1389.819 1390.91 SAM _eng bring_eng the_eng healing_eng thing_eng 
+1390.924 1392.038 SAM but_eng I_eng will_eng feel_eng it_eng 
+1392.079 1392.642 SAM and_eng I_eng was_eng like_eng 
+1392.621 1393.387 SAM very_eng 
+1392.621 1393.892 MAD _eng _eng spa_eng pero_eng no_eng _eng coughing_eng 
+1393.906 1396.175 MAD doesnt_eng Maria_Jose_engspa say_eng que_spa xxx_eng happened_eng 
+1396.187 1398.341 MAD its_eng because_eng you_eng are_eng trying_eng to_eng stop_eng it_eng or_eng block_eng it_eng 
+1398.402 1399.691 SAM I_eng dont_eng know_eng 
+1398.849 1399.888 MAD _eng in_eng one_eng of_eng the_eng books_eng weve_eng read_eng 
+1399.902 1400.61 MAD doesnt_eng it_eng say_eng that_eng 
+1400.651 1401.626 MAD like_eng when_eng someones_eng saying_eng something_eng 
+1401.649 1402.688 MAD and_eng you_eng start_eng coughing_eng 
+1402.748 1404.341 MAD or_eng thats_eng what_eng Pam_engspa 
+1404.312 1404.729 MAD you_eng know_eng 
+1404.747 1406.477 MAD one_eng of_eng those_eng things_eng that_eng she_eng says_eng that_eng you_eng 
+1404.747 1406.454 SAM _eng yeah_eng 
+1406.5 1408.121 MAD like_eng when_eng people_eng when_eng theyre_eng saying_eng something_eng 
+1408.133 1409.497 MAD and_eng _eng and_eng 
+1409.538 1411.099 SAM xxx_eng you_eng dont_eng wanna_eng answer_eng 
+1410.141 1410.644 MAD _eng and_eng youre_eng like_eng 
+1410.662 1412.444 MAD right_eng you_eng dont_eng wanna_eng face_eng up_eng 
+1412.481 1413.828 MAD or_eng youre_eng lying_eng or_eng whatever_eng 
+1413.851 1414.054 MAD you_eng 
+1413.982 1415.149 SAM oh_eng yeah_eng Ive_eng heard_eng that_eng 
+1415.143 1416.177 MAD so_eng I_eng was_eng like_eng 
+1415.341 1416.223 SAM _eng its_eng not_eng like_eng you_eng are_eng lying_eng 
+1416.211 1417.024 MAD and_eng shes_eng talking_eng 
+1417.065 1417.779 MAD and_eng I_eng start_eng coughing_eng 
+1417.796 1418.168 MAD and_eng Im_eng like_eng 
+1418.173 1419.096 MAD _eng why_eng am_eng I_eng coughing_eng 
+1419.12 1419.741 MAD theres_eng nothing_eng 
+1419.746 1420.199 MAD you_eng know_eng 
+1419.77 1421.442 SAM _eng I_eng know_eng there_eng must_eng have_eng been_eng something_eng going_eng around_eng 
+1419.781 1420.919 MAD _eng you_eng know_eng so_eng Im_eng like_eng 
+1421.544 1423.91 SAM I_eng think_eng there_eng was_eng 
+1423.963 1425.002 SAM you_eng know_eng 
+1425.0 1426.103 MAD and_eng Patty_engspa was_eng funny_eng 
+1426.107 1427.593 MAD she_eng was_eng watching_eng the_eng birds_eng 
+1427.622 1429.88 MAD they_eng were_eng _eng they_eng were_eng flying_eng in_eng and_eng out_eng and_eng 
+1427.622 1429.828 SAM _eng mmhm_eng 
+1429.863 1433.23 SAM Patty_engspa has_eng a_eng really_eng good_eng um_eng 
+1432.695 1433.351 spa_spa ella_spa es_spa linda_spa 
+1433.1 1435.34 SAM xxx_eng lindo_spa yeah_eng 
+1433.355 1434.267 MAD _eng _eng spa_eng tiene_eng algo_eng linda_eng 
+1435.352 1436.751 spa_spa no_spa y_spa tiene_spa ahora_spa 
+1436.791 1437.262 MAD _eng _eng spa_eng sí_eng 
+1436.791 1437.262 SAM _eng _eng spa_eng ella_eng tiene_eng 
+1437.252 1438.889 SAM shes_eng bright_eng 
+1438.91 1439.682 SAM shes_eng very_eng bright_eng 
+1439.665 1440.489 MAD mmhm_eng 
+1440.481 1441.213 SAM you_eng know_eng 
+1441.236 1442.803 SAM xxx_eng very_eng happy_eng all_eng the_eng time_eng 
+1442.834 1444.32 SAM like_eng you_eng know_eng 
+1444.32 1448.563 SAM her_eng students_eng should_eng take_eng after_eng her_eng porque_spa la_spa la_spa xxx_eng esa_spa e_eng 
+1448.598 1450.247 SAM shes_eng taking_eng a_eng class_eng xxx_eng Mary_engspa 
+1450.279 1451.4 MAD yeah_eng I_eng heard_eng you_eng say_eng that_eng 
+1451.423 1452.433 MAD I_eng heard_eng you_eng told_eng mum_eng 
+1452.418 1452.882 MAD see_eng 
+1452.874 1454.749 MAD it_eng was_eng funny_eng when_eng Mary_engspa said_eng 
+1454.79 1455.91 MAD _eng Patty_engspa is_eng coming_eng 
+1455.933 1457.559 MAD I_eng mean_eng I_eng know_eng that_eng Patty_engspa was_eng the_eng other_eng one_eng 
+1457.559 1458.689 MAD but_eng then_eng she_eng said_eng Chetan_engspa 
+1458.724 1460.522 MAD Chetan_engspa is_eng normally_eng 
+1460.562 1462.309 MAD for_eng us_eng its_eng usually_eng a_eng guys_eng name_eng 
+1462.354 1462.928 SAM really_eng 
+1462.644 1464.873 MAD at_eng least_eng all_eng the_eng Chetans_engspa Ive_eng even_eng known_eng have_eng been_eng guys_eng 
+1464.89 1465.378 SAM oh_eng really_eng 
+1465.361 1465.732 MAD yeah_eng 
+1465.736 1467.019 MAD so_eng when_eng she_eng said_eng Chetan_engspa 
+1467.031 1467.716 MAD and_eng I_eng told_eng mom_eng 
+1467.704 1469.997 MAD _eng I_eng was_eng thinking_eng of_eng the_eng one_eng that_eng we_eng went_eng to_eng her_eng house_eng 
+1469.966 1473.994 MAD so_eng I_eng thought_eng it_eng was_eng the_eng _eng the_eng lady_eng who_eng had_eng been_eng to_eng her_eng house_eng 
+1474.124 1474.513 MAD go_eng to_eng moms_eng 
+1474.518 1476.324 spa_spa sí_spa _spa sí_spa es_spa una_spa _spa es_spa la_spa _spa es_spa una_spa pareja_spa 
+1476.329 1478.35 MAD and_eng then_eng when_eng they_eng show_eng up_eng in_eng their_eng both_eng 
+1478.744 1480.486 SAM the_eng _eng at_eng the_eng last_eng thing_eng that_eng we_eng went_eng to_eng 
+1480.48 1481.943 SAM remember_eng that_eng we_eng had_eng the_eng gelatos_spa 
+1481.954 1485.495 MAD thats_eng right_eng 
+1485.507 1488.217 MAD but_eng like_eng we_eng dont_eng really_eng xxx_eng 
+1485.507 1488.217 SAM _eng no_eng thats_eng Sally_engspa 
+1488.256 1490.015 MAD right_eng but_eng I_eng dont_eng really_eng remember_eng her_eng name_eng 
+1490.05 1490.694 MAD so_eng I_eng go_eng to_eng mom_eng 
+1490.05 1490.653 SAM _eng yeah_eng 
+1490.674 1491.615 MAD _eng _eng spa_eng es_eng una_eng pareja_eng 
+1491.584 1492.286 MAD and_eng then_eng they_eng show_eng up_eng 
+1492.304 1492.919 MAD and_eng theyre_eng two_eng women_eng 
+1492.913 1493.894 MAD and_eng Im_eng like_eng thinking_eng 
+1493.9 1496.228 MAD _eng I_eng hope_eng mom_eng doesnt_eng think_eng theyre_eng una_spa pareja_spa you_eng know_eng 
+1496.231 1497.938 SAM I_eng dont_eng think_eng Sally_engspa would_eng like_eng that_eng very_eng much_eng 
+1497.955 1498.931 MAD no_eng exactly_eng 
+1498.286 1500.614 SAM and_eng the_eng other_eng ladys_eng married_eng so_eng 
+1499.966 1500.623 MAD _eng so_eng is_eng Samy_engspa 
+1500.623 1502.133 MAD and_eng Samy_engspa was_eng saying_eng something_eng about_eng her_eng husband_eng 
+1501.435 1502.77 SAM _eng uhuh_eng oh_eng really_eng 
+1502.799 1504.901 MAD yeah_eng because_eng she_eng comes_eng into_eng 
+1504.895 1507.797 MAD _eng when_eng Johnny_engspa was_eng as_eng rude_eng as_eng he_eng was_eng 
+1504.895 1507.797 SAM _eng oh_eng my_eng god_eng 
+1508.66 1509.798 MAD she_eng was_eng throwing_eng away_eng 
+1508.66 1509.752 SAM _eng I_eng havent_eng spoken_eng to_eng Linda_engspa 
+1509.769 1510.715 SAM but_eng you_eng know_eng what_eng 
+1510.715 1512.747 SAM that_eng was_eng out_eng of_eng control_eng 
+1512.079 1514.815 MAD _eng when_eng she_eng was_eng started_eng throwing_eng away_eng some_eng of_eng the_eng stuff_eng she_eng goes_eng 
+1514.838 1516.11 MAD _eng do_eng you_eng recycle_eng 
+1516.123 1518.815 MAD and_eng them_eng um_eng xxx_eng said_eng yes_eng 
+1520.519 1521.303 MAD _eng my_eng husband_eng says_eng 
+1521.297 1523.236 MAD _eng you_eng should_eng be_eng happy_eng I_eng recycle_eng as_eng much_eng as_eng I_eng do_eng 
+1523.822 1525.813 MAD oh_eng Ill_eng be_eng happy_eng when_eng you_eng recycle_eng everything_eng 
+1525.796 1526.968 SAM laughing_eng 
+1525.796 1526.957 MAD _eng xxx_eng 
+1526.96 1530.234 MAD so_eng thats_eng the_eng way_eng I_eng figured_eng shes_eng married_eng 
+1526.96 1530.234 SAM _eng oh_eng ok_eng 
+1530.244 1531.474 MAD to_eng a_eng man_eng not_eng _eng laughing_eng 
+1531.295 1533.431 SAM _eng yeah_eng to_eng 
+1533.427 1534.321 MAD so_eng 
+1533.427 1535.081 SAM but_eng shes_eng _eng shes_eng really_eng cute_eng 
+1535.18 1535.783 spa_spa ella_spa tiene_spa algo_spa 
+1535.789 1536.666 SAM shes_eng very_eng bright_eng 
+1536.668 1537.097 MAD yeah_eng 
+1536.807 1538.014 SAM _eng very_eng bright_eng 
+1538.026 1539.82 spa_spa no_spa y_spa tiene_spa algo_spa con_spa los_spa animales_spa también_spa 
+1538.026 1539.82 SAM _eng _eng spa_eng que_eng tie_eng 
+1539.82 1540.238 SAM yeah_eng 
+1539.872 1540.331 MAD _eng _eng spa_eng pues_eng viste_eng 
+1540.36 1543.222 MAD enseguida_spa she_eng wanted_eng to_eng cut_eng to_eng clip_eng the_eng wings_eng off_eng Joseph_engspa 
+1540.36 1543.222 SAM _eng yeah_eng 
+1543.257 1545.288 SAM yeah_eng very_eng 
+1545.263 1546.618 SAM Pia_engspa es_spa la_spa que_spa cambia_spa 
+1546.641 1548.394 SAM like_eng and_eng you_eng know_eng what_eng I_eng 
+1548.016 1548.974 MAD you_eng didnt_eng see_eng it_eng did_eng you_eng 
+1548.939 1549.467 SAM no_eng 
+1549.45 1550.327 MAD oh_eng my_eng god_eng 
+1549.45 1550.453 SAM _eng mom_eng told_eng me_eng 
+1550.447 1551.962 SAM were_eng you_eng _eng were_eng you_eng here_eng when_eng mom_eng was_eng telling_eng me_eng 
+1551.968 1556.072 MAD well_eng I_eng _eng I_eng watched_eng her_eng because_eng we_eng had_eng our_eng eyes_eng closed_eng 
+1556.07 1557.765 SAM yeah_eng the_eng whole_eng time_eng I_eng was_eng 
+1556.07 1557.765 MAD _eng _eng spa_eng pero_eng 
+1557.689 1559.816 MAD you_eng know_eng when_eng we_eng opened_eng her_eng eyes_eng 
+1559.822 1560.402 MAD and_eng then_eng she_eng would_eng say_eng 
+1560.402 1561.215 MAD _eng oh_eng do_eng this_eng now_eng 
+1561.215 1563.839 MAD or_eng she_eng would_eng all_eng of_eng a_eng sudden_eng start_eng 
+1562.957 1564.013 SAM _eng right_eng 
+1564.011 1568.119 MAD me_eng she_eng would_eng get_eng these_eng lines_eng right_eng here_eng 
+1568.162 1573.08 MAD and_eng she_eng _eng her_eng mouth_eng would_eng like_eng twist_eng 
+1572.877 1573.661 SAM really_eng 
+1573.672 1574.851 MAD and_eng then_eng thats_eng when_eng she_eng would_eng start_eng 
+1574.851 1575.57 MAD and_eng I_eng was_eng like_eng 
+1575.576 1577.068 MAD _eng _eng spa_eng ahora_eng está_eng de_eng vieja_eng 
+1577.041 1578.237 SAM laughing_eng 
+1577.041 1578.237 MAD _eng _eng spa_eng o_eng viejo_eng 
+1578.297 1579.661 MAD you_eng know_eng one_eng of_eng the_eng two_eng 
+1578.732 1580.653 SAM _eng yeah_eng one_eng of_eng the_eng _eng one_eng of_eng the_eng 
+1579.875 1580.857 MAD and_eng its_eng like_eng mad_eng 
+1580.897 1581.872 MAD and_eng then_eng you_eng could_eng 
+1581.89 1584.902 MAD like_eng she_eng was_eng struggling_eng to_eng get_eng the_eng words_eng out_eng in_eng English_eng 
+1584.923 1585.359 SAM right_eng 
+1585.388 1586.357 MAD or_eng something_eng like_eng that_eng 
+1586.351 1586.897 SAM yeah_eng 
+1586.351 1586.897 MAD _eng you_eng know_eng 
+1586.926 1588.215 MAD so_eng it_eng was_eng like_eng wow_eng 
+1588.203 1590.941 SAM your_eng mom_eng told_eng me_eng she_eng _eng she_eng had_eng four_eng different_eng faces_eng 
+1590.858 1591.723 SAM I_eng was_eng like_eng 
+1591.688 1593.267 SAM _eng really_eng I_eng xxx_eng never_eng seen_eng her_eng 
+1593.313 1593.847 MAD yeah_eng 
+1593.87 1594.6 SAM because_eng I_eng dont_eng pay_eng attention_eng 
+1594.501 1596.086 SAM I_eng go_eng into_eng my_eng thing_eng 
+1595.087 1598.559 MAD _eng and_eng even_eng her_eng hands_eng kind_eng of_eng twisted_eng a_eng little_eng 
+1598.592 1599.399 MAD I_eng was_eng like_eng wow_eng 
+1598.592 1599.399 SAM _eng really_eng 
+1599.416 1600.177 MAD yeah_eng 
+1600.138 1601.084 SAM Im_eng going_eng to_eng my_eng things_eng 
+1601.142 1602.309 SAM and_eng you_eng know_eng I_eng dont_eng 
+1601.142 1602.557 MAD _eng sí_spa pero_spa Caroline_engspa wants_eng to_eng 
+1602.586 1607.853 MAD which_eng is_eng funny_eng because_eng to_eng be_eng like_eng you_eng _eng like_eng you_eng say_eng shes_eng as_eng enlightened_eng as_eng she_eng is_eng 
+1607.794 1608.729 SAM shes_eng enlightened_eng 
+1608.742 1609.538 SAM shes_eng got_eng her_eng thing_eng 
+1609.538 1610.664 SAM she_eng you_eng know_eng 
+1609.538 1611.755 MAD _eng right_eng but_eng you_eng think_eng shed_eng be_eng more_eng open_eng 
+1611.759 1614.536 MAD pero_spa en_spa seguida_spa she_eng wants_eng to_eng 
+1614.499 1616.368 MAD maybe_eng shes_eng more_eng like_eng Marta_engspa 
+1616.395 1619.402 MAD because_eng she_eng wants_eng to_eng then_eng figure_eng out_eng why_eng is_eng it_eng that_eng theyre_eng like_eng that_eng 
+1619.396 1620.395 MAD why_eng do_eng they_eng have_eng this_eng 
+1620.476 1621.062 MAD because_eng enseguida_spa 
+1621.097 1622.775 MAD what_eng language_eng were_eng you_eng chatting_eng in_eng 
+1622.815 1623.32 SAM yeah_eng 
+1623.303 1624.174 MAD you_eng know_eng and_eng what_eng 
+1624.156 1625.346 MAD just_eng let_eng her_eng chat_eng 
+1624.667 1625.364 SAM _eng xxx_eng 
+1625.362 1627.845 SAM yeah_eng well_eng because_eng she_eng _eng she_eng chanced_eng also_eng 
+1627.844 1629.94 MAD yeah_eng I_eng know_eng but_eng 
+1629.936 1631.109 SAM at_eng the_eng meditation_eng thing_eng 
+1631.103 1632.566 MAD yeah_eng I_eng know_eng but_eng still_eng 
+1632.56 1636.538 SAM you_eng know_eng that_eng _eng that_eng Mary_eng and_eng I_eng were_eng laughing_eng because_eng she_eng has_eng this_eng thing_eng about_eng 
+1636.556 1637.601 SAM _eng I_eng dont_eng want_eng religion_eng 
+1637.571 1639.005 SAM _eng nothing_eng to_eng do_eng with_eng religion_eng 
+1638.953 1639.841 SAM and_eng blah_eng blah_eng blah_eng 
+1639.808 1641.091 SAM but_eng I_eng was_eng telling_eng Mary_engspa 
+1641.161 1642.264 SAM _eng yeah_eng but_eng they_eng do_eng it_eng worse_eng 
+1642.242 1643.246 SAM we_eng went_eng to_eng the_eng meditation_eng 
+1643.235 1643.537 SAM and_eng she_eng goes_eng 
+1643.531 1644.291 SAM she_eng forgot_eng I_eng went_eng 
+1644.303 1644.61 SAM and_eng she_eng goes_eng 
+1644.622 1646.079 SAM _eng oh_eng Maria_engspa went_eng with_eng me_eng to_eng the_eng meditation_eng 
+1646.089 1646.391 SAM she_eng goes_eng 
+1646.377 1647.509 SAM _eng she_eng totally_eng forgot_eng I_eng went_eng 
+1647.503 1648.507 SAM and_eng I_eng go_eng 
+1648.6 1648.885 SAM _eng yeah_eng 
+1648.879 1651.276 SAM _eng and_eng its_eng cute_eng and_eng everything_eng 
+1651.278 1651.679 SAM and_eng I_eng go_eng 
+1651.51 1654.134 SAM _eng but_eng they_eng actually_eng idolize_eng a_eng living_eng person_eng 
+1654.169 1655.185 SAM come_eng on_eng 
+1655.155 1656.404 MAD yeah_eng oh_eng really_eng 
+1656.398 1658.609 SAM oh_eng you_eng didnt_eng go_eng to_eng the_eng meditation_eng centre_eng with_eng us_eng 
+1658.621 1659.155 MAD no_eng 
+1659.158 1660.662 SAM oh_eng my_eng God_eng Sam_engspa 
+1660.536 1661.163 SAM its_eng beautiful_eng 
+1661.169 1661.97 SAM let_eng me_eng tell_eng you_eng 
+1662.026 1667.574 SAM the_eng _eng the_eng meditation_eng thing_eng is_eng _eng is_eng just_eng gorgeous_eng 
+1667.573 1673.593 SAM but_eng its_eng a_eng lady_eng that_eng I_eng heard_eng about_eng when_eng they_eng read_eng _eng they_eng read_eng things_eng 
+1667.573 1673.593 MAD _eng xxx_eng 
+1673.597 1677.66 SAM and_eng um_eng I_eng read_eng it_eng in_eng a_eng magazine_eng in_eng New_eng York_eng 
+1677.687 1679.603 SAM people_eng actually_eng go_eng see_eng this_eng lady_eng 
+1679.591 1681.176 SAM and_eng they_eng bow_eng down_eng to_eng her_eng and_eng everything_eng 
+1681.176 1682.07 SAM shes_eng like_eng a_eng god_eng 
+1682.031 1684.759 SAM and_eng in_eng this_eng place_eng they_eng have_eng candles_eng and_eng pictures_eng of_eng her_eng 
+1684.778 1686.642 SAM and_eng the_eng people_eng light_eng candles_eng to_eng this_eng lady_eng 
+1686.648 1687.309 SAM I_eng was_eng like_eng 
+1687.338 1689.37 SAM _eng theres_eng something_eng wrong_eng with_eng this_eng picture_eng 
+1687.338 1688.464 MAD _eng oh_eng no_eng thats_eng weird_eng 
+1688.476 1689.231 MAD yeah_eng thats_eng weird_eng 
+1689.445 1691.796 SAM I_eng would_eng never_eng like_eng do_eng that_eng 
+1691.798 1692.826 SAM kissing_eng 
+1692.808 1693.679 SAM hi_eng baby_eng 
+1693.69 1694.41 MAD doing_eng good_eng 
+1694.973 1696.25 MAD thats_eng good_eng _eng laughing_eng 
+1696.275 1699.793 SAM so_eng I_eng was_eng like_eng 
+1699.799 1700.803 SAM _eng they_eng are_eng doing_eng worse_eng 
+1700.778 1701.579 SAM _eng you_eng dont_eng 
+1701.556 1702.659 MAD yeah_eng thats_eng not_eng 
+1701.974 1703.286 SAM _eng how_eng do_eng you_eng _eng how_eng can_eng you_eng do_eng that_eng 
+1703.315 1703.651 SAM you_eng know_eng 
+1703.663 1707.451 SAM but_eng I_eng heard_eng that_eng the_eng lady_eng is_eng like_eng really_eng like_eng um_eng not_eng like_eng Gandh_engspa 
+1707.376 1709.129 SAM but_eng you_eng know_eng 
+1709.152 1709.663 MAD yeah_eng 
+1709.68 1712.281 SAM so_eng people_eng from_eng 
+1712.254 1713.049 SAM él_spa dice_spa que_spa New_eng York_eng 
+1713.059 1715.874 SAM when_eng the_eng lady_eng goes_eng to_eng New_eng York_eng the_eng lines_eng are_eng out_eng the_eng door_eng 
+1715.857 1720.164 SAM unbelievable_eng 
+1715.857 1720.164 MAD _eng maybe_eng she_eng thinks_eng shes_eng the_eng pope_eng 
+1720.158 1722.579 SAM she_eng thinks_eng shes_eng the_eng pope_eng 
+1722.091 1724.065 MAD well_eng the_eng pope_eng for_eng _eng for_eng that_eng 
+1724.099 1726.12 SAM for_eng that_eng part_eng of_eng 
+1725.179 1727.973 MAD _eng that_eng sect_eng religious_eng sect_eng or_eng whatever_eng 
+1727.869 1728.397 SAM maybe_eng 
+1728.366 1729.322 MAD because_eng when_eng you_eng dont_eng 
+1729.362 1733.871 MAD even_eng if_eng you_eng think_eng its_eng not_eng a_eng religion_eng it_eng _eng it_eng _eng thats_eng like_eng a_eng _eng a_eng cult_eng 
+1733.894 1734.881 SAM yeah_eng thats_eng a_eng cult_eng 
+1734.919 1735.825 MAD yeah_eng thats_eng a_eng cult_eng 
+1734.919 1735.825 SAM _eng to_eng me_eng thats_eng a_eng cult_eng 
+1735.823 1736.844 SAM I_eng felt_eng like_eng 
+1736.641 1738.034 MAD like_eng the_eng Hare_eng Krishnas_eng 
+1736.641 1738.315 SAM _eng I_eng mean_eng the_eng meditations_eng were_eng good_eng 
+1738.232 1739.561 MAD you_eng know_eng like_eng the_eng Hare_eng Krishnas_eng 
+1738.232 1739.816 SAM _eng yeah_eng but_eng that_eng was_eng like_eng a_eng cult_eng 
+1739.812 1740.956 SAM the_eng place_eng is_eng really_eng nice_eng 
+1740.985 1742.03 SAM they_eng are_eng very_eng quiet_eng 
+1742.024 1743.487 SAM its_eng beautiful_eng 
+1743.754 1744.932 SAM you_eng take_eng off_eng your_eng shoes_eng 
+1744.94 1746.217 SAM its_eng all_eng red_eng carpet_eng 
+1746.246 1747.552 SAM its_eng beautiful_eng 
+1747.554 1748.616 SAM but_eng cuando_spa yo_spa entré_spa 
+1748.639 1751.137 spa_spa y_spa yo_spa vi_spa todas_spa esas_spa fotos_spa de_spa esa_spa mujer_spa 
+1750.435 1751.103 MAD _eng of_eng her_eng 
+1751.201 1752.681 MAD oh_eng yeah_eng no_eng thats_eng not_eng good_eng 
+1752.66 1754.117 spa_spa la_spa _spa la_spa foto_spa de_spa la_spa mujer_spa 
+1754.158 1755.748 SAM entonces_spa they_eng put_eng flowers_eng 
+1755.779 1756.957 MAD oh_eng no_eng thats_eng not_eng good_eng 
+1756.76 1759.204 SAM and_eng then_eng they_eng put_eng _eng and_eng they_eng put_eng candles_eng 
+1759.215 1760.22 SAM and_eng Im_eng like_eng 
+1760.212 1761.489 SAM _eng what_eng is_eng this_eng 
+1761.454 1762.876 SAM and_eng then_eng I_eng ask_eng her_eng then_eng 
+1761.767 1762.505 MAD _eng is_eng she_eng dead_eng 
+1762.481 1763.12 MAD I_eng mean_eng 
+1763.178 1764.153 SAM and_eng then_eng at_eng the_eng end_eng I_eng go_eng 
+1764.148 1765.187 SAM _eng who_eng is_eng that_eng 
+1765.188 1765.852 SAM you_eng know_eng 
+1765.904 1767.57 SAM Ill_eng tell_eng you_eng when_eng they_eng were_eng having_eng the_eng food_eng is_eng awesome_eng 
+1767.617 1768.586 SAM its_eng all_eng organic_eng 
+1768.597 1770.072 SAM you_eng know_eng like_eng whatever_eng 
+1769.41 1770.838 MAD _eng like_eng raw_eng and_eng stuff_eng 
+1770.449 1771.384 SAM yeah_eng yeah_eng 
+1771.39 1772.342 SAM awesome_eng food_eng 
+1772.359 1773.613 SAM and_eng its_eng not_eng expensive_eng 
+1773.607 1774.768 SAM so_eng I_eng was_eng like_eng 
+1774.774 1775.325 SAM _eng who_eng is_eng that_eng 
+1775.341 1776.113 SAM and_eng then_eng she_eng tells_eng me_eng 
+1776.136 1776.896 SAM _eng oh_eng thats_eng xxx_eng 
+1776.89 1777.535 SAM and_eng I_eng go_eng 
+1777.5 1778.597 SAM _eng oh_eng I_eng read_eng about_eng her_eng 
+1778.601 1780.023 SAM and_eng one_eng of_eng the_eng things_eng 
+1780.019 1780.965 SAM but_eng I_eng was_eng like_eng 
+1780.963 1784.607 SAM _eng why_eng do_eng you_eng light_eng candles_eng to_eng 
+1784.601 1786.4 SAM no_eng because_eng shes_eng like_eng our_eng 
+1786.456 1787.704 SAM not_eng that_eng shes_eng anything_eng 
+1787.71 1789.614 SAM but_eng shes_eng like_eng the_eng head_eng of_eng the_eng thing_eng 
+1789.657 1790.313 spa_spa y_spa no_spa sé_spa qué_spa 
+1790.301 1791.021 SAM and_eng I_eng was_eng like_eng 
+1791.032 1792.367 SAM _eng mm_eng thats_eng wrong_eng 
+1792.358 1792.735 MAD yeah_eng 
+1792.474 1793.234 SAM _eng I_eng mean_eng 
+1793.223 1793.849 SAM Im_eng sorry_eng 
+1793.873 1795.069 SAM but_eng you_eng know_eng 
+1794.395 1796.282 MAD yeah_eng no_eng thats_eng not_eng 
+1796.284 1796.98 SAM shes_eng still_eng living_eng 
+1797.085 1797.775 SAM why_eng are_eng you_eng lighting_eng 
+1797.822 1798.791 SAM you_eng know_eng xxx_eng 
+1797.874 1799.36 MAD _eng exactly_eng why_eng are_eng you_eng lighting_eng a_eng candle_eng 
+1798.808 1799.842 SAM I_eng mean_eng we_eng light_eng candles_eng 
+1799.842 1800.817 SAM because_eng I_eng like_eng candles_eng 
+1800.817 1802.976 SAM and_eng I_eng pray_eng for_eng everybody_eng but_eng 
+1801.879 1803.452 MAD _eng right_eng but_eng not_eng in_eng front_eng of_eng the_eng picture_eng 
+1803.441 1807.361 SAM no_eng no_eng thats_eng not_eng 
+1807.43 1809.178 MAD well_eng thats_eng not_eng a_eng good_eng thing_eng to_eng put_eng 
+1809.183 1811.54 MAD thats_eng _eng that_eng is_eng _eng its_eng like_eng you_eng are_eng idolizing_eng 
+1811.484 1812.598 SAM you_eng are_eng idolizing_eng 
+1812.61 1815.089 SAM yeah_eng you_eng are_eng not_eng supposed_eng to_eng idolize_eng anything_eng 
+1815.077 1817.364 SAM thats_eng one_eng of_eng the_eng first_eng things_eng god_eng says_eng 
+1817.393 1818.467 SAM Im_eng before_eng everything_eng 
+1818.502 1823.736 SAM and_eng when_eng you_eng put_eng a_eng _eng when_eng you_eng put_eng a_eng picture_eng especially_eng living_eng person_eng 
+1823.711 1824.477 SAM you_eng know_eng 
+1823.914 1834.577 MAD _eng because_eng we_eng do_eng or_eng will_eng say_eng some_eng people_eng do_eng put_eng _eng light_eng _eng light_eng candles_eng for_eng _eng for_eng someone_eng who_eng has_eng just_eng passed_eng away_eng to_eng give_eng them_eng light_eng 
+1832.284 1834.868 SAM _eng right_eng the_eng Mexicans_eng do_eng 
+1834.868 1836.145 MAD right_eng 
+1835.773 1840.732 SAM no_eng and_eng the_eng Mexicans_eng in_eng that_eng thing_eng they_eng _eng they_eng honour_eng on_eng death_eng day_eng or_eng something_eng 
+1840.75 1841.433 MAD yeah_eng the_eng day_eng after_eng 
+1841.427 1843.958 MAD no_eng the_eng day_eng of_eng _eng after_eng Halloween_eng _eng after_eng Halloween_eng 
+1841.427 1843.907 SAM _eng yeah_eng they_eng put_eng the_eng 
+1843.913 1845.469 SAM yeah_eng they_eng put_eng the_eng candles_eng 
+1845.434 1846.728 SAM and_eng they_eng put_eng the_eng things_eng for_eng them_eng 
+1846.738 1847.905 SAM and_eng they_eng do_eng 
+1847.928 1848.207 SAM you_eng know_eng 
+1848.177 1848.961 SAM to_eng bring_eng them_eng back_eng 
+1848.95 1850.79 SAM and_eng they_eng put_eng everything_eng that_eng belonged_eng to_eng the_eng person_eng 
+1850.766 1852.607 SAM and_eng they_eng put_eng it_eng on_eng the_eng thing_eng so_eng 
+1852.636 1854.888 SAM its_eng cool_eng 
+1854.919 1858.707 MAD xxx_eng person_eng 

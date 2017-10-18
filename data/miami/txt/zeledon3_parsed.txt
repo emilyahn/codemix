@@ -1,0 +1,755 @@
+0.6 1.242 spa_spa xxx_spa espera_spa 
+1.236 3.193 spa_spa tengo_spa una_spa cosa_spa chiquitica_spa 
+3.187 6.468 spa_spa y_spa tengo_spa una_spa cosa_spa que_spa tengo_spa que_spa hacer_spa en_spa la_spa computadora_spa 
+6.468 7.983 spa_spa em_spa 
+7.982 9.508 spa_spa qué_spa más_spa 
+9.503 10.954 spa_spa em_spa 
+10.942 13.132 spa_spa creo_spa que_spa es_spa todo_spa 
+13.103 20.061 ELE e_eng ah_engspa bueno_spa pero_spa fin_spa de_spa semana_spa so_eng you_eng can_eng take_eng your_eng time_eng 
+18.279 19.742 FEL _eng _eng spa_eng xxx_eng tengo_eng tres_eng días_eng 
+19.728 22.874 spa_spa xxx_spa limpiar_spa mi_spa cuarto_spa este_spa fin_spa de_spa semana_spa 
+22.866 27.162 spa_spa voy_spa a_spa limpiarlo_spa bien_spa bien_spa xxx_spa recoger_spa todo_spa organizar_spa todo_spa 
+27.071 30.631 ELE thats_eng good_eng 
+30.602 32.198 FEL no_eng it_eng isnt_eng 
+32.188 35.323 spa_spa sí_spa porque_spa tú_spa eres_spa bien_spa organizado_spa 
+35.337 36.91 FEL no_eng Im_eng not_eng 
+36.901 37.911 ELE yeah_eng you_eng are_eng 
+37.504 39.792 FEL _eng I_eng just_eng have_eng a_eng habit_eng of_eng not_eng putting_eng things_eng where_eng they_eng go_eng 
+39.754 42.209 ELE mmhm_eng 
+42.203 46.525 ELE laughs_eng 
+46.525 49.383 spa_spa y_spa em_spa cómo_spa te_spa está_spa yendo_spa el_spa xxx_spa 
+49.377 51.179 spa_spa xxx_spa o_spa no_spa 
+51.14 58.691 ELE ah_engspa _eng no_spa sé_spa todavía_spa de_spa lo_spa que_spa espera_spa que_spa contraten_spa a_spa más_spa personas_spa en_spa el_spa To_Go_engspa 
+58.662 60.624 spa_spa y_spa eso_spa cuánto_spa se_spa xxx_spa 
+60.621 63.042 ELE well_eng I_eng have_eng to_eng train_eng them_eng 
+62.96 63.965 ELE so_eng 
+63.233 64.162 FEL _eng you_eng have_eng to_eng train_eng them_eng 
+64.159 65.779 ELE yeah_eng 
+65.761 67.238 ELE so_eng 
+67.232 70.454 spa_spa hasta_spa ahora_spa na_spa no_spa se_spa han_spa contratado_spa a_spa nadie_spa 
+70.438 75.92 ELE pero_spa cuando_spa los_spa um_eng contraten_spa me_spa toca_spa entrenarlos_spa 
+75.923 78.355 ELE and_eng we_eng have_eng to_eng see_eng if_eng they_eng get_eng good_eng at_eng it_eng 
+78.34 83.042 ELE theyre_eng actually_eng trying_eng to_eng like_eng succeed_eng in_eng the_eng job_eng 
+83.005 87.667 spa_spa y_spa ya_spa después_spa me_spa imagino_spa que_spa un_spa mes_spa o_spa algo_spa 
+87.659 91.229 ELE ya_spa me_spa puedo_spa mover_spa el_spa server_eng 
+91.196 94.911 ELE pero_spa por_spa ahora_spa estoy_spa en_spa el_spa To_Go_engspa 
+94.915 95.786 FEL hmf_eng 
+95.461 96.86 ELE so_eng yeah_eng 
+95.931 98.23 FEL _eng well_eng there_eng should_eng be_eng a_eng lot_eng of_eng people_eng that_eng wanna_eng work_eng in_eng To_Go_engspa 
+98.195 100.52 ELE huh_eng 
+100.195 102.175 FEL _eng well_eng there_eng should_eng be_eng a_eng lot_eng of_eng people_eng that_eng need_eng work_eng 
+102.339 105.131 ELE well_eng _eng I_eng dont_eng know_eng 
+105.131 106.937 ELE they_eng havent_eng hired_eng anybody_eng yet_eng 
+106.911 109.036 ELE so_eng Im_eng just_eng waiting_eng 
+109.015 110.57 FEL how_eng old_eng do_eng you_eng have_eng to_eng be_eng to_eng work_eng there_eng 
+110.559 111.702 FEL cant_eng Alberto_engspa work_eng there_eng 
+111.691 112.492 FEL hes_eng sixteen_eng 
+112.495 115.362 ELE no_eng you_eng have_eng to_eng be_eng eighteen_eng to_eng work_eng in_eng Chilissengspaeng_eng 
+115.345 116.97 FEL that_eng sucks_eng 
+116.962 117.612 ELE yeah_eng 
+117.595 118.465 ELE no_eng it_eng doesnt_eng 
+118.454 125.132 ELE because_eng xxx_eng if_eng you_eng do_eng it_eng with_eng kids_eng you_eng have_eng to_eng work_eng around_eng their_eng school_eng hours_eng 
+125.257 127.481 FEL yeah_eng but_eng like_eng over_eng the_eng summer_eng like_eng a_eng summer_eng job_eng 
+125.42 125.983 ELE _eng and_eng 
+127.466 129.602 ELE maybe_eng 
+129.613 132.039 ELE well_eng yeah_eng maybe_eng we_eng get_eng people_eng in_eng the_eng summer_eng 
+132.018 136.354 ELE but_eng for_eng now_eng we_eng dont_eng have_eng anybody_eng 
+136.34 138.14 ELE and_eng they_eng dont_eng hire_eng under_eng sixteen_eng 
+138.128 139.301 ELE and_eng if_eng they_eng were_eng to_eng hire_eng 
+139.306 141.176 FEL xxx_eng under_eng what_eng eighteen_eng or_eng sixteen_eng 
+141.139 143.176 ELE uh_eng under_eng eighteen_eng 
+143.147 148.363 ELE but_eng if_eng they_eng hired_eng someone_eng like_eng sixteen_eng they_eng can_eng only_eng work_eng certain_eng amount_eng of_eng hours_eng 
+148.354 149.863 ELE and_eng they_eng cant_eng work_eng before_eng six_eng 
+149.84 151.506 ELE they_eng cant_eng work_eng after_eng eleven_eng 
+151.5 156.954 ELE so_eng I_eng dont_eng know_eng if_eng theyre_eng gonna_eng hire_eng younger_eng kids_eng in_eng the_eng summer_eng 
+156.934 159.384 ELE but_eng I_eng think_eng theyre_eng not_eng supposed_eng to_eng 
+159.291 161.486 ELE I_eng think_eng the_eng law_eng says_eng that_eng were_eng not_eng supposed_eng to_eng 
+161.46 164.792 FEL then_eng how_eng come_eng Publix_engspa hires_eng xxx_eng 
+164.339 165.03 ELE _eng well_eng because_eng 
+164.554 166.925 FEL you_eng only_eng have_eng to_eng be_eng fourteen_eng _eng to_eng work_eng at_eng Publix_engspa 
+165.776 171.798 ELE _eng I_eng know_eng but_eng the_eng only_eng job_eng they_eng give_eng you_eng is_eng to_eng bag_eng _eng groceries_eng which_eng is_eng not_eng hard_eng 
+171.784 173.972 ELE so_eng I_eng think_eng 
+172.8 177.376 FEL _eng yeah_eng you_eng have_eng to_eng know_eng where_eng to_eng put_eng the_eng eggs_eng and_eng then_eng the_eng _eng all_eng the_eng bread_eng and_eng that_eng kind_eng of_eng stuff_eng 
+177.36 179.735 ELE yeah_eng but_eng thats_eng not_eng hard_eng 
+178.591 179.833 FEL _eng I_eng think_eng it_eng must_eng be_eng hard_eng 
+179.818 181.966 ELE no_eng its_eng not_eng 
+181.958 189.897 ELE y_spa um_eng el_spa jueves_spa _eng I_eng have_eng um_eng _eng a_eng trainer_eng meeting_eng 
+189.872 191.747 FEL which_eng is_eng 
+191.741 194.162 ELE a_eng meeting_eng where_eng trainers_eng go_eng 
+194.158 196.666 ELE and_eng we_eng talk_eng about_eng progress_eng 
+196.651 197.29 ELE and_eng 
+196.849 198.056 FEL _eng that_eng must_eng suck_eng 
+198.068 199.385 ELE no_eng it_eng doesnt_eng 
+199.375 201.076 ELE because_eng no_spa te_spa acuerdas_spa 
+201.072 208.266 ELE the_eng first_eng time_eng we_eng went_eng to_eng _eng _eng we_eng went_eng to_eng like_eng Dave_and_Busters_engspa I_eng think_eng 
+208.247 210.296 ELE and_eng then_eng the_eng second_eng time_eng 
+210.307 211.027 FEL lucky_eng 
+211.029 213.415 ELE _eng we_eng went_eng to_eng Maggianos_engspa 
+213.411 215.809 FEL what_eng happened_eng to_eng discussing_eng progress_eng 
+215.797 216.529 ELE we_eng did_eng 
+216.523 218.073 ELE and_eng then_eng they_eng gave_eng us_eng food_eng 
+218.053 220.491 ELE and_eng now_eng were_eng going_eng to_eng Dave_and_busters_engspa again_eng 
+220.468 221.675 FEL lucky_eng 
+221.695 223.292 ELE yeah_eng on_eng Thursday_eng 
+222.798 224.743 FEL _eng but_eng how_eng many_eng people_eng are_eng trainers_eng 
+224.729 225.39 ELE a_eng lot_eng 
+225.39 226.395 ELE like_eng twenty_eng 
+226.377 233.962 ELE o_spa es_spa que_spa hay_spa como_spa _eng theres_eng like_eng about_eng four_eng or_eng five_eng cooks_eng that_eng are_eng trainers_eng 
+233.948 235.237 ELE theres_eng 
+235.231 236.247 FEL ow_eng 
+236.218 240.715 ELE theres_eng like_eng _eng in_eng To_Gossengspaeng_eng theres_eng only_eng two_eng 
+240.733 243.182 ELE but_eng I_eng think_eng that_eng Im_eng the_eng only_eng one_eng thats_eng going_eng 
+243.168 246.583 ELE and_eng servers_eng theres_eng like_eng ten_eng servers_eng 
+246.589 249.48 ELE ten_eng _eng about_eng ten_eng servers_eng that_eng are_eng 
+248.238 249.991 FEL _eng and_eng what_eng do_eng trainers_eng do_eng 
+249.964 251.996 ELE _eng trainers_eng 
+251.987 252.846 ELE train_eng 
+252.829 256.677 ELE show_eng other_eng people_eng how_eng the_eng job_eng works_eng 
+256.663 258.492 FEL then_eng whyd_eng you_eng put_eng you_eng as_eng a_eng trainer_eng 
+258.476 261.709 ELE ha_eng ha_eng very_eng funny_eng 
+261.701 263.077 FEL yeah_eng I_eng know_eng youre_eng good_eng at_eng that_eng 
+263.065 267.119 FEL but_eng uh_eng what_eng Im_eng saying_eng is_eng that_eng whyd_eng they_eng pick_eng you_eng out_eng of_eng everyone_eng that_eng there_eng is_eng 
+266.521 271.336 ELE _eng because_eng they_eng see_eng that_eng Im_eng the_eng one_eng that_eng has_eng _eng _eng that_eng _eng knows_eng how_eng to_eng do_eng it_eng 
+271.309 273.544 ELE that_eng knows_eng the_eng job_eng better_eng than_eng others_eng 
+273.522 275.781 ELE that_eng can_eng explain_eng it_eng to_eng others_eng 
+275.771 276.642 FEL ok_eng 
+276.637 280.938 FEL uh_eng thats_eng the_eng thing_eng that_eng gets_eng you_eng the_eng discount_eng that_eng trainer_eng card_eng thing_eng on_eng the_eng back_eng that_eng says_eng discount_eng 
+280.921 281.577 ELE yeah_eng 
+281.551 283.45 FEL oh_eng _eng cool_eng 
+283.429 285.571 ELE so_eng thats_eng an_eng advantage_eng 
+285.553 286.964 spa_spa pero_spa 
+286.954 289.648 ELE its_eng good_eng to_eng be_eng a_eng trainer_eng 
+289.644 295.976 ELE because_eng you_eng help_eng _eng youre_eng helping_eng _eng your_eng workplace_eng _eng by_eng showing_eng new_eng people_eng 
+295.987 296.492 ELE get_eng it_eng 
+296.475 297.769 ELE thats_eng the_eng whole_eng point_eng 
+297.758 298.826 FEL yeah_eng 
+298.805 301.0 ELE so_eng yeah_eng I_eng have_eng a_eng meeting_eng that_eng day_eng 
+300.99 303.005 FEL ok_eng 
+302.993 304.63 spa_spa y_spa la_spa universidad_spa cómo_spa te_spa va_spa 
+304.598 306.699 ELE uh_eng bien_spa 
+306.722 315.104 ELE on_eng _eng Monday_eng I_eng have_eng a_eng midterm_eng _eng of_eng art_eng appreciation_eng that_eng class_eng 
+315.09 316.547 FEL they_eng give_eng you_eng midterms_eng 
+316.425 317.331 FEL oh_eng I_eng had_eng a_eng midterm_eng 
+317.342 319.589 FEL I_eng did_eng _eng I_eng had_eng _eng I_eng _eng I_eng have_eng a_eng midterm_eng _eng I_eng had_eng midterms_eng 
+319.577 320.233 FEL I_eng did_eng good_eng 
+320.225 321.665 FEL xxx_eng 
+321.665 324.459 ELE I_eng have_eng _eng _eng I_eng only_eng have_eng for_eng that_eng class_eng 
+324.441 326.258 ELE I_eng dont_eng have_eng a_eng midterm_eng for_eng English_eng 
+326.255 327.428 FEL you_eng have_eng finals_eng 
+327.422 328.676 ELE yeah_eng I_eng have_eng finals_eng 
+328.654 334.241 ELE I_eng have_eng to_eng take_eng an_eng exit_eng exam_eng in_eng _eng _eng in_eng English_eng class_eng 
+334.227 346.679 ELE like_eng in_eng order_eng to_eng pass_eng it_eng I_eng have_eng to_eng _eng pass_eng the_eng class_eng and_eng I_eng have_eng to_eng pass_eng that_eng t_eng _eng that_eng exam_eng to_eng go_eng on_eng to_eng English_eng _eng um_eng ele_eng eleven_eng O_eng one_eng yeah_eng 
+346.675 349.026 FEL eleven_eng O_eng isnt_eng it_eng one_eng O_eng one_eng 
+349.023 350.631 ELE no_eng 
+350.625 352.703 FEL eleven_eng O_eng ok_eng 
+352.7 354.047 FEL clears_throat_eng 
+353.832 355.051 ELE yeah_eng so_eng that_eng 
+355.036 362.219 ELE and_eng _eng uh_eng _eng in_eng math_eng not_eng doing_eng to_eng well_eng yeah_eng 
+362.228 363.795 ELE got_eng third_eng 
+363.273 364.945 FEL _eng Im_eng taking_eng seventh_eng grade_eng math_eng 
+364.936 366.381 FEL actually_eng ninth_eng 
+365.208 366.718 ELE _eng its_eng not_eng seventh_eng grade_eng 
+366.387 367.792 FEL its_eng ninth_eng grade_eng actually_eng 
+367.786 369.156 FEL but_eng Im_eng gonna_eng take_eng it_eng next_eng year_eng 
+369.024 370.423 FEL look_eng Im_eng two_eng years_eng advanced_eng _eng 
+370.4 373.683 ELE well_eng Im_eng not_eng doing_eng bad_eng 
+373.679 377.756 ELE its_eng just_eng I_eng struggle_eng with_eng some_eng parts_eng of_eng the_eng math_eng 
+377.775 380.381 ELE but_eng its_eng not_eng really_eng hard_eng 
+379.104 380.23 FEL which_eng are_eng 
+380.25 382.862 FEL multiplication_eng addition_eng subtraction_eng _eng laughs_eng 
+382.618 383.431 ELE no_eng 
+383.193 384.517 ELE thats_eng the_eng easy_eng part_eng 
+384.435 385.463 FEL division_eng 
+385.459 387.23 ELE its_eng like_eng the_eng problems_eng 
+385.715 386.585 FEL _eng laughs_eng 
+387.236 400.244 ELE you_eng know_eng like_eng the_eng ones_eng where_eng it_eng says_eng if_eng this_eng i_eng _eng this_eng object_eng has_eng a_eng height_eng of_eng this_eng and_eng it_eng has_eng a_eng uh_eng width_eng of_eng this_eng so_eng what_eng is_eng the_eng area_eng or_eng something_eng like_eng that_eng 
+400.186 401.486 FEL thats_eng not_eng that_eng hard_eng 
+401.471 403.933 ELE well_eng _eng it_eng confuses_eng me_eng 
+403.911 406.332 ELE so_eng I_eng had_eng kinda_eng struggled_eng on_eng the_eng problem_eng ones_eng 
+404.956 406.5 FEL oh_eng yeah_eng that_eng always_eng happens_eng to_eng me_eng 
+406.521 410.218 FEL I_eng ʤ_eng _eng I_eng just_eng cant_eng put_eng uh_eng _eng I_eng dont_eng _eng Im_eng good_eng at_eng math_eng _eng Im_eng good_eng with_eng the_eng math_eng 
+410.185 412.948 FEL I_eng just_eng cant_eng do_eng the_eng English_eng part_eng of_eng the_eng math_eng 
+412.945 414.93 ELE English_eng part_eng of_eng the_eng math_eng 
+414.903 417.556 FEL well_eng like_eng the_eng reading_eng and_eng the_eng English_eng and_eng that_eng stuff_eng 
+417.558 419.654 ELE ok_eng 
+419.638 425.591 ELE yeah_eng so_eng uh_eng I_eng think_eng I_eng have_eng like_eng a_eng B_eng or_eng a_eng C_eng in_eng that_eng class_eng right_eng now_eng 
+425.575 428.745 ELE but_eng hopefully_eng I_eng can_eng get_eng my_eng grades_eng up_eng 
+427.073 428.002 FEL thats_eng what_eng I_eng have_eng in_eng math_eng 
+428.729 430.831 FEL I_eng have_eng either_eng a_eng B_minus_eng or_eng a_eng C_plus_eng 
+430.833 434.664 ELE yeah_eng because_eng apparently_eng everybody_eng says_eng that_eng in_eng architecture_eng theres_eng a_eng lot_eng of_eng math_eng 
+434.632 435.555 FEL yeah_eng 
+435.543 438.515 FEL you_eng have_eng to_eng like_eng measure_eng the_eng lines_eng and_eng all_eng that_eng stuff_eng 
+438.501 441.248 ELE yeah_eng so_eng I_eng dont_eng think_eng Ill_eng have_eng problems_eng 
+441.139 444.291 ELE thats_eng just_eng people_eng over_eng exaggerate_eng 
+444.265 445.414 ELE I_eng think_eng 
+445.391 446.337 ELE well_eng see_eng 
+446.337 449.914 ELE I_eng dont_eng think_eng I_eng have_eng that_eng much_eng math_eng 
+449.911 450.881 ELE but_eng I_eng dont_eng know_eng 
+450.875 453.661 ELE it_eng depends_eng when_eng I_eng transfer_eng 
+453.658 454.744 FEL well_eng see_eng 
+454.738 457.043 FEL do_eng you_eng know_eng when_eng youre_eng planning_eng to_eng transfer_eng 
+457.04 459.211 ELE no_eng huh_eng 
+459.216 463.515 ELE probably_eng _eng hopefully_eng next_eng year_eng 
+461.472 462.929 FEL _eng five_eng years_eng laughs_eng 
+463.55 464.392 FEL next_eng year_eng 
+464.383 465.869 ELE if_eng I_eng 
+465.851 467.146 ELE well_eng I_eng dont_eng think_eng so_eng 
+467.131 472.466 ELE but_eng like_eng _eng maybe_eng end_eng of_eng next_eng year_eng Ill_eng finish_eng in_eng B_C_C_eng 
+472.44 480.646 ELE and_eng then_eng Ill_eng start_eng _eng the_eng winter_eng _eng in_eng F_I_U_eng if_eng possible_eng 
+480.632 482.832 ELE but_eng well_eng see_eng 
+482.803 484.173 FEL ok_eng 
+484.165 485.953 ELE yeah_eng 
+485.947 489.002 ELE so_eng _eng cómo_spa estás_spa con_spa las_spa novias_spa laughs_eng 
+488.63 490.459 FEL laughs_eng whine_eng 
+490.45 492.412 spa_spa e_spa qué_spa _spa laughs_spa 
+492.418 493.869 FEL do_eng I_eng have_eng to_eng answer_eng that_eng 
+493.856 496.613 ELE uh_eng yeah_eng 
+496.604 497.73 FEL Id_eng rather_eng not_eng 
+496.708 498.073 ELE _eng ok_eng you_eng dont_eng have_eng to_eng 
+498.038 498.955 FEL laughs_eng 
+498.945 501.604 ELE you_eng dont_eng have_eng to_eng tell_eng me_eng if_eng you_eng like_eng anybody_eng 
+501.333 505.727 ELE you_eng just_eng have_eng to_eng tell_eng me_eng _eng que_spa como_spa te_spa va_spa 
+505.724 506.595 spa_spa bien_spa laughs_spa 
+506.589 508.005 ELE laughs_eng 
+507.996 510.573 spa_spa bien_spa te_spa va_spa bien_spa _spa laughs_spa 
+507.996 510.573 FEL _eng laughs_eng 
+510.568 511.311 FEL e_eng 
+511.314 513.049 ELE a funny_eng 
+513.026 515.273 ELE oh_eng 
+513.026 515.261 FEL _eng mm_eng 
+515.229 521.013 ELE yeah_eng so_eng _eng is_eng there_eng any_eng movie_eng you_eng wanna_eng see_eng thats_eng coming_eng up_eng 
+520.984 526.107 FEL um_eng _eng mm_eng 
+526.082 526.465 ELE no_eng 
+526.459 528.404 FEL thinking_eng thinking_eng thinking_eng 
+528.398 530.906 FEL Meet_the_spartans_eng laughs_eng 
+530.832 532.817 FEL but_eng you_eng dont_eng want_eng to_eng see_eng that_eng 
+531.68 532.916 ELE _eng no_eng 
+532.879 534.841 FEL that_eng movies_eng looks_eng hilarious_eng 
+535.003 535.978 FEL well_eng I_eng do_eng too_eng 
+535.183 537.563 ELE it_eng wasnt_eng in_eng theatres_eng when_eng I_eng went_eng the_eng other_eng day_eng 
+537.462 538.1 FEL really_eng 
+538.083 538.907 ELE I_eng didnt_eng see_eng it_eng 
+538.756 540.242 FEL no_eng they_eng probably_eng already_eng took_eng it_eng out_eng 
+540.234 541.389 ELE yeah_eng 
+541.372 545.441 ELE I_eng wanna_eng see_eng one_eng thats_eng called_eng Stop_loss_eng 
+545.404 548.115 FEL which_eng is_eng about_eng what_eng 
+547.767 554.482 ELE its_eng a_eng movie_eng about_eng _eng these_eng um_eng _eng guys_eng that_eng are_eng in_eng the_eng w_eng _eng that_eng are_eng in_eng the_eng army_eng 
+554.478 560.39 ELE and_eng so_eng they_eng were_eng in_eng Iraq_eng for_eng I_eng dunno_eng I_eng guess_eng couple_eng years_eng or_eng months_eng or_eng something_eng 
+560.375 562.79 ELE and_eng then_eng they_eng come_eng back_eng _eng to_eng Texas_eng 
+562.813 564.758 ELE because_eng thats_eng where_eng theyre_eng from_eng I_eng guess_eng 
+564.755 569.152 ELE and_eng _eng so_eng theyre_eng ready_eng to_eng get_eng out_eng of_eng the_eng army_eng 
+569.146 571.636 ELE and_eng because_eng they_eng did_eng their_eng duty_eng and_eng everything_eng 
+571.633 575.436 ELE and_eng then_eng the_eng army_eng says_eng that_eng theyre_eng going_eng back_eng 
+575.416 577.198 ELE k_eng because_eng they_eng dont_eng 
+576.037 577.349 FEL _eng oh_eng yeah_eng Ive_eng heard_eng about_eng that_eng one_eng 
+577.215 577.581 ELE yeah_eng 
+577.575 583.006 ELE _eng they_eng dont_eng have_eng enough_eng people_eng to_eng _eng fight_eng the_eng war_eng over_eng there_eng 
+583.026 584.959 ELE so_eng theyre_eng sending_eng them_eng back_eng 
+584.953 588.839 ELE so_eng thats_eng what_eng I_eng think_eng stop_eng loss_eng means_eng 
+586.407 587.231 FEL _eng thats_eng dumb_eng 
+588.813 595.723 ELE and_eng so_eng _eng like_eng _eng its_eng a_eng battle_eng deciding_eng if_eng theyre_eng going_eng to_eng do_eng it_eng or_eng not_eng 
+595.708 597.241 ELE and_eng it_eng looks_eng pretty_eng cool_eng 
+597.212 599.354 ELE plus_eng it_eng has_eng cute_eng guys_eng in_eng it_eng 
+599.35 600.018 FEL yes_eng 
+600.018 601.4 ELE so_eng yeah_eng laughs_eng 
+600.54 602.92 FEL _eng since_eng I_eng love_eng going_eng to_eng movies_eng with_eng cute_eng guys_eng 
+601.575 602.882 ELE _eng thats_eng a_eng plus_eng 
+602.887 608.888 ELE so_eng well_eng see_eng if_eng _eng hmm_eng _eng yeah_eng 
+608.867 611.16 ELE well_eng see_eng if_eng I_eng go_eng see_eng that_eng movie_eng 
+611.16 614.176 ELE if_eng we_eng go_eng see_eng that_eng movie_eng because_eng it_eng looks_eng cool_eng 
+614.153 616.399 FEL yeah_eng when_eng I_eng get_eng ungrounded_eng in_eng two_eng months_eng 
+616.408 618.91 ELE ok_eng maybe_eng not_eng with_eng you_eng 
+618.904 619.45 FEL hmph_eng 
+619.423 622.314 ELE but_eng maybe_eng Ill_eng go_eng see_eng it_eng or_eng something_eng 
+622.287 626.333 ELE hums_eng 
+626.319 631.301 spa_spa xxx_spa qué_spa cuentas_spa 
+631.274 632.76 spa_spa ah_spa nada_spa más_spa 
+632.925 636.652 ELE nothing_eng new_eng here_eng 
+636.64 638.463 ELE I_eng applied_eng for_eng a_eng credit_eng card_eng 
+638.455 639.877 FEL what_eng 
+639.877 641.822 ELE I_eng applied_eng for_eng a_eng credit_eng card_eng 
+641.807 644.054 FEL dont_eng you_eng already_eng have_eng like_eng xxx_eng 
+644.054 646.266 ELE no_eng credit_eng cards_eng 
+645.194 646.691 FEL _eng whats_eng the_eng difference_eng 
+646.674 653.905 ELE debit_eng card_eng is_eng like_eng _eng they_eng pay_eng it_eng out_eng of_eng your_eng _eng they_eng take_eng the_eng money_eng out_eng of_eng your_eng bank_eng account_eng 
+653.888 654.457 FEL yeah_eng 
+654.426 657.996 ELE and_eng credit_eng is_eng that_eng ah_eng you_eng have_eng to_eng pay_eng for_eng everything_eng 
+657.99 660.709 ELE you_eng get_eng a_eng bill_eng of_eng the_eng things_eng you_eng paid_eng with_eng your_eng credit_eng card_eng 
+660.698 662.492 ELE and_eng then_eng you_eng have_eng to_eng pay_eng them_eng off_eng 
+662.489 664.288 ELE so_eng 
+664.196 665.85 FEL why_eng _eng isnt_eng debit_eng better_eng 
+665.827 667.179 FEL you_eng dont_eng have_eng to_eng worry_eng about_eng bills_eng 
+667.154 668.355 ELE well_eng 
+668.344 671.136 FEL you_eng just_eng have_eng to_eng worry_eng about_eng losing_eng all_eng your_eng money_eng 
+671.093 674.32 ELE well_eng it_eng really_eng depends_eng 
+674.27 678.776 ELE like_eng I_eng think_eng _eng it_eng depends_eng on_eng what_eng youre_eng paying_eng 
+678.767 688.641 ELE because_eng if_eng its_eng a_eng large_eng sum_eng and_eng they_eng take_eng it_eng out_eng of_eng your_eng bank_eng account_eng _eng and_eng then_eng you_eng have_eng st_eng other_eng stuff_eng to_eng pay_eng _eng then_eng youre_eng gonna_eng be_eng short_eng chuckles_eng in_eng money_eng 
+688.643 696.042 ELE so_eng if_eng you_eng do_eng credit_eng card_eng they_eng give_eng you_eng _eng a_eng certain_eng time_eng for_eng you_eng to_eng pay_eng them_eng off_eng 
+695.999 701.899 ELE so_eng you_eng dont_eng have_eng to_eng _eng you_eng know_eng pay_eng them_eng on_eng the_eng spot_eng 
+701.887 703.526 FEL oh_eng 
+703.497 704.879 ELE so_eng yeah_eng 
+704.861 706.324 FEL clears_throat_eng 
+706.322 710.652 ELE y_spa qué_spa pasó_spa con_spa Adrian_engspa 
+710.644 711.677 FEL what_eng about_eng him_eng 
+711.01 713.216 spa_spa te_spa siguen_spa hablando_spa o_spa no_spa 
+713.198 714.777 FEL yeah_eng sometimes_eng 
+714.769 717.671 ELE but_eng he_eng doesnt_eng hang_eng out_eng with_eng you_eng guys_eng 
+717.637 718.648 FEL yeah_eng sometimes_eng 
+718.631 719.989 FEL but_eng he_eng gets_eng annoying_eng 
+719.963 724.27 ELE so_eng you_eng guys_eng arent_eng friends_eng any_more_eng 
+724.245 726.195 FEL yeah_eng but_eng hes_eng always_eng like_eng 
+726.213 727.896 FEL he_eng always_eng gets_eng xxx_eng annoying_eng 
+727.896 729.748 FEL and_eng xxx_eng like_eng I_eng dont_eng know_eng 
+729.735 734.384 ELE what_eng about_eng David_engspa 
+734.358 736.343 FEL yeah_eng hes_eng fine_eng xxx_eng 
+736.328 739.451 FEL yeah_eng well_eng xxx_eng friends_eng with_eng Sam_engspa 
+738.848 743.192 ELE _eng whos_eng gonna_eng be_eng _eng whos_eng gonna_eng be_eng your_eng best_eng friend_eng when_eng Sam_engspa leaves_eng 
+743.182 745.121 FEL I_eng dont_eng know_eng 
+745.117 748.451 FEL well_eng I_eng dont_eng know_eng because_eng um_eng Adrian_engspa gets_eng annoying_eng 
+748.44 750.764 FEL now_eng he_eng barely_eng have_eng any_eng _eng has_eng any_eng friends_eng 
+750.561 752.627 FEL like_eng well_eng were_eng sort_eng _eng were_eng still_eng sorta_eng his_eng friends_eng 
+752.569 755.41 FEL but_eng he_eng gets_eng like_eng _eng all_eng annoying_eng so_eng not_eng really_eng 
+755.383 757.954 FEL and_eng aside_eng from_eng us_eng he_eng has_eng like_eng no_eng friends_eng at_eng all_eng 
+757.937 759.766 FEL um_eng 
+759.77 764.077 FEL oh_eng David_engspa Davidssengspaeng_eng yeah_eng Davidssengspaeng_eng my_eng friend_eng 
+764.051 766.611 FEL and_eng I_eng have_eng another_eng friend_eng named_eng Adam_engspa 
+766.595 768.354 FEL he_eng no_eng hes_eng mostly_eng Davidssengspaeng_eng friend_eng 
+768.3 768.788 FEL but_eng 
+768.762 770.208 FEL sometimes_eng mine_eng 
+770.196 771.984 FEL I_eng sometimes_eng talk_eng to_eng him_eng I_eng mean_eng 
+771.984 773.557 FEL I_eng dont_eng know_eng 
+773.544 774.832 FEL well_eng see_eng 
+774.815 776.394 ELE mmhm_eng 
+776.385 784.336 ELE so_eng tu_spa colegio_spa _eng its_eng just_eng a_eng middle_eng school_eng or_eng is_eng it_eng middle_eng school_eng and_eng high_eng school_eng _eng like_eng in_eng the_eng same_eng building_eng 
+784.319 786.573 FEL in_eng the_eng same_eng building_eng its_eng middle_eng 
+786.55 788.804 FEL but_eng like_eng right_eng next_eng to_eng us_eng is_eng the_eng elementary_eng 
+788.804 790.249 FEL and_eng then_eng theres_eng like_eng a_eng preschool_eng there_eng 
+790.24 794.008 FEL and_eng then_eng the_eng high_eng school_eng is_eng all_eng the_eng way_eng xxx_eng near_eng 
+793.973 795.117 FEL not_eng not_eng xxx_eng wait_eng 
+795.086 797.814 FEL somewhere_eng near_eng the_eng library_eng 
+797.808 799.834 FEL wherever_eng that_eng is_eng 
+799.832 803.425 ELE so_eng 
+803.399 805.314 ELE oh_eng its_eng over_eng there_eng by_eng the_eng library_eng 
+805.311 808.445 FEL yeah_eng the_eng one_eng next_eng to_eng F_i_u_eng and_eng the_eng library_eng 
+808.428 810.936 ELE so_eng tu_spa colegio_spa hasta_spa qué_spa grado_spa va_spa 
+810.949 813.155 FEL twelfth_eng 
+813.136 818.339 ELE no_engspa pero_spa the_eng building_eng like_eng to_eng what_eng grade_eng does_eng it_eng go_eng to_eng 
+818.318 820.379 FEL eighth_eng 
+820.361 823.051 ELE eighth_eng grade_eng y_spa después_spa te_spa vas_spa a_spa pasar_spa allá_spa a_spa Sheridan_engspa 
+823.039 824.229 FEL yeah_eng 
+824.209 827.744 ELE hmm_eng 
+827.7 829.255 FEL yeah_eng but_eng itll_eng be_eng the_eng same_eng people_eng 
+829.244 838.008 FEL the_eng only_eng difference_eng is_eng that_eng _eng for_eng elementary_eng _eng for_eng elementary_eng there_eng are_eng three_eng different_eng campuses_eng em_eng the_eng west_eng campus_eng east_eng campus_eng and_eng F_s_u_eng campus_eng 
+838.0 840.665 FEL east_eng campus_eng moves_eng to_eng central_eng campus_eng 
+840.682 843.733 FEL middle_eng em_eng _eng at_eng west_eng 
+843.698 847.88 FEL and_eng F_s_u_eng go_eng together_eng and_eng move_eng to_eng west_eng campus_eng middle_eng right_eng 
+847.882 848.851 FEL and_eng then_eng west_eng 
+848.66 849.612 ELE _eng which_eng is_eng where_eng you_eng are_eng 
+849.591 850.015 FEL yeah_eng 
+850.021 856.827 FEL west_eng campus_eng middle_eng and_eng the_eng east_eng _eng and_eng east_eng campus_eng and_eng no_eng and_eng central_eng campus_eng middle_eng move_eng together_eng to_eng em_eng 
+856.798 857.959 FEL whats_eng it_eng called_eng 
+857.928 861.498 FEL em_eng the_eng only_eng high_eng _eng the_eng big_eng high_eng _eng the_eng high_eng _eng the_eng big_eng high_eng school_eng 
+861.474 862.984 FEL right_eng 
+862.982 863.701 ELE mmhm_eng 
+863.69 866.315 FEL but_eng like_eng Ill_eng still_eng be_eng with_eng the_eng same_eng people_eng 
+866.304 869.102 FEL its_eng just_eng like_eng each_eng time_eng we_eng keep_eng adding_eng more_eng and_eng more_eng 
+869.093 876.729 ELE so_eng um_eng _eng what_eng classes_eng do_eng you_eng think_eng youre_eng gonna_eng take_eng _eng next_eng year_eng 
+876.721 880.929 FEL next_eng year_eng Im_eng taking_eng algebra_eng _eng for_eng math_eng which_eng is_eng a_eng ninth_eng grade_eng class_eng 
+880.927 888.917 FEL um_eng _eng Im_eng taking_eng _eng lets_eng see_eng for_eng language_eng arts_eng _eng what_eng am_eng I_eng taking_eng 
+888.921 896.452 FEL I_eng think_eng Im_eng _eng Im_eng taking_eng advanced_eng language_eng arts_eng which_eng is_eng eighth_eng grade_eng class_eng because_eng advanced_eng is_eng a_eng year_eng advanced_eng at_eng my_eng school_eng 
+896.457 902.81 FEL um_eng _eng Im_eng taking_eng nvai_eng advanced_eng science_eng _eng probably_eng 
+902.787 906.442 FEL um_eng _eng Im_eng not_eng _eng I_eng dont_eng have_eng to_eng take_eng reading_eng 
+906.401 910.96 FEL because_eng if_eng I_eng get_eng a_eng four_eng or_eng a_eng five_eng o_eng on_eng the_eng F_Cat_eng _eng um_eng I_eng dont_eng have_eng to_eng take_eng reading_eng 
+910.939 915.408 FEL because_eng _eng in_eng seventh_eng grade_eng jə_eng in_eng eighth_eng grade_eng I_eng mean_eng you_eng dont_eng have_eng to_eng take_eng reading_eng right_eng 
+915.39 921.067 FEL and_eng right_eng there_eng _eng right_eng here_eng _eng um_eng _eng right_eng now_eng Im_eng taking_eng seventh_eng grade_eng reading_eng 
+921.025 924.206 FEL so_eng and_eng next_eng xxx_eng be_eng taking_eng eighth_eng grade_eng right_eng 
+924.185 928.411 FEL so_eng and_eng since_eng in_eng eighth_eng grade_eng I_eng dont_eng have_eng to_eng take_eng anything_eng I_eng get_eng an_eng extra_eng elective_eng 
+928.373 930.178 ELE so_eng what_eng are_eng you_eng gonna_eng do_eng 
+930.149 931.368 ELE dont_eng say_eng P_e_eng 
+931.364 932.641 FEL why_eng Im_eng taking_eng P_e_eng 
+932.644 933.758 ELE you_eng dont_eng even_eng like_eng it_eng 
+933.752 935.842 ELE you_eng say_eng it_eng tires_eng you_eng too_eng much_eng 
+934.083 934.873 FEL _eng yeah_eng I_eng do_eng 
+935.827 937.104 FEL no_eng I_eng never_eng said_eng that_eng 
+937.098 938.886 ELE what_eng other_eng elective_eng is_eng there_eng 
+938.883 943.776 FEL um_eng Im_eng gonna_eng take_eng P_e_eng and_eng I_eng dont_eng know_eng 
+943.763 946.381 ELE what_eng other_eng elective_eng is_eng there_eng 
+946.354 949.372 FEL theres_eng band_eng which_eng Im_eng never_eng gonna_eng join_eng 
+949.369 953.682 FEL um_eng _eng art_eng which_eng everyone_eng hates_eng the_eng teacher_eng 
+953.68 957.007 FEL Spanish_eng I_eng speak_eng Spanish_eng already_eng 
+956.997 961.171 FEL um_eng _eng 
+961.163 965.145 ELE so_eng you_eng wouldnt_eng take_eng art_eng class_eng just_eng because_eng you_eng dont_eng like_eng the_eng teacher_eng 
+965.145 966.48 ELE do_eng you_eng even_eng know_eng the_eng teacher_eng 
+966.467 967.558 FEL yeah_eng 
+967.552 970.902 ELE its_eng the_eng same_eng one_eng for_eng every_eng elective_eng 
+970.87 972.948 FEL for_eng every_eng art_eng elective_eng 
+972.979 977.705 ELE well_eng I_eng think_eng you_eng should_eng take_eng that_eng class_eng 
+976.55 978.372 FEL _eng yeah_eng I_eng might_eng take_eng art_eng 
+978.359 979.381 FEL or_eng and_eng P_e_eng 
+978.696 980.031 ELE _eng I_eng think_eng art_eng is_eng better_eng 
+980.013 980.675 ELE because_eng 
+980.64 982.173 FEL Ill_eng take_eng art_eng and_eng P_e_eng 
+982.157 985.669 FEL but_eng _eng if_eng I_eng _eng if_eng I_eng could_eng only_eng pick_eng one_eng of_eng them_eng Ill_eng pick_eng P_e_eng 
+985.638 988.256 ELE uhk_eng no_eng 
+988.233 990.758 FEL why_eng dont_eng _eng why_eng dont_eng you_eng want_eng me_eng to_eng take_eng P_e_eng 
+990.757 992.58 ELE because_eng you_eng said_eng you_eng didnt_eng even_eng like_eng it_eng 
+992.585 993.787 FEL I_eng never_eng said_eng that_eng 
+993.781 994.368 FEL I_eng said_eng uh_eng 
+994.347 997.232 ELE so_eng does_eng everybody_eng have_eng to_eng take_eng P_e_eng or_eng 
+997.238 998.997 FEL no_eng I_eng _eng I_eng wanna_eng take_eng P_e_eng 
+998.999 1002.832 ELE well_eng how_eng come_eng um_eng Marissa_engspa took_eng P_e_eng 
+1002.832 1003.795 ELE does_eng she_eng like_eng it_eng 
+1003.764 1005.72 FEL no_eng she_eng _eng a_eng she_eng weighs_eng like_eng two_eng tons_eng 
+1005.691 1006.538 FEL so_eng you_eng know_eng what_eng she_eng did_eng 
+1006.523 1008.92 FEL the_eng first_eng day_eng she_eng feinted_eng in_eng P_e_eng 
+1008.885 1010.226 ELE so_eng whyd_eng she_eng take_eng it_eng 
+1010.189 1011.368 FEL she_eng didnt_eng want_eng to_eng 
+1011.356 1021.458 FEL but_eng she_eng had_eng to_eng because_eng um_eng _eng um_eng yeah_eng she_eng was_eng taking_eng wheel_eng which_eng is_eng one_eng quarter_eng P_e_eng one_eng quarter_eng research_eng one_eng quarter_eng of_eng computers_eng and_eng one_eng quarter_eng of_eng art_eng 
+1021.839 1023.389 FEL um_eng and_eng she_eng had_eng that_eng 
+1023.221 1026.1 FEL and_eng with_eng the_eng quarter_eng P_e_eng she_eng had_eng her_eng first_eng quarter_eng she_eng feinted_eng 
+1026.074 1028.355 FEL on_eng the_eng first_eng day_eng she_eng feinted_eng like_eng five_eng times_eng 
+1028.34 1030.941 ELE pretended_eng then_eng 
+1030.935 1031.631 FEL what_eng 
+1031.626 1032.763 ELE pretended_eng 
+1032.761 1034.462 FEL no_eng she_eng actually_eng feinted_eng 
+1034.462 1036.645 ELE how_eng can_eng you_eng feint_eng five_eng times_eng 
+1036.653 1037.745 FEL like_eng not_eng on_eng the_eng same_eng day_eng 
+1037.727 1041.415 FEL but_eng like_eng _eng the_eng first_eng day_eng he_eng put_eng us_eng to_eng run_eng for_eng some_eng reason_eng like_eng a_eng lot_eng 
+1041.415 1043.534 FEL we_eng had_eng to_eng run_eng like_eng two_eng miles_eng the_eng first_eng day_eng 
+1043.52 1048.78 FEL and_eng we_eng _eng she_eng _eng she_eng collapsed_eng like_eng she_eng just_eng collapsed_eng was_eng on_eng the_eng floor_eng 
+1051.555 1053.691 FEL I_eng think_eng twice_eng in_eng the_eng same_eng day_eng both_eng 
+1053.68 1062.647 FEL she_eng like_eng collapsed_eng a_eng f_eng few_eng times_eng until_eng she_eng finally_eng realized_eng that_eng _eng shell_eng get_eng an_eng F_eng if_eng she_eng doesnt_eng _eng if_eng she_eng keeps_eng on_eng like_eng feinting_eng in_eng the_eng middle_eng of_eng class_eng 
+1062.64 1067.743 ELE uhuh_eng 
+1067.728 1069.533 spa_spa qué_spa hora_spa son_spa 
+1069.51 1071.344 ELE four_eng seventeen_eng 
+1071.348 1074.744 ELE I_eng go_eng to_eng work_eng at_eng five_eng thirty_eng today_eng 
+1074.723 1075.924 FEL hmm_eng 
+1075.843 1077.492 ELE xxx_eng Im_eng gonna_eng do_eng Q_a_eng 
+1077.483 1080.008 FEL yeah_eng 
+1079.991 1082.295 ELE didnt_eng I_eng already_eng explain_eng it_eng to_eng you_eng 
+1082.287 1087.948 ELE Q_a_eng means_eng quality_eng and_eng as_eng assertion_eng I_eng think_eng or_eng accuracy_eng 
+1085.702 1087.304 FEL _eng ok_eng I_eng dont_eng need_eng to_eng know_eng that_eng part_eng 
+1088.258 1088.816 ELE yeah_eng 
+1088.496 1090.528 FEL what_eng do_eng you_eng do_eng in_eng Q_a_eng 
+1090.508 1093.799 ELE I_eng have_eng to_eng 
+1093.776 1095.111 FEL what_eng do_eng you_eng have_eng to_eng do_eng 
+1093.958 1095.938 ELE _eng I_eng have_eng to_eng um_eng 
+1095.926 1097.017 ELE hold_eng on_eng 
+1097.015 1098.53 FEL what_eng do_eng you_eng have_eng to_eng do_eng _eng laughs_eng 
+1098.454 1100.091 ELE give_eng me_eng my_eng phone_eng thank_eng you_eng laughs_eng 
+1099.57 1101.515 FEL ok_eng fine_eng _eng laughs_eng 
+1101.497 1103.053 FEL dont_eng take_eng my_eng glasses_eng 
+1102.493 1109.496 ELE um_eng I_eng have_eng to_eng like_eng put_eng them_eng the_eng _eng the_eng food_eng _eng like_eng on_eng trays_eng 
+1103.19 1104.176 FEL _eng mm_eng thanks_eng 
+1105.082 1106.551 FEL _eng what_eng do_eng you_eng have_eng xxx_eng 
+1109.456 1115.522 ELE and_eng like_eng uh_eng check_eng them_eng to_eng see_eng if_eng theyre_eng accurate_eng how_eng the_eng people_eng ordered_eng it_eng 
+1115.528 1117.861 ELE and_eng then_eng send_eng it_eng to_eng the_eng tables_eng 
+1117.87 1122.276 ELE but_eng have_eng to_eng do_eng it_eng like_eng every_eng ticket_eng has_eng to_eng be_eng under_eng fifteen_eng 
+1122.263 1128.43 ELE and_eng has_eng to_eng be_eng cooked_eng properly_eng the_eng way_eng they_eng want_eng it_eng with_eng dressings_eng they_eng ask_eng for_eng it_eng 
+1127.549 1130.753 FEL so_eng if_eng it_eng _eng if_eng its_eng like_eng bad_eng you_eng get_eng blamed_eng for_eng it_eng 
+1133.44 1141.21 ELE if_eng the_eng people_eng didnt_eng like_eng how_eng it_eng was_eng cooked_eng or_eng how_eng it_eng was_eng made_eng or_eng if_eng it_eng was_eng missing_eng something_eng they_eng just_eng send_eng it_eng back_eng 
+1141.208 1142.955 ELE and_eng well_eng fix_eng it_eng for_eng them_eng 
+1142.939 1146.393 ELE and_eng meanwhile_eng manager_eng goes_eng and_eng talks_eng to_eng them_eng 
+1146.396 1147.522 ELE and_eng tells_eng them_eng 
+1147.441 1148.973 ELE _eng oh_eng well_eng fix_eng it_eng for_eng you_eng 
+1149.049 1150.326 ELE and_eng like_eng apologizes_eng 
+1150.32 1153.922 ELE and_eng makes_eng sure_eng that_eng the_eng customer_eng is_eng satisfied_eng 
+1153.907 1155.898 ELE so_eng _eng yeah_eng 
+1155.608 1156.102 FEL _eng hmm_eng 
+1155.888 1159.743 ELE that_eng it_eng _eng its_eng way_eng fun_eng that_eng To_Gos_engspa 
+1159.74 1161.644 ELE To_Go_engspa I_eng dont_eng wanna_eng do_eng To_Go_engspa any_more_eng 
+1161.627 1163.966 FEL why_eng dont_eng you_eng get_eng tips_eng at_eng To_Go_engspa 
+1163.964 1166.222 ELE so_eng I_eng get_eng _eng I_eng would_eng get_eng tips_eng as_eng server_eng 
+1166.21 1168.271 ELE I_eng would_eng get_eng _eng triple_eng 
+1168.268 1171.089 ELE what_eng to_eng get_eng s_eng on_eng a_eng Friday_eng night_eng 
+1169.087 1169.777 FEL _eng yeah_eng I_eng know_eng 
+1169.76 1170.457 FEL _eng but_eng youd_eng also_eng 
+1170.433 1171.983 FEL _eng yup_eng yeah_eng but_eng you_eng also_eng get_eng tips_eng 
+1171.983 1173.22 FEL um_eng whats_eng it_eng called_eng 
+1173.212 1177.137 FEL ah_eng j_eng at_eng To_Go_engspa you_eng dont_eng gotta_eng s_eng Q_a_eng 
+1177.088 1180.356 ELE well_eng I_eng get_eng paid_eng more_eng in_eng Q_a_eng 
+1180.31 1181.482 ELE so_eng 
+1181.45 1182.025 FEL you_eng do_eng 
+1182.037 1183.192 FEL how_eng much_eng _eng an_eng hour_eng 
+1182.687 1183.018 ELE _eng yeah_eng 
+1183.186 1185.514 ELE I_eng get_eng paid_eng eight_eng for_eng To_Go_engspa 
+1185.482 1189.76 ELE and_eng I_eng get_eng paid_eng ten_eng _eng for_eng _eng Q_a_eng 
+1189.735 1192.84 FEL yeah_eng but_eng how_eng much_eng tips_eng do_eng you_eng make_eng in_eng like_eng a_eng day_eng in_eng To_Go_engspa 
+1192.82 1194.764 ELE like_eng thirty_eng five_eng maybe_eng 
+1194.753 1196.593 FEL yeah_eng thirty_eng five_eng and_eng xxx_eng 
+1194.979 1196.425 ELE _eng if_eng its_eng a_eng good_eng night_eng 
+1196.416 1200.113 ELE if_eng its_eng a_eng good_eng night_eng around_eng thirty_eng five_eng dollars_eng 
+1200.093 1202.171 FEL yeah_eng j_eng but_eng you_eng st_eng _eng you_eng make_eng 
+1200.691 1201.387 ELE _eng but_eng not_eng always_eng 
+1201.382 1202.815 ELE its_eng not_eng consistent_eng 
+1202.103 1206.311 FEL you_eng make_eng like_eng ten_eng dollars_eng more_eng in_eng _eng in_eng To_Go_engspa per_eng day_eng right_eng 
+1206.303 1207.36 ELE huh_eng 
+1207.162 1210.042 FEL you_eng w_eng _eng you_eng will_eng make_eng like_eng ten_eng dollars_eng more_eng a_eng day_eng in_eng To_Go_engspa 
+1210.027 1211.925 ELE maybe_eng 
+1211.89 1214.259 ELE but_eng I_eng dont_eng always_eng do_eng Q_a_eng 
+1214.233 1217.37 ELE I_eng asked_eng jahə_eng yesterday_eng 
+1217.358 1218.844 ELE I_eng went_eng in_eng at_eng four_eng 
+1218.844 1221.242 ELE but_eng I_eng had_eng to_eng work_eng at_eng six_eng 
+1221.234 1223.347 ELE so_eng I_eng didnt_eng know_eng 
+1223.323 1224.659 ELE I_eng thought_eng it_eng was_eng at_eng four_eng oclock_eng 
+1224.641 1226.197 ELE so_eng I_eng was_eng two_eng hours_eng early_eng 
+1226.196 1226.898 ELE so_eng I_eng was_eng like_eng 
+1226.904 1228.106 FEL youre_eng always_eng like_eng five_eng minutes_eng late_eng 
+1228.088 1230.816 FEL and_eng to_eng _eng and_eng you_eng _eng and_eng you_eng go_eng like_eng two_eng hours_eng early_eng 
+1230.825 1232.01 ELE well_eng I_eng didnt_eng know_eng 
+1232.01 1234.732 ELE I_eng didnt_eng know_eng it_eng was_eng uh_eng until_eng six_eng 
+1234.729 1236.557 FEL how_eng about_eng checking_eng the_eng schedule_eng 
+1235.187 1239.19 ELE _eng so_eng yesterday_eng _eng I_eng um_eng did_eng a_eng Starbucks_engspa run_eng 
+1239.202 1240.972 ELE I_eng went_eng to_eng go_eng get_eng coffee_eng for_eng everybody_eng 
+1240.946 1244.62 ELE and_eng then_eng when_eng I_eng came_eng back_eng I_eng started_eng helping_eng out_eng one_eng of_eng the_eng managers_eng 
+1244.617 1255.548 ELE and_eng I_eng was_eng doing_eng prep_eng work_eng which_eng is_eng like_eng you_eng know_eng making_eng the_eng sauces_eng and_eng _eng cooking_eng the_eng meat_eng and_eng cutting_eng it_eng up_eng into_eng pieces_eng and_eng stuff_eng like_eng that_eng 
+1255.039 1257.291 FEL isnt_eng that_eng what_eng the_eng k_eng d_eng _eng what_eng the_eng chefs_eng do_eng 
+1257.293 1259.772 FEL the_eng cutting_eng the_eng ʧikaʧikaʧik_eng 
+1257.874 1258.344 ELE _eng yeah_eng 
+1258.675 1261.026 ELE but_eng managers_eng do_eng that_eng too_eng 
+1261.036 1262.905 ELE so_eng I_eng started_eng helping_eng him_eng 
+1262.905 1267.749 ELE and_eng then_eng I_eng started_eng to_eng ask_eng him_eng questions_eng about_eng how_eng much_eng they_eng get_eng paid_eng and_eng stuff_eng 
+1267.755 1280.024 ELE and_eng he_eng says_eng they_eng get_eng paid_eng like_eng _eng like_eng a_eng thousand_eng like_eng h_eng _eng eleven_eng hundred_eng around_eng there_eng _eng um_eng _eng every_eng two_eng weeks_eng 
+1280.371 1284.341 ELE so_eng _eng I_eng mean_eng for_eng my_eng age_eng _eng thats_eng not_eng bad_eng 
+1284.347 1286.564 ELE if_eng I_eng can_eng get_eng a_eng manager_eng position_eng 
+1286.522 1288.357 FEL yeah_eng but_eng you_eng _eng I_eng dont_eng really_eng think_eng 
+1288.351 1290.423 FEL where_eng are_eng you_eng gonna_eng get_eng a_eng manager_eng position_eng 
+1290.403 1292.649 ELE they_eng could_eng start_eng training_eng me_eng 
+1292.638 1296.431 ELE and_eng then_eng eventually_eng just_eng tell_eng corporate_eng that_eng theyre_eng training_eng me_eng 
+1295.265 1296.414 FEL _eng manager_eng of_eng what_eng 
+1296.391 1299.185 FEL To_Go_engspa _eng general_eng manager_eng 
+1298.001 1298.987 ELE _eng well_eng no_eng 
+1298.983 1305.672 ELE I_eng mean_eng if_eng they_eng really_eng train_eng me_eng as_eng manager_eng Im_eng probably_eng not_eng gonna_eng stay_eng at_eng that_eng store_eng 
+1305.658 1311.39 ELE because_eng theyre_eng always_eng moving_eng the_eng managers_eng to_eng other_eng st_eng _eng to_eng other_eng restaurants_eng 
+1311.381 1314.893 ELE s_eng I_eng mean_eng _eng to_eng other_eng stores_eng of_eng Chilis_engspa 
+1312.629 1313.459 FEL other_eng Chilis_engspa 
+1314.727 1316.091 FEL other_eng Chilis_engspa yeah_eng 
+1315.714 1318.466 ELE they_eng call_eng them_eng stores_eng instead_eng of_eng restaurants_eng 
+1318.451 1320.297 ELE because_eng theyre_eng all_eng restaurants_eng 
+1319.136 1320.018 FEL _eng thats_eng xxx_eng 
+1320.274 1321.603 ELE but_eng theyre_eng different_eng place_eng 
+1321.576 1324.479 ELE theyre_eng _eng theyre_eng located_eng different_eng places_eng 
+1324.469 1329.011 ELE so_eng _eng they_eng could_eng move_eng me_eng which_eng is_eng not_eng what_eng I_eng really_eng want_eng 
+1328.993 1332.822 ELE but_eng _eng if_eng theyre_eng paying_eng 
+1332.83 1340.378 ELE ok_eng well_eng if_eng _eng if_eng theyre_eng paying_eng _eng I_eng mean_eng _eng for_eng that_eng amount_eng it_eng doesnt_eng sound_eng bad_eng to_eng me_eng 
+1333.712 1334.298 FEL _eng ok_eng 
+1340.371 1346.383 ELE so_eng I_eng mine_eng as_eng well_eng take_eng _eng the_eng opportunity_eng _eng if_eng they_eng offer_eng 
+1346.371 1349.86 FEL yeah_eng but_eng well_eng like_eng probably_eng where_eng would_eng you_eng get_eng moved_eng to_eng 
+1349.915 1350.762 ELE I_eng dont_eng know_eng 
+1350.757 1352.045 ELE its_eng not_eng up_eng to_eng me_eng or_eng them_eng 
+1352.022 1357.825 ELE its_eng up_eng to_eng _eng the_eng corporate_eng _eng um_eng _eng place_eng 
+1357.802 1358.969 ELE so_eng 
+1358.931 1361.845 FEL whats_eng the_eng corporate_eng place_eng 
+1361.865 1371.584 ELE its_eng like_eng _eng where_eng _eng they_eng decide_eng things_eng about_eng Chilis_engspa like_eng the_eng stuff_eng on_eng the_eng menu_eng _eng like_eng _eng uh_eng 
+1371.584 1372.205 ELE I_eng dont_eng know_eng 
+1372.211 1374.963 ELE _eng stuff_eng they_eng wanna_eng change_eng in_eng each_eng store_eng 
+1374.919 1377.299 ELE stuff_eng like_eng that_eng 
+1377.294 1378.954 ELE I_eng dont_eng know_eng 
+1378.957 1382.161 ELE yeah_eng so_eng I_eng dont_eng know_eng 
+1382.135 1383.4 ELE well_eng see_eng 
+1383.412 1387.675 ELE but_eng _eng or_eng _eng or_eng I_eng might_eng actually_eng quit_eng Chilis_engspa 
+1387.659 1389.726 FEL yeah_eng but_eng where_eng would_eng you_eng go_eng to_eng work_eng 
+1387.996 1389.836 ELE _eng I_eng was_eng talking_eng to_eng your_eng mom_eng the_eng other_eng day_eng 
+1389.819 1394.337 ELE I_eng might_eng like_eng look_eng for_eng a_eng job_eng _eng at_eng um_eng 
+1394.382 1396.733 FEL B_c_c_eng 
+1395.897 1397.099 ELE _eng ah_eng whats_eng it_eng called_eng 
+1397.076 1398.399 ELE yeah_eng B_c_c_eng 
+1398.384 1401.457 ELE like_eng theres_eng this_eng department_eng called_eng 
+1401.44 1404.104 FEL the_eng find_eng what_eng department_eng 
+1404.09 1409.855 ELE theres_eng this_eng department_eng called_eng something_eng department_eng of_eng visual_eng arts_eng and_eng something_eng else_eng 
+1409.829 1416.722 ELE and_eng uh_eng _eng I_eng might_eng see_eng if_eng they_eng have_eng anything_eng over_eng there_eng 
+1416.708 1419.831 ELE so_eng well_eng see_eng 
+1419.837 1421.439 ELE I_eng dont_eng know_eng 
+1421.413 1423.631 ELE but_eng you_eng know_eng 
+1423.62 1427.835 ELE well_eng see_eng 
+1427.838 1436.812 ELE yeah_eng I_eng met_eng get_eng a_eng job_eng there_eng or_eng I_eng was_eng thinking_eng maybe_eng in_eng the_eng summer_eng to_eng work_eng less_eng or_eng 
+1436.342 1438.815 FEL _eng why_eng s_eng work_eng less_eng in_eng the_eng summer_eng xxx_eng 
+1438.191 1439.683 ELE because_eng um_eng 
+1439.386 1441.331 FEL arent_eng you_eng supposed_eng to_eng work_eng more_eng in_eng the_eng summer_eng 
+1441.328 1442.176 ELE no_eng 
+1442.164 1444.887 ELE I_eng wanna_eng work_eng less_eng because_eng I_eng wanna_eng get_eng into_eng dance_eng 
+1444.867 1448.239 ELE cl_eng I_eng wanna_eng do_eng _eng I_eng wanna_eng get_eng into_eng dance_eng classes_eng 
+1448.158 1450.44 FEL sigh_eng 
+1450.409 1452.556 ELE I_eng dont_eng care_eng what_eng you_eng think_eng xxx_eng 
+1452.545 1453.851 ELE its_eng not_eng up_eng to_eng you_eng 
+1453.493 1455.398 FEL wait_eng what_eng type_eng of_eng dance_eng classes_eng 
+1453.888 1455.183 ELE _eng its_eng up_eng to_eng me_eng 
+1455.386 1459.817 FEL like_eng ballet_eng dancing_eng that_eng you_eng stand_eng on_eng your_eng toes_eng and_eng then_eng your_eng toes_eng start_eng bleeding_eng 
+1457.431 1459.55 ELE _eng no_eng like_eng modern_eng 
+1459.738 1460.795 ELE like_eng modern_eng 
+1460.783 1461.851 FEL good_eng Im_eng like_eng 
+1461.851 1464.469 ELE like_eng hip_hopish_eng popish_eng 
+1464.473 1465.78 ELE I_eng dont_eng know_eng 
+1465.652 1467.904 ELE something_eng will_eng come_eng up_eng 
+1467.884 1468.876 ELE but_eng I_eng have_eng to_eng see_eng 
+1468.876 1473.308 ELE I_eng think_eng _eng I_eng get_eng _eng the_eng other_eng day_eng I_eng saw_eng like_eng _eng theres_eng a_eng place_eng in_eng Silver_lakes_engspa 
+1473.304 1474.232 ELE but_eng I_eng dont_eng know_eng 
+1474.215 1476.589 ELE it_eng looked_eng like_eng for_eng young_eng kids_eng 
+1476.575 1478.293 ELE so_eng I_eng dont_eng know_eng 
+1478.113 1481.883 ELE I_eng have_eng to_eng look_eng for_eng a_eng place_eng where_eng _eng _eng where_eng to_eng go_eng 
+1481.867 1485.217 ELE but_eng maybe_eng well_eng see_eng 
+1484.853 1487.134 FEL yeah_eng but_eng it_eng wouldnt_eng be_eng like_eng every_eng single_eng day_eng 
+1487.113 1489.406 FEL it_eng would_eng probably_eng be_eng like_eng twice_eng a_eng week_eng 
+1488.239 1489.441 ELE _eng no_eng it_eng wouldnt_eng 
+1489.406 1491.275 FEL it_eng would_eng be_eng like_eng in_eng the_eng morning_eng so_eng 
+1489.749 1493.32 ELE _eng but_eng _eng _eng but_eng then_eng Im_eng gonna_eng take_eng two_eng classes_eng in_eng the_eng summer_eng 
+1492.945 1496.15 ELE Im_eng gonna_eng take_eng reading_eng and_eng English_eng 
+1496.147 1499.311 ELE so_eng 
+1499.284 1506.26 ELE I_eng wanna_eng focus_eng on_eng _eng class_eng and_eng dancing_eng not_eng so_eng much_eng on_eng work_eng 
+1506.26 1509.058 ELE because_eng Im_eng working_eng forty_eng hours_eng right_eng now_eng 
+1509.05 1511.517 ELE I_eng dont_eng ha_eng _eng I_eng dont_eng need_eng to_eng work_eng that_eng much_eng 
+1511.511 1513.897 ELE I_eng mean_eng I_eng dont_eng hardly_eng pay_eng anything_eng 
+1513.912 1517.389 ELE so_eng I_eng want_eng my_eng summer_eng like_eng to_eng relax_eng 
+1517.369 1519.599 ELE and_eng to_eng do_eng something_eng knew_eng 
+1519.587 1521.317 ELE get_eng it_eng 
+1521.311 1522.693 FEL yeah_eng sorta_eng 
+1522.68 1525.791 spa_spa y_spa tú_spa no_spa te_spa vas_spa a_spa meter_spa en_spa nada_spa 
+1525.774 1527.196 spa_spa no_spa sé_spa 
+1527.158 1528.505 spa_spa quiero_spa hacer_spa algún_spa deporte_spa 
+1528.505 1529.822 spa_spa pero_spa no_spa sé_spa cuál_spa 
+1529.791 1532.339 ELE you_eng wanna_eng do_eng deporte_spa 
+1532.345 1534.469 ELE why_eng dont_eng you_eng play_eng baseball_eng 
+1534.449 1535.389 FEL no_eng 
+1535.412 1536.393 FEL baseball_eng 
+1535.691 1536.672 ELE _eng you_eng dont_eng like_eng it_eng 
+1536.68 1538.521 FEL first_eng of_eng all_eng I_eng dont_eng like_eng it_eng 
+1538.492 1544.299 FEL second_eng of_eng all_eng baseballs_eng like_eng one_eng of_eng those_eng sports_eng like_eng you_eng need_eng to_eng start_eng playing_eng when_eng youre_eng like_eng _eng five_eng years_eng old_eng 
+1543.858 1544.879 ELE no_eng you_eng dont_eng 
+1544.865 1546.375 FEL yeah_eng because_eng baseballs_eng like_eng 
+1546.375 1547.112 ELE no_eng you_eng dont_eng 
+1547.1 1548.331 ELE who_eng told_eng you_eng that_eng lie_eng 
+1548.217 1551.806 FEL Alberto_engspa started_eng playing_eng when_eng he_eng was_eng nine_eng _eng which_eng is_eng still_eng kinda_eng young_eng 
+1551.797 1553.683 FEL and_eng most_eng people_eng 
+1553.683 1557.743 FEL well_eng baseballs_eng like_eng one_eng of_eng those_eng sports_eng that_eng you_eng need_eng to_eng start_eng playing_eng when_eng youre_eng like_eng really_eng really_eng young_eng 
+1557.725 1558.462 ELE no_eng you_eng dont_eng 
+1558.457 1559.113 FEL yeah_eng you_eng do_eng 
+1559.088 1559.604 ELE no_eng you_eng dont_eng 
+1559.593 1560.725 ELE you_eng can_eng catch_eng up_eng 
+1560.707 1562.031 FEL no_eng you_eng cant_eng 
+1562.027 1564.135 ELE xxx_eng yes_eng you_eng can_eng 
+1564.123 1566.741 ELE you_eng can_eng play_eng anything_eng you_eng want_eng if_eng you_eng put_eng your_eng mind_eng to_eng it_eng 
+1566.715 1568.944 FEL yeah_eng thats_eng what_eng everyone_eng says_eng 
+1567.301 1568.317 ELE _eng seriously_eng 
+1568.918 1571.518 ELE but_eng uh_eng lets_eng see_eng 
+1571.485 1573.162 ELE you_eng _eng you_eng already_eng played_eng soccer_eng 
+1573.133 1574.434 ELE apparently_eng you_eng sucked_eng at_eng it_eng 
+1574.416 1575.055 FEL yeah_eng I_eng liked_eng it_eng 
+1575.031 1575.833 FEL but_eng I_eng sucked_eng at_eng it_eng 
+1575.655 1578.111 ELE baseball_eng youre_eng not_eng even_eng considering_eng it_eng 
+1578.096 1580.94 ELE football_eng theyd_eng kill_eng you_eng in_eng the_eng field_eng 
+1580.943 1582.365 FEL shut_eng up_eng laughs_eng 
+1581.442 1583.253 ELE _eng basketball_eng I_eng dont_eng know_eng 
+1583.242 1584.008 ELE I_eng dont_eng even_eng 
+1583.892 1584.566 FEL too_eng short_eng 
+1584.571 1591.305 ELE yeah_eng I_eng dont_eng even_eng think_eng youre_eng _eng youre_eng the_eng type_eng of_eng kid_eng thats_eng like_eng _eng for_eng sports_eng 
+1591.293 1593.035 ELE no_eng offence_eng 
+1593.01 1597.106 ELE but_eng yeah_eng I_eng think_eng youre_eng more_eng _eng artistic_eng _eng person_eng 
+1597.1 1602.24 ELE I_eng think_eng you_eng should_eng pursue_eng something_eng like_eng _eng music_eng 
+1602.217 1602.809 FEL no_eng 
+1602.803 1605.09 ELE _eng or_eng _eng art_eng 
+1605.071 1606.354 FEL no_eng 
+1606.325 1608.008 ELE something_eng like_eng that_eng 
+1607.985 1612.836 ELE because_eng I_eng dont_eng see_eng you_eng _eng _eng I_eng dont_eng really_eng see_eng you_eng playing_eng sports_eng 
+1612.841 1613.416 ELE sorry_eng 
+1613.402 1617.5 ELE yeah_eng 
+1617.486 1619.065 ELE its_eng up_eng to_eng you_eng though_eng 
+1619.03 1621.178 ELE I_eng mean_eng you_eng could_eng play_eng golf_eng laughs_eng 
+1621.155 1621.823 FEL no_eng 
+1621.825 1624.605 ELE but_eng uh_eng I_eng dont_eng think_eng so_eng either_eng 
+1624.59 1626.186 ELE what_eng else_eng 
+1626.171 1627.448 ELE ah_eng 
+1627.448 1631.117 ELE pingpongs_eng a_eng sport_eng laughs_eng 
+1631.126 1633.193 ELE you_eng could_eng play_eng that_eng 
+1633.042 1637.009 FEL I_eng meant_eng something_eng that_eng like_eng involves_eng running_eng or_eng something_eng like_eng that_eng 
+1638.836 1646.423 ELE well_eng ok_eng if_eng you_eng get_eng into_eng sport_eng it_eng involves_eng you_eng actually_eng _eng training_eng and_eng practicing_eng 
+1646.394 1648.971 ELE and_eng youre_eng not_eng really_eng that_eng type_eng of_eng person_eng 
+1648.948 1649.824 FEL why_eng not_eng 
+1649.824 1656.593 ELE because_eng _eng based_eng on_eng experience_eng Ive_eng seen_eng that_eng you_eng _eng want_eng to_eng do_eng something_eng 
+1656.599 1660.201 ELE but_eng you_eng dont_eng want_eng to_eng like_eng _eng practice_eng 
+1660.197 1661.109 FEL says_eng who_eng 
+1661.08 1662.09 FEL xxx_eng 
+1661.422 1662.421 ELE _eng you_eng dont_eng like_eng to_eng 
+1662.281 1663.965 FEL _eng what_eng experience_eng 
+1663.079 1665.807 ELE _eng practice_eng and_eng see_eng if_eng youre_eng in_eng 
+1665.792 1667.656 ELE youre_eng not_eng _eng you_eng dont_eng really_eng try_eng to_eng get_eng better_eng 
+1667.65 1668.759 ELE like_eng you_eng expect_eng 
+1667.94 1668.735 FEL _eng like_eng what_eng 
+1668.72 1670.171 ELE you_eng expect_eng to_eng learn_eng something_eng 
+1670.165 1671.292 ELE and_eng thats_eng that_eng 
+1671.271 1673.546 ELE like_eng piano_eng lessons_eng when_eng you_eng took_eng that_eng 
+1673.529 1675.642 FEL that_eng was_eng like_eng five_eng or_eng ten_eng years_eng ago_eng 
+1675.639 1679.106 ELE yeah_eng but_eng I_eng mean_eng _eng you_eng could_eng go_eng back_eng to_eng it_eng now_eng 
+1679.095 1680.395 ELE and_eng itd_eng be_eng the_eng same_eng for_eng you_eng 
+1680.383 1681.869 ELE you_eng dont_eng want_eng _eng you_eng dont_eng practice_eng 
+1681.855 1683.313 ELE you_eng dont_eng anything_eng 
+1683.318 1684.073 FEL no_eng 
+1683.533 1684.375 ELE _eng and_eng like_eng 
+1684.352 1685.6 FEL what_eng 
+1685.579 1685.98 ELE I_eng dont_eng know_eng 
+1685.974 1687.251 ELE its_eng just_eng _eng youre_eng not_eng 
+1686.763 1687.559 FEL _eng but_eng that_eng was_eng boring_eng 
+1687.547 1688.94 FEL I_eng didnt_eng really_eng like_eng it_eng 
+1688.926 1691.933 ELE its_eng not_eng boring_eng 
+1691.904 1693.111 FEL yeah_eng it_eng is_eng 
+1691.981 1694.042 ELE _eng just_eng its_eng not_eng probably_eng not_eng your_eng thing_eng 
+1694.019 1700.146 ELE but_eng _eng its_eng up_eng to_eng you_eng 
+1700.144 1703.877 ELE so_eng _eng whatever_eng you_eng want_eng 
+1703.856 1709.698 ELE xxx_eng 
+1709.706 1713.595 ELE oh_eng I_eng thought_eng it_eng was_eng time_eng 
+1713.599 1715.584 ELE like_eng seven_eng minutes_eng 
+1715.563 1716.88 FEL oh_eng 
+1716.886 1719.887 ELE so_eng xxx_eng said_eng xxx_eng en_spa la_spa tarde_spa 
+1719.866 1720.911 FEL oh_eng I_eng dont_eng know_eng 
+1720.888 1721.852 FEL anything_eng 
+1721.828 1723.814 FEL playing_eng X_Box_eng 
+1723.817 1728.223 ELE hums_eng play_eng X_Box_eng 
+1728.221 1731.81 spa_spa ay_spa qué_spa te_spa iba_spa a_spa preguntar_spa 
+1731.805 1733.768 spa_spa bueno_spa un_spa amigo_spa me_spa invitó_spa a_spa su_spa casa_spa 
+1733.751 1734.796 spa_spa pero_spa sigo_spa castigado_spa 
+1734.801 1735.904 spa_spa entonces_spa no_spa puedo_spa ir_spa 
+1735.245 1737.039 spa_spa quién_spa quién_spa te_spa invitó_spa 
+1737.051 1738.902 FEL em_spa Adam_engspa 
+1738.881 1740.037 spa_spa te_spa invitó_spa 
+1740.031 1741.935 ELE where_eng does_eng he_eng live_eng 
+1741.927 1742.327 FEL I_eng dont_eng know_eng 
+1742.322 1743.877 spa_spa xxx_spa me_spa preguntó_spa él_spa 
+1743.877 1746.362 spa_spa dije_spa que_spa no_spa que_spa no_spa puedo_spa porque_spa estaba_spa castigado_spa 
+1746.37 1749.859 ELE oh_eng so_eng you_eng didnt_eng even_eng ask_eng him_eng 
+1749.853 1750.993 FEL xxx_eng 
+1750.975 1753.146 ELE what_eng if_eng hes_eng like_eng your_eng neighbor_eng laughs_eng 
+1753.12 1754.653 FEL nah_eng 
+1754.659 1757.155 FEL I_eng know_eng he_eng live_eng around_eng like_eng around_eng here_eng 
+1757.14 1758.603 spa_spa xxx_spa en_spa el_spa bus_spa 
+1758.588 1761.618 FEL no_spa es_spa que_spa él_spa y_spa Marco_engspa están_spa en_spa el_spa equipo_spa de_spa fútbol_spa de_spa Alberto_engspa 
+1761.614 1763.147 spa_spa era_spa que_spa hermano_spa 
+1763.147 1766.032 FEL el_spa hermano_spa de_spa él_spa está_spa en_spa el_spa equipo_spa de_spa fútbol_spa de_spa Alberto_engspa 
+1766.024 1769.379 ELE oh_eng xxx_eng soccer_eng 
+1769.333 1769.954 spa_spa sí_spa 
+1769.792 1771.365 ELE when_eng you_eng say_eng football_eng you_eng confuse_eng me_eng 
+1771.367 1773.544 spa_spa fútbol_spa 
+1773.512 1775.224 ELE e_eng well_eng its_eng the_eng same_eng thing_eng 
+1775.213 1776.699 ELE say_eng it_eng in_eng Spanish_eng or_eng English_eng 
+1776.672 1778.048 ELE it_eng sounds_eng the_eng same_eng xxx_eng 
+1778.036 1778.802 FEL no_eng 
+1778.785 1779.708 ELE yes_eng it_eng does_eng 
+1779.101 1782.59 FEL fútbol_spa football_eng fútbol_spa football_eng 
+1782.236 1783.263 spa_spa fútbol_spa 
+1783.252 1784.343 spa_spa fútbol_spa 
+1784.334 1787.388 ELE yeah_eng ok_eng whatever_eng you_eng say_eng 
+1786.061 1786.81 FEL _eng _eng spa_eng y_eng es_eng más_eng 
+1786.81 1789.157 spa_spa el_spa otro_spa es_spa fútbol_spa americano_spa 
+1789.157 1792.442 FEL football_eng is_eng fútbol_spa americano_spa en_spa español_spa 
+1792.573 1794.657 ELE ahah_eng anyways_eng 
+1794.653 1799.402 ELE en_spa el_spa equipo_spa de_spa _eng de_spa la_spa escuela_spa de_spa él_spa o_spa de_spa Penbrook_Pines_engspa 
+1798.19 1800.24 FEL _eng no_spa de_spa _eng Penbrook_Pines_engspa 
+1800.247 1802.559 ELE oh_eng 
+1802.542 1806.483 spa_spa y_spa lo_spa has_spa visto_spa _spa lo_spa has_spa visto_spa en_spa los_spa juegos_spa 
+1806.475 1808.466 spa_spa sí_spa a_spa veces_spa 
+1808.463 1810.756 spa_spa xxx_spa allí_spa 
+1810.75 1812.039 ELE during_eng the_eng games_eng 
+1812.018 1816.714 ELE does_eng he_eng actually_eng watch_eng the_eng games_eng or_eng hes_eng like_eng you_eng that_eng kind_eng of_eng stands_eng around_eng 
+1815.368 1816.714 FEL _eng I_eng watch_eng them_eng 
+1816.706 1818.622 FEL no_eng whoever_eng said_eng I_eng stand_eng around_eng 
+1818.401 1819.226 FEL I_eng dont_eng stand_eng around_eng 
+1819.243 1820.532 FEL I_eng watch_eng them_eng 
+1820.506 1825.052 ELE yeah_eng 

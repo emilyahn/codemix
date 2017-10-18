@@ -1,0 +1,825 @@
+0.6 9.917 HEN el_spa tema_spa _eng es_spa de_spa lo_spa que_eng _eng de_spa lo_eng _eng del_spa manicure_eng _eng manicure_eng y_spa pedicure_eng que_spa los_spa hombres_spa se_spa hacen_spa 
+9.901 13.181 spa_spa qué_spa piensa_spa usted_spa de_spa eso_spa 
+13.168 24.899 ETH er_engspa _eng I_eng think_eng _eng _eng I_eng think_eng its_eng a_eng little_eng _eng I_eng think_eng its_eng nice_eng _eng its_eng nice_eng to_eng _eng to_eng be_eng _eng to_eng have_eng manicures_eng and_eng pedicures_eng 
+24.882 27.662 ETH its_eng er_eng 
+27.637 29.716 spa_spa yo_spa _spa yo_spa pienso_spa que_spa está_spa bien_spa que_spa _spa que_spa es_spa bien_spa que_spa 
+29.675 30.697 spa_spa a_spa ti_spa te_spa gusta_spa eso_spa 
+29.983 32.148 ETH _eng _eng spa_eng sí_eng no_eng yo_eng a_eng mí_eng no_eng me_eng gusta_eng pero_eng 
+32.086 34.93 spa_spa yo_spa creo_spa que_spa a_spa _spa a_spa ti_spa te_spa gusta_spa no_spa 
+34.881 36.64 spa_spa no_spa a_spa mí_spa no_spa me_spa gusta_spa 
+36.645 37.789 spa_spa yo_spa estoy_spa preguntándote_spa 
+37.769 45.775 HEN pero_spa si_spa tú_spa dices_spa que_spa _eng que_spa _eng que_spa a_spa ti_spa te_spa gusta_spa y_spa te_spa parece_spa nice_eng yo_spa _eng yo_spa respeto_spa tu_spa _eng tu_spa 
+42.751 45.793 ETH _eng _eng spa_eng no_eng para_eng otra_eng persona_eng _eng _eng para_eng otra_eng persona_eng 
+45.789 48.128 HEN _eng _eng spa_eng yo_eng respeto_eng tu_eng forma_eng de_eng pensar_eng 
+45.789 48.128 ETH _eng not_eng for_eng me_eng _eng not_eng for_eng me_eng 
+48.093 49.388 ETH what_eng about_eng you_eng 
+49.377 54.923 ETH are_eng you_eng _eng are_eng you_eng what_eng they_eng call_eng a_eng metrosexual_eng _eng metrosexual_eng 
+54.888 57.576 spa_spa yo_spa no_spa yo_spa no_spa me_spa lo_spa hago_spa 
+57.561 59.505 spa_spa yo_spa no_spa me_spa lo_spa hago_spa y_spa 
+58.519 61.235 ETH _eng no_eng pero_eng er_engspa just_eng going_eng on_eng to_eng something_eng else_eng 
+61.183 62.443 ETH are_eng you_eng a_eng metrosexual_eng 
+62.408 64.771 HEN oh_eng no_eng Im_eng not_eng 
+64.132 65.665 ETH _eng _eng spa_eng tú_eng no_eng crees_eng 
+65.298 65.664 spa_spa no_spa 
+65.665 70.642 HEN yo_spa creo_spa que_spa me_spa lo_spa hago_spa simplemente_spa para_spa _eng if_eng I_eng have_eng a_eng party_eng or_eng something_eng like_eng that_eng 
+70.578 71.42 ETH if_eng you_eng have_eng a_eng party_eng 
+71.394 74.233 HEN if_eng I_eng have_eng a_eng party_eng you_eng know_eng I_eng want_eng to_eng look_eng nice_eng thats_eng it_eng 
+74.183 79.405 HEN pero_spa no_spa porque_spa necesito_spa you_eng know_eng _eng hacérmelo_spa siempre_spa 
+74.183 79.41 ETH _eng mmhm_eng mmhm_eng yo_spa nunca_spa lo_spa he_spa hecho_eng _eng yo_spa nunca_spa lo_spa he_spa hecho_spa 
+79.4 79.754 HEN ah_engspa 
+79.76 81.856 spa_spa fiestas_spa sin_spa fiestas_spa nunca_spa lo_spa he_spa hecho_spa yo_spa 
+81.844 82.215 spa_spa no_spa 
+82.198 82.958 ETH no_eng Im_eng sorry_eng 
+82.674 87.41 HEN _eng pero_spa ahora_spa mismo_spa tú_spa me_spa estabas_spa diciendo_spa que_spa te_spa gustaba_spa y_spa te_spa parecía_spa xxx_eng nice_eng 
+82.674 87.404 ETH _eng mira_spa er_engspa para_spa otros_eng para_spa otros_spa no_spa para_spa mí_spa 
+87.33 89.559 spa_spa a_spa mí_spa no_spa me_spa importa_spa _spa no_spa me_spa importa_spa 
+87.33 89.571 HEN _eng _eng spa_eng o_eng sea_eng que_eng 
+89.557 91.566 ETH I_eng dont_eng care_eng if_eng somebody_eng else_eng does_eng it_eng 
+91.53 96.179 HEN so_eng in_eng some_eng ways_eng you_eng you_eng like_eng to_eng watch_eng _eng the_eng _eng the_eng _eng the_eng xxx_eng of_eng your_eng friends_eng and_eng 
+93.573 96.139 ETH _eng I_eng dont_eng care_eng I_eng dont_eng mind_eng if_eng somebody_eng does_eng 
+96.09 97.076 HEN _eng and_eng things_eng like_eng that_eng 
+96.891 97.819 ETH _eng yeah_eng if_eng they_eng want_eng to_eng they_eng 
+97.79 99.985 ETH I_eng _eng I_eng bite_eng my_eng nails_eng so_eng I_eng dont_eng care_eng 
+99.961 101.087 HEN oh_engspa 
+101.052 101.465 ETH yeah_eng 
+101.447 104.39 HEN why_eng you_eng bite_eng your_eng nails_eng because_eng you_eng _eng you_eng _eng you_eng _eng you_eng are_eng nervous_eng 
+102.291 104.392 ETH because_eng Im_eng _eng Im_eng nervous_eng 
+104.392 105.959 ETH Im_eng always_eng nervous_eng 
+105.93 107.468 spa_spa estoy_spa nervioso_spa siempre_spa 
+107.444 107.937 spa_spa sí_spa 
+107.908 108.936 spa_spa siempre_spa 
+108.93 110.079 HEN oh_eng my_eng god_eng 
+110.073 110.358 ETH yeah_eng 
+110.34 113.151 HEN y_spa ese_spa _eng ese_spa tipo_spa de_spa nervios_spa why_eng is_eng that_eng 
+113.081 115.797 ETH er_engspa _eng could_eng be_eng anything_eng 
+115.78 116.825 ETH could_eng be_eng life_eng 
+116.807 117.881 ETH could_eng be_eng about_eng business_eng 
+117.869 119.558 ETH it_eng could_eng be_eng about_eng my_eng children_eng 
+119.538 122.284 HEN something_eng about_eng it_eng related_eng to_eng your_eng nails_eng also_eng 
+122.243 124.838 ETH no_eng _eng my_eng nails_eng no_eng nada_spa 
+124.788 125.154 HEN ah_engspa 
+125.125 127.488 ETH nada_spa it_eng has_eng nothing_eng to_eng do_eng with_eng my_eng nails_eng 
+127.405 130.301 spa_spa oh_engspa parece_spa que_spa te_spa preocupa_spa mucho_spa lo_spa de_spa las_spa uñas_spa 
+130.379 131.702 spa_spa no_spa yo_spa sí_spa no_spa 
+131.691 135.215 spa_spa y_spa usted_spa cómo_spa te_spa vistes_spa 
+135.169 136.359 spa_spa cough_spa 
+136.312 137.659 spa_spa perdón_spa 
+137.659 139.006 spa_spa yo_spa me_spa visto_spa normal_spa 
+138.975 139.806 ETH mmhm_eng 
+139.776 142.336 spa_spa como_spa militar_spa y_spa todo_spa 
+142.298 144.928 spa_spa eso_spa no_spa tiene_spa nada_spa nada_spa que_spa ver_spa con_spa las_spa uñas_spa 
+142.298 144.939 ETH _eng xxx_eng 
+144.927 148.247 ETH no_eng but_eng it_eng it_eng has_eng to_eng do_eng with_eng the_eng metrosexual_eng thing_eng 
+148.259 151.991 HEN no_eng no_eng porque_spa _eng Castro_engspa vive_spa _eng viste_spa así_spa 
+151.978 155.073 ETH viejo_spa _eng you_eng know_eng what_eng I_eng feel_eng about_eng Castro_engspa too_eng right_eng 
+155.015 156.704 HEN _eng laugh_eng xxx_eng 
+155.015 155.978 ETH _eng laugh_eng 
+156.692 159.543 ETH not_eng that_eng I_eng care_eng because_eng 
+157.311 160.155 HEN _eng but_eng thats_eng why_eng you_eng _eng you_eng get_eng xxx_eng Cubans_eng so_eng 
+160.12 161.885 ETH but_eng Im_eng nice_eng so_eng I_eng dont_eng care_eng 
+160.144 162.001 HEN _eng laugh_eng 
+161.961 162.93 ETH but_eng I_eng dont_eng care_eng 
+161.961 162.93 HEN _eng laugh_eng 
+164.33 165.247 HEN no_eng but_eng 
+164.33 166.571 ETH _eng but_eng that_eng the_eng village_eng people_eng also_eng wore_eng 
+166.542 166.78 HEN what_eng 
+166.543 168.08 ETH _eng clothes_eng like_eng that_eng _eng like_eng 
+167.854 168.126 HEN _eng this_eng 
+168.097 170.129 ETH yeah_eng there_eng was_eng a_eng guy_eng that_eng was_eng military_eng 
+170.088 171.586 ETH there_eng was_eng a_eng policeman_eng 
+171.584 173.679 ETH and_eng Ive_eng seen_eng him_eng dressed_eng like_eng that_eng a_eng couple_eng of_eng times_eng 
+173.685 174.869 HEN you_eng have_eng moustache_eng yeah_eng 
+174.939 176.216 HEN I_eng see_eng you_eng _eng I_eng see_eng you_eng 
+174.94 177.487 ETH _eng you_eng know_eng why_eng are_eng you_eng getting_eng away_eng from_eng that_eng 
+177.51 179.02 spa_spa no_spa no_spa no_spa no_spa no_spa xxx_spa 
+177.51 178.956 ETH _eng _eng spa_eng no_eng no_eng no_eng 
+178.932 179.432 spa_spa xxx_spa está_spa bien_spa 
+179.321 180.059 spa_spa vamos_spa 
+179.322 180.488 ETH _eng _eng spa_eng xxx_eng vamos_eng a_eng hablar_eng 
+180.525 182.632 HEN xxx_eng people_eng also_eng have_eng a_eng lot_eng of_eng moustache_eng 
+180.525 183.48 ETH _eng xxx_eng people_eng yeah_eng not_eng that_eng much_eng 
+182.789 184.925 HEN _eng they_eng are_eng huge_eng moustache_eng you_eng know_eng 
+183.897 186.161 ETH yeah_eng but_eng mine_eng is_eng _eng mine_eng is_eng very_eng trimmed_eng 
+186.219 188.077 spa_spa el_spa mío_spa es_spa bien_spa 
+188.071 188.535 spa_spa ah_spa 
+188.535 191.467 ETH its_eng manicure_eng laughs_eng 
+190.515 192.256 HEN _eng laughs_eng 
+192.262 194.421 ETH what_eng the_eng _eng yeah_eng I_eng know_eng 
+194.502 199.247 spa_spa so_spa xxx_spa a_spa ti_spa te_spa gustaría_spa ir_spa a_spa _spa a_spa Cuba_spa con_spa las_spa uñas_spa bien_spa cortadas_spa 
+194.502 199.247 ETH _eng xxx_eng 
+199.233 200.11 spa_spa a_spa Cuba_spa 
+200.162 201.66 ETH Im_eng not_eng Cuban_eng so_eng I_eng wouldnt_eng know_eng 
+201.65 203.06 HEN but_eng your_eng wife_eng is_eng Cuban_eng 
+202.927 204.285 ETH no_eng she_eng doesnt_eng wanna_eng go_eng to_eng Cuba_eng 
+203.964 206.342 HEN now_eng que_spa _eng que_spa Fidel_engspa que_spa se_spa va_spa a_spa morir_spa 
+206.359 211.373 HEN now_eng he_eng is_eng gonna_eng be_eng dead_eng so_eng probably_eng they_eng are_eng gonna_eng open_eng the_eng tourist_eng xxx_eng 
+206.717 211.001 spa_spa no_spa y_spa el_spa hermano_spa de_spa él_spa el_spa hermano_spa todavía_spa está_spa no_spa no_spa 
+211.028 212.694 ETH Im_eng not_eng going_eng there_eng 
+212.694 212.996 HEN no_eng 
+213.048 213.64 ETH no_eng 
+213.619 215.622 HEN so_eng it_eng doesnt_eng call_eng your_eng attention_eng 
+215.593 216.278 spa_spa no_spa 
+216.289 217.491 spa_spa para_spa nada_spa 
+217.491 219.989 ETH maybe_eng para_spa visitar_spa a_spa la_spa familia_spa de_spa ella_spa pero_spa 
+219.994 221.277 HEN con_spa el_spa manicure_eng hecho_spa 
+221.295 222.937 ETH con_spa el_spa manicure_eng hecho_spa está_spa bien_spa 
+223.042 229.119 HEN so_eng al_spa comienzo_spa tú_spa estabas_spa diciendo_eng _eng you_eng _eng you_eng said_eng to_eng me_eng that_eng you_eng are_eng never_eng gonna_eng do_eng it_eng now_eng you_eng have_eng said_eng that_eng 
+223.042 229.119 ETH _eng laughs_eng 
+229.143 230.739 ETH well_eng if_eng I_eng have_eng to_eng I_eng have_eng to_eng 
+229.143 230.739 HEN _eng laughs_eng 
+230.762 232.161 spa_spa ajá_spa 
+230.762 232.161 ETH laughs_eng 
+232.173 233.577 ETH if_eng I_eng have_eng to_eng I_eng have_eng to_eng 
+233.554 234.187 ETH what_eng can_eng I_eng tell_eng you_eng 
+233.734 235.086 HEN _eng so_eng you_eng changed_eng your_eng mind_eng 
+235.086 236.961 ETH yeah_eng I_eng _eng I_eng _eng I_eng change_eng my_eng mind_eng a_eng lot_eng 
+238.217 241.011 HEN that_eng _eng thats_eng bad_eng xxx_eng 
+238.217 241.011 ETH _eng hiss_eng yeah_eng sometimes_eng I_eng have_eng friends_eng 
+241.017 242.137 ETH and_eng then_eng sometimes_eng I_eng change_eng my_eng mind_eng 
+242.16 243.263 ETH and_eng then_eng they_eng are_eng not_eng my_eng friends_eng any_more_eng 
+243.251 244.952 ETH depending_eng on_eng the_eng conversation_eng xxx_eng 
+244.439 245.831 HEN _eng what_eng about_eng your_eng friend_eng Nick_engspa xxx_eng 
+245.831 248.037 HEN your_eng friend_eng Nick_engspa does_eng the_eng manicure_eng also_eng 
+245.831 248.037 ETH _eng no_eng 
+248.017 249.213 ETH not_eng at_eng all_eng 
+248.017 249.213 HEN _eng and_eng pedicure_eng 
+249.219 249.689 ETH I_eng dont_eng know_eng 
+249.7 250.49 ETH maybe_eng he_eng does_eng 
+250.107 250.687 HEN _eng xxx_eng 
+250.693 252.017 HEN what_eng about_eng pedicure_eng 
+252.047 253.539 spa_spa no_spa sé_spa posiblemente_spa 
+252.047 253.514 HEN _eng _eng spa_eng ajá_eng 
+253.537 254.954 HEN laughing_eng 
+255.017 256.08 HEN thats_eng weird_eng man_eng 
+256.049 258.943 HEN I_eng cant_eng imagine_eng that_eng guy_eng you_eng know_eng with_eng a_eng pedicure_eng 
+258.959 259.665 ETH no_eng _eng 
+259.729 260.309 HEN huh_eng 
+260.315 261.209 ETH I_eng dont_eng think_eng so_eng 
+261.224 262.403 ETH I_eng dont_eng think_eng so_eng 
+262.403 268.96 HEN why_eng _eng why_eng you_eng are_eng like_eng a_eng so_eng I_eng dont_eng know_eng like_eng a_eng la_spa defensiva_spa 
+268.993 270.595 ETH Im_eng not_eng defensive_eng 
+269.864 271.808 HEN _eng xxx_eng 
+271.599 275.322 ETH I_eng just_eng have_eng certain_eng friends_eng _eng that_eng are_eng a_eng little_eng strange_eng 
+271.599 276.402 HEN _eng laughing_eng 
+275.663 276.562 ETH and_eng _eng tú_spa sabes_spa 
+276.568 277.897 HEN like_eng Nick_engspa or_eng 
+277.164 278.493 ETH no_eng like_eng other_eng people_eng 
+278.501 279.523 ETH I_eng wont_eng mention_eng names_eng 
+279.528 281.276 ETH xxx_eng it_eng could_eng be_eng somebody_eng in_eng this_eng room_eng 
+279.528 281.229 HEN _eng what_eng about_eng xxx_eng what_eng about_eng Mary_engspa 
+281.221 282.369 HEN I_eng mean_eng what_eng about_eng Mary_engspa 
+281.428 284.807 ETH Mary_engspa lets_eng not_eng even_eng discuss_eng Mary_engspa 
+284.82 286.684 HEN laughs_eng 
+286.66 288.164 ETH what_eng does_eng Mary_engspa have_eng to_eng do_eng with_eng manicure_eng 
+288.181 289.603 HEN xxx_eng 
+289.621 290.271 HEN Philip_engspa 
+290.286 291.668 ETH no_eng Philip_engspa yo_spa no_spa conozco_spa 
+290.286 291.668 HEN _eng laughs_eng 
+291.639 292.44 HEN xxx_eng 
+292.475 293.549 spa_spa ni_spa lo_spa conozco_spa 
+293.552 295.607 spa_spa yo_spa xxx_spa una_spa vez_spa yo_spa lo_spa vi_spa 
+293.552 296.948 HEN _eng laughs_eng 
+296.971 297.604 HEN yeah_eng 
+297.505 298.422 ETH yeah_eng thats_eng it_eng 
+298.509 299.154 spa_spa quién_spa más_spa 
+299.134 299.976 spa_spa quién_spa más_spa 
+299.945 302.668 HEN so_eng no_eng hard_eng feelings_eng xxx_eng Mary_engspa 
+302.671 304.523 ETH with_eng Mary_engspa no_eng I_eng have_eng not_eng hard_eng feelings_eng 
+304.285 305.626 HEN and_eng Philip_engspa xxx_eng 
+305.423 307.559 ETH xxx_eng 
+307.592 308.944 ETH I_eng have_eng no_eng hard_eng feelings_eng for_eng xxx_eng 
+308.323 313.207 HEN cómo_spa se_spa llamaba_spa el_spa _eng el_spa _eng el_spa _eng el_spa _eng el_spa _eng el_spa jefe_spa del_spa car_eng dealership_eng 
+313.189 316.719 ETH el_spa jefe_spa del_spa car_eng dealership_eng cuál_spa 
+316.742 319.522 spa_spa el_spa el_spa que_spa le_spa íbamos_spa a_spa hacer_spa lo_spa de_spa la_spa casa_spa 
+319.512 323.982 spa_spa ahora_spa no_spa me_spa doy_spa cuenta_spa 
+323.965 325.793 ETH xxx_eng 
+323.965 325.814 HEN _eng like_eng the_eng Chrysler_engspa 
+325.78 327.004 spa_spa ah_spa 
+327.072 328.75 spa_spa cómo_spa se_spa llamaba_spa eh_spa 
+328.755 330.114 HEN xxx_eng 
+330.125 330.82 ETH Troski_engspa 
+330.837 332.666 HEN Troski_engspa qué_spa piensas_spa tú_spa de_spa Troski_engspa 
+331.445 333.751 ETH _eng _eng spa_eng ése_eng sí_eng _eng ése_eng sí_eng xxx_eng ése_eng es_eng un_eng 
+333.186 334.237 spa_spa maricón_spa 
+334.235 336.882 spa_spa eso_spa es_spa lo_spa que_spa yo_spa iba_spa a_spa decir_spa pero_spa _spa laughing_spa 
+334.235 336.882 HEN _eng laughing_eng 
+337.158 337.96 spa_spa vamos_spa a_spa dejar_spa eso_spa 
+338.012 338.645 ETH laughing_eng 
+338.662 340.665 spa_spa él_spa se_spa hacía_spa mucho_spa las_spa uñas_spa las_spa 
+340.614 342.303 spa_spa él_spa se_spa hacía_spa xxx_spa 
+340.615 341.837 ETH _eng _eng spa_eng sí_eng él_eng es_eng medio_eng 
+341.841 342.485 spa_spa yo_spa creo_spa que_spa sí_spa 
+342.503 343.153 HEN xxx_eng 
+343.141 346.181 spa_spa o_spa sea_spa que_spa tú_spa lo_spa que_spa piensas_spa es_spa que_spa la_spa gente_spa que_spa se_spa hace_spa las_spa uñas_spa es_spa 
+345.093 346.144 ETH _eng _eng spa_eng no_eng 
+346.156 348.048 HEN xxx_eng 
+346.156 348.06 spa_spa no_spa yo_spa sé_spa lo_spa que_spa me_spa vas_spa a_spa preguntar_spa no_spa 
+348.112 349.755 spa_spa carece_spa de_spa algún_spa gusto_spa 
+348.112 349.735 ETH _eng I_eng dont_eng think_eng so_eng 
+349.795 355.207 ETH I_eng think_eng that_eng its_eng you_eng know_eng its_eng ok_eng if_eng you_eng want_eng to_eng do_eng it_eng for_eng you_eng yourself_eng 
+355.211 355.826 ETH thats_eng it_eng 
+355.861 359.617 spa_spa so_spa tú_spa en_spa cierta_spa manera_spa no_spa apoyas_spa eso_spa lo_spa de_spa las_spa uñas_spa 
+359.636 360.687 ETH I_eng _eng I_eng dont_eng care_eng 
+360.692 361.122 HEN uh_engspa 
+361.145 362.045 ETH I_eng dont_eng care_eng 
+362.101 365.156 spa_spa so_spa si_spa ahora_spa mismo_spa la_spa señora_spa que_spa está_spa ahí_spa te_spa viene_spa y_spa te_spa dice_spa 
+365.16 368.2 HEN _eng mire_spa quiero_spa hacerle_spa las_spa uñas_spa a_spa usted_spa y_spa el_spa pedicure_eng 
+365.16 368.2 ETH _eng _eng spa_eng está_eng bien_eng 
+368.183 369.704 spa_spa usted_spa se_spa lo_spa hace_spa 
+368.506 369.783 ETH el_spa pedicure_eng no_eng 
+369.792 370.431 HEN uh_engspa 
+370.46 371.662 ETH laughing_eng el_spa pedicure_eng no_eng 
+371.325 372.875 spa_spa pero_spa sí_spa son_spa uñas_spa de_spa todos_spa modos_spa 
+371.326 373.122 ETH _eng yeah_eng I_eng know_eng yeah_eng but_eng give_eng me_eng a_eng break_eng 
+373.169 374.458 spa_spa eso_spa no_spa me_spa importa_spa tampoco_spa 
+374.463 374.922 spa_spa ah_spa 
+375.018 377.19 spa_spa no_spa yo_spa no_spa _spa yo_spa no_spa estoy_spa interesado_spa xxx_spa 
+376.127 377.457 HEN nails_eng are_eng nails_eng 
+377.456 377.909 ETH thats_eng ok_eng 
+377.898 379.268 ETH you_eng can_eng do_eng it_eng 
+379.308 381.003 spa_spa tú_spa dices_spa que_spa tú_spa te_spa comes_spa las_spa uñas_spa 
+381.044 381.717 spa_spa sí_spa 
+381.701 383.762 spa_spa o_spa sea_spa que_spa muchas_spa veces_spa te_spa comes_spa las_spa u_spa 
+382.441 383.625 ETH _eng _eng spa_eng no_eng yo_eng no_eng me_eng lo_eng como_eng 
+383.625 384.774 spa_spa me_spa lo_spa muerdo_spa 
+384.757 385.668 spa_spa te_spa lo_spa muerdes_spa 
+384.757 385.668 ETH _eng xxx_eng 
+385.674 386.37 spa_spa es_spa diferente_spa 
+386.351 389.358 spa_spa te_spa gusta_spa _spa te_spa gusta_spa la_spa sensación_spa de_spa morderte_spa las_spa uñas_spa 
+386.424 389.292 ETH _eng _eng spa_eng xxx_eng diferente_eng 
+389.292 392.032 ETH laughing_eng no_eng not_eng at_eng all_eng 
+392.007 394.149 spa_spa entonces_spa te_spa comerías_spa las_spa uñas_spa de_spa los_spa pies_spa también_spa 
+394.16 394.921 spa_spa no_spa 
+394.897 397.19 spa_spa no_spa 
+394.897 397.156 HEN _eng _eng spa_eng no_eng 
+396.803 398.626 ETH I_eng cant_eng reach_eng that_eng far_eng 
+398.632 402.962 HEN laughs_eng 
+398.632 402.962 ETH _eng laughs_eng 
+403.022 404.653 HEN wow_engspa so_spa qué_spa vas_spa a_spa hacer_spa ahora_spa de_spa noche_spa 
+404.674 405.214 spa_spa adónde_spa te_spa vas_spa 
+405.235 406.454 ETH I_eng have_eng to_eng go_eng pick_eng up_eng my_eng daughter_eng 
+406.472 407.685 ETH shes_eng at_eng church_eng 
+407.607 409.477 ETH at_eng around_eng eight_eng thirty_eng 
+409.471 412.774 ETH which_eng means_eng I_eng only_eng have_eng a_eng little_eng bit_eng of_eng time_eng 
+412.779 415.734 HEN its_eng Sunday_eng night_eng after_eng that_eng what_eng are_eng you_eng gonna_eng do_eng 
+412.779 415.651 ETH _eng xxx_eng 
+415.651 419.83 ETH after_eng that_eng Im_eng gonna_eng turn_eng off_eng my_eng phone_eng so_eng that_eng you_eng cant_eng reach_eng me_eng 
+419.811 422.243 ETH and_eng er_engspa chill_eng out_eng at_eng home_eng 
+422.243 425.18 HEN oh_engspa yeah_eng hay_spa un_spa lugar_spa por_spa aquí_spa que_spa es_spa lo_spa de_spa los_spa bolos_spa 
+425.196 426.745 spa_spa los_spa qué_spa 
+426.77 429.452 spa_spa los_spa bolos_spa como_spa para_spa jugar_spa a_spa bolos_spa 
+429.452 431.159 spa_spa bolos_spa 
+429.452 434.001 HEN _eng _eng spa_eng tú_eng me_eng dijiste_eng que_eng había_eng un_eng lugar_eng en_eng el_eng centro_eng cerca_eng de_eng aquí_eng como_eng para_eng jugar_eng a_eng bolos_eng 
+434.013 435.69 ETH yeah_eng no_eng know_eng xxx_eng 
+435.696 437.037 spa_spa sí_spa hay_spa 
+437.033 437.91 HEN uh_engspa 
+437.95 438.658 spa_spa sí_spa hay_spa 
+438.629 439.338 spa_spa sí_spa hay_spa 
+439.336 439.812 ETH yeah_engspa 
+439.812 440.369 spa_spa en_spa dónde_spa 
+439.995 443.31 ETH _eng theres_eng one_eng _eng er_engspa theres_eng one_eng on_eng university_eng 
+443.31 443.89 HEN mmhm_eng 
+443.879 446.114 ETH and_eng er_engspa right_eng off_eng of_eng xxx_eng 
+446.166 446.706 HEN mmhm_eng 
+446.692 448.938 spa_spa y_spa cuánto_spa cuesta_spa la_spa entrada_spa para_spa ir_spa 
+448.246 449.134 ETH _eng no_eng you_eng dont_eng pay_eng by_eng 
+449.122 450.132 ETH you_eng pay_eng by_eng the_eng game_eng 
+450.148 450.767 ETH you_eng dont_eng pay_eng 
+450.761 451.887 HEN how_eng much_eng is_eng a_eng game_eng 
+451.918 455.401 ETH a_eng game_eng could_eng be_eng depending_eng on_eng the_eng day_eng Sundays_eng is_eng cheaper_eng 
+455.405 458.267 ETH during_eng the_eng week_eng its_eng like_eng two_eng dollars_eng and_eng fifty_eng cents_eng a_eng game_eng 
+460.198 461.899 HEN so_eng its_eng better_eng for_eng us_eng to_eng go_eng 
+461.388 462.311 ETH _eng to_eng go_eng Sunday_eng morning_eng 
+462.386 463.257 HEN Sunday_eng morning_eng 
+462.386 463.257 ETH _eng yeah_eng 
+463.255 464.184 ETH and_eng you_eng go_eng with_eng the_eng kids_eng 
+463.452 464.996 HEN xxx_eng what_eng about_eng shoes_eng 
+464.95 466.459 ETH they_eng _eng you_eng can_eng rent_eng shoes_eng there_eng 
+466.488 468.142 HEN so_eng how_eng much_eng are_eng these_eng shoes_eng 
+468.148 470.261 ETH shoes_eng are_eng probably_eng another_eng dollar_eng in_eng change_eng 
+470.267 471.532 spa_spa so_spa puedo_spa usar_spa los_spa tuyos_spa 
+471.484 473.074 ETH er_engspa no_eng 
+471.484 473.074 HEN _eng xxx_eng 
+473.092 474.856 ETH your_eng _eng your_eng feet_eng are_eng too_eng small_eng 
+474.86 475.615 HEN uh_engspa 
+475.62 477.066 ETH your_eng feet_eng are_eng too_eng small_eng 
+476.942 478.266 HEN I_eng dont_eng think_eng so_eng 
+478.26 478.753 ETH yeah_eng 
+478.753 480.036 ETH yeah_eng they_eng are_eng too_eng small_eng 
+480.024 481.18 HEN qué_spa size_eng are_eng you_eng 
+481.259 482.019 ETH ten_eng and_eng a_eng half_eng 
+481.299 482.106 HEN _eng xxx_eng 
+482.083 483.441 HEN ten_eng and_eng a_eng half_eng 
+483.433 484.774 HEN wow_engspa 
+484.815 486.493 HEN Im_eng ten_eng and_eng a_eng half_eng too_eng 
+486.382 487.317 ETH wow_engspa 
+487.342 488.567 HEN I_eng didnt_eng know_eng that_eng 
+488.584 489.246 ETH laughing_eng 
+489.258 491.955 HEN seriously_eng I_eng didnt_eng know_eng that_eng you_eng are_eng ten_eng and_eng a_eng half_eng 
+491.974 493.083 ETH depending_eng on_eng the_eng day_eng 
+493.089 495.236 ETH sometimes_eng I_eng _eng sometimes_eng Im_eng a_eng ten_eng 
+493.373 495.254 HEN _eng you_eng lied_eng to_eng me_eng _eng you_eng lied_eng 
+495.265 498.828 ETH no_eng right_eng now_eng depending_eng on_eng the_eng shoe_eng its_eng a_eng ten_eng or_eng a_eng ten_eng and_eng a_eng half_eng 
+498.835 500.501 ETH depending_eng on_eng the_eng shoe_eng 
+500.623 503.638 ETH some_eng shoes_eng I_eng have_eng to_eng get_eng a_eng little_eng bit_eng bigger_eng _eng 
+502.415 504.098 HEN Im_eng selling_eng xxx_eng shoes_eng right_eng now_eng 
+504.086 504.766 ETH yeah_eng well_eng 
+504.767 506.706 HEN are_eng you_eng planning_eng to_eng buy_eng some_eng 
+506.004 506.863 ETH _eng no_eng 
+506.846 507.798 ETH not_eng at_eng all_eng 
+506.846 507.798 HEN _eng brand_eng new_eng 
+507.914 508.773 ETH what_eng kind_eng 
+508.759 509.514 HEN good_eng prize_eng 
+509.519 511.772 HEN you_eng are_eng xxx_eng 
+509.519 511.967 ETH _eng _eng spa_eng de_eng qué_eng marca_eng _eng de_eng qué_eng marca_eng 
+511.996 515.558 spa_spa tú_spa no_spa eres_spa un_spa tipo_spa de_spa marcas_spa así_spa que_spa tú_spa no_spa te_spa preocupes_spa por_spa la_spa marca_spa 
+514.839 516.702 spa_spa no_spa medio_spa me_spa interesa_spa 
+515.601 517.888 spa_spa tú_spa me_spa lo_spa has_spa dicho_spa muy_spa bien_spa que_spa a_spa ti_spa las_spa marcas_spa no_spa te_spa llenan_spa 
+517.865 520.93 spa_spa bueno_spa me_spa interesa_spa _spa me_spa interesa_spa saber_spa cuáles_spa son_spa 
+520.912 523.936 spa_spa yo_spa tengo_spa diferentes_spa ahí_spa 
+520.912 524.01 ETH _eng _eng spa_eng yo_eng no_eng quiero_eng xxx_eng ni_eng nada_eng de_eng eso_eng 
+524.045 525.455 spa_spa cuáles_spa son_spa xxx_spa 
+524.045 526.254 spa_spa de_spa los_spa _spa de_spa los_spa ochenta_spa _spa laughing_spa 
+526.411 528.094 spa_spa y_spa tú_spa tienes_spa por_spa ahí_spa xxx_spa _spa laughing_spa 
+526.411 528.094 HEN _eng _eng spa_eng no_eng 
+528.096 529.652 spa_spa no_spa no_spa no_spa no_spa no_spa no_spa 
+528.096 529.652 ETH _eng laughing_eng 
+529.634 532.113 spa_spa no_spa es_spa ningún_spa _spa nada_spa de_spa ese_spa tipo_spa de_spa zapatos_spa 
+532.121 534.768 spa_spa son_spa zapatos_spa de_spa ahora_spa que_spa _spa que_spa tengo_spa demasiados_spa zapatos_spa ahí_spa 
+534.539 534.986 spa_spa pues_spa 
+535.019 535.675 spa_spa me_spa la_spa enseñas_spa 
+535.679 537.246 spa_spa me_spa gustaría_spa venderlos_spa 
+535.679 537.246 ETH _eng _eng spa_eng y_eng esto_eng me_eng interesa_eng esto_eng 
+537.256 538.08 spa_spa qué_spa cosa_spa 
+538.125 541.074 ETH un_spa _eng un_spa _eng un_spa rack_eng de_spa estos_spa para_spa _eng para_spa vino_spa 
+538.125 541.027 HEN _eng _eng spa_eng coughs_eng 
+541.023 543.885 spa_spa porque_spa yo_spa veo_spa aquí_spa que_spa tienes_spa tres_spa o_spa cuatro_spa botellas_spa solamente_spa 
+541.023 543.895 HEN _eng xxx_eng 
+543.93 548.357 spa_spa y_spa tú_spa coges_spa como_spa ciento_spa cincuenta_spa no_spa 
+543.93 551.871 HEN _eng bueno_spa la_spa _eng la_spa ma_eng _eng la_spa mayoría_spa de_spa la_spa gente_spa está_spa trayendo_spa what_eng they_eng xxx_eng regalar_spa todos_spa mis_spa amigos_spa 
+551.871 553.995 spa_spa ah_spa exactamente_spa lo_spa que_spa tú_spa dijiste_spa 
+551.871 553.995 HEN _eng yeah_eng 
+553.97 555.131 spa_spa todos_spa tus_spa amigos_spa 
+555.131 555.99 spa_spa tú_spa eres_spa amigo_spa mío_spa 
+556.023 557.492 spa_spa ay_spa yo_spa no_spa sabía_spa 
+557.474 558.571 ETH I_eng didnt_eng know_eng 
+558.594 560.963 spa_spa para_spa _spa para_spa ponerlas_spa ahí_spa las_spa botellas_spa 
+560.984 565.626 spa_spa es_spa más_spa yo_spa creo_spa que_spa xxx_spa salen_spa las_spa botellas_spa a_spa tres_spa noventa_spa y_spa nueve_spa las_spa botellas_spa 
+565.645 569.993 spa_spa yo_spa _spa yo_spa espero_spa hasta_spa que_spa que_spa esté_spa más_spa tú_spa sabes_spa que_spa estén_spa en_spa sale_spa 
+568.83 570.107 spa_spa ah_spa 
+570.144 573.911 ETH if_eng its_eng on_eng sale_eng Ill_eng bring_eng you_eng a_eng _eng Ill_eng bring_eng you_eng a_eng bottle_eng 
+572.698 574.172 HEN oh_eng well_eng Ill_eng be_eng waiting_eng for_eng you_eng 
+574.174 574.807 ETH its_eng alright_eng 
+574.818 577.448 ETH you_eng know_eng what_eng wine_eng you_eng cant_eng save_eng it_eng forever_eng 
+577.467 580.909 ETH wine_eng doesnt_eng get_eng much_eng better_eng with_eng age_eng in_eng the_eng bottle_eng 
+580.921 583.847 ETH thats_eng only_eng _eng thats_eng only_eng in_eng the_eng _eng in_eng the_eng barrel_eng 
+583.881 584.963 ETH here_eng it_eng gets_eng 
+584.98 585.961 ETH so_eng you_eng might_eng as_eng well_eng drink_eng it_eng 
+585.971 586.29 ETH if_eng you_eng want_eng 
+586.337 587.033 ETH xxx_eng 
+586.337 588.003 HEN so_eng what_eng about_eng _eng what_eng about_eng xxx_eng 
+587.103 588.241 ETH Ill_eng bring_eng one_eng up_eng now_eng 
+588.276 590.035 HEN what_eng about_eng those_eng places_eng 
+590.048 592.771 ETH wait_eng wait_eng lets_eng open_eng a_eng bottle_eng _eng a_eng bottle_eng while_eng we_eng are_eng talking_eng here_eng 
+592.15 594.257 HEN those_eng _eng those_eng are_eng expensive_eng bottles_eng 
+594.104 594.679 ETH but_eng you_eng cant_eng 
+594.679 595.468 ETH you_eng dont_eng understand_eng 
+595.485 596.292 ETH you_eng cannot_eng say_eng 
+596.275 597.308 ETH it_eng gets_eng bad_eng 
+596.582 598.185 HEN _eng lets_eng do_eng that_eng with_eng a_eng cheaper_eng bottle_eng 
+598.179 598.972 HEN bring_eng a_eng cheaper_eng bottle_eng 
+598.949 600.307 HEN but_eng we_eng are_eng saving_eng it_eng for_eng xxx_eng 
+598.949 601.317 ETH _eng but_eng they_eng are_eng getting_eng bad_eng already_eng why_eng 
+600.17 602.822 HEN _eng well_eng save_eng it_eng for_eng seven_eng years_eng then_eng when_eng we_eng drink_eng it_eng 
+602.805 603.171 ETH no_eng 
+603.161 603.852 ETH its_eng xxx_eng 
+603.892 607.503 ETH thats_eng you_eng are_eng talking_eng about_eng in_eng a_eng barrel_eng not_eng in_eng a_eng bottle_eng 
+603.892 607.503 HEN _eng laughing_eng 
+607.474 608.414 ETH big_eng difference_eng 
+608.403 610.661 HEN so_eng what_eng about_eng those_eng places_eng that_eng they_eng have_eng this_eng 
+608.403 610.574 ETH _eng _eng spa_eng mira_eng vamos_eng a_eng abrir_eng 
+610.608 611.978 ETH mmhm_eng eso_spa se_spa vende_spa 
+612.015 614.267 spa_spa se_spa vende_spa 
+614.314 616.607 spa_spa cada_spa semana_spa se_spa vende_spa 
+616.548 620.71 HEN what_eng about_eng those_eng house_eng that_eng they_eng have_eng er_eng special_eng you_eng know_eng 
+620.716 622.539 ETH not_eng _eng not_eng three_eng dollar_eng bottles_eng of_eng wine_eng 
+626.918 627.893 HEN those_eng are_eng not_eng 
+627.533 627.957 ETH _eng let_eng me_eng see_eng 
+627.992 628.804 ETH you_eng dont_eng mind_eng 
+628.781 630.383 HEN xxx_eng you_eng _eng you_eng can_eng do_eng it_eng 
+630.058 630.958 ETH _eng let_eng me_eng see_eng 
+633.663 635.596 ETH ninety_eng two_eng 
+635.609 636.654 HEN ok_eng 
+636.677 638.239 spa_spa mira_spa 
+638.138 638.457 spa_spa mira_spa 
+638.455 640.551 spa_spa ya_spa se_spa _spa se_spa a_spa _spa _spa se_spa está_spa abriendo_spa solo_spa 
+638.899 641.18 HEN _eng _eng spa_eng xxx_eng ok_eng xxx_eng 
+640.443 641.064 spa_spa mira_spa 
+641.205 641.965 spa_spa ah_spa ok_spa 
+641.965 643.132 HEN I_eng know_eng what_eng you_eng mean_eng 
+642.163 643.434 spa_spa se_spa está_spa abriendo_spa solo_spa 
+643.382 644.438 spa_spa vamos_spa a_spa abrirlo_spa 
+644.459 645.376 ETH come_eng on_eng 
+645.388 647.031 HEN we_eng are_eng not_eng drinking_eng wine_eng right_eng now_eng 
+647.027 648.71 HEN we_eng are_eng _eng we_eng are_eng doing_eng light_eng 
+647.588 648.923 ETH _eng but_eng thats_eng fine_eng 
+648.917 650.189 ETH this_eng is_eng part_eng of_eng the_eng conversation_eng 
+650.191 651.172 ETH we_eng are_eng having_eng a_eng conversation_eng 
+650.191 650.934 HEN _eng no_eng I_eng know_eng 
+650.835 652.838 HEN but_eng you_eng dont_eng wanna_eng be_eng drinking_eng by_eng yourself_eng 
+651.16 652.838 ETH _eng I_eng dont_eng mind_eng 
+652.85 653.912 ETH thats_eng ok_eng with_eng me_eng too_eng 
+653.39 654.713 HEN so_eng thats_eng selfish_eng 
+654.719 655.723 ETH Im_eng _eng Im_eng not_eng selfish_eng 
+655.729 657.285 ETH Ill_eng _eng Ill_eng offer_eng you_eng some_eng 
+657.348 658.84 ETH if_eng you_eng wanna_eng drink_eng it_eng fine_eng 
+658.84 660.651 ETH if_eng you_eng dont_eng wanna_eng drink_eng it_eng thats_eng ok_eng with_eng me_eng too_eng 
+660.67 661.489 HEN no_eng no_eng leave_eng it_eng 
+661.477 661.866 HEN you_eng know_eng what_eng 
+661.855 662.22 HEN leave_eng it_eng there_eng 
+661.959 662.708 ETH _eng ok_eng 
+662.238 664.078 HEN one_eng of_eng these_eng days_eng Im_eng gonna_eng invite_eng you_eng you_eng know_eng 
+664.082 666.044 HEN Im_eng gonna_eng bring_eng the_eng xxx_eng 
+665.301 667.396 ETH _eng they_eng sell_eng this_eng _eng this_eng in_eng _eng in_eng a_eng 
+667.344 668.714 HEN Im_eng gonna_eng bring_eng you_eng xxx_eng 
+668.623 669.395 HEN what_eng 
+669.395 670.318 ETH in_eng xxx_eng 
+670.316 670.879 HEN no_eng 
+670.856 671.726 ETH two_eng ninety_eng nine_eng 
+671.736 672.502 HEN no_eng xxx_eng 
+672.496 673.222 ETH yes_eng 
+673.263 675.259 HEN but_eng from_eng this_eng year_eng probably_eng 
+675.269 676.175 ETH laughing_eng 
+675.269 677.33 HEN _eng xxx_eng 
+677.333 678.187 HEN that_eng 
+677.647 679.208 ETH _eng in_eng ninety_eng two_eng it_eng was_eng a_eng dollar_eng ninety_eng nine_eng 
+679.255 680.015 HEN no_eng 
+680.021 682.802 HEN xxx_eng is_eng impossible_eng 
+682.105 683.109 ETH _eng ok_eng 
+683.165 687.625 ETH and_eng where_eng did_eng you_eng get_eng your_eng degree_eng of_eng _eng of_eng _eng of_eng 
+687.619 689.912 ETH where_eng did_eng you_eng become_eng a_eng wine_eng connoisseur_eng 
+689.937 692.317 spa_spa cuándo_spa abrimos_spa una_spa botella_spa 
+692.34 694.633 ETH no_eng where_eng did_eng you_eng become_eng a_eng wine_eng connoisseur_eng 
+694.676 698.451 ETH should_eng I_eng take_eng five_eng minutes_eng to_eng explain_eng 
+698.489 700.463 HEN ok_eng explain_eng me_eng 
+699.424 701.543 ETH ok_eng I_eng _eng I_eng explain_eng 
+701.585 704.644 ETH a_eng connoisseur_eng is_eng somebody_eng who_eng knows_eng a_eng lot_eng about_eng something_eng 
+704.627 707.256 ETH so_eng when_eng did_eng you_eng become_eng a_eng wine_eng conoisseur_eng 
+707.193 707.674 ETH when_eng did_eng you_eng 
+707.769 708.895 ETH how_eng do_eng you_eng know_eng xxx_eng 
+708.239 710.167 HEN Im_eng just_eng trying_eng to_eng xxx_eng 
+710.159 710.786 ETH ok_eng 
+710.159 711.506 HEN _eng Im_eng just_eng trying_eng to_eng xxx_eng 
+711.331 711.993 ETH forget_eng about_eng that_eng 
+711.331 713.009 HEN _eng you_eng know_eng you_eng _eng you_eng 
+712.057 713.473 ETH _eng where_eng can_eng I_eng get_eng one_eng of_eng these_eng racks_eng 
+713.444 714.924 HEN can_eng _eng can_eng I_eng tell_eng you_eng something_eng 
+714.977 716.056 HEN lets_eng do_eng something_eng 
+716.06 720.64 HEN when_eng we_eng close_eng _eng when_eng we_eng do_eng one_eng of_eng the_eng closing_eng _eng 
+720.64 721.702 ETH oh_eng my_eng god_eng 
+721.72 723.229 HEN I_eng open_eng one_eng of_eng those_eng bottles_eng 
+721.72 723.235 ETH _eng oh_eng my_eng god_eng 
+723.26 725.408 ETH I_eng guess_eng well_eng never_eng open_eng one_eng 
+725.388 727.147 ETH how_eng about_eng one_eng of_eng these_eng racks_eng 
+727.191 729.85 HEN you_eng need_eng to_eng talk_eng to_eng my_eng wife_eng about_eng it_eng 
+729.862 730.599 ETH no_eng 
+730.581 731.957 ETH didnt_eng you_eng have_eng two_eng of_eng them_eng 
+731.986 732.543 HEN no_eng 
+732.584 733.519 ETH what_eng happened_eng to_eng the_eng other_eng one_eng 
+733.548 734.378 ETH there_eng was_eng another_eng one_eng 
+734.379 735.941 HEN no_eng its_eng just_eng the_eng one_eng 
+735.964 736.864 spa_spa no_spa habían_spa dos_spa 
+736.876 737.555 spa_spa no_spa 
+737.558 741.535 HEN if_eng my_eng wife_eng says_eng get_eng one_eng for_eng him_eng I_eng get_eng one_eng for_eng him_eng 
+741.626 742.688 spa_spa ah_spa 
+742.728 744.928 spa_spa no_spa consígame_spa uno_spa 
+745.035 745.604 ETH I_eng dont_eng need_eng 
+745.637 746.188 ETH you_eng dont_eng need_eng your_eng wife_eng 
+746.2 747.047 ETH xxx_eng you_eng have_eng asthma_eng 
+746.525 747.163 HEN yeah_eng 
+747.161 748.589 spa_spa todo_spa xxx_spa mira_spa 
+747.747 749.123 ETH _eng you_eng have_eng asthma_eng 
+749.133 750.52 HEN mira_spa listen_eng 
+749.133 750.543 ETH Im_eng gonna_eng ask_eng my_eng wife_eng 
+750.584 751.391 ETH is_eng that_eng what_eng it_eng is_eng 
+751.391 752.424 HEN listen_eng 
+751.971 753.51 spa_spa eso_spa es_spa lo_spa que_spa tú_spa tienes_spa asma_spa 
+752.672 755.034 HEN _eng _eng spa_eng no_eng no_eng no_eng escúchame_eng 
+754.992 757.917 spa_spa de_spa esas_spa dos_spa líneas_spa no_spa más_spa cuestan_spa cincuenta_spa dólares_spa 
+757.909 758.879 spa_spa eso_spa no_spa importa_spa 
+758.356 760.307 HEN _eng _eng spa_eng sabes_eng cuántas_eng líneas_eng hay_eng ahí_eng 
+760.326 761.603 spa_spa qué_spa me_spa importa_spa 
+761.607 764.771 ETH I_eng just_eng need_eng one_eng whole_eng rack_eng like_eng this_eng 
+764.794 766.39 spa_spa eso_spa no_spa cuesta_spa cincuenta_spa dólares_spa 
+766.396 769.391 spa_spa xxx_spa tú_spa no_spa eres_spa materialista_spa 
+769.443 770.088 spa_spa no_spa 
+770.062 774.428 spa_spa ok_spa imagínate_spa 
+774.429 779.89 spa_spa eso_spa no_spa es_spa escogerlo_spa y_spa soplar_spa y_spa hacer_spa botellas_spa xxx_spa adentro_spa 
+779.911 780.381 ETH mmhm_eng 
+780.41 782.668 spa_spa eso_spa vamos_spa _spa vamos_spa a_spa tener_spa que_spa hablar_spa algo_spa 
+782.66 784.077 spa_spa yo_spa te_spa doy_spa _spa yo_spa te_spa consigo_spa uno_spa 
+784.044 787.609 spa_spa yo_spa voy_spa a_spa tratar_spa de_spa conseguirte_spa uno_spa porque_spa xxx_spa 
+784.044 787.556 ETH _eng _eng spa_eng xxx_eng mira_eng xxx_eng mira_eng 
+787.624 788.936 spa_spa tú_spa me_spa dices_spa consígueme_spa 
+788.899 790.292 spa_spa y_spa yo_spa te_spa voy_spa a_spa abrir_spa la_spa puerta_spa 
+790.315 791.523 spa_spa y_spa xxx_spa voy_spa a_spa ir_spa a_spa conseguir_spa 
+791.511 792.179 ETH mmhm_eng 
+792.237 793.31 HEN xxx_eng 
+793.322 795.342 HEN you_eng know_eng yo_spa tengo_spa que_spa ir_spa 
+795.356 798.517 spa_spa y_spa tratar_spa de_spa conseguir_spa 
+795.356 798.517 ETH _eng _eng spa_eng y_eng tratar_eng _eng laughing_eng 
+801.787 804.185 spa_spa eso_spa yo_spa traté_spa de_spa conseguirlo_spa también_spa 
+802.154 804.58 ETH _eng laughing_eng 
+804.603 805.48 spa_spa no_spa se_spa me_spa hizo_spa 
+805.002 806.139 ETH _eng _eng spa_eng qué_eng hiciste_eng para_eng conseguirlo_eng 
+805.948 806.819 spa_spa no_spa se_spa me_spa hizo_spa fácil_spa 
+807.082 807.459 spa_spa no_spa 
+807.296 811.352 spa_spa eso_spa fue_spa una_spa amiga_spa que_spa tenía_spa un_spa _spa tenía_spa algunos_spa de_spa esos_spa 
+811.379 814.078 ETH mmhm_eng mmhm_eng ok_eng 
+814.107 815.489 spa_spa y_spa no_spa tiene_spa más_spa 
+815.477 818.618 spa_spa y_spa qué_spa _spa qué_spa consigo_spa yo_spa si_spa yo_spa te_spa consigo_spa uno_spa de_spa esos_spa 
+815.477 818.668 ETH _eng laughing_eng 
+818.662 820.984 ETH Ill_eng get_eng you_eng new_eng binoculars_eng 
+821.024 825.155 HEN qué_spa tan_spa fuerte_spa son_spa los_spa binoculars_eng 
+824.091 825.357 ETH _eng Ill_eng get_eng you_eng new_eng binoculars_eng 
+825.324 827.733 HEN hey_eng pero_spa qué_spa tan_spa fuertes_spa son_spa los_spa binoculars_eng 
+827.725 828.874 ETH yeah_eng well_eng dont_eng worry_eng about_eng it_eng 
+828.88 830.383 ETH Ill_eng get_eng you_eng really_eng strong_eng ones_eng 
+829.426 830.749 HEN _eng _eng spa_eng no_eng no_eng no_eng no_eng no_eng 
+830.732 833.663 HEN porque_spa tú_spa me_spa puedes_eng _eng you_eng can_eng xxx_eng you_eng know_eng 
+833.651 834.534 ETH oh_eng I_eng dont_eng know_eng 
+834.255 835.805 HEN you_eng _eng you_eng can_eng tell_eng me_eng 
+834.836 838.011 ETH _eng I_eng dont_eng know_eng _eng I_eng dont_eng know_eng what_eng the_eng strength_eng is_eng 
+836.734 838.051 HEN _eng let_eng me_eng you_eng know_eng what_eng 
+838.045 839.665 spa_spa me_spa interesa_spa 
+838.434 839.984 ETH xxx_eng so_eng that_eng you_eng can_eng do_eng your_eng bird_eng watching_eng 
+840.017 843.593 HEN yeah_eng laughing_eng 
+840.017 843.593 ETH _eng laughing_eng 
+843.632 846.203 ETH you_eng know_eng theres_eng a_eng lot_eng of_eng nice_eng birds_eng over_eng here_eng by_eng the_eng water_eng over_eng here_eng 
+845.211 848.738 HEN _eng _eng spa_eng ver_eng me_eng interesa_eng so_eng déjame_eng 
+848.725 850.658 spa_spa yo_spa _spa yo_spa te_spa voy_spa a_spa chequear_spa 
+850.692 851.575 spa_spa ok_spa 
+851.576 853.237 HEN but_eng si_spa me_spa dice_spa la_spa tipa_spa 
+853.231 854.502 HEN _eng _eng spa_eng oh_eng te_eng la_eng vendo_eng en_eng treinta_eng 
+854.519 856.035 HEN _eng _eng spa_eng oh_eng te_eng la_eng vendo_eng en_eng cincuenta_eng 
+855.605 856.127 ETH _eng _eng spa_eng no_eng 
+856.102 856.834 spa_spa no_spa lo_spa quieras_spa 
+856.263 858.056 spa_spa dicen_spa _spa dicen_spa _spa dicen_spa 
+858.056 858.77 spa_spa págalo_spa 
+858.774 859.721 spa_spa y_spa me_spa lo_spa regalas_spa 
+859.707 861.1 spa_spa como_spa un_spa amigo_spa 
+861.123 863.534 spa_spa mira_spa yo_spa vine_spa aquí_spa hoy_spa para_spa arreglarte_spa el_spa _spa el_spa _spa el_spa 
+863.55 865.291 ETH cuántas_spa veces_spa yo_spa he_spa arreglado_spa el_spa _eng el_spa disposal_eng 
+864.765 866.489 HEN _eng _eng spa_eng eso_eng fue_eng para_eng atraerte_eng 
+865.68 866.463 spa_spa no_spa no_spa no_spa espera_spa 
+866.492 868.199 spa_spa eso_spa fue_spa para_spa atraete_spa para_spa 
+866.492 868.205 ETH _eng xxx_eng 
+868.228 871.32 spa_spa eso_spa _spa eso_spa nunca_spa _spa nunca_spa se_spa dañó_spa ahora_spa 
+871.316 871.856 spa_spa ah_spa 
+871.589 872.396 spa_spa eso_spa fue_spa para_spa atraerte_spa 
+872.396 873.481 spa_spa eso_spa fue_spa para_spa xxx_spa 
+873.052 874.317 spa_spa no_spa no_spa pues_spa 
+874.334 875.176 spa_spa pues_spa me_spa voy_spa ahora_spa mismo_spa 
+875.217 877.016 HEN laughing_eng 
+875.786 876.65 ETH _eng _eng spa_eng vamos_eng a_eng dejar_eng esto_eng 
+876.668 877.661 ETH _eng _eng spa_eng me_eng voy_eng ahora_eng mismo_eng 
+877.275 882.03 spa_spa no_spa pero_spa si_spa tu_spa hubieras_spa venido_spa para_spa eso_spa no_spa hubiera_spa xxx_spa _spa laughing_spa 
+880.515 883.668 ETH _eng _eng spa_eng no_eng pero_eng xxx_eng 
+883.705 886.846 spa_spa pero_spa cuántas_spa veces_spa ah_spa pero_spa te_spa tengo_spa que_spa cobrar_spa por_spa eso_spa 
+883.705 886.846 HEN _eng laughing_eng 
+886.828 887.896 spa_spa no_spa 
+887.908 889.04 spa_spa por_spa el_spa tiempo_spa 
+889.05 894.702 spa_spa no_spa porque_spa eso_spa de_spa ahí_spa es_spa por_spa los_spa chicos_spa porque_spa eso_spa se_spa pudre_spa y_spa se_spa daña_spa los_spa _spa los_spa niños_spa 
+893.73 894.799 ETH _eng _eng spa_eng pero_eng xxx_eng se_eng daña_eng 
+894.764 895.571 spa_spa ah_spa 
+895.575 900.637 spa_spa eso_spa no_spa se_spa daña_spa si_spa no_spa _spa si_spa no_spa le_spa pones_spa eh_spa o_spa sea_spa tú_spa sabes_spa xxx_spa 
+899.296 900.602 HEN _eng xxx_eng 
+900.571 903.92 spa_spa cuando_spa hagamos_spa un_spa cierre_spa abrimos_spa una_spa de_spa las_spa botellas_spa 
+903.907 905.085 spa_spa ok_spa 
+905.07 907.949 spa_spa lo_spa de_spa los_spa vinos_spa yo_spa voy_spa a_spa tratar_spa 
+907.958 909.781 spa_spa eso_spa no_spa es_spa xxx_spa 
+908.063 909.648 ETH _eng _eng spa_eng no_eng _eng no_eng me_eng interesa_eng 
+909.711 912.44 spa_spa ese_spa no_spa es_spa fufufu_spa y_spa se_spa hizo_spa la_spa botella_spa 
+911.493 914.518 ETH _eng _eng spa_eng no_eng mira_eng _eng mira_eng si_eng hay_eng un_eng cierre_eng yo_eng compro_eng el_eng vino_eng 
+914.516 915.265 ETH xxx_eng 
+915.306 915.857 spa_spa ah_spa 
+915.875 918.882 spa_spa xxx_spa si_spa xxx_spa el_spa cierre_spa yo_spa compro_spa el_spa vino_spa 
+915.875 918.905 HEN _eng xxx_eng 
+918.928 920.652 spa_spa lo_spa que_spa me_spa interesa_spa es_spa esto_spa 
+920.78 922.962 spa_spa ok_spa yo_spa voy_spa a_spa tratar_spa 
+920.78 922.962 ETH _eng _eng spa_eng ok_eng 
+922.937 925.05 spa_spa que_spa te_spa gusta_spa tanto_spa xxx_spa 
+923.848 924.974 ETH _eng yeah_eng for_eng my_eng garage_eng 
+924.959 926.021 ETH you_eng know_eng I_eng put_eng it_eng in_eng my_eng garage_eng 
+925.713 926.996 HEN garage_eng 
+926.451 927.943 ETH yeah_eng I_eng have_eng like_eng a_eng little_eng wine_eng cellar_eng 
+926.909 928.987 HEN _eng no_eng no_eng no_eng no_eng no_eng 
+927.89 929.179 ETH no_eng that_eng doesnt_eng go_eng in_eng the_eng house_eng 
+929.235 930.158 HEN no_eng 
+930.181 931.238 ETH thats_eng like_eng a_eng wine_eng cellar_eng 
+931.042 932.22 spa_spa pero_spa un_spa 
+931.367 932.476 ETH _eng for_eng a_eng nice_eng one_eng yeah_eng 
+932.481 934.741 ETH but_eng this_eng is_eng for_eng you_eng know_eng this_eng is_eng for_eng like_eng the_eng garage_eng 
+934.747 935.461 ETH you_eng put_eng it_eng in_eng there_eng 
+935.467 937.214 ETH and_eng you_eng put_eng all_eng the_eng bottles_eng in_eng there_eng 
+937.264 939.708 spa_spa para_spa un_spa garaje_spa no_spa te_spa lo_spa voy_spa a_spa dar_spa 
+937.264 939.691 ETH _eng mmhm_eng 
+939.7 940.461 ETH dont_eng worry_eng about_eng it_eng 
+940.478 941.361 ETH Ill_eng take_eng care_eng of_eng it_eng 
+941.343 945.354 spa_spa qué_spa pasó_spa con_spa el_spa cuadro_spa _spa el_spa cuadro_spa del_spa xxx_spa que_spa te_spa di_spa 
+945.335 947.407 ETH the_eng xxx_eng 
+947.401 948.452 ETH its_eng in_eng my_eng garage_eng 
+948.446 952.004 ETH I_eng hung_eng it_eng up_eng 
+951.985 956.07 HEN es_spa que_spa tú_spa tienes_spa botellas_spa de_spa _eng de_spa _eng de_spa wine_eng así_spa botadas_spa en_spa el_spa piso_spa 
+956.033 956.578 spa_spa no_spa 
+956.594 957.824 spa_spa ahora_spa mismo_spa no_spa 
+957.819 959.583 spa_spa en_spa la_spa cocina_spa pero_spa 
+959.128 960.934 HEN _eng _eng spa_eng porque_eng yo_eng te_eng _eng yo_eng te_eng haría_eng uno_eng 
+960.92 963.625 spa_spa pero_spa yo_spa no_spa sé_spa dónde_spa xxx_spa dónde_spa _spa dónde_spa lo_spa pondría_spa 
+963.643 965.135 spa_spa cuál_spa 
+965.092 966.711 ETH wine_eng rack_eng 
+965.092 967.466 HEN _eng xxx_eng wine_eng rack_eng 
+967.44 970.72 spa_spa de_spa ese_spa tamaño_spa no_spa me_spa _spa no_spa me_spa _spa no_spa me_spa puede_spa entrar_spa en_spa la_spa casa_spa 
+970.788 971.502 spa_spa ah_spa 
+971.508 972.953 spa_spa no_spa tengo_spa espacio_spa en_spa la_spa casa_spa 
+972.986 974.838 ETH I_eng have_eng the_eng er_eng 
+974.669 976.469 spa_spa al_spa lado_spa de_spa la_spa escalera_spa te_spa quedaría_spa 
+976.529 977.319 ETH nahseng_eng 
+977.35 978.36 ETH no_eng you_eng know_eng what_eng 
+978.325 980.769 ETH the_eng only_eng place_eng I_eng would_eng put_eng it_eng would_eng have_eng been_eng where_eng the_eng fish_eng tank_eng is_eng 
+980.78 983.491 ETH but_eng the_eng fish_eng tank_eng is_eng taking_eng up_eng that_eng spot_eng so_eng 
+983.508 985.209 ETH unfortunately_eng thats_eng it_eng 
+985.205 987.051 spa_spa pero_spa tú_spa me_spa dices_spa que_spa como_spa para_spa el_spa garaje_spa 
+987.051 988.955 spa_spa que_spa no_spa te_spa gusta_spa como_spa para_spa dentro_spa de_spa la_spa casa_spa 
+988.988 990.114 ETH no_eng not_eng this_eng kind_eng 
+990.12 991.548 ETH this_eng is_eng very_eng plain_eng 
+991.524 995.952 ETH I_eng would_eng want_eng something_eng that_eng would_eng look_eng you_eng know_eng would_eng look_eng very_eng nice_eng 
+995.948 997.027 ETH this_eng is_eng just_eng you_eng know_eng 
+997.039 997.759 ETH this_eng is_eng rustic_eng 
+997.77 998.914 ETH this_eng is_eng what_eng they_eng call_eng rustic_eng 
+998.885 999.268 HEN yeah_eng 
+999.233 1000.017 spa_spa rústico_spa 
+1000.022 1003.488 spa_spa yo_spa xxx_spa por_spa eso_spa mismo_spa me_spa gusta_spa porque_spa se_spa ve_spa rústico_spa 
+1003.401 1005.136 spa_spa pero_spa tú_spa sabes_spa 
+1005.171 1006.35 spa_spa aquí_spa no_spa se_spa ve_spa bien_spa 
+1006.338 1007.331 spa_spa te_spa voy_spa a_spa decir_spa la_spa verdad_spa 
+1007.375 1009.465 spa_spa aquí_spa en_spa tu_spa casa_spa no_spa se_spa ve_spa bien_spa 
+1007.375 1009.492 HEN _eng _eng spa_eng ah_eng 
+1009.474 1010.896 spa_spa a_spa Magda_spa le_spa gustó_spa 
+1010.668 1011.55 ETH _eng no_eng I_eng dont_eng care_eng 
+1011.539 1012.317 spa_spa quién_spa es_spa Magda_spa 
+1012.311 1014.435 HEN laughing_eng 
+1012.311 1014.435 ETH _eng _eng spa_eng oh_eng la_eng amiga_eng de_eng Mayra_eng 
+1014.46 1015.145 spa_spa sí_spa 
+1014.46 1015.145 ETH _eng _eng spa_eng ok_eng 
+1015.17 1017.678 spa_spa Magda_spa es_spa diseñadora_spa y_spa eso_spa 
+1017.665 1019.551 ETH sí_spa oh_eng yeah_eng 
+1019.538 1020.803 ETH what_eng did_eng she_eng design_eng 
+1019.538 1020.803 HEN _eng yeah_eng 
+1020.849 1024.257 HEN well_eng she_eng _eng shes_eng been_eng designing_eng a_eng lot_eng of_eng things_eng 
+1024.28 1024.994 ETH like_eng 
+1025.007 1029.018 ETH laughing_eng 
+1025.007 1029.018 HEN you_eng have_eng to_eng see_eng her_eng house_eng man_eng 
+1028.983 1032.159 ETH xxx_eng who_eng did_eng she_eng design_eng for_eng herself_eng or_eng for_eng other_eng people_eng 
+1028.983 1032.188 HEN _eng xxx_eng 
+1032.251 1039.324 ETH because_eng if_eng she_eng designs_eng for_eng herself_eng and_eng she_eng tells_eng you_eng this_eng looks_eng good_eng Im_eng sorry_eng con_eng excuse_eng me_eng but_eng that_eng does_eng not_eng look_eng good_eng 
+1039.347 1043.474 HEN xxx_eng 
+1041.707 1044.238 ETH _eng I_eng _eng Im_eng sorry_eng 
+1044.209 1044.807 HEN huh_eng 
+1044.313 1045.515 ETH I_eng bet_eng you_eng she_eng didnt_eng say_eng that_eng 
+1045.463 1045.811 ETH I_eng bet_eng 
+1045.829 1046.659 ETH I_eng dont_eng believe_eng it_eng 
+1046.691 1047.492 ETH I_eng know_eng Magda_eng 
+1047.463 1048.172 ETH she_eng wouldnt_eng say_eng that_eng 
+1048.143 1048.973 HEN what_eng 
+1048.967 1050.441 ETH that_eng this_eng looks_eng good_eng back_eng here_eng 
+1050.482 1051.649 HEN yes_eng she_eng said_eng that_eng 
+1050.987 1052.049 ETH no_eng it_eng doesnt_eng look_eng good_eng 
+1052.026 1052.943 ETH Im_eng telling_eng you_eng 
+1052.858 1054.297 ETH trust_eng me_eng 
+1054.268 1057.763 HEN so_eng you_eng want_eng xxx_eng to_eng put_eng it_eng in_eng your_eng garage_eng 
+1056.259 1057.92 ETH _eng no_eng you_eng can_eng keep_eng that_eng one_eng 
+1057.919 1058.361 ETH you_eng just_eng give_eng me_eng 
+1058.372 1059.226 ETH you_eng can_eng give_eng me_eng a_eng nice_eng one_eng 
+1059.237 1060.433 ETH Ive_eng seen_eng nicer_eng ones_eng than_eng that_eng one_eng 
+1060.437 1062.12 ETH with_eng the_eng wo_eng you_eng know_eng with_eng the_eng wording_eng on_eng it_eng 
+1062.083 1064.475 ETH you_eng know_eng etched_eng in_eng you_eng know_eng etched_eng inside_eng 
+1064.516 1068.792 ETH yeah_eng xxx_eng if_eng you_eng go_eng to_eng the_eng liquor_eng store_eng they_eng have_eng the_eng ones_eng with_eng the_eng _eng with_eng the_eng name_eng of_eng the_eng company_eng 
+1068.759 1070.39 HEN you_eng want_eng that_eng 
+1070.378 1072.091 ETH yeah_eng something_eng with_eng the_eng name_eng of_eng the_eng company_eng 
+1072.118 1074.91 ETH you_eng know_eng 
+1074.927 1076.117 ETH what_eng was_eng that_eng 
+1076.135 1077.806 ETH it_eng sounded_eng like_eng there_eng was_eng a_eng bomb_eng 
+1076.906 1080.854 HEN but_eng you_eng _eng you_eng _eng you_eng wanna_eng you_eng _eng you_eng _eng you_eng wanna_eng have_eng dos_eng 
+1080.842 1081.817 ETH whatever_eng 
+1081.858 1082.787 ETH Im_eng not_eng you_eng know_eng 
+1082.839 1083.82 ETH Im_eng easy_eng 
+1083.843 1086.351 ETH you_eng get_eng me_eng whatever_eng Ill_eng take_eng whatever_eng 
+1086.372 1088.711 ETH it_eng doesnt_eng have_eng to_eng be_eng gorgeous_eng 
+1088.736 1091.348 ETH just_eng something_eng so_eng I_eng can_eng put_eng my_eng wines_eng in_eng there_eng 
+1091.331 1096.06 ETH and_eng then_eng when_eng my_eng friends_eng come_eng over_eng or_eng you_eng come_eng over_eng you_eng bring_eng some_eng bottles_eng I_eng can_eng put_eng them_eng in_eng it_eng 
+1091.331 1096.025 HEN _eng I_eng think_eng xxx_eng 
+1096.05 1100.388 HEN mmhm_eng but_eng it_eng doesnt_eng have_eng to_eng be_eng _eng that_eng size_eng 
+1098.531 1100.435 ETH _eng it_eng doesnt_eng have_eng to_eng be_eng that_eng no_eng 
+1100.456 1102.273 ETH no_eng it_eng could_eng be_eng half_eng of_eng this_eng 
+1104.498 1107.033 HEN mmhm_eng I_eng xxx_eng you_eng want_eng one_eng like_eng that_eng 
+1107.004 1108.374 spa_spa no_spa no_spa 
+1108.389 1109.393 spa_spa no_spa me_spa interesa_spa 
+1109.405 1109.765 spa_spa ah_spa 
+1109.486 1110.891 spa_spa no_spa no_spa tiene_spa que_spa ser_spa de_spa ese_spa tamaño_spa 
+1110.951 1113.174 spa_spa puede_spa ser_spa más_spa chico_spa 
+1110.951 1113.104 HEN _eng cough_eng 
+1113.106 1116.804 spa_spa ok_spa yo_spa voy_spa a_spa hacer_spa una_spa llamada_spa 
+1113.106 1116.694 ETH _eng xxx_eng 
+1116.75 1118.033 spa_spa está_spa bien_spa 
+1117.647 1118.681 spa_spa pues_spa 
+1118.201 1120.418 spa_spa lo_spa que_spa pasa_spa es_spa que_spa todo_spa lo_spa que_spa tú_spa pidas_spa hay_spa que_spa dártelo_spa 
+1120.441 1121.016 spa_spa me_spa entiendes_spa 
+1121.012 1122.405 spa_spa bueno_spa tal_spa vez_spa 
+1122.363 1125.025 spa_spa entonces_spa yo_spa esta_spa vez_spa quiero_spa 
+1125.048 1127.647 spa_spa voy_spa a_spa tratar_spa _spa laughing_spa 
+1127.68 1131.348 spa_spa voy_spa a_spa tratar_spa porque_spa no_spa es_spa _spa no_spa es_spa fácil_spa 
+1130.358 1134.247 ETH _eng en_spa _eng en_spa you_eng know_eng en_spa xxx_eng _eng en_spa xxx_eng hay_spa camisetas_spa que_spa te_spa dan_spa 
+1131.257 1134.171 HEN _eng _eng spa_eng eso_eng no_eng es_eng fácil_eng 
+1134.181 1135.493 spa_spa no_spa nada_spa nada_spa 
+1134.703 1135.411 spa_spa no_spa esos_spa no_spa re_spa 
+1135.444 1136.669 spa_spa ahí_spa no_spa regalan_spa nada_spa 
+1136.385 1137.215 ETH _eng _eng spa_eng nada_eng 
+1136.748 1140.08 spa_spa las_spa camisas_spa que_spa tú_spa ves_spa ahí_spa cuestan_spa como_spa cien_spa dólares_spa 
+1140.088 1141.33 spa_spa las_spa camisas_spa 
+1141.359 1143.403 spa_spa no_spa en_spa serio_spa 
+1143.426 1145.933 ETH no_eng I_eng dont_eng like_eng xxx_eng that_eng much_eng 
+1145.904 1148.418 ETH I_eng just_eng need_eng _eng I_eng just_eng need_eng T_shirts_eng for_eng basketball_eng 
+1148.414 1150.028 spa_spa yo_spa no_spa puedo_spa creer_spa 
+1150.016 1151.648 spa_spa pero_spa entonces_spa pasa_spa por_spa xxx_spa 
+1151.677 1159.122 spa_spa al_spa tipo_spa le_spa gusta_spa ayudar_spa mucho_spa a_spa la_spa _spa a_spa la_spa _spa a_spa la_spa _spa a_spa la_spa _spa a_spa la_spa _spa a_spa la_spa _spa a_spa la_spa comunidad_spa 
+1159.134 1160.417 spa_spa pasa_spa por_spa ahí_spa 
+1160.438 1166.32 HEN y_spa xxx_eng que_spa tienes_spa un_spa equipo_spa _eng yawning_eng _eng de_spa basket_eng 
+1166.325 1166.709 ETH laughing_eng 
+1166.72 1168.932 spa_spa y_spa que_spa te_spa xxx_spa en_spa las_spa camisetas_spa 
+1168.937 1171.95 spa_spa yo_spa no_spa creo_spa que_spa ellos_spa te_spa vayan_spa a_spa decir_spa que_spa no_spa 
+1171.939 1172.943 ETH no_eng its_eng not_eng worth_eng it_eng 
+1172.948 1174.092 HEN mmhm_eng 
+1174.104 1174.794 ETH dont_eng worry_eng about_eng it_eng 
+1174.8 1175.555 ETH dont_eng worry_eng about_eng it_eng 
+1175.561 1179.175 ETH Ill_eng go_eng to_eng _eng Ill_eng go_eng some_eng place_eng like_eng Target_eng or_eng something_eng get_eng some_eng T_shirts_eng 
+1179.146 1180.266 ETH thats_eng all_eng 
+1180.247 1181.129 ETH its_eng no_eng big_eng deal_eng 
+1181.112 1182.807 HEN so_eng you_eng are_eng gonna_eng pay_eng in_eng Target_eng 
+1182.818 1183.608 ETH yeah_eng 
+1183.652 1186.113 HEN youll_eng rather_eng to_eng pay_eng in_eng Target_eng xxx_eng 
+1184.877 1187.64 ETH _eng yeah_eng if_eng somebody_eng gives_eng me_eng the_eng T_shirt_eng thats_eng different_eng 
+1186.276 1189.759 HEN you_eng dont_eng rather_eng to_eng pay_eng the_eng rack_eng _eng the_eng _eng the_eng wine_eng rack_eng 
+1188.761 1189.718 ETH _eng no_eng the_eng rack_eng no_eng 
+1189.707 1191.924 ETH xxx_eng because_eng they_eng dont_eng sell_eng those_eng wine_eng racks_eng 
+1191.941 1195.882 ETH those_eng wine_eng racks_eng come_eng you_eng know_eng they_eng they_eng are_eng 
+1195.865 1199.667 ETH usually_eng the_eng wine_eng company_eng sets_eng them_eng up_eng as_eng a_eng display_eng 
+1198.384 1202.448 HEN Im_eng gonna_eng _eng Im_eng gonna_eng er_eng make_eng a_eng phone_eng call_eng 
+1202.459 1205.263 HEN and_eng Im_eng gonna_eng _eng shake_eng that_eng for_eng you_eng 
+1204.177 1205.187 ETH _eng do_eng what_eng you_eng gotta_eng do_eng 
+1205.183 1206.141 ETH do_eng what_eng you_eng gotta_eng do_eng 
+1206.124 1209.725 HEN when_eng do_eng you_eng need_eng it_eng 
+1209.713 1211.217 ETH I_eng dont_eng need_eng anything_eng 
+1211.241 1213.645 ETH I_eng would_eng like_eng to_eng have_eng it_eng this_eng week_eng 
+1213.652 1216.607 ETH but_eng I_eng really_eng dont_eng need_eng it_eng 
+1216.611 1221.077 HEN eee_eng 
+1221.309 1227.442 HEN tú_spa necesitarías_spa un_spa _eng un_spa pedicure_eng 
+1227.492 1228.746 spa_spa no_spa 
+1228.735 1231.173 ETH lets_eng not_eng get_eng back_eng into_eng that_eng 
+1231.165 1232.204 spa_spa por_spa qué_spa 
+1232.194 1233.831 ETH Im_eng not_eng interested_eng 
+1233.849 1238.369 spa_spa te_spa sientes_spa como_spa un_spa poco_spa a_spa _spa atacado_spa en_spa cierta_spa manera_spa con_spa eso_spa 
+1238.38 1239.89 spa_spa no_spa qué_spa me_spa importa_spa 
+1239.928 1242.708 spa_spa eso_spa _spa eso_spa no_spa me_spa importa_spa 
+1242.714 1246.371 spa_spa y_spa ya_spa 
+1246.396 1249.273 spa_spa ya_spa casi_spa me_spa tengo_spa que_spa ir_spa a_spa buscar_spa a_spa _spa a_spa Felisa_spa 
+1249.352 1250.722 spa_spa como_spa quieras_spa 
+1249.849 1252.421 spa_spa que_spa cómo_spa cinco_spa minutos_spa más_spa 
+1252.415 1254.876 spa_spa te_spa vas_spa ya_spa 
+1254.871 1256.299 ETH well_eng _eng depende_spa 
+1256.285 1258.235 spa_spa y_spa después_spa de_spa Felisa_spa qué_spa vas_spa a_spa ir_spa a_spa hacer_spa 
+1258.276 1259.663 spa_spa a_spa mi_spa casa_spa 
+1259.686 1261.231 spa_spa qué_spa vas_spa a_spa hacer_spa allá_spa 
+1261.236 1264.719 spa_spa no_spa limpiar_spa y_spa terminar_spa lo_spa que_spa estaba_spa haciendo_spa en_spa la_spa casa_spa 
+1264.715 1265.917 spa_spa tú_spa no_spa estabas_spa haciendo_spa nada_spa 
+1265.938 1270.799 ETH I_eng _eng I_eng was_eng _eng I_eng was_eng cleaning_eng my_eng carpets_eng with_eng a_eng _eng with_eng a_eng _eng with_eng a_eng carpet_eng cleaner_eng 
+1268.01 1270.628 HEN _eng _eng spa_eng qué_eng tenía_eng la_eng carpeta_eng 
+1270.438 1272.157 spa_spa qué_spa tenían_spa las_spa carpetas_spa 
+1272.116 1273.381 ETH no_eng they_eng are_eng dirty_eng you_eng know_eng 
+1273.431 1274.639 ETH Manu_eng is_eng playing_eng baseball_eng 
+1274.61 1276.003 ETH he_eng runs_eng up_eng and_eng down_eng the_eng stairs_eng 
+1276.022 1277.828 ETH and_eng when_eng he_eng gets_eng home_eng from_eng baseball_eng 
+1277.868 1279.418 ETH Felisa_eng doesnt_eng take_eng off_eng her_eng shoes_eng 
+1279.379 1281.098 ETH the_eng dog_eng runs_eng up_eng and_eng down_eng the_eng stairs_eng 
+1281.074 1281.846 spa_spa oh_spa 
+1281.846 1283.298 ETH I_eng have_eng to_eng clean_eng that_eng every_eng month_eng 
+1283.292 1284.72 ETH every_eng couple_eng of_eng months_eng 
+1284.731 1287.071 ETH otherwise_eng it_eng would_eng look_eng disgusting_eng 
+1287.115 1292.271 HEN voy_spa a_spa hacer_spa una_spa llamada_spa sobre_spa el_eng _eng sobre_spa el_spa rack_eng de_spa vino_spa 
+1292.37 1293.032 ETH right_eng 
+1293.069 1305.02 spa_spa te_spa voy_spa a_spa dejar_spa saber_spa si_spa _spa si_spa tienen_spa uno_spa disponible_spa igualito_spa o_spa uno_spa de_spa los_spa de_spa marca_spa de_spa los_spa que_spa tú_spa dices_spa 
+1305.031 1305.763 spa_spa está_spa bien_spa 
+1305.774 1306.523 spa_spa está_spa bien_spa 
+1306.494 1307.353 spa_spa lo_spa que_spa sea_spa 
+1307.336 1307.661 spa_spa ok_spa 
+1307.678 1308.799 spa_spa ok_spa 

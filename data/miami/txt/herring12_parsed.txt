@@ -1,0 +1,843 @@
+0.151 1.422 MIG cuándo_spa vamos_spa a_spa salir_spa 
+1.399 2.67 TIM no_spa sé_spa un_spa día_spa de_spa estos_spa 
+2.688 5.857 TIM pero_spa xxx_spa este_spa fin_spa de_spa semana_spa 
+5.832 6.726 MIG cómo_spa 
+6.715 9.999 TIM que_spa a_spa la_spa calle_spa xxx_spa solo_spa xxx_spa hoy_spa 
+9.976 10.777 MIG por_spa qué_spa 
+10.788 14.659 TIM ay_spa bueno_spa porque_spa es_spa el_spa cumpleaños_spa de_spa la_spa Estrella_engspa en_spa la_spa noche_spa 
+14.622 15.371 MIG qué_spa Estrella_engspa 
+15.347 18.354 TIM la_spa prima_spa de_spa Toni_engspa y_spa lo_spa va_spa a_spa celebrar_spa en_spa xxx_spa 
+18.348 19.103 MIG vas_spa a_spa ir_spa 
+19.086 21.008 TIM yo_spa quería_spa ir_spa 
+21.019 25.065 TIM pero_spa allá_spa imaginate_spa nos_spa caen_spa todas_spa no_spa jodás_spa no_spa me_spa levanté_spa ni_spa para_spa ir_spa a_spa clases_spa 
+25.042 28.16 MIG y_spa xxx_spa _spa y_spa tu_spa mamá_spa sabe_spa eso_spa o_spa no_spa sabe_spa cuándo_spa te_spa toca_spa o_spa no_spa te_spa toca_spa 
+28.125 30.348 TIM sí_spa sabe_spa cuando_spa me_spa toca_spa 
+30.279 32.305 MIG y_spa no_spa te_spa dijo_spa _spa no_spa te_spa dijo_spa nada_spa 
+32.299 35.344 TIM nada_spa más_spa ella_spa me_spa levantó_spa y_spa yo_spa me_spa desperté_spa 
+35.306 35.718 MIG no_spa 
+35.741 39.096 TIM pues_spa me_spa vine_spa y_spa me_spa metí_spa en_spa la_spa cama_spa con_spa ella_spa y_spa me_spa quedé_spa dormido_spa 
+39.033 40.281 MIG ps_spa qué_spa estúpido_spa 
+40.264 44.932 TIM es_spa que_spa me_spa levanté_spa como_spa que_spa iba_spa para_spa clases_spa y_spa me_spa dio_spa boludo_spa y_spa me_spa vine_spa a_spa acostar_spa con_spa ella_spa 
+44.855 46.214 MIG no_spa jodas_spa 
+46.181 50.108 TIM y_spa nos_spa quedamos_spa dormidos_spa 
+50.06 52.575 MIG no_spa jodas_spa mi_spa mamá_spa no_spa _spa mi_spa mamá_spa no_spa me_spa hubiera_spa dejado_spa hacer_spa eso_spa 
+52.581 54.537 MIG me_spa hubiera_spa dicho_spa chavalo_spa jodido_spa andate_spa a_spa clase_spa 
+54.447 58.341 MIG no_spa me_spa deja_spa quedarme_spa mi_spa mamá_spa 
+58.319 60.373 TIM xxx_spa 
+60.362 61.262 MIG ah_engspa 
+61.236 63.372 TIM te_spa volvés_spa a_spa dormir_spa conmigo_spa 
+63.422 65.193 MIG mmhm_eng mmhm_eng 
+65.157 67.647 MIG pues_spa sí_spa pero_spa like_eng my_eng mom_eng no_spa hace_spa eso_spa 
+67.64 71.391 MIG a_spa mí_spa mamá_spa me_spa dice_spa wake_eng up_eng y_spa andate_spa a_spa la_spa verga_spa 
+71.355 76.309 MIG nada_spa de_spa que_spa te_spa vas_spa a_spa quedar_spa durmiendo_spa conmigo_spa ni_spa aunque_spa te_spa quedes_spa conmigo_spa le_spa digo_spa levántate_spa and_eng go_eng to_eng class_eng 
+76.342 86.181 TIM sí_spa hombre_spa pero_spa no_spa sé_spa ahorita_spa tengo_spa que_spa ir_spa a_spa la_spa universidad_spa porque_spa me_spa voy_spa a_spa ir_spa a_spa matricular_spa a_spa unas_spa _spa clases_spa además_spa tengo_spa que_spa llevar_spa un_spa turcazo_spa de_spa clases_spa ahora_spa 
+86.134 86.76 MIG y_spa cuántas_spa clases_spa 
+86.134 86.964 TIM _spa tres_spa 
+86.94 87.98 MIG cuántas_spa clases_spa estabas_spa llevando_spa 
+87.94 94.085 TIM no_spa pues_spa es_spa que_spa tengo_spa que_spa ponerme_spa a_spa estudiar_spa todo_spa el_spa día_spa maje_spa estoy_spa cagado_spa la_spa verdad_spa es_spa que_spa como_spa 
+94.083 95.639 MIG _spa sí_spa no_spa estás_spa perdiendo_spa el_spa tiempo_spa 
+95.591 101.317 MIG pues_spa no_spa jodás_spa xxx_spa después_spa cuando_spa veás_spa pasan_spa los_spa años_spa y_spa vas_spa a_spa estar_spa atrasado_spa atrasado_spa atrasado_spa 
+101.297 101.913 TIM por_spa eso_spa 
+101.891 107.032 TIM entonces_spa me_spa voy_spa a_spa matricular_spa xxx_spa y_spa voy_spa a_spa estudiar_spa como_spa no_spa sé_spa me_spa imagino_spa que_spa casi_spa todo_spa el_spa día_spa 
+107.258 109.11 TIM voy_spa a_spa llegar_spa en_spa la_spa mañana_spa como_spa a_spa las_spa nueve_spa 
+109.069 110.184 MIG y_spa no_spa vas_spa a_spa trabajar_spa 
+110.143 112.349 TIM venís_spa a_spa almorzar_spa 
+112.349 112.923 MIG ah_engspa 
+112.54 113.887 TIM _spa creo_spa que_spa no_spa _spa creo_spa que_spa no_spa 
+113.853 115.467 MIG por_spa qué_spa 
+115.42 117.574 TIM porque_spa no_spa tengo_spa que_spa trabajar_spa xxx_spa 
+117.52 118.217 MIG mmhm_eng 
+118.205 120.138 MIG ah_spa ya_spa no_spa estás_spa en_spa el_spa _spa en_spa el_spa _spa en_spa el_spa aeropuerto_spa 
+120.135 126.016 TIM como_spa no_spa pues_spa pero_spa _spa mi_spa mamá_spa dice_spa que_spa _spa que_spa realmente_spa yo_spa no_spa tengo_spa que_spa trabajar_spa 
+126.015 128.575 MIG bueno_spa sí_spa idiay_spa si_spa te_spa van_spa a_spa estar_spa dando_spa todo_spa 
+128.604 129.144 TIM sí_spa 
+129.128 144.006 MIG pero_spa no_spa jodás_spa loco_spa pero_spa once_eng _spa once_eng _spa once_eng like_eng que_spa _spa que_spa empezás_spa a_spa trabajar_spa es_spa como_spa que_spa aunque_spa de_spa o_spa sea_spa dejás_spa de_spa trabajar_spa y_spa aunque_spa te_spa estén_spa pagando_spa todo_spa bróder_spa es_spa como_spa que_spa no_spa sé_spa te_spa sentís_spa raro_spa porque_spa ya_spa estabas_spa acostumbrado_spa a_spa que_spa te_spa entraran_spa tus_spa reales_spa me_spa entendés_spa 
+143.873 145.672 MIG y_spa que_spa hacías_spa lo_spa que_spa se_spa te_spa diera_spa la_spa gana_spa 
+143.873 145.681 TIM _spa sí_spa hombre_spa 
+145.678 147.965 TIM sí_spa hombre_spa 
+147.622 148.648 MIG o_spa sea_spa si_spa 
+148.34 149.6 TIM _spa pero_spa bueno_spa vamos_spa a_spa ver_spa 
+149.545 149.847 eng_eng yeah_eng 
+149.841 152.61 TIM de_spa todos_spa modos_spa voy_spa a_spa agarrar_spa un_spa part_time_engspa para_spa el_spa fin_spa de_spa semana_spa xxx_spa 
+152.591 158.459 MIG no_spa huevón_spa un_spa partimecito_spa ahí_spa idiay_spa realitos_spa extras_spa ahí_spa no_spa _spa no_spa te_spa estorban_spa para_spa nada_spa 
+158.423 161.216 TIM mmhm_eng lo_spa voy_spa a_spa vender_spa ahí_spa a_spa la_spa calle_spa ocho_spa 
+161.214 164.378 MIG qué_spa estúpida_spa que_spa sos_spa ahí_spa _spa ahí_spa es_spa muy_spa barato_spa estúpida_spa 
+164.313 165.352 TIM ah_spa es_spa muy_spa barato_spa 
+165.294 166.153 MIG sí_spa 
+166.152 167.568 MIG andate_spa a_spa otro_spa 
+167.626 173.18 TIM sí_spa xxx_spa me_spa voy_spa a_spa meterme_spa ahí_spa a_spa Aeropostale_spa _spa allí_spa con_spa una_spa _spa con_spa una_spa amiga_spa que_spa tengo_spa 
+173.18 174.822 MIG qué_spa amiga_spa 
+174.804 177.613 TIM una_spa niña_spa de_spa pelo_spa largo_spa 
+177.612 180.375 MIG qué_spa amiga_spa estúpida_spa _spa la_spa conozco_spa 
+180.722 182.504 TIM se_spa llama_spa Marta_spa 
+182.469 183.833 MIG qué_spa estúpida_spa 
+183.817 185.158 MIG venga_spa laugh_spa 
+185.111 188.978 MIG tu_spa madre_spa yo_spa pensé_spa que_spa I_eng thought_eng you_eng were_eng being_eng serious_eng qué_spa estúpida_spa 
+187.853 189.032 TIM _spa laugh_spa 
+189.02 189.908 eng_eng Im_eng like_eng 
+189.89 194.219 MIG yo_spa qué_spa maje_spa de_spa pelo_spa largo_spa verdad_spa bróder_spa todas_spa las_spa majes_spa que_spa trabajan_spa ahí_spa tienen_spa pelo_spa largo_spa 
+194.207 195.577 MIG qué_spa estúpido_spa que_spa soy_spa 
+195.462 197.691 TIM se_spa llama_spa se_spa llama_spa Marta_engspa Martita_engspa 
+197.666 199.657 MIG qué_spa estúpida_spa Marta_engspa _spa la_spa Marta_engspa 
+199.621 202.634 MIG andá_spa aplicá_spa están_spa contratando_spa ahorita_spa 
+202.58 206.081 TIM qué_spa cagada_spa creo_spa que_spa queda_spa lejísimos_spa esa_spa verga_spa 
+206.098 206.847 MIG ah_spa 
+206.791 209.565 TIM me_spa queda_spa super_engspa lejos_spa 
+209.513 210.552 MIG bueno_spa eso_spa sí_spa 
+210.503 213.698 MIG pero_spa idiay_spa aplicá_spa _spa aplicá_spa en_spa un_spa mall_eng que_spa te_spa quede_spa cerca_spa 
+213.68 214.917 MIG qué_spa mall_eng te_spa queda_spa más_spa cerca_spa 
+214.895 219.173 TIM no_spa jodás_spa loco_spa Southland_engspa mall_eng o_spa el_spa Dadeland_engspa mall_eng 
+219.136 223.048 MIG idiay_spa ándate_spa al_spa Dadeland_engspa _spa Dadeland_engspa no_spa Dadeland_engspa no_spa tiene_spa Aeros_engspa 
+223.01 226.162 MIG sí_spa Dadeland_engspa tiene_spa Aeropostale_engspa bróder_spa andá_spa aplicá_spa ahí_spa 
+223.428 226.157 TIM _spa sí_spa tiene_spa 
+226.139 227.039 MIG ah_engspa 
+227.007 228.638 TIM sí_spa tiene_spa 
+228.617 229.204 MIG qué_spa 
+229.152 230.034 TIM sí_spa tiene_spa 
+230.019 231.859 MIG sí_spa sí_spa tiene_spa andá_spa aplicá_spa ahí_spa estúpido_spa 
+231.815 234.145 TIM sí_spa vamos_spa a_spa ver_spa 
+234.106 241.297 TIM también_spa tengo_spa ganas_spa de_spa _spa de_spa que_spa me_spa contraten_spa en_spa una_spa tienda_spa de_spa así_spa como_spa que_spa de_spa a_spa cachimba_spa tipo_spa no_spa sé_spa tipo_spa Express_engspa una_spa verga_spa así_spa 
+241.194 242.994 MIG bueno_spa entonces_spa aplicá_spa ahí_spa pendejo_spa 
+242.96 246.931 MIG like_eng honestly_eng _spa honestly_eng yo_spa no_spa te_spa recomiendo_spa Aeros_engspa 
+242.96 246.931 TIM _spa xxx_spa 
+246.918 250.198 MIG porque_spa _spa porque_spa pagan_spa una_spa mierda_spa loco_spa 
+250.166 252.158 TIM cuánto_spa cuánto_spa pagan_spa pues_spa 
+252.105 253.985 MIG siete_spa veinticinco_spa 
+253.968 255.193 MIG yo_spa ya_spa renuncié_spa 
+255.17 256.731 TIM ya_spa renunciaste_spa idiay_spa 
+256.673 261.584 MIG o_spa sea_spa todavía_spa estoy_spa _spa estoy_spa ahí_spa pero_spa ya_spa renuncié_spa like_eng el_spa _spa el_spa sábado_spa es_spa mi_spa _spa es_spa _spa its_eng my_eng last_eng day_eng 
+261.54 263.641 TIM xxx_spa 
+263.612 264.279 MIG sí_spa 
+264.262 265.882 TIM y_spa ahora_spa qué_spa vas_spa a_spa hacer_spa 
+265.854 268.286 MIG o_spa sea_spa yo_spa sigo_spa con_spa mi_spa trabajo_spa en_spa Univisión_engspa 
+268.223 272.999 MIG y_spa había_spa aplicado_spa _spa apliqué_spa al_spa _spa al_spa Marriott_engspa porque_spa este_spa maje_spa de_spa Ryan_engspa me_spa dijo_spa 
+272.997 275.203 MIG _spa aplicá_spa que_spa te_spa van_spa a_spa llamar_spa que_spa no_spa sé_spa qué_spa que_spa 
+274.926 276.459 MIG me_spa dijo_spa te_spa llaman_spa en_spa estos_spa días_spa 
+276.447 278.758 MIG y_spa el_spa maje_spa me_spa ha_spa estado_spa preguntando_spa ya_spa te_spa llamaron_spa ya_spa te_spa llamaron_spa 
+278.752 281.372 MIG y_spa luego_spa no_spa ni_spa verga_spa no_spa me_spa han_spa llamado_spa nada_spa le_spa digo_spa 
+281.372 282.893 MIG entonces_spa lo_spa voy_spa a_spa llamar_spa 
+282.844 286.634 MIG en_spa un_spa rato_spa lo_spa voy_spa a_spa llamar_spa para_spa preguntarle_spa que_spa ahorita_spa me_spa recordaste_spa 
+286.602 290.067 MIG y_spa apliqué_spa _spa apliqué_spa en_spa Bestbuy_engspa dicen_spa que_spa ahí_spa _spa que_spa ahí_spa es_spa bueno_spa 
+290.06 295.54 MIG entonces_spa like_eng voy_spa _spa voy_spa a_spa aplicar_spa ahí_spa en_spa _spa en_spa varios_spa lugares_spa para_spa _spa para_spa ver_spa qué_spa onda_spa like_eng 
+295.516 304.646 MIG por_spa _spa por_spa el_spa momento_spa pues_spa no_spa voy_spa a_spa quedarme_spa sin_spa hacer_spa nada_spa porque_spa esta_spa semana_spa que_spa viene_spa grabamos_spa así_spa que_spa voy_spa a_spa estar_spa trabajando_spa aunque_spa tengo_spa spring_eng break_eng pues_spa no_spa _spa no_spa voy_spa a_spa clase_spa gracias_spa a_spa Dios_spa 
+304.632 310.13 MIG entonces_spa lo_spa _spa me_spa lo_spa voy_spa a_spa ahorrar_spa _spa todo_spa eso_spa me_spa lo_spa voy_spa a_spa ahorrar_spa en_spa gasolina_spa porque_spa ese_spa viaje_spa hasta_spa allá_spa le_spa cuerea_spa 
+310.119 312.43 MIG le_spa 
+312.128 312.975 TIM _spa dónde_spa es_spa tu_spa universidad_spa 
+312.97 313.643 MIG ah_engspa 
+313.614 314.984 TIM dónde_spa es_spa tu_spa universidad_spa 
+314.955 316.799 MIG en_spa Miramar_engspa casi_spa Fort_Lauderdale_engspa 
+316.764 318.453 TIM y_spa por_spa qué_spa vos_spa 
+318.453 320.293 MIG porque_spa ahí_spa queda_spa idiay_spa qué_spa quieres_spa que_spa haga_spa 
+320.299 322.116 MIG ahí_spa la_spa construyeron_spa hermano_spa 
+322.109 323.891 TIM no_spa había_spa una_spa más_spa cerca_spa 
+323.88 324.866 MIG no_spa 
+324.837 327.6 MIG está_spa Johnson_and_Wales_engspa que_spa está_spa en_spa Miami_Beach_engspa pero_spa 
+327.53 330.932 MIG claro_spa es_spa de_spa que_spa yo_spa me_spa precipité_spa loco_spa 
+330.849 338.094 MIG me_spa precipité_spa _spa me_spa precipité_spa yo_spa debería_spa haber_spa esperado_spa más_spa _spa un_spa poquito_spa más_spa para_spa _spa para_spa ver_spa otras_spa cosas_spa y_spa otras_spa universidades_spa pero_spa bueno_spa 
+338.065 339.099 eng_eng it_eng is_eng what_eng it_eng is_eng 
+339.046 342.193 MIG ya_spa sólo_spa me_spa quedan_spa tres_spa semanas_spa y_spa ya_spa a_spa la_spa verga_spa loco_spa 
+342.513 347.857 MIG yeah_eng three_eng more_eng weeks_eng y_spa ya_spa _spa _spa ya_spa _spa ya_spa termino_spa vos_spa 
+347.821 349.917 TIM xxx_spa 
+349.897 352.695 MIG pues_spa sí_spa ya_spa like_eng mi_spa graduación_spa es_spa en_spa octubre_spa 
+352.69 354.609 MIG pues_spa la_spa ceremonia_spa vos_spa 
+354.614 355.665 TIM me_spa vas_spa a_spa invitar_spa 
+355.667 357.35 MIG pero_spa por_spa supuesto_spa que_spa no_spa 
+357.301 359.925 MIG sólo_spa van_spa a_spa ir_spa gente_spa _spa sólo_spa va_spa gente_spa decente_spa 
+359.774 361.225 TIM qué_spa estúpido_spa 
+361.195 362.564 MIG laugh_spa 
+362.518 365.606 TIM yo_spa cuando_spa me_spa pongo_spa mi_spa saco_spa me_spa miro_spa bien_spa elegante_spa 
+365.573 367.93 MIG claro_spa pareces_spa puta_spa de_spa clase_spa 
+367.898 370.0 TIM me_spa pongo_spa mi_spa saco_spa con_spa cola_spa de_spa pato_spa 
+369.97 374.086 MIG puta_spa con_spa clase_spa no_spa xxx_spa la_spa cola_spa de_spa pato_spa la_spa tenés_spa siempre_spa estúpida_spa _spa laughs_spa 
+374.033 375.868 TIM xxx_spa 
+375.854 378.849 MIG fui_spa a_spa _spa fui_spa a_spa _spa fui_spa a_spa discoteca_spa el_spa sábado_spa 
+378.999 380.787 TIM aquí_spa xxx_spa pues_spa 
+380.773 381.296 MIG ah_engspa 
+381.29 382.585 TIM con_spa quién_spa 
+382.563 388.342 MIG con_spa el_spa maje_spa de_spa Ernesto_engspa ay_spa yo_spa creo_spa que_spa vos_spa no_spa lo_spa conocisteis_spa el_spa maje_spa _spa el_spa maje_spa que_spa era_spa enamorado_spa de_spa Pedro_spa 
+388.333 390.945 MIG entonces_spa 
+388.333 390.945 TIM _spa no_spa no_spa sé_spa quién_spa es_spa 
+390.938 391.849 MIG no_spa no_spa lo_spa conociste_spa 
+391.838 394.746 MIG entonces_spa el_spa maje_spa me_spa llamó_spa like_eng iba_spa a_spa ir_spa con_spa Manolo_engspa 
+394.711 396.708 MIG pero_spa de_spa repente_spa pues_spa el_spa maje_spa no_spa pudo_spa 
+396.696 397.672 MIG entonces_spa yo_spa me_spa quedé_spa con_spa la_spa 
+397.654 400.963 MIG porque_spa ya_spa me_spa había_spa _spa ya_spa me_spa había_spa entotorotado_spa hija_spa de_spa la_spa gran_spa puta_spa dije_spa yo_spa 
+400.911 403.837 MIG quiero_spa ir_spa _spa quiero_spa ir_spa but_eng like_eng I_eng dont_eng wanna_eng go_eng by_eng myself_eng 
+403.788 404.148 TIM mmhm_eng 
+404.148 410.842 MIG y_spa entonces_spa el_spa maje_spa de_spa la_spa nada_spa like_eng he_eng never_eng calls_eng me_spa _spa el_spa maje_spa casi_spa nunca_spa me_spa llama_spa like_eng de_spa repente_spa por_spa allá_spa chateamos_spa de_spa vez_spa en_spa cuando_spa 
+410.814 414.158 MIG pero_spa like_eng de_spa la_spa nada_spa el_spa maje_spa me_spa ha_spa estado_spa _spa hemos_spa estado_spa hablando_spa pues_spa últimamente_spa 
+414.135 416.051 MIG y_spa like_eng me_spa llama_spa el_spa sábado_spa 
+416.017 420.272 MIG y_spa _spa y_spa el_spa maje_spa what_eng are_eng you_eng doing_eng today_eng que_spa no_spa sé_spa qué_spa 
+420.237 421.898 MIG y_spa yo_spa pues_spa nada_spa idiay_spa 
+421.898 425.148 MIG querés_spa ir_spa a_spa discoteca_spa me_spa dice_spa vos_spa dale_spa pues_spa hagámosle_spa huevo_spa pues_spa 
+425.133 427.345 MIG entonces_spa nos_spa fuimos_spa para_spa discoteca_spa 
+427.319 428.922 MIG estuvo_spa medio_spa _spa medio_spa aburridón_spa loco_spa 
+428.775 432.804 MIG es_spa que_spa además_spa estaba_spa cayendo_spa un_spa turcazo_spa de_spa agua_spa porque_spa pasó_spa lloviendo_spa todo_spa el_spa día_spa y_spa la_spa noche_spa 
+432.769 435.23 MIG y_spa entonces_spa llegué_spa y_spa estaba_spa brisando_spa verdad_spa 
+435.23 444.332 MIG y_spa entonces_spa y_spa yo_spa había_spa llegado_spa todo_spa elegante_spa loco_spa el_spa pelo_spa de_spa a_spa verga_spa like_eng y_spa _spa y_spa lloviendo_spa loco_spa se_spa me_spa hizo_spa turca_spa el_spa pelo_spa me_spa mojé_spa todo_spa me_spa vale_spa verga_spa 
+444.315 446.289 MIG entonces_spa _spa y_spa ahí_spa pasé_spa 
+446.088 447.238 TIM xxx_spa 
+447.255 449.641 MIG de_spa a_spa verga_spa vos_spa _spa vos_spa nunca_spa has_spa ido_spa a_spa discoteca_spa verdad_spa 
+449.602 450.794 TIM en_spa mi_spa vida_spa 
+450.765 452.077 MIG deberías_spa de_spa _spa deberíamos_spa de_spa ir_spa 
+452.065 454.573 MIG like_eng es_spa bonito_spa loco_spa _spa llegan_spa sus_spa culos_spa bróder_spa 
+454.482 459.741 MIG y_spa lo_spa más_spa de_spa a_spa verga_spa es_spa de_spa que_spa like_eng a_spa nosotros_spa nos_spa gustaba_spa ir_spa por_spa _spa por_spa estar_spa viendo_spa los_spa culos_spa y_spa eso_spa 
+459.72 463.708 MIG pero_spa _spa pero_spa _spa pero_spa like_eng _spa like_eng _spa like_eng los_spa sábados_spa por_spa ejemplo_spa pues_spa pero_spa xxx_spa 
+463.684 470.811 MIG creo_spa que_spa el_spa _spa la_spa _spa la_spa primera_spa vez_spa que_spa yo_spa fui_spa creo_spa que_spa fue_spa un_spa viernes_spa porque_spa creo_spa que_spa los_spa viernes_spa es_spa noche_spa latina_spa pues_spa esa_spa vez_spa _spa ese_spa día_spa habían_spa puesto_spa reggaetón_spa 
+470.786 486.191 MIG pero_spa los_spa sábados_spa sólo_spa ponen_spa así_spa música_spa electrónica_spa _spa música_spa música_spa er_engspa dance_eng no_spa sé_spa una_spa música_spa toda_spa rara_spa loco_spa que_spa _spa que_spa o_spa sea_spa bailarla_spa un_spa rato_spa me_spa entendés_spa está_spa de_spa a_spa verga_spa pero_spa es_spa toda_spa la_spa noche_spa que_spa la_spa ponen_spa entonces_spa nosotros_spa nos_spa poníamos_spa de_spa un_spa bate_spa 
+486.102 494.49 MIG entonces_spa abrieron_spa como_spa un_spa _spa como_spa un_spa no_spa sé_spa un_spa lounge_eng al_spa lado_spa o_spa sea_spa ahí_spa mismo_spa adentro_spa pues_spa 
+494.447 501.707 MIG y_spa _spa y_spa ya_spa ponen_spa _spa ponen_spa más_spa música_spa más_spa variada_spa pues_spa de_spa repente_spa hip_hop_engspa reggaetón_engspa entonces_spa la_spa están_spa variando_spa entonces_spa es_spa más_spa de_spa a_spa verga_spa 
+501.676 502.953 TIM ya_spa 
+502.941 506.041 MIG ves_spa entonces_spa no_spa estás_spa como_spa que_spa con_spa la_spa misma_spa música_spa toda_spa la_spa noche_spa 
+505.996 508.486 TIM y_spa averiguaste_spa qué_spa días_spa abre_spa 
+508.463 511.852 MIG pues_spa sí_spa los_spa _spa los_spa viernes_spa _spa los_spa viernes_spa siempre_spa abren_spa loco_spa 
+511.781 517.648 MIG pero_spa yo_spa no_spa sé_spa ese_spa día_spa por_spa qué_spa o_spa te_spa _spa o_spa te_spa jodieron_spa porque_spa yo_spa miraba_spa _spa yo_spa miraba_spa movimiento_spa esa_spa noche_spa ahí_spa loco_spa 
+517.629 526.551 TIM yo_spa los_spa dos_spa últimos_spa viernes_spa que_spa he_spa ido_spa _spa que_spa fui_spa porque_spa el_spa te_spa acordás_spa el_spa día_spa de_spa mi_spa cumpleaños_spa yo_spa fui_spa pasé_spa y_spa yo_spa pregunté_spa oye_spa está_spa abierto_spa aquí_spa no_spa está_spa cerrado_spa me_spa dicen_spa los_spa majes_spa 
+526.477 526.872 TIM imaginate_spa 
+526.767 528.572 MIG _spa siempre_spa se_spa me_spa olvida_spa conseguir_spa el_spa número_spa 
+528.532 530.71 MIG yo_spa debería_spa de_spa conseguir_spa el_spa número_spa para_spa 
+530.634 532.12 eng_eng it_eng must_eng have_eng a_eng webpage_eng 
+532.103 537.817 MIG creo_spa _spa creo_spa que_spa tienen_spa una_spa _spa una_spa página_spa de_spa internet_spa verdad_spa para_spa preguntar_spa o_spa sea_spa para_spa _spa para_spa darme_spa cuenta_spa me_spa entendés_spa 
+537.964 539.375 TIM mmhm_eng 
+539.38 544.702 MIG porque_spa _spa porque_spa esa_spa verga_spa _spa esa_spa verga_spa loco_spa no_spa _spa no_spa creo_spa que_spa sólo_spa _spa no_spa creo_spa que_spa sólo_spa abran_spa los_spa domingos_spa loco_spa 
+544.664 547.94 MIG porque_spa _spa porque_spa o_spa sea_spa maje_spa 
+547.911 552.333 MIG te_spa das_spa _spa te_spa das_spa cuenta_spa de_spa la_spa cantidad_spa de_spa reales_spa que_spa pierden_spa un_spa viernes_spa si_spa no_spa abren_spa loco_spa 
+552.303 555.891 TIM xxx_spa yo_spa me_spa imagino_spa que_spa estarán_spa construyendo_spa siempre_spa 
+555.837 559.314 MIG no_spa pero_spa qué_spa van_spa a_spa estar_spa construyendo_spa si_spa siempre_spa está_spa la_spa misma_spa mierda_spa 
+559.299 559.943 TIM xxx_spa 
+559.934 565.048 MIG si_spa si_spa estuvieran_spa construyendo_spa cerrarían_spa el_spa sábado_spa también_spa o_spa _spa o_spa pues_spa lo_spa cerrarían_spa así_spa temporalmente_spa 
+564.997 567.725 TIM qué_spa raro_spa y_spa cuánto_spa te_spa cobran_spa la_spa entrada_spa 
+567.69 568.7 MIG ah_engspa 
+568.667 570.077 TIM _spa xxx_spa 
+568.685 572.348 MIG pues_spa siempre_spa me_spa cobraban_spa diez_spa pero_spa el_spa sábado_spa que_spa fui_spa me_spa cobraron_spa quince_spa 
+572.334 573.942 TIM oh_engspa 
+573.959 582.993 MIG menos_spa mal_spa que_spa llevé_spa o_spa sea_spa yo_spa _spa yo_spa llevaba_spa como_spa veinte_spa dólares_spa cash_eng y_spa yo_spa dije_spa seis_spa dólares_spa de_spa parqueo_spa dije_spa yo_spa diez_spa la_spa entrada_spa y_spa pues_spa el_spa vuelto_spa _spa el_spa vuelto_spa no_spa sé_spa tal_spa vez_spa me_spa compro_spa algo_spa de_spa tomar_spa 
+582.992 584.769 MIG completitos_spa loco_spa 
+584.772 587.866 MIG a_spa la_spa yo_spa me_spa quedé_spa como_spa que_spa a_spa la_spa gran_spa puta_spa si_spa no_spa hubiera_spa traído_spa 
+587.848 590.797 MIG y_spa lo_spa que_spa más_spa me_spa enturca_spa es_spa que_spa no_spa agarran_spa tarjetas_spa loco_spa 
+590.797 594.889 MIG like_eng o_spa sea_spa estamos_spa en_spa _spa en_spa Florida_engspa loco_spa 
+594.865 595.938 MIG estamos_spa en_spa Miami_engspa loco_spa 
+595.925 597.266 MIG y_spa no_spa aceptan_spa tarjeta_spa broder_spa 
+597.243 600.815 MIG y_spa ahí_spa en_spa Nicaragua_engspa en_spa todo_spa en_spa en_spa Hipa_engspa bróder_spa aceptan_spa tarjeta_spa loco_spa 
+600.814 603.328 MIG yo_spa pago_spa siempre_spa pago_spa mi_spa entrada_spa con_spa la_spa tarjeta_spa 
+603.28 605.933 TIM es_spa que_spa aquí_spa ni_spa en_spa ningún_spa bar_spa ni_spa ninguna_spa discoteca_spa te_spa la_spa agarra_spa 
+605.916 606.902 MIG cómo_spa 
+606.887 613.952 TIM aquí_spa en_spa ninguna_spa discoteca_spa te_spa lo_spa agarran_spa es_spa para_spa que_spa _spa para_spa que_spa hacer_spa negocio_spa con_spa la_spa mierda_spa del_spa A_T_M_eng 
+613.918 620.756 MIG ah_spa huevo_spa es_spa cierto_spa pero_spa igual_spa el_spa _spa el_spa _spa el_spa _spa en_spa discoteca_spa el_spa A_T_M_eng está_spa _spa está_spa en_spa los_spa baños_spa _spa está_spa por_spa los_spa baños_spa loco_spa está_spa dentro_spa 
+620.698 622.875 TIM pero_spa te_spa cobra_spa un_spa turcazo_spa de_spa reales_spa 
+622.867 626.797 MIG loco_spa la_spa otra_spa vez_spa o_spa sea_spa una_spa de_spa las_spa primeras_spa veces_spa que_spa fui_spa 
+626.726 631.919 MIG la_spa _spa ok_engspa la_spa segunda_spa vez_spa que_spa fui_spa yo_spa estaba_spa seguro_spa que_spa la_spa primera_spa vez_spa me_spa habían_spa cobrado_spa con_spa tarjeta_spa 
+631.915 635.288 MIG entonces_spa yo_spa me_spa voy_spa confiado_spa loco_spa y_spa voy_spa a_spa pagar_spa con_spa mi_spa tarjeta_spa 
+635.254 637.507 MIG y_spa el_spa maje_spa no_spa que_spa no_spa aceptamos_spa tarjeta_spa 
+637.462 639.621 MIG y_spa yo_spa a_spa la_spa gran_spa puta_spa what_eng do_eng I_eng do_eng le_spa digo_spa 
+639.579 642.33 MIG entonces_spa tenemos_spa un_spa A_T_M_eng ahí_spa adentro_spa me_spa dice_spa el_spa maje_spa 
+642.265 645.08 MIG y_spa yo_spa bueno_spa ok_engspa pues_spa me_spa voy_spa a_spa ir_spa pues_spa loco_spa voy_spa a_spa ir_spa al_spa A_T_M_eng 
+645.068 647.954 MIG entonces_spa el_spa maje_spa se_spa quedó_spa con_spa mi_spa I_D_eng y_spa eso_spa pues_spa para_spa 
+647.913 649.695 eng_eng I_eng had_eng to_eng come_eng back_eng _eng I_eng had_eng to_eng come_eng back_eng 
+649.692 653.105 MIG entonces_spa regreso_spa voy_spa y_spa _spa y_spa saco_spa en_spa el_spa A_T_M_eng 
+653.058 654.957 MIG yo_spa fresco_spa pues_spa yo_spa sabía_spa que_spa cobraban_spa pues_spa 
+654.936 657.757 MIG pero_spa _spa pero_spa yo_spa dije_spa pues_spa ni_spa modo_spa idiay_spa ya_spa estoy_spa aquí_spa que_spa le_spa voy_spa a_spa hacer_spa 
+657.717 661.031 MIG entonces_spa fui_spa saqué_spa el_spa dinero_spa pagué_spa entré_spa de_spa a_spa verga_spa 
+661.024 664.333 MIG ya_spa cuando_spa me_spa llega_spa mi_spa estado_spa de_spa cuenta_spa loco_spa o_spa sea_spa 
+664.305 666.853 MIG saqué_spa creo_spa que_spa había_spa sacado_spa veinte_spa loco_spa _spa 
+666.824 669.314 MIG y_spa me_spa cobraron_spa como_spa diez_spa dólares_spa por_spa sacarlo_spa loco_spa _spa 
+669.307 671.948 MIG o_spa sea_spa es_spa _spa es_spa una_spa estafa_spa loco_spa 
+671.913 675.245 TIM pero_spa es_spa que_spa ahí_spa te_spa dice_spa el_spa A_T_M_eng te_spa dice_spa cuánto_spa te_spa cobra_spa 
+675.248 679.242 MIG en_spa serio_spa claro_spa es_spa que_spa yo_spa no_spa _spa la_spa verdad_spa es_spa que_spa yo_spa en_spa esas_spa cosas_spa no_spa me_spa fijo_spa loco_spa 
+679.225 680.456 MIG yo_spa soy_spa bien_spa 
+680.459 682.943 TIM _spa es_spa que_spa ahí_spa dice_spa esta_spa mierda_spa te_spa cobra_spa un_spa fee_eng xxx_spa 
+682.935 686.176 MIG _spa acordate_spa que_spa las_spa _spa acordate_spa que_spa las_spa rubias_spa somos_spa tontas_spa estúpido_spa 
+686.141 688.184 TIM las_spa rubias_spa son_spa tontas_spa _spa laugh_spa 
+688.153 689.918 MIG _spa sí_spa eh_engspa 
+689.899 693.185 MIG yo_spa no_spa _spa yo_spa además_spa que_spa yo_spa no_spa leo_spa a_spa mí_spa me_spa leen_spa 
+693.182 695.742 TIM a_spa mí_spa me_spa leen_spa 
+695.72 696.835 TIM qué_spa idiota_spa 
+695.894 696.428 MIG _spa ves_spa 
+696.817 698.251 MIG no_spa es_spa que_spa es_spa _spa es_spa _spa es_spa cierto_spa 
+698.23 699.583 MIG o_spa sea_spa una_spa persona_spa como_spa yo_spa loco_spa 
+699.554 701.069 MIG yo_spa _spa yo_spa no_spa aprendí_spa a_spa leer_spa 
+701.051 702.717 MIG a_spa mí_spa _spa a_spa mí_spa me_spa leen_spa las_spa cosas_spa 
+702.679 705.268 MIG oye_spa mira_spa vamos_spa 
+702.679 705.252 TIM xxx_spa 
+705.234 706.673 MIG vamos_spa a_spa ir_spa a_spa la_spa feria_spa un_spa día_spa de_spa estos_spa 
+706.685 707.143 MIG querés_spa ir_spa 
+707.139 708.097 TIM a_spa la_spa qué_spa 
+708.079 708.886 MIG a_spa la_spa feria_spa 
+708.863 709.745 TIM qué_spa feria_spa 
+709.716 711.092 MIG the_eng fair_eng estúpido_spa 
+711.088 712.888 MIG la_spa que_spa está_spa en_spa F_I_U_eng 
+712.87 714.583 eng_eng the_eng fair_eng 
+714.583 717.74 TIM cómo_spa _spa yo_spa nunca_spa he_spa ido_spa a_spa esa_spa mierda_spa vos_spa sabés_spa 
+717.733 719.225 MIG qué_spa estúpido_spa que_spa sos_spa 
+719.225 722.89 TIM pero_spa ésta_spa es_spa la_spa feria_spa nicaragüense_spa o_spa la_spa _spa o_spa la_spa feria_spa xxx_spa 
+720.986 723.209 MIG _spa qué_spa estúpido_spa ésa_spa es_spa Exponica_engspa estúpido_spa 
+723.189 724.24 eng_eng oh_eng yeah_eng yeah_eng yeah_eng 
+724.228 726.968 MIG y_spa eso_spa es_spa como_spa en_spa septiembre_spa noviembre_spa por_spa ahí_spa 
+726.951 729.557 TIM la_spa feria_spa es_spa la_spa de_spa los_spa _spa la_spa de_spa los_spa _spa la_spa de_spa los_spa juegos_spa 
+729.54 735.173 MIG sí_spa la_spa feria_spa es_spa la_spa ko_spa el_spa _spa el_spa pleylampar_spa loco_spa como_spa decimos_spa nosotros_spa los_spa nicas_spa el_spa pleylampar_spa 
+735.123 736.179 TIM el_spa pleylampar_spa 
+736.15 737.271 MIG el_spa pleylampar_spa sí_spa 
+737.265 742.041 TIM vos_spa sabés_spa que_spa nunca_spa he_spa ido_spa siempre_spa que_spa viene_spa esa_spa mierda_spa ay_spa xxx_spa tu_spa huevo_spa 
+741.803 742.552 MIG _spa yo_spa siempre_spa voy_spa 
+742.523 743.626 MIG siempre_spa que_spa estoy_spa aquí_spa yo_spa voy_spa 
+743.631 744.923 MIG pues_spa el_spa año_spa pues_spa y_spa como_spa _spa 
+744.88 745.536 TIM ah_spa ya_spa 
+745.24 747.951 MIG _spa siempre_spa cuando_spa _spa siempre_spa cuando_spa yo_spa estaba_spa aquí_spa de_spa vacaciones_spa pues_spa yo_spa iba_spa 
+747.943 749.598 MIG pero_spa ahora_spa que_spa ya_spa estoy_spa viviendo_spa 
+748.013 751.02 TIM _spa xxx_spa me_spa acabo_spa de_spa destripar_spa un_spa ovario_spa 
+750.984 751.565 MIG qué_spa 
+750.984 751.565 TIM _spa xxx_spa 
+751.536 752.592 MIG qué_spa estúpido_spa 
+752.598 755.708 TIM ay_spa me_spa destripé_spa un_spa ovario_spa 
+755.685 756.689 MIG no_spa y_spa entonces_spa decía_spa 
+756.689 757.56 MIG no_spa _spa siempre_spa voy_spa 
+757.521 758.943 MIG y_spa el_spa año_spa pasado_spa fui_spa 
+758.938 762.252 MIG vos_spa sabés_spa que_spa _spa me_spa enturca_spa que_spa pagué_spa _spa el_spa brazalete_spa 
+762.222 764.015 MIG que_spa creo_spa que_spa no_spa me_spa acuerdo_spa cuánto_spa valía_spa 
+763.998 768.143 MIG el_spa brazalete_spa es_spa para_spa que_spa lo_spa andés_spa y_spa te_spa montés_spa en_spa _spa en_spa _spa en_spa o_spa sea_spa te_spa montás_spa en_spa todo_spa pues_spa 
+768.098 773.871 MIG en_spa vez_spa de_spa andar_spa comprando_spa like_eng los_spa _spa los_spa tickets_engspa y_spa eso_spa porque_spa hay_spa gente_spa pues_spa que_spa hace_spa la_spa fila_spa para_spa estar_spa comprando_spa tickets_engspa y_spa tickets_engspa 
+773.884 776.426 MIG entonces_spa yo_spa dije_spa idiay_spa compremos_spa el_spa brazalete_spa y_spa vale_spa turca_spa 
+776.416 779.145 MIG y_spa para_spa nada_spa lo_spa compré_spa sólo_spa me_spa monté_spa como_spa en_spa dos_spa o_spa tres_spa cosas_spa 
+779.116 782.249 MIG porque_spa yo_spa like_eng _spa I_eng dont_eng ride_eng those_eng things_eng me_spa entendés_spa 
+782.238 783.48 MIG y_spa yo_spa nunca_spa me_spa monto_spa en_spa esas_spa mierdas_spa 
+783.474 785.674 MIG y_spa _spa y_spa yo_spa no_spa sé_spa ni_spa para_spa qué_spa lo_spa compré_spa 
+785.661 789.115 MIG pero_spa yo_spa _spa yo_spa sólo_spa me_spa monto_spa como_spa en_spa uno_spa o_spa dos_spa loco_spa siempre_spa me_spa mareo_spa 
+789.061 791.151 TIM xxx_spa 
+791.146 793.416 MIG siempre_spa siempre_spa me_spa mareo_spa y_spa termino_spa vomitando_spa 
+793.387 796.62 MIG me_spa _spa me_spa monté_spa como_spa en_spa dos_spa y_spa andaba_spa con_spa un_spa dolor_spa de_spa cabeza_spa horrible_spa 
+796.603 797.804 TIM ay_spa qué_spa estúpida_spa 
+797.787 800.855 MIG ya_spa es_spa que_spa ya_spa lo_spa sabés_spa pues_spa 
+800.827 802.661 MIG es_spa que_spa como_spa yo_spa tengo_spa aire_spa en_spa el_spa cerebro_spa 
+801.495 803.666 TIM _spa xxx_spa 
+803.645 803.999 TIM ah_engspa 
+803.987 805.787 MIG como_spa yo_spa tengo_spa aire_spa en_spa el_spa cerebro_spa 
+805.752 807.145 TIM aire_spa en_spa el_spa cerebro_spa 
+807.128 810.89 MIG sí_spa loco_spa o_spa sea_spa en_spa _spa en_spa la_spa cabeza_spa perdón_spa porque_spa no_spa tengo_spa cerebro_spa yo_spa tengo_spa aire_spa 
+810.903 812.342 TIM te_spa golpea_spa el_spa maní_spa 
+812.325 814.171 MIG me_spa golpea_spa de_spa viaje_spa 
+814.142 816.656 MIG me_spa golpea_spa el_spa bonito_spa que_spa tengo_spa pedaleando_spa ahí_spa adentro_spa 
+816.644 818.67 TIM sí_spa pobrecito_spa 
+818.653 820.453 MIG sí_spa oye_spa y_spa ya_spa te_spa distes_spa cuenta_spa 
+820.426 821.326 TIM qué_spa pasó_spa 
+821.32 823.717 MIG ya_spa _spa ya_spa salió_spa el_spa primer_spa hombre_spa embarazado_spa 
+823.702 826.9 TIM laugh_spa cómo_spa es_spa eso_spa _spa 
+826.889 827.666 MIG ah_engspa 
+827.661 828.572 TIM cómo_spa es_spa eso_spa 
+828.553 830.434 MIG ya_spa salió_spa el_spa primer_spa hombre_spa embarazado_spa 
+830.438 832.586 TIM no_spa entiendo_spa 
+832.556 834.251 MIG un_spa hombre_spa embarazado_spa 
+834.233 835.255 eng_eng pregnant_eng 
+835.248 838.621 TIM no_spa sé_spa yo_spa no_spa sé_spa _spa cómo_spa es_spa eso_spa 
+838.582 842.553 MIG o_spa sea_spa mira_spa un_spa embarazo_spa es_spa cuando_spa alguien_spa tiene_spa un_spa bebé_spa adentro_spa 
+842.53 845.038 TIM oh_eng yeah_eng oh_eng yeah_eng oh_eng yeah_eng pero_spa cómo_spa un_spa hombre_spa 
+845.032 846.82 MIG pues_spa un_spa hombre_spa salió_spa embarazado_spa 
+846.801 852.605 MIG o_spa sea_spa es_spa como_spa está_spa avanzada_spa la_spa tecnología_spa y_spa la_spa ciencia_spa y_spa ya_spa _spa ya_spa _spa ya_spa embarazaron_spa a_spa un_spa hombre_spa loco_spa 
+852.599 857.237 MIG lo_spa miré_spa en_spa Despierta_América_spa ayer_spa y_spa después_spa él_spa salió_spa en_spa Primer_Impacto_spa 
+857.241 858.46 TIM y_spa qué_spa hicieron_spa maje_spa 
+858.454 861.832 TIM le_spa metieron_spa un_spa _spa le_spa _spa le_spa metieron_spa un_spa útero_spa y_spa toda_spa la_spa verga_spa 
+861.825 868.537 MIG laugh_spa no_spa mira_spa pues_spa _spa es_spa como_spa que_spa _spa era_spa mujer_spa y_spa se_spa operó_spa 
+868.513 869.749 TIM ah_spa ya_spa sé_spa 
+869.645 873.928 MIG entonces_spa se_spa pero_spa se_spa pues_spa se_spa _spa se_spa quitó_spa el_spa bicho_spa y_spa se_spa puso_spa una_spa turca_spa 
+874.214 874.562 TIM mmhm_eng 
+874.562 876.681 MIG cómo_spa te_spa quitan_spa el_spa bicho_spa loco_spa te_spa quitan_spa el_spa hoyo_spa 
+876.646 879.737 TIM te_spa cierran_spa el_spa hoyo_spa 
+879.7 882.051 TIM el_spa clítoris_spa es_spa la_spa cabeza_spa y_spa 
+882.567 883.868 MIG huácala_spa 
+883.885 884.407 TIM no_spa lo_spa sé_spa 
+884.383 886.461 TIM pero_spa ya_spa lo_spa vi_spa _spa ya_spa lo_spa vi_spa yo_spa _spa ya_spa lo_spa vi_spa cómo_spa lo_spa hacen_spa 
+886.479 888.949 MIG vos_spa ya_spa viste_spa cómo_spa ay_spa no_spa y_spa dónde_spa lo_spa viste_spa 
+889.009 892.757 TIM pero_spa ahí_spa en_spa pero_spa un_spa libro_spa de_spa mi_spa hermana_spa 
+892.739 894.44 MIG yo_spa quiero_spa verlo_spa 
+893.402 894.36 TIM _spa medicina_spa 
+894.328 900.298 TIM lo_spa es_spa que_spa miré_spa la_spa formación_spa maje_spa cuando_spa _spa cuando_spa se_spa viene_spa formando_spa el_spa _spa el_spa feto_spa y_spa no_spa sé_spa qué_spa 
+900.384 902.596 TIM al_spa comienzo_spa todos_spa somos_spa niñas_spa 
+902.536 903.105 MIG cómo_spa 
+903.093 905.676 TIM al_spa comienzo_spa todos_spa somos_spa niña_spa 
+905.651 912.684 MIG _spa esperate_spa esperate_spa esperate_spa que_spa va_spa pasando_spa un_spa avión_spa y_spa no_spa te_spa oigo_spa 
+912.671 915.986 MIG puta_spa loco_spa ese_spa avión_spa te_spa lo_spa juro_spa que_spa me_spa _spa me_spa pasó_spa rozando_spa la_spa jeta_spa 
+915.983 917.705 TIM hijo_spa de_spa la_spa gran_spa puta_spa 
+917.705 919.313 eng_eng aha_eng aha_eng aha_eng aha_eng 
+919.293 921.209 TIM se_spa te_spa va_spa a_spa llevar_spa tu_spa apartamentito_spa hombre_spa 
+921.188 923.353 MIG por_spa Dios_spa se_spa me_spa va_spa a_spa llevar_spa el_spa cuchitril_spa loco_spa 
+923.3 927.608 TIM xxx_spa oíme_spa la_spa verga_spa es_spa que_spa al_spa comienzo_spa todos_spa son_spa como_spa niñas_spa 
+927.562 928.322 MIG mmhm_eng 
+928.299 931.422 TIM el_spa _spa el_spa hombre_spa y_spa la_spa niña_spa son_spa igualitas_spa la_spa cosa_spa que_spa tenemos_spa ahí_spa 
+931.386 931.827 MIG mmhm_eng 
+931.815 937.204 TIM pero_spa um_eng la_spa _spa la_spa cabeza_spa del_spa hombre_spa es_spa el_spa clítoris_spa de_spa la_spa mujer_spa me_spa entendés_spa 
+937.166 937.753 MIG ya_spa 
+937.741 941.23 TIM los_spa labios_spa de_spa la_spa mujer_spa _spa son_spa los_spa huevitos_spa del_spa hombre_spa 
+941.195 942.106 MIG los_spa huevitos_spa 
+942.083 943.877 TIM sí_spa los_spa huevitos_spa 
+943.858 944.984 MIG o_spa sea_spa los_spa testículos_spa 
+944.946 945.718 eng_eng aha_eng 
+945.706 946.827 MIG mmhm_eng 
+946.8 950.794 TIM más_spa o_spa menos_spa se_spa parecen_spa se_spa parecen_spa en_spa puta_spa maje_spa cómo_spa se_spa viene_spa formando_spa 
+950.752 951.849 MIG mmhm_eng 
+951.608 951.986 TIM y_spa 
+951.951 953.592 MIG _spa o_spa sea_spa que_spa al_spa principio_spa todos_spa tenemos_spa bicho_spa 
+953.586 959.96 TIM sí_spa el_spa otro_spa día_spa lo_spa miré_spa pues_spa ahí_spa en_spa una_spa película_spa como_spa lo_spa hacen_spa ahí_spa en_spa Nip_Tuck_engspa que_spa estaban_spa explicando_spa unos_spa majes_spa 
+959.943 960.813 MIG mmhm_eng 
+960.798 963.956 MIG eso_spa es_spa una_spa eso_spa Nip_Tuck_engspa no_spa es_spa una_spa película_spa estúpido_spa es_spa una_spa serie_spa 
+963.857 965.801 TIM una_spa serie_spa pues_spa 
+965.789 970.776 TIM entonces_spa pues_spa sí_spa eso_spa fue_spa lo_spa que_spa miré_spa 
+970.764 974.265 TIM pero_spa qué_spa de_spa a_spa verga_spa maje_spa yo_spa quisiera_spa quedar_spa embarazado_spa 
+974.265 974.753 MIG que_spa qué_spa 
+974.711 977.747 TIM yo_spa quisiera_spa quedar_spa embarazado_spa 
+977.729 978.733 MIG dígame_spa 
+978.702 981.059 MIG cómo_spa está_spa 
+981.037 984.63 MIG espérame_spa 
+984.593 985.603 MIG eh_spa sí_spa 
+985.567 989.491 MIG ya_spa lo_spa puedo_spa _spa ya_spa puedo_spa entrar_spa 
+989.459 993.007 MIG gracias_spa oyó_spa 
+992.995 995.12 MIG sí_spa sí_spa así_spa vi_spa 
+995.101 997.684 MIG ah_spa ok_engspa gracias_spa oyó_spa 
+997.664 998.244 MIG bye_engspa 
+998.238 999.109 MIG aló_spa 
+999.089 1000.372 TIM xxx_spa 
+1000.355 1001.615 MIG mi_spa vecina_spa estúpida_spa 
+1001.572 1002.205 MIG espérame_spa espérame_spa 
+1002.194 1003.842 MIG no_spa _spa no_spa me_spa colgués_spa dame_spa un_spa segundo_spa _spa dame_spa un_spa segundo_spa 
+1004.924 1007.101 MIG espérame_spa no_spa te_spa vayás_spa estúpida_spa 
+1007.719 1015.716 MIG hablá_spa aha_eng aha_eng 
+1015.725 1017.368 TIM aha_eng entonces_spa 
+1016.433 1020.235 MIG _spa ah_spa pues_spa sí_spa entonces_spa estaba_spa viendo_spa las_spa noticias_spa en_spa _spa en_spa _spa en_spa Primer_Impacto_engspa 
+1020.22 1024.863 MIG y_spa entonces_spa _spa es_spa _spa o_spa sea_spa era_spa mujer_spa antes_spa 
+1024.813 1027.106 MIG y_spa _spa y_spa se_spa operó_spa pues_spa y_spa se_spa hizo_spa hombre_spa 
+1027.036 1028.54 MIG entonces_spa le_spa pusieron_spa la_spa turca_spa y_spa todo_spa 
+1028.53 1035.516 MIG y_spa entonces_spa él_spa pues_spa la_spa maje_spa se_spa casó_spa con_spa _spa con_spa una_spa mujer_spa 
+1035.499 1038.269 MIG sí_spa sí_spa sí_spa sí_spa qué_spa estúpido_spa se_spa hizo_spa hombre_spa 
+1038.229 1045.845 MIG sí_spa se_spa casó_spa pues_spa se_spa casó_spa con_spa _spa con_spa otra_spa maje_spa pues_spa y_spa entonces_spa parece_spa que_spa la_spa _spa que_spa la_spa mujer_spa con_spa la_spa que_spa se_spa casó_spa pues_spa no_spa podía_spa quedar_spa embarazada_spa 
+1045.798 1050.552 MIG entonces_spa el_spa gran_spa amor_spa que_spa le_spa tiene_spa entonces_spa le_spa dijo_spa pues_spa yo_spa voy_spa a_spa quedar_spa embarazado_spa por_spa vos_spa 
+1050.525 1055.448 MIG entonces_spa _spa lo_spa embarazaron_spa _spa sabes_spa se_spa embarazó_spa 
+1050.525 1055.43 TIM _spa mmhm_eng 
+1055.415 1058.143 MIG parece_spa pues_spa obviamente_spa fue_spa inseminación_spa artificial_spa y_spa eso_spa 
+1058.113 1061.706 MIG ves_spa porque_spa no_spa le_spa íbamos_spa a_spa meter_spa una_spa turca_spa por_spa el_spa hoyo_spa de_spa la_spa turca_spa 
+1061.71 1065.113 TIM y_spa después_spa para_spa sacarle_spa el_spa chavalo_spa 
+1065.085 1066.588 MIG por_spa cesárea_spa estúpido_spa 
+1065.085 1066.559 TIM _spa por_spa cesárea_spa 
+1066.519 1067.343 TIM cesárea_spa 
+1067.117 1069.264 MIG ni_spa modo_spa que_spa se_spa lo_spa saquen_spa por_spa el_spa hoyo_spa del_spa culo_spa 
+1069.218 1070.495 TIM ah_spa oye_spa 
+1070.466 1072.172 MIG te_spa imaginás_spa qué_spa dolor_spa bróder_spa 
+1072.155 1075.882 MIG no_spa no_spa no_spa y_spa después_spa que_spa _spa y_spa después_spa cuando_spa nace_spa le_spa dicen_spa salió_spa cagadito_spa a_spa vos_spa 
+1075.818 1078.628 TIM sí_spa sí_spa 
+1078.593 1079.508 TIM que_spa le_spa 
+1079.502 1080.251 MIG a_spa huevo_spa 
+1080.21 1083.814 MIG yo_spa quisiera_spa _spa yo_spa un_spa _spa yo_spa un_spa día_spa voy_spa a_spa llegar_spa a_spa ser_spa papá_spa vas_spa a_spa ver_spa 
+1083.779 1084.464 TIM cómo_spa 
+1084.422 1085.885 MIG yo_spa un_spa día_spa voy_spa a_spa ser_spa papá_spa 
+1085.894 1088.28 TIM ojalá_spa mujer_spa porque_spa 
+1087.7 1088.251 MIG _spa _spa eng_spa like_spa 
+1088.228 1091.009 MIG ésa_spa es_spa mi_spa meta_spa like_eng ése_spa es_spa mi_spa _spa mi_spa sueño_spa más_spa grande_spa 
+1090.968 1094.401 MIG porque_spa uno_spa de_spa mis_spa sueños_spa ya_spa lo_spa cumplí_spa que_spa pues_spa ir_spa al_spa concierto_spa bróder_spa 
+1094.393 1095.995 MIG eso_spa fue_spa lo_spa más_spa de_spa a_spa verga_spa 
+1095.978 1099.908 MIG pero_spa eso_spa era_spa como_spa que_spa un_spa sueño_spa vos_spa sabés_spa de_spa esos_spa sueños_spa materiales_spa 
+1099.868 1101.163 TIM mmhm_eng 
+1101.146 1108.733 MIG pero_spa mi_spa sueño_spa no_spa sé_spa mi_spa sueño_spa como_spa así_spa como_spa persona_spa como_spa ser_spa humano_spa o_spa sea_spa realizarme_spa va_spa a_spa ser_spa eso_spa ser_spa papá_spa loco_spa 
+1108.688 1111.294 MIG quiero_spa tener_spa un_spa hijo_spa 
+1111.264 1113.992 MIG y_spa _spa y_spa ponerle_spa Yurandier_engspa Eliécer_engspa _spa 
+1113.975 1114.869 TIM uh_engspa 
+1114.838 1116.701 MIG yo_spa _spa yo_spa le_spa voy_spa a_spa poner_spa Yurandier_engspa Eliécer_engspa _spa 
+1116.689 1118.105 TIM Yurandier_engspa laugh_spa 
+1118.088 1120.328 MIG sí_spa es_spa un_spa o_spa sea_spa es_spa un_spa nombre_spa fino_spa qué_spa te_spa pasa_spa 
+1120.286 1122.597 MIG fino_spa de_spa barriada_spa de_spa viaje_spa 
+1122.196 1126.115 TIM qué_spa nombre_spa más_spa _spa turqueado_spa no_spa jodás_spa 
+1124.518 1128.8 MIG _spa mmhm_eng un_spa nombre_spa cual_spa es_spa un_spa nombre_spa de_spa realeza_spa 
+1128.843 1131.751 TIM Yurandier_engspa Eliécer_engspa laugh_spa 
+1128.843 1131.751 MIG _spa claro_spa 
+1131.749 1135.191 MIG puro_spa reparto_spa Schick_engspa imaginate_spa Yurandier_engspa Eliécer_engspa 
+1135.168 1137.565 TIM a_spa la_spa gran_spa puta_spa qué_spa nombrecito_spa 
+1137.56 1138.506 MIG sí_spa loco_spa 
+1137.56 1138.496 TIM _spa xxx_spa 
+1138.469 1142.278 MIG o_spa si_spa no_spa _spa Kelvin_engspa Josué_engspa le_spa puedo_spa poner_spa 
+1142.239 1143.714 TIM Kelvin_engspa Josué_engspa 
+1143.708 1144.915 TIM oh_spa che_spa _spa 
+1143.708 1144.915 MIG _spa sí_spa 
+1144.892 1146.721 MIG Kevin_engspa Brian_engspa también_spa 
+1146.708 1148.862 TIM Kevin_engspa Brian_engspa 
+1148.838 1149.569 MIG sí_spa 
+1149.534 1153.127 MIG vos_spa sabés_spa de_spa que_spa la_spa otra_spa vez_spa estaba_spa viendo_spa un_spa programa_spa pues_spa allá_spa en_spa Nicaragua_spa creo_spa 
+1153.139 1155.645 MIG no_spa me_spa acuerdo_spa si_spa era_spa Margarita_spa o_spa algo_spa así_spa un_spa programa_spa de_spa esos_spa 
+1155.605 1158.257 MIG entonces_spa la_spa cosa_spa es_spa de_spa que_spa se_spa fueron_spa como_spa para_spa la_spa Costa_spa o_spa algo_spa así_spa 
+1158.169 1159.005 TIM mmhm_eng 
+1158.988 1161.548 MIG y_spa entonces_spa vos_spa sabés_spa que_spa ahí_spa hablan_spa inglés_spa y_spa eso_spa 
+1161.527 1166.605 MIG y_spa entonces_spa loco_spa la_spa gente_spa le_spa pone_spa a_spa los_spa hijos_spa nombres_spa de_spa _spa de_spa lugares_spa 
+1166.077 1166.709 TIM _spa xxx_spa 
+1166.633 1169.518 MIG loco_spa ahí_spa _spa ahí_spa vivía_spa un_spa maje_spa que_spa se_spa llamaba_spa Washington_D_C_engspa 
+1169.512 1170.835 TIM mmhm_eng 
+1170.794 1175.049 MIG loco_spa yo_spa me_spa estaba_spa cagando_spa de_spa las_spa risas_spa con_spa unos_spa nombres_spa que_spa salían_spa bróder_spa 
+1175.037 1178.55 MIG sí_spa sí_spa se_spa ponen_spa unos_spa nombres_spa y_spa los_spa majes_spa se_spa pueden_spa poner_spa los_spa apellidos_spa también_spa 
+1178.539 1179.858 MIG a_spa huevo_spa loco_spa 
+1179.84 1181.901 TIM entonces_spa les_spa ponen_spa unos_spa apellidos_spa todos_spa 
+1181.901 1183.52 MIG ah_spa le_spa pueden_spa poner_spa los_spa apellidos_spa 
+1183.48 1184.606 TIM sí_spa 
+1184.623 1185.651 MIG cómo_spa así_spa 
+1185.626 1189.424 TIM sí_spa los_spa majes_spa yo_spa no_spa sé_spa ellos_spa pueden_spa escoger_spa sus_spa apellidos_spa no_spa sé_spa cómo_spa puta_spa 
+1189.39 1191.294 MIG qué_spa raro_spa entonces_spa ahí_spa nadie_spa es_spa familia_spa entonces_spa 
+1191.321 1198.813 TIM ellos_spa podrían_spa escoger_spa sus_spa apellidos_spa o_spa no_spa sé_spa entonces_spa tienen_spa apellidos_spa como_spa O_Brian_engspa como_spa 
+1197.937 1198.889 MIG _spa a_spa huevo_spa 
+1199.136 1200.064 TIM xxx_spa 
+1199.136 1200.064 MIG _spa imaginate_spa 
+1200.034 1202.745 TIM tienen_spa unos_spa apellidos_spa no_spa jodás_spa todos_spa raros_spa todos_spa 
+1202.668 1205.727 MIG imaginate_spa por_spa ahí_spa debe_spa de_spa haber_spa una_spa Oprah_Winfrey_engspa por_spa ahí_spa loco_spa 
+1205.702 1207.026 TIM xxx_spa 
+1206.991 1208.291 MIG una_spa Victoria_Beckham_engspa 
+1208.265 1212.473 TIM no_spa ya_spa eso_spa no_spa pues_spa no_spa creo_spa xxx_spa parece_spa negra_spa 
+1212.461 1215.809 MIG claro_spa que_spa sí_spa bróder_spa si_spa se_spa ponen_spa artistas_spa _spa nombres_spa de_spa artistas_spa así_spa y_spa todo_spa 
+1215.873 1220.254 MIG había_spa un_spa maje_spa que_spa _spa que_spa se_spa llamaba_spa no_spa sé_spa loco_spa no_spa me_spa acuerdo_spa 
+1220.218 1227.027 MIG yo_spa me_spa acuerdo_spa que_spa _spa hace_spa años_spa teníamos_spa un_spa chofer_spa que_spa el_spa maje_spa tenía_spa una_spa hija_spa que_spa estaba_spa embarazada_spa 
+1226.901 1229.937 MIG entonces_spa ya_spa nace_spa el_spa niño_spa y_spa cómo_spa se_spa llama_spa le_spa digo_spa 
+1229.917 1231.91 MIG entonces_spa me_spa dice_spa no_spa es_spa que_spa mi_spa hija_spa le_spa 
+1231.904 1233.39 MIG era_spa para_spa el_spa tiempo_spa de_spa los_spa Backstreet_Boys_engspa 
+1233.364 1237.109 MIG y_spa me_spa dice_spa no_spa es_spa que_spa a_spa mi_spa hija_spa le_spa gustan_spa los_spa Backstreet_Boys_engspa y_spa le_spa puso_spa Kevin_engspa Brian_engspa dice_spa 
+1237.239 1239.579 MIG y_spa yo_spa i a_spa la_spa gran_spa puta_spa huevón_spa 
+1238.725 1240.486 TIM _spa xxx_spa 
+1240.028 1241.728 MIG _spa Kevin_engspa Brian_engspa no_spa hombre_spa 
+1241.687 1246.48 MIG imaginate_spa le_spa gustan_spa los_spa Backstreet_Boys_engspa y_spa N_Sync_engspa y_spa le_spa puso_spa Nick_engspa Justin_engspa 
+1246.535 1248.654 TIM Nick_engspa Justin_engspa fíjate_spa 
+1248.166 1249.252 MIG _spa imaginate_spa 
+1249.256 1250.028 TIM laughs_spa 
+1249.985 1252.203 MIG tuanis_spa de_spa viaje_spa 
+1252.174 1253.776 TIM xxx_spa puta_spa 
+1253.766 1255.078 MIG y_spa de_spa repente_spa hacían_spa su_spa 
+1255.07 1260.66 MIG y_spa ya_spa cuando_spa le_spa hacían_spa su_spa piñata_spa bróder_spa _spa ponían_spa _spa ponían_spa nombre_spa thank_eng you_eng 
+1260.634 1263.148 MIG le_spa ponían_spa nombre_spa xxx_spa 
+1263.154 1265.511 TIM _spa xxx_spa que_spa me_spa está_spa llamando_spa pegando_spa alaridos_spa 
+1265.491 1266.931 MIG qué_spa 
+1266.907 1268.788 TIM te_spa digo_spa que_spa mi_spa mamá_spa ya_spa está_spa pegando_spa alaridos_spa 
+1268.771 1270.727 MIG para_spa qué_spa no_spa estúpida_spa no_spa me_spa colgués_spa 
+1270.726 1273.391 TIM ya_spa me_spa tengo_spa que_spa despertar_spa maje_spa estoy_spa xxx_spa 
+1272.555 1273.345 MIG _spa pues_spa despertate_spa 
+1273.304 1275.051 MIG despertáte_spa pero_spa no_spa me_spa colgués_spa estúpida_spa 
+1275.014 1276.604 TIM te_spa llamo_spa xxx_spa 
+1276.578 1278.482 MIG no_spa estúpida_spa no_spa 
+1278.455 1281.897 TIM ay_spa maje_spa maje_spa es_spa que_spa ahí_spa viene_spa mi_spa mamá_spa subiendo_spa las_spa escaleras_spa para_spa turquearme_spa 
+1281.926 1284.219 MIG ok_engspa pero_spa no_spa me_spa colgués_spa te_spa espero_spa pero_spa no_spa me_spa colgués_spa 
+1284.194 1287.276 TIM huh_engspa no_spa dale_spa que_spa me_spa voy_spa a_spa bañar_spa 
+1287.263 1290.206 MIG no_spa estúpida_spa dame_spa cinco_spa minutos_spa más_spa platiquemos_spa 
+1290.19 1294.271 MIG qué_spa te_spa iba_spa a_spa decir_spa 
+1294.254 1295.252 eng_eng aha_eng 
+1295.232 1297.177 MIG salgamos_spa el_spa fin_spa de_spa semana_spa estúpido_spa 
+1297.171 1298.965 TIM dale_spa pues_spa 
+1298.942 1299.999 MIG vamos_spa a_spa discotecas_spa 
+1299.18 1302.333 TIM _spa no_spa jodás_spa tengo_spa que_spa decirle_spa a_spa mi_spa jefe_spa que_spa ya_spa estoy_spa en_spa la_spa ciudad_spa 
+1302.313 1306.435 MIG ah_spa y_spa es_spa que_spa vos_spa le_spa dijistes_spa me_spa voy_spa indefinidamente_spa y_spa ya_spa te_spa aviso_spa cuando_spa regrese_spa 
+1306.427 1308.558 TIM cómo_spa así_spa 
+1308.511 1309.504 MIG qué_spa le_spa dijistes_spa 
+1309.47 1310.938 TIM qué_spa 
+1310.938 1311.925 MIG qué_spa le_spa dijiste_spa 
+1311.906 1315.052 TIM nada_spa que_spa me_spa iba_spa para_spa Nueva_Orleáns_spa y_spa que_spa no_spa sé_spa qué_spa 
+1315.028 1319.109 TIM y_spa que_spa _spa que_spa me_spa diera_spa un_spa fin_spa de_spa _spa que_spa iba_spa a_spa ocupar_spa un_spa fin_spa de_spa semana_spa 
+1319.063 1320.45 TIM entonces_spa me_spa dijo_spa que_spa ok_engspa 
+1320.444 1324.89 TIM al_spa siguiente_spa _spa siguiente_spa fin_spa de_spa semana_spa me_spa dice_spa mejor_spa no_spa mirá_spa que_spa nos_spa vamos_spa a_spa quedar_spa aquí_spa 
+1324.86 1334.063 TIM entonces_spa le_spa digo_spa no_spa que_spa mis_spa papás_spa dicen_spa que_spa un_spa fin_spa de_spa semana_spa es_spa muy_spa poquito_spa para_spa conocer_spa Nueva_Orleáns_spa ah_spa sí_spa tenés_spa razón_spa avísame_spa cuando_spa estés_spa en_spa la_spa ciudad_spa loco_spa me_spa pone_spa el_spa maje_spa 
+1334.042 1340.589 MIG hijo_spa de_spa puta_spa mínimo_spa _spa mínimo_spa lo_spa llamás_spa y_spa él_spa te_spa dice_spa sí_spa hijo_spa de_spa puta_spa de_spa qué_spa de_spa a_spa verga_spa vaya_spa a_spa la_spa verga_spa te_spa va_spa a_spa decir_spa 
+1340.537 1347.489 TIM xxx_spa 
+1346.769 1347.46 MIG _spa qué_spa 
+1347.431 1351.558 TIM quiero_spa ir_spa al_spa concierto_spa de_spa música_spa electrónica_spa 
+1351.513 1353.846 MIG ah_spa sí_spa así_spa me_spa dijo_spa la_spa Olga_engspa 
+1353.817 1356.11 TIM a_spa ver_spa querés_spa ir_spa 
+1356.085 1357.304 MIG estás_spa loco_spa bróder_spa 
+1357.287 1358.941 MIG a_spa estar_spa oliendo_spa monte_spa bróder_spa 
+1358.895 1362.105 MIG aparte_spa que_spa no_spa me_spa gusta_spa la_spa música_spa electrónica_spa 
+1358.895 1362.105 TIM _spa xxx_spa 
+1362.099 1364.485 TIM es_spa que_spa es_spa un_spa turcazo_spa de_spa locas_spa xxx_spa 
+1364.479 1364.944 MIG ah_spa 
+1364.924 1368.314 TIM vienen_spa casi_spa todas_spa las_spa locas_spa del_spa _spa de_spa Miami_engspa 
+1368.308 1369.562 MIG ah_spa pues_spa con_spa razón_spa vas_spa 
+1369.581 1370.864 TIM ah_spa no_spa hombre_spa 
+1370.829 1371.647 MIG laughs_spa 
+1371.624 1375.36 MIG ah_spa vos_spa vas_spa a_spa culear_spa no_spa vas_spa _spa no_spa vas_spa a_spa escuchar_spa música_spa electrónica_spa ni_spa a_spa bailar_spa 
+1375.313 1376.619 TIM no_spa puedo_spa 
+1376.613 1379.434 MIG vas_spa a_spa ver_spa _spa vas_spa a_spa ver_spa pichas_spa que_spa parecen_spa bichos_spa 
+1379.424 1381.143 TIM ojalá_spa 
+1381.12 1382.64 MIG ay_spa no_spa xxx_spa no_spa 
+1382.549 1383.512 MIG ay_spa sabes_spa loco_spa 
+1383.582 1387.657 MIG el_spa _spa cállate_spa que_spa el_spa _spa el_spa _spa _spa el_spa sábado_spa que_spa me_spa fui_spa para_spa discoteca_spa 
+1387.633 1393.855 MIG había_spa _spa hay_spa un_spa maje_spa en_spa la_spa universidad_spa loco_spa que_spa que_spa yo_spa lo_spa miro_spa y_spa yo_spa como_spa que_spa este_spa maje_spa es_spa decía_spa yo_spa ya_spa pues_spa 
+1394.4 1397.883 MIG como_spa que_spa medio_spa se_spa le_spa notaba_spa pues_spa yo_spa decía_spa este_spa maje_spa es_spa este_spa maje_spa es_spa loco_spa 
+1397.883 1399.265 MIG pero_spa pues_spa nunca_spa le_spa puse_spa mente_spa 
+1399.251 1402.031 MIG no_spa me_spa lo_spa voy_spa encontrando_spa en_spa discoteca_spa el_spa sábado_spa loco_spa 
+1401.989 1404.497 MIG a_spa la_spa puta_spa bróder_spa si_spa es_spa que_spa es_spa 
+1401.989 1404.497 TIM _spa _spa eng_spa aha_spa 
+1404.485 1407.022 MIG casi_spa tan_spa loca_spa como_spa Carlos_engspa bróder_spa 
+1407.017 1407.911 TIM de_spa verdad_spa 
+1407.894 1408.666 MIG tal_spa vez_spa un_spa poquito_spa menos_spa 
+1408.643 1411.695 MIG no_spa lo_spa que_spa pasa_spa es_spa de_spa que_spa Carlos_engspa es_spa así_spa de_spa naturaleza_spa 
+1411.672 1414.006 MIG este_spa maje_spa o_spa sea_spa él_spa caminó_spa 
+1411.672 1413.994 TIM _spa es_spa como_spa qué_spa 
+1413.99 1416.318 MIG Carlos_engspa es_spa así_spa de_spa naturaleza_spa creo_spa yo_spa 
+1416.293 1417.703 MIG Carlos_engspa 
+1416.293 1417.703 TIM _spa _spa eng_spa aha_spa laugh_spa 
+1417.669 1419.793 MIG Carlos_engspa es_spa _spa Carlos_engspa es_spa _spa es_spa loca_spa de_spa naturaleza_spa 
+1419.747 1424.974 MIG o_spa sea_spa este_spa maje_spa era_spa como_spa que_spa andaba_spa vestido_spa todo_spa o_spa sea_spa oímelo_spa de_spa camisola_spa 
+1424.95 1428.538 MIG o_spa sea_spa una_spa camisola_spa blanca_spa con_spa una_spa corbata_spa azul_spa 
+1424.95 1428.538 TIM _spa mmhm_eng 
+1428.514 1430.679 TIM a_spa la_spa gran_spa puta_spa 
+1430.65 1436.967 MIG o_spa sea_spa loco_spa o_spa sea_spa pero_spa era_spa una_spa _spa una_spa camisola_spa de_spa esas_spa Fruit_of_the_loom_engspa loco_spa esas_spa camisolas_spa Haines_engspa loco_spa 
+1436.935 1439.356 eng_eng aha_eng aha_eng aha_eng 
+1436.935 1445.755 MIG _spa y_spa _spa y_spa después_spa un_spa jeans_eng la_spa gorra_spa azul_spa digo_spa la_spa _spa la_spa corbata_spa azul_spa y_spa una_spa boina_spa azul_spa verdad_spa o_spa sea_spa una_spa boina_spa militar_spa azul_spa 
+1445.514 1446.71 TIM mmhm_eng 
+1446.658 1448.539 TIM laughs_spa 
+1446.658 1448.539 MIG _spa loco_spa 
+1448.528 1451.889 MIG las_spa cejas_spa casi_spa tan_spa mariconas_spa como_spa las_spa tuyas_spa 
+1451.874 1454.097 TIM estúpido_spa 
+1454.091 1454.997 MIG laughs_spa 
+1454.962 1457.232 MIG y_spa unas_spa uñas_spa más_spa largas_spa que_spa Ivy_Queen_engspa loco_spa 
+1457.197 1459.658 TIM a_spa _spa a_spa la_spa gran_spa puta_spa 
+1459.624 1460.75 MIG mmhm_eng no_spa o_spa sea_spa 
+1459.624 1460.757 TIM _spa laugh_spa 
+1460.669 1467.457 MIG es_spa que_spa loco_spa _spa en_spa las_spa uñas_spa me_spa fijé_spa hasta_spa hoy_spa porque_spa ahora_spa _spa hoy_spa estuve_spa con_spa o_spa sea_spa no_spa estuve_spa con_spa él_spa sino_spa que_spa estaba_spa _spa había_spa un_spa _spa un_spa evento_spa en_spa la_spa universidad_spa 
+1467.48 1471.445 MIG y_spa entonces_spa el_spa maje_spa estaba_spa platicando_spa con_spa una_spa _spa una_spa amiga_spa mía_spa y_spa yo_spa estaba_spa ahí_spa 
+1471.377 1478.469 MIG entonces_spa el_spa maje_spa unas_spa madre_spa uñas_spa que_spa se_spa carga_spa a_spa la_spa gran_spa puta_spa digo_spa yo_spa si_spa es_spa que_spa se_spa va_spa a_spa transformar_spa este_spa maje_spa loco_spa 
+1478.466 1483.156 MIG y_spa ahora_spa _spa y_spa ahora_spa _spa ahora_spa que_spa lo_spa estuve_spa observando_spa bien_spa pues_spa sí_spa de_spa viaje_spa se_spa le_spa nota_spa loco_spa 
+1483.139 1485.699 MIG de_spa viaje_spa _spa de_spa viaje_spa se_spa le_spa nota_spa 
+1485.693 1487.615 TIM qui_spa pero_spa que_spa no_spa _spa no_spa le_spa hace_spa nada_spa 
+1487.599 1492.22 MIG no_spa no_spa no_spa no_spa no_spa xxx_spa pero_spa nunca_spa nos_spa hemos_spa dirigido_spa la_spa palabra_spa jamás_spa jamás_spa jamás_spa 
+1492.989 1493.68 MIG o_spa sea_spa yo_spa como_spa 
+1492.989 1493.68 TIM xxx_spa 
+1493.651 1496.339 MIG _spa yo_spa como_spa que_spa este_spa maje_spa es_spa loca_spa digo_spa yo_spa le_spa voy_spa a_spa empezar_spa a_spa hablar_spa 
+1496.268 1500.288 MIG pero_spa no_spa sé_spa el_spa maje_spa y_spa yo_spa _spa yo_spa trato_spa como_spa que_spa tal_spa vez_spa no_spa de_spa meterle_spa conversación_spa 
+1500.283 1505.664 MIG pero_spa por_spa ejemplo_spa hoy_spa que_spa estaba_spa hablando_spa con_spa mi_spa amiga_spa yo_spa también_spa me_spa puse_spa a_spa hablar_spa con_spa mi_spa amiga_spa y_spa el_spa maje_spa seguía_spa ahí_spa 
+1505.572 1514.69 MIG y_spa entonces_spa yo_spa lo_spa miraba_spa al_spa maje_spa como_spa para_spa incluirlo_spa en_spa la_spa conversación_spa como_spa para_spa decirle_spa ok_engspa like_eng Im_eng talking_eng to_eng you_eng me_spa entendés_spa o_spa sea_spa were_eng talking_eng to_eng _spa to_eng both_eng of_eng them_eng entonces_spa 
+1514.683 1516.155 MIG pero_spa el_spa maje_spa como_spa que_spa no_spa me_spa ponía_spa en_spa mente_spa 
+1516.143 1519.208 MIG así_spa que_spa su_spa madre_spa tampoco_spa n o_spa sea_spa todavía_spa es_spa que_spa me_spa gustara_spa 
+1519.22 1520.886 TIM mmhm_eng sí_spa 
+1520.86 1523.374 MIG sí_spa pero_spa yo_spa estoy_spa tratando_spa de_spa que_spa sea_spa mi_spa amiga_spa 
+1523.293 1524.947 TIM y_spa vos_spa de_spa buena_spa gente_spa 
+1524.912 1525.626 MIG sí_spa 
+1525.607 1527.488 MIG se_spa aprovechan_spa de_spa mi_spa nobleza_spa verdad_spa 
+1527.474 1531.172 TIM te_spa estás_spa haciendo_spa un_spa _spa un_spa _spa un_spa hermoso_spa _spa ser_spa humano_spa 
+1531.149 1533.384 MIG sí_spa bróder_spa se_spa aprovechan_spa de_spa mi_spa nobleza_spa 
+1533.783 1534.632 TIM qué_spa locura_spa 
+1535.182 1535.588 MIG qué_spa te_spa 
+1535.259 1536.228 TIM _spa qué_spa dañino_spa 
+1535.96 1537.179 MIG qué_spa te_spa iba_spa a_spa decir_spa 
+1537.182 1539.284 MIG y_spa no_spa has_spa hablado_spa con_spa _spa con_spa Alberto_engspa 
+1539.283 1542.127 TIM no_spa últimamente_spa no_spa he_spa hablado_spa 
+1542.134 1554.333 TIM bueno_spa _spa desde_spa que_spa me_spa vine_spa _spa fue_spa como_spa que_spa _spa creo_spa que_spa unas_spa _spa unos_spa tres_spa cuatro_spa días_spa de_spa que_spa me_spa vine_spa nunca_spa se_spa volvió_spa a_spa conectar_spa loco_spa entonces_spa no_spa _spa no_spa mejor_spa no_spa hablé_spa con_spa él_spa porque_spa 
+1554.337 1556.351 MIG desde_spa que_spa te_spa vinistes_spa de_spa dónde_spa de_spa New_Orleans_eng 
+1556.295 1557.363 TIM mmhm_eng 
+1557.384 1558.435 MIG el_spa maje_spa se_spa rapó_spa 
+1558.404 1560.093 TIM sí_spa hombre_spa 
+1560.08 1561.421 MIG se_spa mira_spa _spa se_spa mira_spa bien_spa 
+1561.409 1563.191 TIM sí_spa 
+1563.126 1565.645 MIG y_spa anda_spa _spa y_spa anda_spa la_spa _spa la_spa barbita_spa y_spa todo_spa se_spa mira_spa bien_spa 
+1565.239 1566.493 TIM _spa sí_spa sí_spa sí_spa 
+1566.492 1568.622 MIG y_spa yo_spa _spa estúpido_spa huh_eng 
+1568.577 1570.098 TIM se_spa mira_spa culo_spa 
+1570.163 1571.806 MIG estoy_spa ahuevado_spa loco_spa 
+1571.784 1572.788 TIM por_spa qué_spa 
+1572.701 1576.19 MIG te_spa conté_spa que_spa corté_spa con_spa mi_spa ex_engspa no_spa pues_spa con_spa _spa con_spa el_spa que_spa andaba_spa no_spa 
+1576.155 1577.688 TIM mmhm_eng 
+1577.667 1579.508 MIG sabés_spa lo_spa que_spa me_spa dijo_spa hoy_spa bróder_spa 
+1579.459 1580.596 TIM qué_spa te_spa dijo_spa 
+1580.59 1582.367 MIG que_spa nunca_spa me_spa amó_spa loco_spa 
+1582.355 1583.284 TIM no_spa jodás_spa 
+1583.234 1584.383 MIG sí_spa 
+1584.342 1585.451 TIM idiay_spa y_spa por_spa qué_spa 
+1585.457 1586.978 MIG no_spa sé_spa 
+1586.907 1589.032 TIM mirá_spa eso_spa te_spa lo_spa dijo_spa porque_spa estaba_spa resentido_spa 
+1589.013 1590.807 MIG no_spa que_spa va_spa a_spa estar_spa resentido_spa bróder_spa 
+1590.784 1601.142 MIG o_spa sea_spa me_spa dijo_spa que_spa como_spa que_spa sí_spa te_spa quise_spa mucho_spa y_spa pues_spa estuve_spa con_spa vos_spa porque_spa pues_spa o_spa sea_spa estuve_spa con_spa vos_spa con_spa mucho_spa gusto_spa me_spa dice_spa quería_spa estar_spa con_spa vos_spa 
+1601.117 1604.459 MIG pero_spa nunca_spa te_spa llegué_spa a_spa amar_spa me_spa dice_spa 
+1604.445 1605.553 TIM nunca_spa que_spa qué_spa 
+1605.513 1607.057 MIG _spa nunca_spa te_spa llegué_spa a_spa amar_spa 
+1607.01 1609.279 TIM qué_spa _spa qué_spa cerrote_spa 
+1609.221 1612.449 MIG y_spa yo_spa _spa puta_spa bróder_spa y_spa _spa le_spa digo_spa 
+1612.445 1614.866 MIG _spa o_spa sea_spa tú_spa estás_spa _spa te_spa _spa te_spa das_spa cuenta_spa de_spa lo_spa que_spa me_spa estás_spa diciendo_spa 
+1614.86 1615.122 MIG le_spa digo_spa 
+1615.111 1615.268 MIG _spa sí_spa 
+1615.274 1615.599 MIG me_spa dice_spa 
+1615.578 1616.657 MIG _spa yo_spa sé_spa que_spa te_spa estoy_spa haciendo_spa daño_spa 
+1616.657 1616.93 MIG me_spa dice_spa 
+1616.936 1620.076 MIG _spa pero_spa prefiero_spa por_spa lo_spa menos_spa estoy_spa siendo_spa honesto_spa con_spa vos_spa 
+1619.856 1620.413 MIG me_spa dice_spa 
+1620.36 1623.204 MIG le_spa digo_spa puta_spa pero_spa qué_spa mala_spa onda_spa le_spa digo_spa 
+1623.204 1626.449 MIG porque_spa el_spa maje_spa siempre_spa me_spa decía_spa pues_spa que_spa me_spa amaba_spa y_spa que_spa no_spa sé_spa cuanto_spa 
+1626.42 1628.353 MIG y_spa después_spa cortamos_spa en_spa noviembre_spa 
+1628.346 1631.411 MIG y_spa después_spa en_spa diciembre_spa que_spa yo_spa llegué_spa me_spa pidió_spa que_spa regresáramos_spa loco_spa 
+1631.474 1633.36 MIG y_spa me_spa dijo_spa como_spa que_spa 
+1633.376 1634.694 MIG hoy_spa te_spa amo_spa más_spa que_spa nunca_spa 
+1634.683 1635.072 MIG me_spa dice_spa 
+1635.06 1638.839 MIG _spa hoy_spa estoy_spa más_spa seguro_spa que_spa nunca_spa de_spa lo_spa que_spa siento_spa por_spa vos_spa que_spa no_spa sé_spa cuanto_spa 
+1638.845 1640.569 MIG y_spa _spa y_spa todas_spa esas_spa cosas_spa me_spa entendés_spa 
+1640.546 1646.056 MIG entonces_spa yo_spa le_spa digo_spa _spa le_spa dije_spa hoy_spa pues_spa que_spa estábamos_spa chateando_spa le_spa digo_spa yo_spa por_spa qué_spa entonces_spa me_spa dijistes_spa todo_spa eso_spa le_spa digo_spa 
+1645.952 1649.726 MIG no_spa sé_spa me_spa dice_spa estaba_spa confundido_spa me_spa dice_spa 
+1649.701 1652.9 MIG um_spa pero_spa _spa pero_spa no_spa sé_spa no_spa _spa nunca_spa llegué_spa a_spa amarte_spa me_spa dice_spa 
+1652.883 1656.616 MIG loco_spa vos_spa sabés_spa que_spa es_spa eso_spa loco_spa que_spa _spa que_spa me_spa pase_spa otra_spa vez_spa eso_spa 
+1656.597 1661.087 TIM no_spa yo_spa me_spa imagino_spa que_spa se_spa siente_spa horrible_spa que_spa te_spa digan_spa eso_spa 
+1660.416 1661.577 MIG _spa no_spa espantoso_spa loco_spa 
+1661.531 1667.109 MIG por_spa lo_spa menos_spa _spa por_spa lo_spa menos_spa este_spa maje_spa sólo_spa estuvo_spa _spa todo_spa sólo_spa estaba_spa conmigo_spa me_spa entendés_spa este_spa maje_spa de_spa Alberto_engspa pues_spa 
+1667.095 1669.906 MIG estaba_spa con_spa vos_spa al_spa mismo_spa tiempo_spa que_spa estaba_spa conmigo_spa 
+1669.901 1672.797 MIG y_spa supuestamente_spa me_spa decía_spa que_spa me_spa amaba_spa cuando_spa en_spa realidad_spa te_spa amaba_spa a_spa vos_spa 
+1672.623 1675.543 TIM las_spa decepciones_spa _spa 
+1672.623 1675.543 MIG _spa pero_spa ah_spa 
+1675.48 1678.476 MIG xxx_spa un_spa huevo_spa loco_spa entonces_spa es_spa como_spa que_spa más_spa decepcionante_spa 
+1678.433 1681.893 MIG pero_spa igual_spa loco_spa yo_spa de_spa este_spa maje_spa estaba_spa enculado_spa loco_spa 
+1681.847 1686.508 MIG y_spa lo_spa sigo_spa estando_spa loco_spa sigo_spa estando_spa enamorado_spa porque_spa uno_spa no_spa se_spa deja_spa de_spa enamorar_spa de_spa la_spa noche_spa a_spa la_spa mañana_spa 
+1686.485 1694.26 MIG pero_spa _spa pero_spa que_spa me_spa diga_spa eso_spa bróder_spa puta_spa me_spa _spa me_spa _spa me_spa duele_spa en_spa puta_spa loco_spa me_spa duele_spa muchísimo_spa muchísimo_spa 
+1694.219 1697.39 MIG o_spa sea_spa me_spa _spa me_spa hiere_spa como_spa persona_spa me_spa entendés_spa 
+1697.382 1699.431 TIM pobrecito_spa 
+1699.374 1701.748 MIG me_spa siento_spa o_spa sea_spa me_spa siento_spa super_engspa ahuevado_spa loco_spa porque_spa 
+1702.583 1709.306 MIG no_spa sé_spa me_spa entendés_spa _spa o_spa sea_spa al_spa _spa al_spa principio_spa cuando_spa cortamos_spa cuando_spa recién_spa cortamos_spa pues_spa yo_spa le_spa dije_spa al_spa maje_spa como_spa que_spa 
+1709.282 1711.571 MIG todavía_spa me_spa amás_spa 
+1711.568 1712.131 MIG le_spa digo_spa 
+1712.015 1712.415 MIG me_spa dice_spa 
+1712.34 1713.193 MIG _spa no_spa ya_spa no_spa te_spa amo_spa 
+1713.176 1713.594 MIG me_spa dice_spa 
+1713.594 1715.335 MIG pero_spa _spa pero_spa sí_spa te_spa quiero_spa 
+1714.886 1716.151 MIG y_spa entonces_spa yo_spa me_spa quedé_spa 
+1716.134 1716.732 TIM xxx_spa 
+1716.732 1717.022 MIG ah_spa 
+1717.022 1718.526 TIM xxx_spa 
+1718.661 1719.92 MIG entonces_spa yo_spa me_spa quedé_spa pensando_spa como_spa que_spa 
+1719.92 1720.884 MIG _spa a_spa la_spa gran_spa puta_spa 
+1720.878 1721.174 MIG decía_spa yo_spa 
+1721.169 1722.672 MIG _spa qué_spa rápido_spa dejó_spa de_spa amarme_spa 
+1722.678 1723.27 MIG dije_spa yo_spa 
+1723.287 1727.687 MIG y_spa _spa y_spa o_spa sea_spa me_spa _spa me_spa empecé_spa a_spa sentir_spa super_engspa mal_spa porque_spa _spa porque_spa dije_spa 
+1727.687 1730.705 MIG _spa a_spa la_spa gran_spa _spa a_spa la_spa gran_spa puta_spa qué_spa _spa qué_spa fácil_spa que_spa es_spa olvidarme_spa a_spa mí_spa 
+1730.699 1731.965 MIG _spa qué_spa fácil_spa que_spa es_spa superarme_spa 
+1731.959 1732.72 MIG _spa y_spa dejarme_spa de_spa amar_spa 
+1732.657 1733.301 MIG decía_spa yo_spa 
+1733.362 1737.206 MIG y_spa entonces_spa se_spa lo_spa dije_spa al_spa maje_spa hoy_spa o_spa ayer_spa no_spa me_spa acuerdo_spa 
+1737.189 1738.141 MIG le_spa dije_spa como_spa que_spa 
+1738.188 1738.838 MIG _spa sabes_spa qué_spa 
+1738.861 1739.064 MIG le_spa digo_spa 
+1739.082 1740.115 MIG _spa voy_spa a_spa ser_spa honesto_spa con_spa vos_spa 
+1740.109 1741.212 MIG _spa y_spa _spa y_spa me_spa siento_spa mal_spa 
+1741.224 1741.671 MIG le_spa digo_spa 
+1741.717 1747.141 MIG _spa de_spa que_spa o_spa sea_spa me_spa hace_spa sentir_spa mal_spa el_spa hecho_spa de_spa que_spa me_spa has_spa dejado_spa de_spa amar_spa tan_spa rápido_spa que_spa no_spa sé_spa qué_spa y_spa que_spa no_spa sé_spa cuánto_spa 
+1747.182 1747.449 MIG le_spa digo_spa 
+1747.35 1750.485 MIG y_spa _spa y_spa _spa y_spa _spa y_spa puta_spa le_spa digo_spa 
+1750.485 1753.172 MIG _spa me_spa haces_spa sentir_spa como_spa que_spa soy_spa una_spa persona_spa tan_spa fácil_spa de_spa olvidar_spa 
+1753.178 1753.498 MIG le_spa digo_spa 
+1753.379 1757.82 MIG _spa una_spa persona_spa tan_spa _spa tan_spa like_eng que_spa _spa que_spa se_spa supera_spa _spa se_spa supera_spa así_spa de_spa fácil_spa 
+1757.807 1758.277 MIG le_spa digo_spa 
+1758.083 1759.477 MIG entonces_spa me_spa dice_spa 
+1759.471 1759.999 MIG _spa no_spa 
+1759.993 1760.336 MIG me_spa dice_spa 
+1760.347 1762.408 MIG _spa que_spa no_spa es_spa eso_spa sino_spa que_spa nunca_spa te_spa llegué_spa a_spa amar_spa 
+1762.362 1763.896 MIG me_spa dice_spa 
+1763.174 1765.124 TIM qué_spa cerrote_spa maje_spa 
+1765.064 1768.071 MIG loco_spa y_spa que_spa me_spa lo_spa diga_spa con_spa esa_spa frialdad_spa me_spa entendés_spa 
+1768.047 1769.324 MIG o_spa sea_spa es_spa que_spa 
+1769.005 1769.812 TIM _spa frío_spa frío_spa 
+1769.925 1773.327 MIG sí_spa y_spa sabés_spa qué_spa el_spa maje_spa ahora_spa está_spa viviendo_spa con_spa Pedro_engspa 
+1773.308 1774.457 TIM cómo_spa 
+1774.451 1776.059 MIG está_spa viviendo_spa con_spa Pedro_engspa 
+1776.047 1778.247 TIM qué_spa _spa andan_spa jalando_spa 
+1778.27 1779.548 MIG no_spa no_spa cállate_spa 
+1779.542 1784.859 MIG o_spa sea_spa al_spa principio_spa el_spa plan_spa era_spa como_spa que_spa nos_spa íbamos_spa a_spa ir_spa a_spa porque_spa yo_spa me_spa iba_spa a_spa regresar_spa a_spa Nicaragua_engspa a_spa vivir_spa 
+1784.865 1786.757 MIG entonces_spa nos_spa íbamos_spa a_spa ir_spa a_spa vivir_spa los_spa tres_spa juntos_spa 
+1786.769 1790.679 MIG así_spa como_spa roommates_eng me_spa entendés_spa para_spa que_spa like_eng saliera_spa cheaper_eng me_spa entendés_spa 
+1790.422 1793.476 MIG saliera_spa más_spa barato_spa alquilar_spa un_spa lugar_spa 
+1793.159 1793.861 TIM mmhm_eng 
+1793.838 1795.037 MIG y_spa entonces_spa como_spa que_spa yo_spa les_spa dije_spa 
+1795.031 1797.574 MIG _spa vayan_spa adelantando_spa ustedes_spa pues_spa vayan_spa pasándose_spa y_spa eso_spa 
+1797.574 1799.391 MIG y_spa like_eng a_spa los_spa majes_spa les_spa gustó_spa la_spa idea_spa pues_spa 
+1799.28 1803.146 MIG y_spa entonces_spa like_eng los_spa majes_spa están_spa viviendo_spa juntos_spa pues_spa ahora_spa 
+1803.139 1804.823 MIG y_spa ya_spa _spa ya_spa son_spa roommates_eng y_spa eso_spa 
+1804.95 1807.568 MIG y_spa _spa _spa y_spa no_spa sé_spa loco_spa 
+1807.585 1810.482 MIG ayer_spa _spa ayer_spa me_spa peleé_spa con_spa Pedro_engspa por_spa Victor_engspa y_spa 
+1810.884 1812.457 TIM y_spa por_spa qué_spa se_spa pelearon_spa 
+1812.411 1818.936 MIG porque_spa sí_spa porque_spa el_spa _spa el_spa maje_spa de_spa Pedro_engspa me_spa empezó_spa a_spa decir_spa como_spa que_spa Victor_engspa le_spa empezó_spa a_spa contar_spa pues_spa de_spa que_spa le_spa gusta_spa un_spa maje_spa ahí_spa que_spa no_spa sé_spa qué_spa 
+1818.939 1819.583 MIG y_spa entonces_spa yo_spa como_spa que_spa 
+1819.578 1820.413 MIG _spa contame_spa contame_spa 
+1820.415 1823.657 MIG y_spa el_spa maje_spa me_spa decía_spa no_spa que_spa no_spa sé_spa qué_spa no_spa puedo_spa contarte_spa que_spa no_spa sé_spa cuanto_spa 
+1823.372 1824.068 MIG y_spa yo_spa 
+1824.016 1827.318 MIG _spa puta_spa Pedro_engspa vos_spa nunca_spa me_spa habías_spa dicho_spa antes_spa no_spa puedo_spa contarte_spa 
+1827.075 1832.645 MIG o_spa sea_spa porque_spa Pedro_engspa y_spa yo_spa nos_spa contamos_spa absolutamente_spa todo_spa like_eng absolutely_eng everything_eng me_spa entendés_spa 
+1832.506 1837.434 MIG like_eng cada_spa detalle_spa incluso_spa our_eng sex_eng lives_eng me_spa entendés_spa nuestras_spa vidas_spa sexuales_spa 
+1837.423 1840.908 MIG hablábamos_spa como_spa que_spa nos_spa contábamos_spa detalles_spa me_spa entendés_spa 
+1840.887 1842.1 MIG y_spa le_spa preguntaba_spa como_spa que_spa 
+1842.036 1842.599 MIG _spa y_spa te_spa la_spa metió_spa 
+1842.577 1843.274 MIG _spa y_spa se_spa la_spa metiste_spa 
+1843.268 1844.272 MIG cosas_spa así_spa me_spa entendés_spa 
+1844.466 1845.192 TIM sí_spa 
+1845.178 1848.51 MIG y_spa entonces_spa y_spa nos_spa contábamos_spa así_spa sin_spa _spa vale_spa verga_spa me_spa entendés_spa 
+1848.423 1849.01 MIG y_spa entonces_spa el_spa maje_spa 
+1848.998 1850.176 MIG _spa no_spa que_spa no_spa sé_spa 
+1850.053 1854.645 MIG entonces_spa siento_spa como_spa que_spa el_spa maje_spa ahora_spa se_spa está_spa volviendo_spa _spa se_spa va_spa a_spa volver_spa íntimo_spa de_spa _spa de_spa _spa de_spa _spa de_spa mi_spa ex_engspa loco_spa 
+1854.639 1859.115 MIG y_spa _spa y_spa yo_spa me_spa voy_spa a_spa quedar_spa _spa mordiendo_spa el_spa leño_spa loco_spa 
+1859.088 1861.57 MIG y_spa entonces_spa le_spa dije_spa como_spa que_spa 
+1861.541 1862.122 MIG _spa ok_engspa pues_spa 
+1862.128 1862.348 MIG le_spa digo_spa 
+1862.348 1863.213 MIG _spa no_spa me_spa digas_spa nada_spa 
+1863.196 1863.8 MIG _spa ya_spa está_spa pues_spa 
+1863.783 1864.631 MIG _spa está_spa bien_spa pues_spa 
+1864.613 1865.159 MIG _spa no_spa me_spa digas_spa 
+1865.137 1865.392 MIG le_spa digo_spa 
+1865.404 1866.28 MIG entonces_spa me_spa dice_spa 
+1866.292 1866.826 MIG _spa ah_spa no_spa yo_spa 
+1866.82 1867.215 MIG me_spa dice_spa 
+1867.215 1869.235 MIG _spa no_spa me_spa vengas_spa con_spa esa_spa verga_spa que_spa no_spa sé_spa cuanto_spa 
+1869.218 1869.972 MIG entonces_spa le_spa digo_spa 
+1869.949 1870.644 MIG _spa cuál_spa verga_spa 
+1870.639 1870.906 MIG le_spa digo_spa 
+1870.901 1871.812 MIG _spa a_spa mí_spa no_spa me_spa hables_spa así_spa 
+1871.795 1872.044 MIG le_spa digo_spa 
+1872.047 1872.836 MIG _spa no_spa seas_spa por_spa la_spa verga_spa 
+1872.784 1873.417 MIG le_spa digo_spa yo_spa 
+1873.347 1873.98 MIG _spa sabes_spa qué_spa 
+1873.98 1874.525 MIG _spa nos_spa vemos_spa 
+1874.49 1874.868 MIG le_spa digo_spa 
+1874.694 1875.71 MIG y_spa lo_spa bloqueé_spa bróder_spa 
+1875.593 1878.211 MIG me_spa _spa me_spa _spa me_spa _spa hizo_spa sentir_spa mal_spa loco_spa 
+1878.165 1882.909 MIG porque_spa el_spa maje_spa me_spa empezó_spa a_spa decir_spa cosas_spa como_spa que_spa olvidá_spa a_spa Víctor_engspa ya_spa me_spa dice_spa olvidálo_spa ya_spa 
+1882.872 1885.335 MIG ya_spa _spa este_spa 
+1885.334 1886.071 MIG ya_spa no_spa es_spa 
+1886.025 1886.681 MIG yo_spa no_spa le_spa 
+1886.658 1887.348 MIG _spa sinceramente_spa 
+1887.337 1887.761 MIG me_spa dice_spa 
+1887.743 1890.46 MIG _spa yo_spa a_spa ustedes_spa no_spa les_spa veo_spa un_spa futuro_spa ni_spa lejano_spa ni_spa cercano_spa 
+1890.46 1890.802 MIG me_spa dice_spa 
+1890.785 1891.946 MIG _spa olvidálo_spa que_spa no_spa sé_spa cuanto_spa 
+1891.831 1892.945 MIG entonces_spa yo_spa le_spa decía_spa 
+1892.939 1893.653 MIG _spa pero_spa por_spa qué_spa 
+1893.671 1893.932 MIG le_spa digo_spa 
+1893.932 1896.875 MIG _spa like_eng si_spa me_spa lo_spa estás_spa diciendo_spa it_eng _spa it_eng _spa its_eng for_eng a_eng reason_eng 
+1896.881 1897.148 MIG le_spa digo_spa 
+1897.148 1898.454 MIG _spa si_spa me_spa estás_spa diciendo_spa que_spa lo_spa olvide_spa 
+1898.453 1898.772 MIG le_spa digo_spa 
+1898.737 1899.562 MIG _spa es_spa por_spa algo_spa 
+1899.57 1900.696 MIG entonces_spa me_spa 
+1900.674 1906.158 MIG hasta_spa o_spa sea_spa le_spa tuve_spa que_spa _spa que_spa decir_spa y_spa decir_spa y_spa _spa y_spa hasta_spa que_spa lo_spa convencí_spa que_spa me_spa contara_spa 
+1906.143 1910.723 MIG y_spa yo_spa nunca_spa había_spa tratado_spa _spa yo_spa nunca_spa había_spa tenido_spa que_spa convencer_spa a_spa Julio_engspa para_spa que_spa me_spa contara_spa algo_spa 
+1910.703 1913.042 MIG like_eng él_spa me_spa contaba_spa las_spa cosas_spa right_eng away_eng me_spa entendés_spa 
+1913.236 1914.914 MIG entonces_spa 
+1914.165 1918.037 TIM _spa pero_spa es_spa que_spa mirá_spa maje_spa es_spa que_spa es_spa su_spa roommate_eng se_spa siente_spa con_spa pena_spa tal_spa vez_spa _spa 
+1917.978 1921.715 MIG no_spa no_spa no_spa no_spa no_spa I_eng understand_eng me_spa entendés_spa porque_spa me_spa lo_spa dijo_spa 
+1921.678 1922.433 MIG o_spa sea_spa el_spa maje_spa me_spa dice_spa 
+1922.427 1923.176 MIG _spa no_spa le_spa digas_spa nada_spa 
+1923.234 1924.087 MIG _spa no_spa le_spa digas_spa nada_spa 
+1924.07 1924.529 MIG me_spa dice_spa 
+1924.516 1926.925 MIG porque_spa es_spa que_spa porque_spa si_spa le_spa decís_spa 
+1926.925 1927.401 MIG me_spa dice_spa 
+1927.391 1928.947 MIG _spa y_spa vos_spa sabés_spa ahora_spa estoy_spa viviendo_spa con_spa él_spa 
+1928.947 1929.29 MIG me_spa dice_spa 
+1929.29 1931.118 MIG _spa y_spa no_spa quiero_spa crear_spa conflictos_spa entre_spa nosotros_spa 
+1931.248 1933.164 MIG and_eng I_eng understand_eng that_eng me_spa entendés_spa 
+1933.103 1935.964 MIG pero_spa _spa _spa pero_spa o_spa sea_spa yo_spa le_spa dije_spa como_spa que_spa 
+1935.947 1936.853 MIG _spa no_spa no_spa te_spa preocupés_spa 
+1936.853 1937.375 MIG _spa no_spa le_spa voy_spa a_spa decir_spa 
+1937.367 1942.874 MIG like_eng Pedro_engspa sabe_spa de_spa que_spa cuando_spa nosotros_spa nos_spa decimos_spa no_spa digas_spa nada_spa nosotros_spa no_spa decimos_spa nada_spa me_spa entendés_spa 
+1942.95 1945.8 MIG o_spa sea_spa y_spa que_spa me_spa lo_spa haya_spa dicho_spa así_spa tantas_spa veces_spa 
+1945.789 1948.534 MIG pero_spa no_spa le_spa digas_spa nada_spa cuidadito_spa le_spa vas_spa a_spa decir_spa que_spa no_spa sé_spa qué_spa 
+1948.522 1952.812 MIG o_spa sea_spa me_spa hizo_spa sentir_spa tan_spa tan_spa tan_spa mal_spa like_eng he_eng didnt_eng trust_eng me_eng any_more_eng me_spa entendés_spa 
+1952.788 1955.169 MIG me_spa _spa me_spa hizo_spa _spa me_spa hizo_spa _spa me_spa hizo_spa sentir_spa bien_spa por_spa la_spa verga_spa loco_spa 
+1955.158 1956.052 MIG entonces_spa lo_spa bloqueé_spa 
+1956.04 1959.325 MIG y_spa no_spa sé_spa me_spa siento_spa como_spa resentido_spa con_spa él_spa loco_spa 
+1959.027 1960.867 TIM tsk_spa no_spa hombre_spa 
+1960.836 1961.52 MIG no_spa sé_spa bróder_spa 
+1961.497 1965.806 MIG me_spa siento_spa _spa me_spa siento_spa _spa me_spa siento_spa todo_spa ahuevado_spa like_eng toda_spa esta_spa situación_spa _spa está_spa _spa 
+1965.799 1969.252 MIG like_eng por_spa ejemplo_spa este_spa maje_spa de_spa Manolo_engspa bróder_spa ayer_spa fuimos_spa a_spa cenar_spa 
+1970.571 1971.326 TIM mmhm_eng 
+1971.309 1973.791 MIG y_spa _spa y_spa pues_spa fuimos_spa a_spa cenar_spa y_spa todo_spa de_spa a_spa verga_spa me_spa entendés_spa 
+1973.501 1975.759 MIG pero_spa like_eng plan_spa bróderes_spa me_spa entendés_spa 
+1975.701 1977.222 MIG and_eng I_eng really_eng like_eng him_eng me_spa entendés_spa 
+1977.205 1978.319 MIG el_spa maje_spa me_spa gusta_spa 
+1978.205 1980.82 MIG y_spa _spa y_spa todo_spa o_spa sea_spa el_spa maje_spa me_spa gusta_spa físicamente_spa 
+1980.808 1983.461 MIG y_spa como_spa persona_spa porque_spa es_spa una_spa persona_spa de_spa a_spa cachimba_spa el_spa maje_spa loco_spa 
+1983.607 1986.98 MIG pero_spa el_spa maje_spa todavía_spa está_spa pensando_spa en_spa su_spa ex_engspa loco_spa 

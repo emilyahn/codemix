@@ -1,0 +1,610 @@
+0.23 3.529 MAY me_spa estás_spa ahora_spa _spa ahora_spa mismo_spa hablando_spa de_spa cuál_spa versión_spa de_spa la_spa ecuatoriana_spa o_spa la_spa colombiana_spa 
+3.005 6.447 ISA _spa la_spa de_spa los_spa colombianos_spa dicen_spa que_spa los_spa estuvieron_spa siguiendo_spa en_spa caliente_spa 
+6.887 7.618 MAY ya_spa 
+7.044 8.326 ISA _spa que_spa por_spa eso_spa no_spa se_spa dieron_spa cuenta_spa 
+8.326 14.586 ISA y_spa tuvieron_spa que_spa seguir_spa _spa pasar_spa el_spa límite_spa de_spa xxx_spa porque_spa estaban_spa en_spa una_spa persecución_spa _spa prácticamente_spa en_spa el_spa momento_spa en_spa que_spa pasaba_spa 
+14.558 17.861 ISA y_spa no_spa lo_spa podían_spa dejar_spa escapar_spa al_spa tipo_spa 
+17.858 19.042 ISA los_spa estaban_spa siguiendo_spa 
+19.019 20.685 MAY pero_spa los_spa terroristas_spa estaban_spa en_spa Ecuador_engspa 
+20.51 22.241 ISA supuestamente_spa cruzaron_spa 
+22.207 24.395 ISA la_spa versión_spa colombiana_spa es_spa que_spa estaban_spa en_spa Colombia_engspa 
+24.215 25.585 ISA y_spa de_spa Colombia_engspa pasaron_spa a_spa Ecuador_engspa 
+25.585 26.613 eng_eng thats_eng what_eng they_eng say_eng 
+26.602 28.692 ISA thats_eng _spa thats_eng what_eng Colombia_engspa say_eng 
+28.518 31.19 ISA but_eng cuando_spa tú_spa hablas_spa con_spa la_spa gente_spa de_spa Ecuador_engspa Ecuador_engspa dice_spa 
+31.138 31.573 ISA _spa no_spa 
+31.631 32.711 ISA por_spa qué_spa 
+32.711 43.819 ISA porque_spa cuando_spa fueron_spa a_spa ver_spa todo_spa lo_spa que_spa pasó_spa después_spa del_spa bombardeo_spa cuando_spa ya_spa vieron_spa a_spa la_spa gente_spa que_spa estaba_spa prácticamente_spa e_spa e_spa muerta_spa o_spa laying_eng on_eng _spa on_eng _spa en_spa _spa en_spa el_spa piso_spa supuestamente_spa estaban_spa en_spa ropa_spa de_spa dormir_spa 
+41.584 42.048 MAY _spa _spa eng_spa mmhm_spa 
+43.834 44.53 MAY ok_engspa 
+44.347 50.541 ISA cómo_spa tú_spa puedes_spa _spa pensar_spa que_spa los_spa estás_spa siguiendo_spa de_spa un_spa país_spa a_spa otro_spa en_spa ropa_spa de_spa dormir_spa 
+50.515 56.011 ISA la_spa versión_spa del_spa Ecuador_engspa es_spa que_spa ellos_spa estaban_spa camping_eng _spa en_spa el_spa territorio_spa ecuatoriano_spa 
+55.97 56.656 MAY ok_engspa 
+56.646 60.877 ISA y_spa que_spa los_spa colombianos_spa cruzaron_spa a_spa e_spa la_spa frontera_spa 
+60.896 64.988 ISA y_spa los_spa bombardearon_spa cuando_spa ellos_spa estaban_spa durmiendo_spa 
+64.953 67.159 MAY excuse_eng me_eng los_spa qué_spa 
+66.094 67.284 ISA los_spa colombianos_spa 
+67.122 68.892 MAY no_spa antes_spa de_spa eso_spa 
+68.846 69.554 ISA hmm_engspa 
+69.421 71.388 MAY algo_spa _spa tú_spa dijiste_spa una_spa palabra_spa que_spa no_spa la_spa entendí_spa 
+71.374 73.122 ISA cuál_spa de_spa todas_spa 
+73.044 75.023 MAY dijiste_spa una_spa palabra_spa que_spa no_spa la_spa entendí_spa 
+74.663 77.726 ISA _spa bueno_spa la_spa u_spa _spa la_spa cosa_spa es_spa que_spa esa_spa es_spa la_spa versión_spa que_spa dicen_spa los_spa colombianos_spa 
+77.726 81.046 ISA la_spa versión_spa de_spa los_spa ecuatorianos_spa pues_spa es_spa esa_spa _spa de_spa que_spa ellos_spa estaban_spa durmiendo_spa 
+81.052 81.557 MAY ya_spa 
+81.556 83.059 ISA entonces_spa existe_spa lo_spa que_spa es_spa 
+83.24 88.882 ISA gracias_spa a_spa dios_spa después_spa de_spa todo_spa el_spa bombardeo_spa que_spa hubo_spa e_spa pudieron_spa calcular_spa una_spa computadora_spa 
+88.866 102.485 ISA que_spa yo_spa creo_spa que_spa para_spa mí_spa esa_spa es_spa la_spa razón_spa por_spa la_spa cual_spa cuando_spa vino_spa la_spa _spa la_spa reunión_spa de_spa Río_engspa que_spa estuvieron_spa todos_spa los_spa presidentes_spa e_spa Uribe_engspa tenía_spa todos_spa los_spa papeles_spa y_spa todos_spa los_spa ases_spa debajo_spa de_spa la_spa manga_spa 
+102.185 107.224 ISA por_spa eso_spa es_spa que_spa tu_spa querido_spa presidente_spa Correa_engspa _spa tuvo_spa que_spa morderse_spa la_spa lengua_spa 
+106.318 107.508 MAY _spa el_spa tuyo_spa 
+107.525 111.517 ISA _spa morderse_spa la_spa lengua_spa y_spa decir_spa que_spa está_spa bien_spa que_spa se_spa acababa_spa el_spa conflicto_spa 
+111.506 116.51 ISA lo_spa mismo_spa que_spa Chávez_engspa y_spa lo_spa mismo_spa que_spa nuestro_spa gran_spa amigo_spa _spa Noriega_engspa 
+113.577 114.53 MAY _spa mm_engspa 
+116.602 117.38 MAY ok_engspa 
+116.688 119.026 ISA _spa esa_spa es_spa la_spa versión_spa que_spa supuestamente_spa se_spa baraja_spa 
+118.755 130.004 MAY so_eng se_spa puede_spa interpretar_spa como_spa que_spa el_spa laptop_eng que_spa supuestamente_spa encontraron_spa que_spa dijeron_spa que_spa había_spa evidencia_spa que_spa comprobaba_spa que_spa Ecuador_engspa tenía_spa vínculos_spa con_spa las_spa Farc_engspa era_spa verídico_spa 
+128.61 129.951 ISA _spa las_spa Farc_engspa 
+129.962 130.998 ISA exactamente_spa 
+130.027 132.872 MAY _spa por_spa eso_spa fue_spa entonces_spa que_spa el_spa presidente_spa se_spa hizo_spa el_spa loco_spa 
+132.854 134.793 ISA claro_spa porque_spa tú_spa sabes_spa cómo_spa es_spa Correa_engspa 
+134.421 135.275 MAY ya_spa 
+135.266 137.989 ISA Correa_engspa considera_spa que_spa es_spa el_spa dueño_spa de_spa la_spa palabra_spa 
+137.983 140.148 ISA y_spa la_spa Onu_engspa prácticamente_spa lo_spa dijo_spa e_spa 
+140.095 142.713 ISA _spa Colombia_engspa no_spa tenía_spa por_spa qué_spa traspasar_spa Ecuador_engspa 
+142.251 143.11 MAY _spa correcto_spa 
+143.082 148.398 ISA aun_spa así_spa que_spa estaba_spa siguiendo_spa a_spa un_spa terrorista_spa como_spa Reyes_engspa que_spa era_spa la_spa primera_spa o_spa la_spa segunda_spa cabeza_spa de_spa Farc_engspa 
+148.214 154.099 MAY u_spa y_spa ahorita_spa cambiando_spa xxx_spa tú_spa tienes_spa tu_spa licencia_spa con_spa residence_eng xxx_spa verdad_spa 
+154.504 155.834 eng_eng no_eng _eng why_eng 
+155.88 156.995 MAY no_spa tienes_spa tu_spa licencia_spa 
+156.977 157.714 ISA no_spa no_spa here_eng 
+157.581 158.614 MAY con_spa el_spa address_eng de_spa aquí_spa 
+158.568 159.02 ISA _spa no_spa 
+158.851 159.733 MAY de_spa seguro_spa 
+159.728 160.791 MAY ah_engspa mi_spa tía_spa 
+160.816 161.275 ISA ya_spa 
+161.275 163.811 eng_eng no_eng but_eng shes_eng changing_eng 
+163.601 165.517 eng_eng why_eng why_eng you_eng need_eng it_eng 
+164.215 165.504 MAY _spa ya_spa no_spa tiene_spa que_spa xxx_spa 
+165.504 168.052 MAY necesitaba_spa que_spa votaras_spa por_spa mi_spa jefe_spa 
+168.026 170.737 eng_eng thats_eng is_eng the_eng letter_eng _eng thats_eng is_eng the_eng sign_eng you_eng have_eng 
+169.327 172.293 MAY _spa ah_engspa pero_spa mi_spa tía_spa no_spa es_spa ciudadana_spa 
+171.062 173.03 ISA _spa no_spa no_spa todavía_spa le_spa falta_spa 
+172.937 175.021 eng_eng hmm_eng yeah_eng 
+175.004 178.513 MAY Im_eng working_eng for_eng este_spa Antonio_López_engspa 
+178.513 180.661 MAY que_spa está_spa lanzándose_spa para_spa commissioner_eng 
+180.646 183.194 MAY de_spa la_spa ciudad_spa de_spa Miramar_engspa 
+181.458 182.991 ISA _spa xxx_spa no_spa 
+183.09 188.209 MAY entonces_spa me_spa interesa_spa que_spa gane_spa para_spa que_spa pueda_spa seguir_spa manteniendo_spa su_spa oficina_spa 
+188.203 193.242 MAY desafortunadamente_spa republicano_spa 
+189.213 189.881 ISA _spa no_spa 
+191.222 193.379 ISA no_spa yo_spa con_spa los_spa republicanos_spa no_spa voy_spa 
+193.372 195.421 ISA no_spa voy_spa ni_spa a_spa misa_spa _spa 
+195.415 198.306 ISA ni_spa a_spa misa_spa voy_spa con_spa los_spa republicanos_spa 
+198.24 199.72 ISA bueno_spa entonces_spa eso_spa fue_spa lo_spa que_spa pasó_spa 
+199.569 203.365 ISA tú_spa _spa tú_spa no_spa viste_spa lo_spa que_spa _spa lo_spa que_spa Correa_engspa le_spa hizo_spa a_spa _spa Uribe_engspa 
+203.387 204.17 ISA se_spa levantó_spa 
+204.193 206.052 ISA prácticamente_spa lo_spa dejó_spa con_spa la_spa boca_spa abierta_spa 
+205.773 206.835 MAY _spa xxx_spa 
+206.33 208.966 ISA y_spa el_spa señor_spa Uribe_engspa para_spa mí_spa un_spa señor_spa le_spa dijo_spa 
+208.938 209.373 ISA _spa no_spa 
+209.414 216.261 ISA si_spa el_spa señor_spa _spa si_spa el_spa presidente_spa del_spa Ecuador_engspa no_spa está_spa enfrente_spa mío_spa no_spa voy_spa a_spa decir_spa absolutamente_spa nada_spa 
+216.239 217.708 ISA y_spa lo_spa esperó_spa 
+217.691 219.049 ISA y_spa lo_spa esperó_spa 
+219.049 222.857 ISA y_spa cuando_spa Correa_engspa se_spa sentó_spa _spa Uribe_engspa habló_spa 
+222.859 234.662 ISA y_spa Uribe_engspa fue_spa un_spa caballero_spa porque_spa cuando_spa este_spa señor_spa _spa este_spa el_spa de_spa _spa el_spa de_spa República_Dominicana_engspa le_spa pidió_spa _spa que_spa por_spa favor_spa pues_spa trataran_spa de_spa llegar_spa a_spa un_spa consenso_spa _spa Uribe_engspa fue_spa quien_spa se_spa levantó_spa y_spa le_spa dio_spa la_spa mano_spa a_spa _spa a_spa tu_spa presidente_spa Correa_engspa 
+230.464 231.097 MAY _spa mhmm_engspa 
+235.499 237.704 MAY es_spa más_spa presidente_spa tuyo_spa que_spa mío_spa 
+237.681 243.046 ISA no_spa hermana_spa yo_spa considero_spa que_spa ese_spa no_spa es_spa _spa no_spa es_spa mi_spa _spa no_spa es_spa mi_spa línea_spa en_spa el_spa país_spa 
+243.032 246.132 ISA y_spa tú_spa sabes_spa lo_spa que_spa hizo_spa con_spa el_spa asunto_spa de_spa las_spa herencias_spa 
+246.091 246.637 MAY no_spa 
+246.619 248.262 ISA tú_spa tienes_spa un_spa problemita_spa también_spa ahí_spa 
+248.227 249.376 MAY por_spa qué_spa 
+248.227 253.011 ISA _spa está_spa aplicando_spa un_spa _spa un_spa porcentaje_spa un_spa impuesto_spa del_spa treinta_spa y_spa cinco_spa por_spa ciento_spa 
+252.99 254.053 MAY sí_spa 
+253.379 255.463 ISA _spa de_spa herencias_spa 
+255.828 258.997 ISA por_spa ejemplo_spa God_eng forbid_eng something_eng happen_eng to_eng _spa to_eng your_eng mom_eng 
+258.962 259.502 eng_eng mmhm_eng 
+259.494 263.064 ISA y_spa tú_spa tienes_spa por_spa ejemplo_spa digamos_spa ciento_spa cincuenta_spa mil_spa en_spa bienes_spa 
+263.052 263.708 MAY aquí_spa o_spa allá_spa 
+263.693 266.143 ISA allá_spa _spa porque_spa tú_spa tienes_spa que_spa heredarlos_spa allá_spa 
+264.465 264.958 MAY _spa ok_engspa 
+266.021 266.874 MAY oh_engspa claro_spa 
+266.425 270.401 ISA _spa antes_spa de_spa tú_spa recibirlos_spa tienes_spa que_spa pagarle_spa al_spa gobierno_spa el_spa treinta_spa y_spa cinco_spa por_spa ciento_spa 
+270.314 272.183 ISA se_spa lo_spa coge_spa el_spa gobierno_spa 
+272.141 273.157 eng_eng why_eng 
+273.139 277.661 ISA porque_spa ese_spa es_spa un_spa _spa un_spa impuesto_spa que_spa el_spa señor_spa Correa_engspa le_spa ha_spa puesto_spa a_spa los_spa pelucones_spa 
+277.976 278.974 MAY y_spa qué_spa es_spa 
+277.978 282.823 ISA _spa y_spa te_spa consideras_spa pelucona_spa porque_spa tienes_spa una_spa herencia_spa de_spa más_spa de_spa ciento_spa cincuenta_spa mil_spa dólares_spa 
+283.329 288.844 MAY so_eng si_spa lo_spa queremos_spa interpretar_spa cuál_spa sería_spa el_spa income_eng limit_eng para_spa hacer_spa considered_eng 
+287.822 290.628 ISA _spa ciento_spa cincuenta_spa _spa ciento_spa cincuenta_spa mil_spa a_spa doscientos_spa mil_spa 
+290.595 291.936 MAY y_spa ya_spa eres_spa pelucona_spa 
+290.769 291.565 ISA _spa si_spa es_spa menos_spa 
+291.919 294.798 ISA its_eng just_eng menos_spa de_spa _spa menos_spa de_spa eso_spa no_spa hay_spa problemas_spa 
+294.782 296.256 ISA puedes_spa recibir_spa la_spa herencia_spa 
+296.043 300.711 ISA pero_spa si_spa tienes_spa un_spa dólar_spa más_spa de_spa eso_spa te_spa vo_spa _spa antes_spa estaba_spa aplicando_spa el_spa setenta_spa por_spa ciento_spa 
+300.703 304.585 ISA y_spa todo_spa el_spa mundo_spa prácticamente_spa _spa se_spa puso_spa en_spa contra_spa 
+304.836 305.446 MAY m 
+305.403 308.015 ISA _spa y_spa supuestamente_spa bajó_spa al_spa treinta_spa y_spa cinco_spa por_spa ciento_spa 
+308.04 311.227 ISA pero_spa todo_spa es_spa por_spa la_spa gente_spa de_spa dinero_spa 
+311.204 312.76 ISA eso_spa me_spa lo_spa dijo_spa María_engspa 
+311.46 312.023 MAY _spa pero_spa 
+312.37 314.877 MAY pero_spa te_spa _spa todavía_spa no_spa es_spa 
+314.407 316.125 ISA _spa no_spa ya_spa está_spa aprobado_spa 
+315.713 316.294 MAY gasp_spa 
+316.107 319.456 ISA señorita_spa está_spa aprobado_spa así_spa que_spa ponga_spa el_spa _spa póngase_spa pilas_spa 
+319.449 320.465 MAY wow_engspa 
+320.558 323.112 ISA póngase_spa pilas_spa porque_spa la_spa cosa_spa está_spa seria_spa 
+323.031 325.231 ISA estaba_spa hablando_spa con_spa mi_spa hermano_spa también_spa 
+325.212 328.855 ISA y_spa también_spa le_spa estaba_spa contando_spa _spa que_spa le_spa quería_spa comentar_spa eso_spa a_spa mi_spa tía_spa Carla_engspa _spa por_spa los_spa muchachos_spa 
+329.041 333.162 MAY sobre_spa todo_spa ella_spa que_spa tiene_spa muchos_spa millones_spa en_spa propiedades_spa en_spa Ecuador_engspa 
+332.013 334.201 ISA _spa el_spa edificio_spa hermana_spa que_spa yo_spa creo_spa que_spa tiene_spa un_spa buen_spa valor_spa 
+334.033 335.623 MAY _spa en_spa el_spa edificio_spa 
+335.74 339.583 ISA y_spa es_spa treinta_spa y_spa cinco_spa por_spa ciento_spa estamos_spa hablando_spa de_spa un_spa buen_spa billete_spa hermana_spa 
+339.582 341.258 ISA estamos_spa hablando_spa de_spa cuánto_spa en_spa doscientos_spa mil_spa 
+341.252 343.226 ISA estamos_spa hablando_spa de_spa cuarenta_spa 
+344.158 346.167 ISA un_spa poquito_spa más_spa sesenta_spa 
+345.732 349.348 MAY gasp_spa ciento_spa cincuenta_spa mil_spa el_spa diez_spa por_spa ciento_spa son_spa quince_spa 
+348.69 352.149 ISA _spa son_spa quince_spa y_spa quince_spa cuarenta_spa cinco_spa cincuenta_spa como_spa cincuenta_spa mil_spa 
+349.183 351.099 MAY _spa el_spa veinte_spa son_spa treinta_spa 
+351.081 352.271 MAY oh_engspa no_spa 
+352.121 353.097 ISA _spa es_spa mucho_spa dinero_spa 
+353.085 361.899 ISA y_spa tú_spa sabes_spa lo_spa que_spa a_spa mí_spa me_spa dijo_spa Clara_engspa que_spa me_spa _spa prácticamente_spa me_spa dio_spa ese_spa _spa ese_spa advice_eng que_spa se_spa están_spa haciendo_spa como_spa una_spa especie_spa de_spa inmobiliaria_spa todo_spa lo_spa que_spa son_spa los_spa bienes_spa 
+361.889 363.555 MAY como_spa aquí_spa un_spa incorporated_eng 
+362.992 363.944 ISA _spa _spa eng_spa exactly_spa 
+364.005 366.141 eng_eng thats_eng the_eng best_eng thing_eng to_eng do_eng it_eng _eng to_eng deal_eng with_eng that_eng 
+365.885 367.319 MAY _spa _spa eng_spa thats_spa the_spa way_spa you_spa do_spa it_spa here_spa 
+367.278 367.586 ISA ya_spa 
+367.563 377.819 MAY in_eng order_eng to_eng pay_eng less_eng taxes_eng that_eng I_eng didnt_eng know_eng _spa what_eng Im_eng gonna_eng do_eng is_eng you_eng can_eng incorporate_eng yourself_spa _spa _spa tú_spa puedes_spa ser_spa por_spa decirte_spa Ana_engspa López_engspa incorporated_eng 
+378.207 381.521 MAY y_spa pagas_spa el_spa cincuenta_spa por_spa ciento_spa de_spa los_spa impuestos_spa 
+381.508 384.318 MAY en_spa vez_spa de_spa pagar_spa _spa lo_spa que_spa uno_spa paga_spa normalmente_spa 
+384.109 385.694 ISA _spa coño_spa que_spa me_spa sacan_spa bastante_spa 
+385.569 386.225 eng_eng I_eng know_eng 
+386.214 388.503 ISA me_spa sacan_spa bastante_spa esos_spa hijos_spa de_spa su_spa madre_spa 
+387.429 389.397 MAY _spa _spa eng_spa so_spa thats_spa the_spa best_spa way_spa to_spa go_spa about_spa it_spa 
+389.205 392.398 eng_eng you_eng incorporate_eng yourself_eng as_eng a_eng person_eng as_eng your_eng whole_eng name_eng 
+392.018 396.035 ISA _spa _spa eng_spa even_spa though_spa you_spa have_spa a_spa W_two_spa and_spa youre_spa working_spa for_spa a_spa _spa like_spa an_spa employee_spa 
+395.019 398.94 MAY _spa no_engspa no_engspa no_engspa thats_eng in_eng the_eng case_eng that_eng you_eng have_eng a_eng business_eng 
+399.211 401.121 eng_eng thats_eng in_eng case_eng like_eng if_eng you_eng have_eng a_eng business_eng 
+400.925 403.793 eng_eng and_eng youre_eng taking_eng tax_eng write_off_eng 
+403.764 405.171 ISA yeah_spa ok_engspa 
+404.651 407.798 MAY _spa _spa eng_spa like_spa am_spa not_spa W_two_spa 
+407.796 411.634 ISA yeah_eng but_eng a_spa por_spa ejemplo_spa for_eng example_eng _spa María_engspa 
+411.616 413.398 eng_eng she_eng can_eng do_eng it_eng 
+413.27 414.693 eng_eng a_eng I_eng dont_eng know_eng about_eng her_eng 
+413.549 414.605 ISA _spa _spa eng_spa if_spa she_spa wants_spa 
+414.663 417.99 MAY con_spa los_spa extranjeros_spa si_spa no_spa _spa no_spa _spa no_spa te_spa podría_spa decir_spa 
+417.994 421.927 eng_eng because_eng in_eng this_eng year_eng when_eng we_eng made_eng the_eng taxes_eng for_eng her_eng she_eng have_eng a_eng 
+421.939 423.094 eng_eng she_eng has_eng to_eng pay_eng 
+423.073 426.374 eng_eng she_eng have_eng a_eng nine_eng thousands_eng e_eng e_eng 
+426.362 428.313 ISA cómo_spa se_spa dice_spa la_spa palabra_spa en_spa English_eng 
+428.162 428.708 MAY cuál_spa 
+428.646 430.405 ISA en_spa contra_spa 
+430.041 431.177 eng_eng negative_eng 
+430.106 431.65 ISA a_spa _spa a_spa lo_spa negative_eng 
+431.633 435.499 ISA _spa _spa eng_spa nine_spa thousands_spa five_spa hundred_spa something_spa 
+435.602 437.204 eng_eng so_eng good_eng she_eng doesnt_eng have_eng to_eng pay_eng 
+436.913 440.622 ISA _spa no_eng thats_eng good_eng for_eng _spa for_eng her_eng para_spa xxx_spa 
+439.989 441.33 MAY _spa _spa eng_spa she_spa has_spa lost_spa a_spa lot_spa of_spa equity_spa 
+441.33 443.745 eng_eng I_eng was_eng looking_eng into_eng the_eng community_eng where_eng she_eng bought_eng 
+443.722 444.233 ISA ajá_spa 
+444.221 446.473 eng_eng what_eng does_eng she_eng have_eng a_eng three_eng two_eng or_eng two_eng two_eng 
+446.451 447.403 eng_eng three_eng 
+447.409 449.04 eng_eng three_eng two_eng 
+448.978 451.277 MAY I_eng dont_spa _spa I_spa think_eng she_eng paid_eng like_eng three_eng hundred_eng thousand_eng 
+451.254 453.865 eng_eng and_eng I_eng think_eng know_eng if_eng shes_eng lucky_eng 
+453.25 454.37 ISA _spa _spa eng_spa two_spa forty_spa 
+454.222 456.266 eng_eng between_eng two_eng forty_eng and_eng two_eng sixty_eng 
+455.424 456.092 ISA _spa _spa eng_spa yeah_spa I_spa know_spa 
+456.288 457.71 eng_eng I_eng know_eng that_eng 
+457.575 460.658 eng_eng _eng I_eng know_eng that_eng 
+460.65 461.254 eng_eng Im_eng 
+460.877 463.03 eng_eng I_eng know_eng its_eng bad_eng 
+462.973 464.994 eng_eng xxx_eng for_eng her_eng _eng because_eng she_eng tried_eng 
+463.554 463.978 eng_eng sad_eng 
+464.931 468.983 eng_eng but_eng I_eng _eng I_eng give_eng it_eng to_eng her_eng the_eng advise_eng to_eng waiting_eng one_eng _eng more_eng year_eng to_eng see_eng what_eng happens_eng 
+468.534 470.583 MAY _spa _spa eng_spa she_spa has_spa to_spa wait_spa at_spa least_spa two_spa more_spa years_spa 
+470.554 471.228 MAY mírala_spa 
+471.095 476.532 eng_eng yeah_eng but_eng I_eng dont_eng _eng I_eng dont_eng supposed_eng to_eng tell_eng her_eng that_eng _eng xxx_eng her_eng husband_eng 
+476.54 478.877 MAY oh_engspa did_eng you_eng see_eng the_eng listing_eng I_eng sent_eng you_eng 
+478.853 479.77 eng_eng yeah_eng 
+479.764 481.39 ISA yeah_eng but_eng tú_spa sabes_spa qué_spa 
+481.367 484.908 ISA el_spa problema_spa de_spa aquí_spa que_spa no_spa me_spa gustan_spa son_spa los_spa taxes_eng is_eng too_eng high_eng 
+484.894 485.904 ISA Miramar_engspa is_eng too_eng high_eng 
+485.138 485.864 MAY _spa _spa eng_spa I_spa see_spa 
+486.026 488.04 eng_eng xxx_eng is_eng too_eng high_eng 
+488.018 491.588 ISA I_eng thinking_eng maybe_eng I_eng dont_eng know_eng un_spa poquito_spa más_spa arriba_spa 
+491.584 493.767 MAY siempre_spa por_spa lo_spa general_spa el_spa impuesto_spa es_spa del_spa dos_spa por_spa ciento_spa 
+493.715 503.194 MAY por_spa decirte_spa si_spa te_spa compras_spa ciento_spa _spa ciento_spa cuarenta_spa son_spa dos_spa mil_spa ochocientos_spa menos_spa el_spa home_eng xxx_spa exemption_eng unos_spa dos_spa mil_spa cuatrocientos_spa dos_spa mil_spa trescientos_spa 
+503.167 505.652 MAY son_spa doscientos_spa dólares_spa en_spa taxes_eng mensuales_spa 
+504.839 512.22 ISA _spa _spa eng_spa yeah_spa but_spa when_spa you_spa try_spa to_spa find_spa out_spa the_spa _spa the_spa how_spa much_spa you_spa are_spa supposed_spa to_spa pay_spa for_spa the_spa homeowners_spa insurance_spa xxx_spa insurance_spa 
+511.14 514.995 MAY _spa bueno_spa un_spa _spa un_spa condo_engspa y_spa todo_spa eso_spa ya_spa viene_spa incluida_spa la_spa asociación_spa 
+515.272 516.324 eng_eng yeah_eng I_eng know_eng 
+515.273 516.248 MAY _spa no_spa es_spa aparte_spa 
+516.087 518.386 ISA I_eng know_eng but_eng a_spa de_spa todas_spa maneras_spa 
+517.869 518.694 MAY es_spa fácil_spa 
+518.558 525.882 MAY entre_spa taxes_eng y_spa homeowners_eng a_spa lo_spa que_spa sea_spa tu_spa mortgage_eng agrégale_spa trescientos_spa o_spa cuatrocientos_spa dólares_spa facilito_spa 
+527.243 530.116 MAY que_spa es_spa el_spa _spa el_spa homeowners_eng insurance_eng y_spa todo_spa 
+530.116 532.725 MAY pero_spa eso_spa añadido_spa a_spa todo_spa _spa a_spa todo_spa 
+532.23 536.09 ISA _spa _spa eng_spa do_spa you_spa know_spa how_spa much_spa they_spa pay_spa just_spa for_spa the_spa akse_spa a_spa aksesmen_spa _spa 
+535.795 537.183 eng_eng they_eng xxx_eng paying_eng 
+536.556 537.235 MAY _spa _spa eng_spa assessment_spa 
+537.281 541.878 eng_eng ansesme_eng _eng they_eng i_eng _eng even_eng they_eng _eng no_eng paying_eng xxx_eng 
+541.853 544.094 eng_eng November_eng two_eng thousand_eng six_eng 
+544.059 544.756 eng_eng how_eng much_eng 
+544.738 546.898 eng_eng five_eng thousand_eng nine_eng hundred_eng 
+546.883 550.616 MAY es_spa que_spa esa_spa comunidad_spa ha_spa habido_spa demasiado_spa vandalism_eng 
+550.449 554.39 eng_eng two_eng ninety_eng five_eng two_eng eighty_eng eight_eng _eng every_eng month_eng 
+554.347 555.427 eng_eng yeah_eng but_eng not_eng only_eng that_eng 
+555.415 557.395 MAY pero_spa since_eng she_eng was_eng behind_eng 
+557.382 559.222 eng_eng she_eng had_eng to_eng pay_eng attorneys_eng fees_eng 
+559.065 562.902 ISA _spa one_eng thousand_eng one_eng hundred_eng and_eng fifty_eng xxx_spa el_spa abogado_spa este_spa xxx_spa 
+559.228 560.04 MAY _spa _spa eng_spa thats_spa why_spa 
+562.902 565.793 ISA no_spa se_spa mató_spa nadie_spa 
+565.767 572.553 ISA este_spa el_spa abogado_spa estaba_spa muy_spa muy_spa bonito_spa para_spa que_spa _spa estuvimos_spa in_eng Plantation_engspa donde_spa el_spa lawyer_eng 
+574.406 578.105 ISA y_spa para_spa qué_spa _spa nos_spa trataron_spa muy_spa bien_spa 
+578.857 582.003 eng_eng you_eng cannot_eng stop_eng it_eng 
+582.007 583.934 eng_eng you_eng cannot_eng do_eng it_eng that_eng 
+583.911 584.567 eng_eng so_eng 
+584.703 586.248 ISA laugh_spa 
+585.238 588.262 MAY _spa y_spa entonces_spa ah_spa el_spa abogado_spa que_spa fuiste_spa a_spa ver_spa _spa si_spa 
+588.096 594.658 ISA _spa si_spa para_spa que_spa la_spa oficina_spa y_spa todo_spa la_spa gente_spa al_spa principio_spa todos_spa estaban_spa como_spa un_spa poquito_spa tú_spa sabes_spa pensando_spa que_spa ellos_spa no_spa querían_spa pagar_spa 
+594.147 594.884 eng_eng mmhm_eng _eng mmhm_eng 
+594.878 598.018 ISA pero_spa nada_spa que_spa ver_spa el_spa _spa el_spa veterano_spa se_spa paró_spa 
+597.795 600.495 ISA e_spa José_engspa bien_spa parado_spa el_spa hombre_spa 
+600.5 601.412 ISA tiene_spa su_spa carácter_spa 
+601.412 602.631 ISA y_spa mis_spa respetos_spa para_spa él_spa 
+602.635 603.877 ISA me_spa dijo_spa 
+603.877 609.818 ISA _spa usted_spa no_spa me_spa puede_spa a_spa mí_spa decir_spa ni_spa culparme_spa porque_spa es_spa un_spa pago_spa automático_spa de_spa un_spa banco_spa que_spa yo_spa ni_spa siquiera_spa puedo_spa ver_spa desde_spa mi_spa país_spa 
+609.828 612.371 ISA _spa una_spa cuenta_spa que_spa yo_spa tengo_spa ahí_spa 
+612.371 615.99 ISA _spa y_spa que_spa supuestamente_spa ustedes_spa deben_spa sacar_spa el_spa dinero_spa automáticamente_spa 
+615.968 617.675 ISA _spa no_spa fue_spa mi_spa culpa_spa 
+617.651 619.59 ISA _spa y_spa no_spa fue_spa mi_spa problema_spa porque_spa yo_spa no_spa vivo_spa aquí_spa 
+617.652 618.192 MAY _spa _spa eng_spa mmhm_spa 
+619.56 623.661 ISA _spa y_spa yo_spa vengo_spa una_spa vez_spa por_spa _spa por_spa año_spa 
+619.63 620.42 MAY _spa _spa eng_spa mmhm_spa 
+623.929 624.382 ISA y_spa le_spa dijo_spa 
+624.464 625.294 ISA _spa yo_spa no_spa estoy_spa _spa 
+627.436 628.464 ISA _spa yo_spa no_spa estoy_spa 
+628.371 628.777 ISA me_spa dice_spa 
+628.776 630.872 ISA _spa negando_spa la_spa _spa la_spa responsabilidad_spa de_spa pagar_spa 
+630.866 631.777 ISA _spa yo_spa te_spa quiero_spa pagar_spa 
+631.774 632.354 ISA le_spa dijo_spa 
+632.383 636.207 ISA _spa y_spa yo_spa no_spa me_spa voy_spa a_spa ir_spa de_spa aquí_spa si_spa usted_spa me_spa dice_spa que_spa no_spa porque_spa esto_spa va_spa a_spa seguir_spa con_spa _spa va_spa a_spa seguir_spa subiendo_spa 
+636.331 637.161 ISA _spa yo_spa quiero_spa pagar_spa 
+637.167 639.181 ISA _spa y_spa quiero_spa pagarle_spa ahora_spa 
+640.843 644.726 ISA el_spa abogado_spa subió_spa 
+644.331 647.181 ISA el_spa abogado_spa subió_spa _spa a_spa entró_spa otra_spa vez_spa 
+647.141 648.145 ISA trajo_spa un_spa papel_spa 
+648.133 650.032 ISA se_spa lo_spa hizo_spa firmar_spa 
+649.998 652.97 ISA y_spa le_spa condonaron_spa los_spa intereses_spa 
+652.952 653.446 MAY sí_spa 
+653.423 654.494 ISA sí_spa 
+654.494 656.003 ISA le_spa condonaron_spa los_spa intereses_spa 
+655.922 659.844 ISA lo_spa que_spa no_spa pudimos_spa condonar_spa fue_spa el_spa fee_eng del_spa _spa del_spa abogado_spa 
+659.849 661.922 MAY ah_spa sí_spa no_spa de_spa eso_spa forget_eng it_eng 
+661.073 662.548 ISA _spa eso_spa sí_spa fue_spa imposible_spa 
+662.229 666.748 MAY attorney_eng fee_eng and_eng everything_eng te_spa lo_spa digo_spa por_spa experiencia_spa propia_spa 
+666.714 667.916 MAY yo_spa perdón_spa 
+667.916 673.112 MAY yo_spa pagué_spa unos_spa meses_spa _spa acumulados_spa _spa 
+673.062 675.639 MAY y_spa de_spa los_spa attorneys_eng fees_eng no_spa me_spa salvó_spa nadie_spa 
+674.362 675.761 ISA _spa no_spa _spa nadie_spa 
+675.696 678.506 MAY pero_spa solamente_spa thanks_eng good_eng it_eng was_eng only_eng a_eng hundred_eng and_eng fifty_eng dollars_eng 
+678.212 679.878 eng_eng no_eng but_eng a_eng hundred_eng and_eng fifty_eng is_eng nothing_eng 
+679.199 682.338 MAY _spa _spa eng_spa its_spa nothing_spa compare_spa to_spa one_spa thousand_spa whatever_spa 
+681.183 682.617 ISA _spa _spa eng_spa one_spa thousand_spa and_spa something_spa 
+682.541 683.818 eng_eng yeah_eng thats_eng a_eng lot_eng of_eng money_eng 
+683.799 687.805 ISA no_spa 
+683.857 684.467 MAY _spa pero_spa _spa 
+685.072 687.614 eng_eng it_eng happens_eng gasp_eng 
+687.607 691.81 MAY so_eng vamos_spa a_spa ver_spa qué_spa pasa_spa con_spa el_spa market_eng 
+691.783 694.703 eng_eng I_eng hope_eng things_eng change_eng 
+694.653 699.007 ISA no_spa pero_spa supuestamente_spa están_spa haciendo_spa algunos_spa _spa este_spa van_spa a_spa hacer_spa algunos_spa correctivos_spa 
+699.045 700.839 ISA aparte_spa de_spa los_spa que_spa ya_spa hicieron_spa 
+700.827 705.749 ISA están_spa promoviendo_spa una_spa ley_spa para_spa ayudar_spa a_spa toda_spa la_spa gente_spa porque_spa es_spa demasiado_spa la_spa gente_spa que_spa se_spa va_spa a_spa poner_spa en_spa foreclosure_eng 
+705.757 713.427 MAY solamente_spa en_spa la_spa ciudad_spa de_spa Miramar_engspa hay_spa _spa mil_spa hasta_spa el_spa mes_spa pasado_spa mil_spa novecientas_spa casas_spa _spa ya_spa en_spa foreclosure_eng 
+713.375 717.16 MAY before_eng xxx_spa foreclosure_eng pero_spa ya_spa 
+717.063 717.434 ISA sí_spa 
+717.405 719.466 MAY ya_spa _spa al_spa momento_spa al_spa instante_spa ya_spa 
+719.454 722.729 ISA no_spa pero_spa las_spa estadísticas_spa son_spa peores_spa para_spa este_spa año_spa 
+722.71 724.591 ISA la_spa cantidad_spa es_spa estratosférica_spa 
+722.896 724.045 MAY _spa eso_spa va_spa a_spa hacer_spa 
+724.382 726.793 MAY y_spa eso_spa ya_spa va_spa a_spa hacer_spa hasta_spa el_spa año_spa 
+726.77 728.766 MAY pienso_spa yo_spa hasta_spa el_spa dos_spa mil_spa nueve_spa 
+727.715 729.247 ISA es_spa que_spa estamos_spa en_spa época_spa de_spa elecciones_spa 
+729.23 733.845 ISA en_spa época_spa de_spa elecciones_spa para_spa cualquier_spa país_spa tomar_spa alguna_spa decisión_spa o_spa tomar_spa algún_spa buen_spa rumbo_spa no_spa es_spa difícil_spa 
+733.791 737.262 ISA hasta_spa que_spa no_spa se_spa sepa_spa quién_spa va_spa a_spa ser_spa la_spa cabeza_spa que_spa se_spa sienta_spa en_spa enero_spa 
+736.971 737.615 eng_eng mmhm_eng 
+737.314 741.888 ISA hasta_spa que_spa más_spa o_spa menos_spa no_spa coja_spa las_spa _spa las_spa riendas_spa estamos_spa hablando_spa de_spa junio_spa del_spa dos_spa mil_spa nueve_spa 
+741.89 743.678 MAY hasta_spa ver_spa qué_spa pasa_spa 
+743.661 745.425 ISA definitivamente_spa 
+745.414 752.773 ISA y_spa yo_spa creo_spa que_spa si_spa se_spa ponen_spa como_spa están_spa las_spa cosas_spa e_spa McClain_engspa o_spa no_spa creo_spa que_spa Barack_engspa Obama_engspa gane_spa 
+752.686 755.118 ISA me_spa parece_spa imposible_spa que_spa _spa que_spa gane_spa 
+754.57 755.557 MAY _spa pero_spa yo_spa 
+755.52 760.761 MAY tú_spa fuiste_spa la_spa que_spa mandaste_spa el_spa _spa el_spa _spa el_spa email_eng que_spa decía_spa que_spa él_spa es_spa terrorist_eng xxx_spa 
+757.615 758.132 ISA _spa _spa eng_spa email_spa 
+760.285 762.607 ISA músulman_spa _spa musulmán_spa 
+762.581 764.265 MAY qué_spa era_spa _spa cómo_spa era_spa la_spa palabra_spa que_spa me_spa dijiste_spa 
+763.76 765.153 ISA _spa ya_spa se_spa me_spa olvidó_spa vieja_spa 
+765.155 773.141 ISA pero_spa lo_spa que_spa sí_spa te_spa digo_spa es_spa que_spa dicen_spa no_spa sé_spa lo_spa leí_spa que_spa cuando_spa él_spa hizo_spa un_spa juramento_spa o_spa algo_spa porque_spa él_spa no_spa estaba_spa aquí_spa estaba_spa afuera_spa él_spa hizo_spa un_spa juramento_spa en_spa el_spa corán_spa 
+773.147 774.854 ISA no_spa lo_spa hizo_spa en_spa la_spa biblia_spa 
+774.841 781.599 ISA y_spa que_spa el_spa padre_spa que_spa era_spa _spa que_spa era_spa este_spa no_spa sé_spa de_spa qué_spa parte_spa de_spa allá_spa es_spa lo_spa dejó_spa al_spa año_spa 
+781.599 784.501 ISA y_spa luego_spa la_spa mujer_spa se_spa casó_spa con_spa otro_spa también_spa 
+784.482 791.311 ISA y_spa él_spa estuvo_spa en_spa _spa en_spa _spa en_spa universidades_spa y_spa estuvo_spa en_spa colegios_spa _spa de_spa los_spa extremistas_spa 
+789.575 790.69 eng_eng mmhm_eng 
+791.297 796.411 ISA él_spa no_spa estuvo_spa en_spa ninguna_spa e_spa ni_spa _spa ni_spa católica_spa ni_spa _spa ni_spa de_spa aquí_spa tampoco_spa 
+796.048 797.255 MAY _spa ninguna_spa cristiana_spa 
+797.921 803.105 ISA y_spa que_spa realmente_spa él_spa _spa él_spa tiene_spa todo_spa _spa tiene_spa todo_spa ese_spa tipo_spa de_spa religión_spa 
+803.014 806.822 ISA no_spa sé_spa pues_spa la_spa religión_spa que_spa se_spa llama_spa la_spa de_spa las_spa que_spa ellos_spa usan_spa los_spa extremistas_spa 
+806.798 809.497 ISA no_spa la_spa recuerdo_spa bien_spa _spa 
+809.478 811.115 ISA pero_spa él_spa tiene_spa muy_spa poco_spa 
+810.924 814.669 ISA él_spa es_spa muy_spa joven_spa comparado_spa a_spa la_spa experiencia_spa de_spa Hillary_engspa que_spa tiene_spa treinta_spa y_spa cinco_spa años_spa 
+814.727 817.532 ISA la_spa experiencia_spa de_spa McClain_engspa que_spa tiene_spa veinticinco_spa 
+817.398 819.726 ISA aunque_spa es_spa más_spa viejo_spa se_spa piensa_spa que_spa debería_spa tener_spa más_spa experiencia_spa 
+819.655 821.733 ISA Hillary_engspa la_spa tiene_spa más_spa que_spa él_spa 
+821.472 826.761 ISA él_spa lo_spa que_spa es_spa político_spa 
+826.73 836.233 ISA y_spa Barack_engspa Obama_engspa este_spa _spa y_spa Barack_engspa Obama_engspa es_spa muy_spa joven_spa apenas_spa creo_spa que_spa no_spa llega_spa ni_spa a_spa diez_spa ni_spa a_spa quince_spa años_spa a_spa veinte_spa años_spa 
+836.216 837.226 MAY sí_spa 
+837.051 845.491 ISA y_spa además_spa lo_spa que_spa es_spa _spa lo_spa que_spa es_spa su_spa imagen_spa _spa lo_spa que_spa es_spa su_spa imagen_spa internacional_spa no_spa tiene_spa el_spa _spa el_spa carisma_spa que_spa tiene_spa la_spa Hillary_engspa Clinton_engspa a_spa nivel_spa internacional_spa 
+845.5 848.454 MAY más_spa _spa sin_spa embargo_spa mucha_spa gente_spa la_spa critica_spa 
+848.4 850.246 MAY y_spa me_spa da_spa pena_spa 
+850.134 852.183 ISA el_spa problema_spa es_spa que_spa se_spa critica_spa porque_spa es_spa mujer_spa 
+852.131 854.923 ISA y_spa porque_spa es_spa mujer_spa se_spa considera_spa que_spa involucra_spa las_spa emociones_spa 
+854.865 858.232 ISA y_spa para_spa hacer_spa _spa para_spa hacer_spa un_spa presidente_spa no_spa puedes_spa involucrar_spa las_spa emociones_spa 
+858.232 860.287 ISA debes_spa ser_spa pragmático_spa 
+860.237 862.413 ISA y_spa ese_spa es_spa el_spa gran_spa defecto_spa de_spa las_spa mujeres_spa 
+862.396 873.672 ISA pero_spa considero_spa también_spa _spa que_spa si_spa tú_spa le_spa pones_spa unas_spa pocos_spa de_spa emociones_spa a_spa las_spa decisiones_spa de_spa las_spa personas_spa que_spa han_spa llegado_spa a_spa este_spa país_spa que_spa en_spa la_spa mayoría_spa perdón_spa al_spa mundo_spa que_spa han_spa sido_spa hombres_spa creo_spa que_spa obtendríamos_spa un_spa mejor_spa mundo_spa que_spa el_spa que_spa tenemos_spa ahora_spa 
+874.045 877.748 ISA y_spa para_spa mí_spa yo_spa sí_spa creo_spa que_spa este_spa país_spa merece_spa una_spa mujer_spa como_spa presidente_spa 
+877.702 878.822 ISA yo_spa sí_spa creo_spa 
+878.806 881.197 ISA y_spa esta_spa señora_spa tiene_spa los_spa _spa las_spa credenciales_spa 
+881.18 882.782 ISA tiene_spa todo_spa 
+882.774 895.182 ISA lo_spa malo_spa de_spa ella_spa fue_spa el_spa llantito_spa ese_spa que_spa hizo_spa al_spa principio_spa de_spa las_spa elecciones_spa que_spa fue_spa lo_spa que_spa prácticamente_spa pues_spa la_spa _spa la_spa desdibujó_spa un_spa poco_spa en_spa el_spa aplomo_spa que_spa _spa que_spa usó_spa cuando_spa pasó_spa lo_spa del_spa marido_spa con_spa la_spa _spa la_spa Mónica_engspa 
+893.76 894.288 MAY _spa _spa eng_spa mmhm_spa 
+895.112 898.845 ISA eso_spa fue_spa lo_spa que_spa la_spa empezó_spa como_spa quien_spa dice_spa a_spa desbaratar_spa 
+898.839 913.006 ISA y_spa _spa y_spa aparte_spa pues_spa _spa el_spa _spa a_spa Omaba_engspa también_spa lo_spa molestó_spa en_spa parte_spa lo_spa del_spa _spa lo_spa de_spa su_spa inexperiencia_spa en_spa lo_spa que_spa más_spa le_spa han_spa dado_spa más_spa fuerte_spa 
+918.378 920.985 eng_eng go_eng ahead_eng 
+920.986 922.507 MAY ay_spa sí_spa 
+922.704 924.794 ISA ya_spa 
+927.036 933.867 MAY vamos_spa a_spa ver_spa qué_spa pasa_spa con_spa las_spa elecciones_spa porque_spa de_spa todas_spa maneras_spa por_spa último_spa lo_spa que_spa más_spa da_spa pena_spa es_spa el_spa futuro_spa de_spa los_spa niños_spa 
+933.855 938.151 MAY que_spa ultimadamente_spa ya_spa uno_spa viejo_spa como_spa sea_spa pues_spa 
+938.063 939.329 eng_eng yeah_eng xxx_eng 
+938.637 939.804 MAY _spa ya_spa la_spa vida_spa está_spa hecha_spa 
+939.792 941.481 MAY pero_spa vamos_spa a_spa ver_spa qué_spa pasa_spa 
+942.12 943.234 MAY oye_spa 
+943.227 943.866 eng_eng tell_eng me_eng 
+943.837 946.629 MAY tú_spa que_spa pasas_spa metida_spa in_eng the_eng internet_eng all_eng day_eng 
+946.153 947.86 ISA _spa _spa eng_spa oh_spa yeah_spa yeah_spa 
+947.867 952.952 MAY Im_eng looking_eng for_eng something_eng con_spa las_spa tres_spa bees_eng bueno_spa bonito_spa y_spa barato_spa 
+952.459 954.189 ISA _spa _spa eng_spa in_spa what_spa category_spa 
+954.124 954.977 eng_eng which_eng one_eng 
+954.193 955.169 eng_eng vacation_eng 
+955.154 958.156 MAY I_eng wanna_eng go_eng to_eng the_eng Caribbean_eng or_eng 
+958.045 960.025 eng_eng but_eng how_eng plane_eng 
+959.978 962.004 eng_eng whatever_eng _eng whatever_eng is_eng a_eng good_eng deal_eng 
+961.982 965.749 eng_eng for_eng _eng all_eng four_eng of_eng us_eng its_eng the_eng first_eng time_eng that_eng were_eng all_eng going_eng on_eng vacation_eng 
+965.749 966.847 eng_eng well_eng not_eng the_eng first_eng time_eng 
+966.803 970.147 eng_eng no_eng you_eng are_eng always_eng on_eng vacation_eng with_eng the_eng kids_eng please_eng tell_eng me_eng 
+970.126 973.621 MAY no_eng no_eng but_eng I_eng wanna_eng take_eng them_eng to_eng the_eng Caribbean_eng because_eng Mariela_engspa is_eng always_eng telling_eng me_eng 
+973.59 977.897 eng_eng she_eng has_eng this_eng girl_eng in_eng school_eng that_eng is_eng her_eng same_eng age_eng 
+975.372 976.173 ISA _spa ajá_spa 
+976.562 977.892 eng_eng mmhm_eng 
+977.889 980.522 eng_eng and_eng she_eng tells_eng me_eng that_eng um_eng 
+980.512 984.439 MAY _spa oh_eng my_eng friend_eng Aby_engspa that_eng she_eng tell_eng _spa she_eng tells_eng me_eng that_eng shes_eng been_eng on_eng a_eng cruise_eng 
+984.433 986.303 MAY _spa _spa eng_spa and_spa I_spa cant_spa wait_spa to_spa go_spa on_spa a_spa cruise_spa 
+986.273 988.523 MAY _spa _spa eng_spa and_spa I_spa always_spa wanted_spa to_spa be_spa in_spa _spa in_spa a_spa cruise_spa 
+988.495 990.754 MAY _spa _spa eng_spa and_spa I_spa cant_spa wait_spa to_spa go_spa on_spa a_spa cruise_spa 
+989.698 995.172 ISA _spa _spa eng_spa wait_spa wait_spa wait_spa wait_spa back_spa time_spa you_spa dont_spa coming_spa _spa you_spa dont_spa go_spa went_spa with_spa the_spa babies_spa before_spa 
+995.128 996.927 MAY on_eng the_eng cruise_eng no_engspa not_eng on_eng the_eng cruise_eng 
+996.55 998.053 ISA _spa _spa eng_spa a_spa you_spa left_spa the_spa baby_spa here_spa 
+997.966 999.029 eng_eng yeah_eng 
+999.075 1000.439 eng_eng oh_eng xxx_eng 
+1000.402 1004.013 eng_eng no_eng last_eng year_eng we_eng went_eng to_eng New_York_eng and_eng I_eng took_eng them_eng 
+1002.712 1005.005 ISA Nueva_York_spa yeah_eng we_eng went_eng together_eng 
+1004.063 1006.994 eng_eng yeah_eng no_eng but_eng when_eng I_eng _eng went_eng Ive_eng been_eng going_eng to_eng the_eng Caribbean_eng 
+1006.89 1009.705 MAY and_eng into_eng Las_Vegas_eng I_eng went_eng only_eng with_eng Alberto_engspa 
+1009.778 1013.375 eng_eng so_eng _eng I_eng wanna_eng take_eng them_eng this_eng year_eng 
+1013.178 1015.871 eng_eng I_eng was_eng also_eng waiting_eng for_eng the_eng baby_eng to_eng be_eng older_eng 
+1015.863 1017.558 eng_eng yeah_eng thats_eng the_eng best_eng time_eng for_eng him_eng 
+1017.535 1020.42 eng_eng which_eng makes_eng it_eng easier_eng for_eng all_eng of_eng us_eng 
+1020.407 1022.123 eng_eng even_eng though_eng I_eng dont_eng think_eng hes_eng ready_eng yet_eng 
+1022.111 1023.586 eng_eng but_eng Im_eng gonna_eng take_eng him_eng now_eng 
+1023.508 1025.156 eng_eng you_eng have_eng to_eng be_eng watching_eng him_eng 
+1025.131 1028.672 eng_eng laugh_eng he_eng can_eng jumping_eng easily_eng laugh_eng 
+1027.244 1032.12 MAY _spa _spa eng_spa yeah_spa I_spa know_spa thats_spa why_spa I_spa was_spa thinking_spa maybe_spa _spa maybe_spa we_spa can_spa take_spa like_spa _spa maybe_spa like_spa another_spa 
+1031.905 1034.842 eng_eng you_eng know_eng my_eng brothers_eng working_eng in_eng the_eng Caribbean_eng 
+1034.644 1036.372 eng_eng yeah_eng hes_eng working_eng in_eng the_eng Caribbean_eng 
+1036.36 1037.8 eng_eng he_eng flies_eng like_eng every_eng three_eng weeks_eng 
+1037.776 1040.144 MAY he_eng goes_eng to_eng Costa_Rica_engspa 
+1039.979 1045.378 MAY or_eng he_eng goes_eng to_eng Mexico_engspa because_eng hes_eng you_eng know_eng hes_eng a_eng mortgage_eng broker_eng 
+1045.336 1045.765 ISA ajá_spa 
+1045.336 1048.029 MAY _spa _spa eng_spa what_spa hes_spa doing_spa is_spa hes_spa doing_spa loans_spa but_spa in_spa the_spa Caribbean_spa 
+1047.872 1048.732 ISA ok_engspa 
+1048.598 1051.982 eng_eng these_eng properties_eng are_eng like_eng one_eng million_eng and_eng up_eng 
+1051.867 1055.1 MAY pero_spa son_spa propiedades_spa un_spa sueño_spa 
+1055.072 1058.677 eng_eng so_eng when_eng he_eng stays_eng there_eng I_eng can_eng easily_eng go_eng 
+1057.87 1058.805 eng_eng yeah_eng 
+1058.79 1061.257 eng_eng so_eng I_eng have_eng to_eng pay_eng just_eng the_eng airfare_eng 
+1061.102 1063.883 ISA but_eng a_spa why_eng you_eng dont_eng try_eng with_eng Spirit_engspa 
+1063.842 1065.682 MAY they_eng have_eng good_eng deals_eng pero_spa 
+1064.979 1066.923 ISA _spa _spa eng_spa eighteen_spa thirty_spa four_spa 
+1066.909 1068.308 eng_eng they_eng have_eng even_eng nine_eng dollars_eng 
+1068.291 1069.933 eng_eng but_eng they_eng catch_eng you_eng on_eng the_eng taxes_eng 
+1069.947 1072.197 eng_eng or_eng they_eng catch_eng you_eng on_eng the_eng _eng on_eng the_eng way_eng back_eng 
+1072.197 1074.833 eng_eng like_eng they_eng give_eng you_eng an_eng eight_eng dollar_eng ticket_eng to_eng go_eng there_eng 
+1074.827 1075.436 eng_eng and_eng then_eng 
+1075.425 1078.861 MAY pero_spa con_spa los_spa impuestos_spa and_eng then_eng the_eng ticket_eng coming_eng back_eng 
+1078.832 1081.131 eng_eng lets_eng just_eng say_eng that_eng the_eng going_eng tickets_eng is_eng eight_eng dollars_eng 
+1081.124 1086.263 eng_eng and_eng then_eng the_eng return_eng is_eng like_eng a_eng hundred_eng and_eng twenty_eng _eng plus_eng two_eng fifty_eng in_eng the_eng taxes_eng 
+1086.338 1088.166 MAY ya_spa son_spa three_eng hundred_eng dollars_eng 
+1087.249 1088.422 ISA _spa _spa eng_spa three_spa hundred_spa and_spa something_spa 
+1088.851 1089.768 eng_eng times_eng four_eng 
+1089.727 1091.471 eng_eng no_eng thats_eng twelve_eng hundred_eng 
+1091.483 1092.532 eng_eng thats_eng too_eng much_eng 
+1091.841 1092.903 MAY _spa _spa eng_spa thats_spa what_spa Im_spa saying_spa 
+1092.688 1096.641 eng_eng since_eng youre_eng always_eng on_eng the_eng internet_eng if_eng you_eng see_eng something_eng you_eng know_eng reasonable_eng 
+1095.955 1097.2 ISA _spa _spa eng_spa but_spa you_spa know_spa _spa you_spa know_spa what_spa 
+1097.113 1104.128 eng_eng I_eng know_eng ul_eng June_eng to_eng _eng to_eng November_eng on_eng the_eng hurricane_eng season_eng easily_eng you_eng can_eng find_eng less_eng than_eng two_eng hundreds_eng and_eng fifty_eng 
+1104.11 1107.506 eng_eng not_eng really_eng because_eng its_eng _eng its_eng _eng its_eng on_eng vacation_eng time_eng 
+1107.373 1108.203 eng_eng its_eng peak_eng time_eng 
+1108.058 1109.288 eng_eng its_eng summer_eng time_eng 
+1109.192 1112.727 eng_eng no_eng but_eng the_eng problem_eng is_eng you_eng have_eng to_eng e_eng buy_eng six_eng months_eng before_eng 
+1112.713 1114.483 eng_eng and_eng then_eng you_eng gonna_eng catch_eng the_eng good_eng deal_eng 
+1114.366 1116.438 MAY _spa _spa eng_spa Ive_spa been_spa looking_spa for_spa something_spa 
+1116.432 1117.448 eng_eng because_eng thats_eng what_eng 
+1116.7 1117.75 MAY _spa _spa eng_spa for_spa a_spa while_spa 
+1117.315 1120.989 ISA a_eng with_eng María_engspa were_eng talking_eng about_eng when_eng there_eng are_eng coming_eng next_eng year_eng 
+1120.952 1123.013 eng_eng were_eng gonna_eng go_eng to_eng a_eng _eng a_eng cruise_eng 
+1122.984 1126.597 eng_eng and_eng were_eng gonna_eng try_eng to_eng buy_eng it_eng maybe_eng on_eng June_eng or_eng July_eng 
+1126.737 1131.989 eng_eng and_eng were_eng suppose_eng to_eng go_eng wi_eng on_eng when_eng they_eng come_eng in_eng February_eng two_eng thousand_eng nine_eng with_eng 
+1132.562 1134.146 eng_eng I_eng wish_eng with_eng my_eng aunty_eng 
+1134.117 1135.383 eng_eng but_eng I_eng _eng you_eng know_eng her_eng 
+1135.39 1137.805 eng_eng she_eng is_eng very_eng scared_eng with_eng the_eng cruise_eng 
+1137.761 1138.55 eng_eng really_eng 
+1138.51 1139.119 eng_eng yeah_eng 
+1139.084 1140.164 eng_eng why_eng 
+1139.526 1140.639 ISA uf_spa 
+1140.625 1142.186 eng_eng she_eng dont_eng like_eng it_eng 
+1142.182 1143.597 eng_eng she_eng doesnt_eng like_eng it_eng 
+1143.57 1145.309 eng_eng I_eng heard_eng your_eng mommy_eng is_eng coming_eng next_eng week_eng 
+1145.265 1146.252 eng_eng yeah_eng on_eng Monday_eng 
+1146.246 1151.242 eng_eng Im_eng gonna_eng go_eng with_eng her_eng to_eng the_eng home_eng speed_eng way_eng 
+1151.124 1152.198 ISA am_spa 
+1152.047 1153.382 MAY a_spa Homestead_engspa 
+1152.843 1155.354 ISA _spa Homestead_Speedway_engspa its_eng a_eng racing_eng 
+1154.843 1157.461 MAY xxx_spa ay_spa no_spa le_spa va_spa a_spa dar_spa dolor_spa de_spa cabeza_spa 
+1156.894 1159.777 ISA _spa no_engspa no_engspa because_eng were_eng going_eng to_eng the_eng V_I_P_engspa xxx_spa 
+1157.229 1159.713 MAY _spa _spa eng_spa why_spa youre_spa gonna_spa take_spa her_spa there_spa 
+1159.697 1160.591 eng_eng its_eng for_eng the_eng company_eng 
+1159.778 1160.933 MAY _spa xxx_spa 
+1160.747 1163.336 eng_eng the_eng insurance_eng company_eng we_eng have_eng a_eng big_eng party_eng there_eng 
+1163.239 1165.474 eng_eng and_eng were_eng gonna_eng met_eng everyone_eng there_eng 
+1165.455 1166.035 eng_eng Ive_eng been_eng 
+1165.49 1168.801 MAY _spa Ive_eng been_eng _spa Ive_eng been_eng there_eng when_eng its_spa _spa cuando_spa Alberto_engspa trabajaba_spa en_spa Coca_Cola_engspa 
+1168.795 1170.391 MAY gasp_spa no_spa te_spa he_spa contado_spa 
+1170.319 1171.666 eng_eng yeah_eng what_eng 
+1171.655 1172.822 eng_eng Carlos_eng got_eng a_eng new_eng job_eng 
+1172.729 1174.308 ISA ya_spa xxx_spa me_spa dijo_spa mi_spa tía_spa 
+1174.337 1175.597 MAY sí_spa 
+1174.587 1175.098 ISA _spa Telemundo_engspa 
+1175.04 1176.334 ISA _spa _spa eng_spa what_spa are_spa hes_spa gonna_spa do_spa xxx_spa there_spa 
+1176.09 1177.512 MAY _spa xxx_spa 
+1177.512 1178.702 eng_eng its_eng good_eng for_eng him_eng 
+1178.673 1179.254 MAY bueno_spa 
+1179.19 1180.647 ISA Telemundo_engspa 
+1180.59 1181.571 MAY bueno_spa no_spa 
+1181.565 1184.189 MAY él_spa va_spa a_spa ser_spa empleado_spa de_spa General_Electric_engspa 
+1184.009 1185.594 eng_eng oh_eng xxx_eng 
+1185.59 1187.726 MAY he_eng is_eng gonna_eng be_eng an_eng employee_eng for_eng General_Electric_engspa 
+1187.726 1190.824 MAY but_eng hes_eng gonna_eng be_eng working_eng for_eng Msnbc_engspa _spa 
+1190.789 1192.843 eng_eng oh_eng thats_eng _eng thats_eng _eng that_eng is_eng a_eng big_eng name_eng 
+1192.79 1193.458 eng_eng yeah_eng 
+1193.413 1194.225 eng_eng I_eng like_eng that_eng 
+1194.098 1198.278 eng_eng so_eng he_eng is_eng a_eng General_eng _eng General_Electric_eng employee_eng 
+1194.151 1195.004 ISA _spa Telemundo_engspa xxx_spa 
+1198.274 1201.926 MAY pero_spa he_eng is_eng gonna_eng be_eng working_eng for_eng M_S_N_B_C_engspa Telemundo_engspa 
+1201.904 1202.902 ISA ah_engspa he_eng like_eng that_eng 
+1202.856 1203.918 eng_eng of_eng course_eng 
+1203.801 1205.026 ISA laugh_spa 
+1205.003 1206.698 MAY _spa _spa eng_spa of_spa course_spa 
+1206.559 1207.505 ISA laugh_spa 
+1206.594 1208.196 MAY _spa _spa eng_spa hes_spa very_spa happy_spa 
+1208.115 1209.334 ISA no_spa te_spa digo_spa 
+1208.733 1210.719 eng_eng xxx_eng its_eng a_eng good_eng base_eng _eng salary_eng 
+1210.695 1217.236 eng_eng and_eng you_eng know_eng they_eng _eng they_eng give_eng them_eng up_eng to_eng twenty_eng thousands_eng dollars_eng in_eng bonus_eng which_eng is_eng not_eng bad_eng 
+1217.524 1219.555 MAY pero_spa tiene_spa sus_spa pros_eng y_spa sus_spa cons_eng 
+1219.515 1220.827 eng_eng which_eng one_eng is_eng the_eng problem_eng 
+1220.722 1222.655 eng_eng the_eng problem_eng is_eng that_eng they_eng dont_eng give_eng him_eng a_eng car_eng 
+1222.598 1224.258 eng_eng so_eng he_eng needs_eng to_eng get_eng another_eng car_eng 
+1224.253 1227.27 eng_eng yeah_eng but_eng he_eng gonna_eng _eng more_eng income_eng right_eng 
+1227.218 1228.158 eng_eng yeah_eng more_eng income_eng 
+1228.231 1233.179 eng_eng but_eng at_eng the_eng same_eng time_eng its_eng like_eng _eng its_eng another_eng _eng its_eng an_eng extra_eng expense_eng that_eng we_eng have_eng never_eng had_eng never_eng 
+1233.172 1234.112 eng_eng its_eng like_eng having_eng 
+1234.095 1235.355 eng_eng the_eng way_eng I_eng see_eng it_eng its_eng like_eng 
+1235.343 1247.102 MAY _spa _spa eng_spa oh_spa my_spa god_spa they_spa just_spa throw_spa us_spa a_spa baby_spa in_spa the_spa house_spa xxx_spa are_spa you_spa gonna_spa take_spa care_spa of_spa diapers_spa _spa formula_spa because_spa its_spa a_spa xxx_spa insurance_spa gas_spa maintenance_spa 
+1246.836 1247.764 ISA _spa _spa eng_spa everything_spa 
+1247.579 1249.645 MAY eso_spa es_spa lo_spa que_spa me_spa tiene_spa medio_spa 
+1248.914 1251.102 ISA pero_spa cuál_spa están_spa xxx_spa en_spa comprar_spa 
+1250.975 1253.797 MAY no_spa ahorita_spa la_spa verdad_spa es_spa no_spa _spa no_spa sabes_spa que_spa 
+1253.71 1254.818 ISA el_spa problema_spa es_spa que_spa 
+1253.831 1255.387 MAY _spa no_spa lo_spa quiero_spa ni_spa pensar_spa 
+1254.766 1256.47 ISA _spa pero_spa el_spa problema_spa es_spa el_spa tipo_spa de_spa trabajo_spa que_spa tiene_spa 
+1256.459 1258.931 ISA no_spa puede_spa manejar_spa cualquier_spa carrito_spa mamita_spa 
+1259.297 1264.208 MAY tampoco_spa lo_spa _spa no_spa lo_spa va_spa poder_spa manejar_spa un_spa mercedes_engspa ni_spa un_spa carro_spa tampoco_spa de_spa lujo_spa 
+1262.873 1264.881 ISA _spa ya_spa pero_spa imagen_spa es_spa imagen_spa 
+1264.78 1270.787 eng_eng no_eng matter_eng what_eng 
+1270.779 1272.108 MAY so_eng vamos_spa a_spa ver_spa 
+1271.951 1272.932 MAY en_spa eso_spa estamos_spa 
+1272.921 1277.862 MAY así_spa que_spa si_spa escuchas_spa de_spa algún_spa good_eng deal_eng because_eng en_spa el_spa dealer_eng donde_spa él_spa está_spa hay_spa carros_spa 
+1277.917 1283.438 MAY pero_spa _spa so_eng un_spa Lexus_engspa o_spa el_spa equivalente_spa 
+1281.819 1285.552 ISA _spa yo_spa tengo_spa una_spa amiguita_spa que_spa es_spa dueña_spa de_spa un_spa _spa de_spa un_spa dealer_eng 
+1285.54 1287.27 ISA si_spa quieres_spa ir_spa de_spa _spa a_spa verla_spa 
+1287.248 1288.124 ISA es_spa amiga_spa mía_spa 
+1288.203 1289.114 ISA la_spa dueña_spa dueña_spa 
+1289.022 1290.525 ISA es_spa un_spa _spa es_spa un_spa dealer_eng grande_spa 
+1290.518 1293.414 ISA tiene_spa three_eng warehouse_eng 
+1293.226 1297.092 ISA en_spa xxx_spa here_eng close_eng here_eng 
+1297.74 1298.599 MAY sí_spa 
+1298.588 1301.769 ISA sí_spa si_spa quieres_spa la_spa puedes_spa ir_spa a_spa visitar_spa 
+1301.647 1302.163 eng_eng where_eng 
+1302.264 1303.524 ISA está_spa en_spa ahí_spa en_spa xxx_spa 
+1303.518 1305.962 ISA pero_spa qué_spa pasó_spa con_spa el_spa marido_spa de_spa la_spa Ana_engspa 
+1305.943 1307.476 MAY está_spa en_spa Infinity_engspa 
+1307.464 1308.747 ISA y_spa por_spa qué_spa no_spa intentas_spa 
+1308.654 1310.082 MAY Infinity_engspa xxx_spa 
+1309.557 1311.785 ISA _spa no_spa pero_spa acuérdate_spa que_spa ella_spa se_spa compró_spa un_spa Mazda_engspa allá_spa 
+1311.438 1312.779 MAY _spa e_spa es_spa para_spa él_spa 
+1312.152 1313.191 ISA _spa _spa eng_spa she_spa make_spa a_spa good_spa deal_spa 
+1313.19 1319.0 MAY to_eng that_eng effect_eng _spa que_spa se_spa compre_spa mejor_spa un_spa Lexus_engspa donde_spa él_spa está_spa pues_spa 
+1318.829 1322.713 ISA laugh_spa ya_spa pareces_spa cubana_spa chica_spa laugh_spa 
+1322.661 1323.462 eng_eng so_eng 
+1323.444 1324.768 eng_eng money_eng money_eng money_eng 
+1324.748 1328.637 eng_eng its_eng either_eng money_eng or_eng credit_eng and_eng 
+1328.608 1329.415 ISA no_spa pero_spa 
+1329.075 1331.165 MAY _spa _spa eng_spa the_spa credit_spa is_spa not_spa all_spa that_spa xxx_spa 
+1331.272 1334.163 ISA pero_spa why_eng dont_eng they_eng give_eng it_eng to_eng him_eng a_eng _spa a_eng car_eng 
+1333.797 1336.984 eng_eng because_eng they_eng offering_eng him_eng a_eng big_eng salary_eng 
+1336.868 1339.829 eng_eng and_eng he_eng decide_eng to_eng go_eng with_eng the_eng money_eng and_eng no_eng with_eng the_eng car_eng 
+1339.829 1340.897 eng_eng of_eng course_eng 
+1340.902 1343.01 eng_eng sometimes_eng you_eng gotta_eng give_eng up_eng certain_eng things_eng 
+1342.638 1344.495 ISA _spa _spa eng_spa yeah_spa I_spa know_spa _spa gasp_spa 
+1345.949 1347.375 eng_eng yeah_eng but_eng thats_eng xxx_eng 
+1346.923 1351.933 eng_eng like_eng all_eng the_eng jobs_eng that_eng hes_eng had_eng they_eng _eng theys_eng always_eng giving_eng him_eng like_eng you_eng know_eng company_eng car_eng 
+1351.92 1356.535 eng_eng but_eng now_eng theyre_eng not_eng giving_eng him_eng a_eng car_eng but_eng theyre_eng giving_eng him_eng a_eng good_eng salary_eng 
+1359.443 1361.672 eng_eng so_eng well_eng see_eng what_eng happens_eng 
+1361.659 1364.132 eng_eng but_eng if_eng you_eng hear_eng something_eng good_eng too_eng you_eng let_eng me_eng know_eng 
+1364.184 1365.63 eng_eng but_eng I_eng whish_eng one_eng you_eng wanna_eng find_eng it_eng _eng 
+1365.624 1366.68 ISA eso_spa es_spa lo_spa que_spa quiero_spa saber_spa 
+1366.649 1367.827 ISA qué_spa quieres_spa buscar_spa 
+1367.1 1369.289 eng_eng whatever_eng you_eng know_eng just_eng let_eng me_eng know_eng 
+1369.31 1370.204 eng_eng whatever_eng you_eng hear_eng 
+1370.198 1371.196 eng_eng whatever_eng gasp_eng 
+1371.106 1374.124 MAY oh_engspa speaking_eng about_eng that_eng Victor_eng no_spa se_spa puede_spa hacer_spa nada_spa 
+1374.108 1375.002 ISA no_spa 
+1374.804 1376.14 eng_eng Ive_eng got_eng a_eng xxx_eng this_eng week_eng 
+1376.105 1377.144 eng_eng its_eng impossible_eng 
+1377.21 1379.718 ISA m m_spa pobre_spa muchacho_spa 
+1379.171 1384.268 MAY _spa _spa eng_spa because_spa theyre_spa gonna_spa ask_spa at_spa the_spa time_spa their_spa closing_spa they_spa need_spa to_spa see_spa the_spa original_spa drivers_spa license_spa 
+1383.002 1383.496 ISA _spa ya_spa 
+1384.006 1384.802 ISA _spa me_spa lo_spa dijeron_spa 
+1384.768 1387.217 ISA me_spa lo_spa dijo_spa un_spa _spa un_spa cliente_spa que_spa _spa que_spa fue_spa a_spa la_spa oficina_spa 
+1387.138 1388.415 ISA y_spa le_spa pregunté_spa el_spa caso_spa no_spa 
+1389.134 1389.923 ISA entonces_spa le_spa dije_spa 
+1389.894 1390.707 ISA _spa mira_spa tengo_spa este_spa caso_spa 
+1390.684 1391.061 ISA y_spa me_spa dice_spa 
+1391.061 1392.971 ISA _spa flaca_spa la_spa copia_spa no_spa le_spa va_spa a_spa servir_spa 
+1392.923 1394.171 MAY al_spa momento_spa del_spa cierre_spa 
+1393.544 1395.884 ISA _spa necesita_spa al_spa momento_spa del_spa cierre_spa 
+1395.878 1397.887 eng_eng hes_eng suppose_eng to_eng go_eng there_eng 
+1397.818 1400.517 eng_eng not_eng only_eng that_eng because_eng I_eng can_eng send_eng a_eng xxx_eng to_eng his_eng house_eng 
+1400.512 1401.435 eng_eng thats_eng not_eng the_eng problem_eng 
+1401.416 1406.111 eng_eng the_eng problem_eng is_eng that_eng the_eng person_eng who_eng is_eng closing_eng _eng needs_eng to_eng see_eng the_eng I_D_eng 
+1403.562 1404.096 ISA _spa ya_spa 
+1405.234 1406.0 ISA _spa ya_spa 
+1408.056 1409.879 ISA está_spa jodido_spa el_spa tipo_spa pobrecito_spa 
+1409.873 1411.313 eng_eng hes_eng a_eng very_eng good_eng guy_eng 
+1411.304 1412.087 eng_eng its_eng _eng a_eng very_eng good_eng 
+1411.983 1412.801 eng_eng I_eng know_eng 
+1412.749 1413.678 eng_eng I_eng feel_eng bad_eng for_eng him_eng 
+1413.667 1415.049 eng_eng but_eng unfortunately_eng I_eng can_eng 
+1415.036 1417.451 MAY I_eng tried_eng mira_spa que_spa yo_spa he_spa tratado_spa 
+1417.452 1418.468 eng_eng I_eng tried_eng 
+1418.468 1421.024 MAY pero_spa bueno_spa no_spa se_spa puede_spa no_spa se_spa puede_spa 

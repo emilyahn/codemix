@@ -1,0 +1,21 @@
+Commands / Log of action / Useful things
+
+10/17/17
+
+# write to folder of each speaker's word freq
+./parse_miami.py ../data/miami/txt/ ../output/spkr_wordfreq/
+# write freq of all corpus words to 1 file
+./parse_miami.py ../data/miami/txt/ ../output/
+
+# test log_odds on zeledon8 (MAR-FLA)
+./log_odds.py -f ../output/spkr_wordfreq/zeledon8_MAR.txt -s ../output/spkr_wordfreq/zeledon8_FLA.txt -p ../output/log_oddds/all_prior_counts.txt > ../output/log_oddds/zeledon8_MAR-FLA.txt
+
+# create speaker info file (gender, age, language ability)
+../data/spkr_ifo_1017.tsv
+# NOTE: all spkrs have unique 3-char ID
+
+# create gender freq files
+./parse_miami.py ../data/miami/txt/ ../output/log_odds/
+
+# log_odds on gender
+ ./log_odds.py -f ../output/log_odds/female_freq.txt -s ../output/log_odds/male_freq.txt -p ../output/log_odds/all_prior_counts.txt > ../output/log_odds/gender_f-m.txt

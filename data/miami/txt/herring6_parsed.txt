@@ -1,0 +1,645 @@
+0.17 1.84 spa_spa estabas_spa cabrona_spa 
+1.811 6.106 spa_spa sí_spa porque_spa no_spa me_spa recogiste_spa la_spa casa_spa 
+6.082 7.086 spa_spa y_spa tú_spa durmiendo_spa 
+7.063 8.398 spa_spa yo_spa vine_spa para_spa acá_spa hoy_spa por_spa la_spa mañana_spa 
+8.392 11.344 spa_spa y_spa me_spa puse_spa a_spa hacer_spa los_spa _spa los_spa _spa los_spa platos_spa 
+11.315 13.962 spa_spa y_spa la_spa única_spa razón_spa por_spa la_spa cual_spa no_spa los_spa terminé_spa fue_spa porque_spa el_spa niño_spa venía_spa para_spa acá_spa 
+13.939 15.21 spa_spa y_spa quería_spa la_spa leche_spa 
+15.19 17.517 spa_spa yo_spa me_spa fui_spa para_spa allá_spa para_spa despertarme_spa 
+17.465 18.249 spa_spa a_spa qué_spa hora_spa 
+18.198 20.34 spa_spa varias_spa veces_spa 
+20.308 20.854 spa_spa voy_spa a_spa dejar_spa xxx_spa 
+20.308 21.551 JES _eng _eng spa_eng por_eng la_eng mañana_eng 
+21.568 21.992 spa_spa no_spa 
+22.003 23.477 NIC that_eng had_eng to_eng have_eng been_eng there_eng when_eng I_eng went_eng outside_eng 
+23.46 24.94 NIC that_eng I_eng went_eng outside_eng to_eng smoke_eng for_eng a_eng minute_eng 
+24.922 26.072 NIC and_eng then_eng I_eng came_eng back_eng in_eng 
+26.055 27.059 NIC and_eng he_eng went_eng outside_eng 
+27.048 29.709 NIC and_eng he_eng goes_eng estaba_spa buscando_spa 
+29.626 31.123 NIC estaba_spa I_eng love_eng when_eng he_eng uses_eng his_eng hand_eng 
+31.097 32.089 JES oh_engspa 
+31.491 34.562 spa_spa estaba_spa buscando_spa estaba_spa buscando_spa 
+34.521 37.633 JES y_spa _eng y_spa went_eng into_eng the_eng room_eng looking_eng for_eng you_eng 
+37.629 39.179 NIC no_eng it_eng must_eng have_eng been_eng that_eng moment_eng then_eng 
+39.177 40.541 spa_spa dónde_spa está_spa papi_spa 
+40.547 41.696 spa_spa yo_spa _spa yo_spa no_spa sé_spa 
+41.679 42.944 spa_spa está_spa afuera_spa 
+42.918 45.844 NIC mmhm_eng 
+45.806 49.462 NIC well_eng I_eng still_eng have_eng to_eng do_eng my_eng posting_eng for_eng Beckerman_engspa 
+49.445 52.585 JES no_eng I_eng _eng I_eng did_eng that_eng one_eng 
+52.557 53.718 NIC yeah_eng but_eng I_eng havent_eng done_eng it_eng 
+53.709 63.422 JES and_eng Im_eng starting_eng to_eng work_eng on_eng my_eng cough_eng my_eng _eng the_eng sentences_eng paper_eng _eng with_eng the_eng last_eng one_eng _eng which_eng Im_eng doing_eng on_eng cyber_loafing_eng 
+63.37 64.612 NIC for_eng xxx_eng 
+64.58 67.436 JES no_eng for_eng Beckerman_engspa so_eng I_eng can_eng be_eng done_eng with_eng it_eng 
+67.429 72.15 JES theres_eng a_eng post_eng in_eng six_eng and_eng then_eng theres_eng a_eng _eng the_eng last_eng paper_eng 
+72.117 72.802 NIC for_eng Beckerman_engspa 
+72.801 77.863 JES which_eng is_eng an_eng ethical_eng issue_eng in_eng your_eng organization_eng 
+77.855 79.516 NIC and_eng for_eng due_eng what_eng we_eng have_eng left_eng is_eng 
+79.51 81.67 JES oh_engspa for_eng due_eng is_eng the_eng _eng the_eng work_eng 
+80.624 81.611 NIC _eng the_eng project_eng 
+81.6 82.645 JES yes_eng 
+82.637 85.069 JES theres_eng a_eng chat_eng 
+85.071 85.843 NIC what_eng day_eng is_eng the_eng chat_eng 
+85.826 89.234 JES April_eng ninth_eng 
+89.224 91.993 NIC ok_engspa _eng alright_eng 
+91.983 92.517 NIC clear_throat_eng 
+93.248 99.082 NIC well_eng listen_eng today_eng _eng at_eng noon_eng _eng Im_eng gonna_eng meet_eng Roberto_engspa _eng at_eng the_eng parish_eng 
+99.073 103.303 NIC I_eng have_eng to_eng take_eng apart_eng that_eng pool_eng _eng put_eng in_eng the_eng new_eng liner_eng 
+103.299 105.714 NIC and_eng thats_eng 
+104.564 105.725 JES you_eng found_eng the_eng liner_eng 
+105.72 112.081 NIC I_eng _eng I_eng had_eng to_eng go_eng to_eng four_eng different_eng places_eng and_eng I_eng found_eng _eng I_eng g_eng _eng the_eng ah_engspa Pinch_a_penny_eng over_eng here_eng on_eng Bird_eng Road_eng 
+112.075 113.178 NIC they_eng said_eng I_eng had_eng to_eng order_eng it_eng 
+113.178 114.049 NIC it_eng was_eng special_eng order_eng 
+114.038 115.402 NIC that_eng they_eng dont_eng keep_eng any_eng of_eng those_eng things_eng any_eng more_eng 
+115.4 119.504 NIC I_eng went_eng to_eng Home_Depot_engspa the_eng Home_Depot_engspa next_eng to_eng where_eng Paulo_engspa works_eng 
+119.489 120.209 NIC they_eng didnt_eng have_eng it_eng 
+120.197 125.128 NIC they_eng didnt_eng have_eng even_eng those_eng um_eng _eng those_eng liners_eng from_eng _eng landscaping_eng 
+124.606 125.198 JES _eng the_eng ponds_eng 
+125.279 125.581 JES right_eng 
+125.578 127.052 NIC I_eng went_eng to_eng Walmart_engspa 
+127.048 128.511 NIC they_eng didnt_eng have_eng it_eng 
+128.499 130.699 NIC I_eng went_eng to_eng the_eng other_eng Home_Depot_engspa across_eng the_eng street_eng from_eng Walmart_engspa 
+130.696 132.043 NIC they_eng had_eng it_eng 
+132.037 136.732 NIC and_eng they_eng had_eng one_eng and_eng I_eng hope_eng itll_eng be_eng big_eng enough_eng _eng to_eng be_eng able_eng to_eng do_eng it_eng but_eng its_eng black_eng 
+136.72 137.469 NIC its_eng a_eng black_eng liner_eng 
+137.469 138.943 JES what_eng did_eng you_eng have_eng there_eng before_eng 
+138.94 140.728 NIC a_eng blue_eng liner_eng _eng a_eng blue_eng pool_eng liner_eng 
+140.722 142.899 NIC you_eng know_eng 
+140.722 142.942 JES well_eng I_eng dont_eng think_eng it_eng really_eng matters_eng 
+142.826 149.143 NIC no_eng I_eng dont_eng think_eng its_eng gonna_eng matter_eng but_eng you_eng know_eng as_eng long_eng as_eng its_eng _eng it_eng resists_eng _eng as_eng long_eng as_eng it_eng resists_eng at_eng least_eng for_eng _eng for_eng tomorrow_eng night_eng 
+145.028 147.036 JES _eng Ive_eng never_eng noticed_eng which_eng colour_eng it_eng is_eng 
+149.136 150.518 JES thats_eng whats_eng important_eng 
+150.5 150.999 NIC you_eng know_eng 
+152.098 155.32 NIC and_eng ah_engspa _eng so_eng Im_eng hoping_eng that_eng thatll_eng _eng thatll_eng do_eng well_eng 
+155.009 155.572 JES oh_engspa you_eng didnt_eng tell_eng me_eng 
+155.56 156.472 JES how_eng did_eng it_eng go_eng yesterday_eng 
+156.473 157.553 NIC where_eng 
+157.536 160.155 JES at_eng church_eng 
+160.146 160.773 NIC I_eng _eng I_eng will_eng 
+160.762 165.321 NIC Angelossengspaeng_eng homily_eng was_eng very_eng _eng innocuous_eng 
+165.33 167.379 JES as_eng usual_eng 
+167.364 169.279 NIC um_eng _eng everything_eng went_eng well_eng 
+169.21 170.347 NIC I_eng spoke_eng to_eng Father_eng Hank_engspa 
+170.342 170.771 NIC he_eng went_eng in_eng 
+170.779 173.71 NIC he_eng was_eng all_eng nervous_eng because_eng we_eng were_eng working_eng today_eng together_eng 
+173.684 174.822 JES mhmm_engspa 
+174.816 175.466 NIC and_eng he_eng said_eng 
+175.46 177.726 NIC _eng you_eng know_eng I_eng was_eng reading_eng about_eng what_eng had_eng to_eng be_eng done_eng 
+177.72 179.52 NIC and_eng _eng and_eng _eng and_eng _eng and_eng I_eng go_eng 
+179.527 179.719 NIC _eng look_eng 
+180.45 180.659 NIC I_eng said_eng 
+180.654 181.002 NIC _eng chill_eng 
+180.996 181.228 NIC he_eng goes_eng 
+181.228 181.855 NIC _eng youve_eng done_eng it_eng before_eng 
+181.844 182.087 NIC I_eng said_eng 
+182.053 182.836 NIC _eng Ive_eng been_eng doing_eng it_eng for_eng ten_eng years_eng 
+183.664 184.21 NIC ok_engspa I_eng said_eng 
+184.187 185.301 NIC _eng dont_eng worry_eng about_eng it_eng 
+185.295 186.207 NIC _eng I_eng know_eng how_eng to_eng do_eng everything_eng 
+186.207 187.559 NIC _eng you_eng concentrate_eng on_eng your_eng homily_eng 
+188.139 188.917 NIC and_eng ah_engspa and_eng he_eng goes_eng 
+188.905 189.648 NIC _eng do_eng you_eng wanna_eng preach_eng 
+189.584 189.752 NIC and_eng I_eng go_eng 
+189.683 191.093 NIC _eng no_eng no_eng no_eng no_eng youre_eng the_eng one_eng whos_eng preaching_eng 
+192.755 193.202 NIC and_eng he_eng goes_eng 
+193.18 195.409 NIC _eng no_eng because_eng you_eng know_eng Im_eng me_eng Im_eng preaching_eng on_eng the_eng Sunday_eng already_eng 
+195.38 195.728 NIC and_eng I_eng go_eng 
+195.713 196.775 NIC _eng Im_eng preaching_eng the_eng Easter_eng vigil_eng 
+196.705 197.483 NIC _eng I_eng dont_eng need_eng to_eng 
+197.49 197.955 NIC I_eng said_eng 
+197.949 199.836 NIC _eng de_eng _eng de_eng thats_eng one_eng less_eng thing_eng I_eng have_eng to_eng worry_eng about_eng 
+199.825 202.014 NIC _eng well_eng you_eng go_eng ahead_eng and_eng _eng _eng and_eng do_eng that_eng 
+203.48 205.477 NIC and_eng then_eng he_eng was_eng ah_engspa clears_throat_eng he_eng goes_eng to_eng me_eng 
+205.274 208.19 NIC _eng oh_engspa congratulations_eng on_eng your_eng new_eng _eng position_eng 
+208.174 210.032 NIC _eng I_eng hear_eng youre_eng gonna_eng be_eng vice_eng principal_eng of_eng the_eng school_eng 
+210.673 211.143 NIC and_eng I_eng told_eng him_eng 
+211.126 211.358 NIC _eng yeah_eng 
+211.346 211.59 NIC and_eng he_eng goes_eng 
+211.579 213.721 NIC _eng oh_engspa youre_eng gonna_eng be_eng working_eng with_eng Sister_eng Maria_engspa 
+213.645 215.067 NIC _eng oh_engspa shes_eng so_eng wonderful_eng 
+215.204 216.417 JES so_eng he_eng likes_eng her_eng 
+216.417 218.037 NIC yes_eng he_eng loves_eng Sister_eng Maria_engspa 
+217.865 218.265 NIC he_eng says_eng 
+218.259 219.403 NIC _eng shes_eng so_eng wonderful_eng 
+219.522 225.896 NIC _eng she_eng was_eng the_eng vice_eng _eng she_eng was_eng the_eng principal_eng at_eng ah_engspa Little_eng Flower_eng _eng um_eng when_eng I_eng was_eng there_eng teaching_eng C_C_D_eng 
+225.892 227.984 NIC _eng and_eng shes_eng just_eng such_eng a_eng wonderful_eng person_eng 
+227.647 228.86 NIC _eng and_eng shes_eng just_eng so_eng nice_eng 
+228.855 230.696 NIC and_eng all_eng this_eng other_eng stuff_eng na_engspa na_engspa na_engspa na_engspa na_engspa na_engspa 
+228.951 232.254 JES you_eng need_eng to_eng bring_eng him_eng by_eng _eng to_eng win_eng her_eng over_eng 
+232.255 232.83 NIC and_eng I_eng told_eng him_eng 
+232.749 235.953 NIC _eng you_eng know_eng you_eng would_eng have_eng been_eng good_eng for_eng the_eng _eng for_eng Father_eng Derrikssengspaeng_eng position_eng 
+235.946 239.644 JES yeah_eng _eng it_eng was_eng just_eng lack_eng of_eng experience_eng 
+239.0 239.487 NIC yeah_eng 
+241.151 243.764 NIC so_eng anyway_eng 
+243.754 244.328 NIC so_eng lets_eng see_eng 
+244.323 247.388 NIC and_eng my_eng mom_eng says_eng shes_eng gonna_eng go_eng at_eng three_eng 
+247.379 250.288 JES for_eng the_eng stations_eng of_eng the_eng cross_eng 
+248.889 250.538 NIC _eng for_eng the_eng stations_eng of_eng the_eng cross_eng 
+250.424 256.88 NIC and_eng then_eng shes_eng gonna_eng stay_eng at_eng four_eng _eng for_eng the_eng Good_Friday_eng service_eng _eng so_eng that_eng you_eng can_eng go_eng at_eng seven_eng and_eng you_eng can_eng leave_eng her_eng the_eng baby_eng 
+256.883 259.164 JES oh_engspa great_eng 
+258.846 260.239 NIC ok_engspa 
+260.67 261.419 NIC so_eng 
+260.673 264.137 JES what_eng about_eng your_eng mom_eng has_eng to_eng be_eng there_eng for_eng the_eng Easter_eng vigil_eng 
+265.532 268.458 NIC and_eng Esmerelda_engspa wants_eng to_eng go_eng because_eng Nancyssengspaeng_eng gonna_eng be_eng baptized_eng there_eng 
+268.449 270.51 JES ooooh_engspa 
+270.518 273.589 NIC so_eng um_eng 
+273.563 278.062 JES Im_eng gonna_eng try_eng to_eng go_eng _eng and_eng stay_eng as_eng long_eng as_eng I_eng can_eng 
+279.076 280.788 NIC maybe_eng my_eng sister_eng will_eng take_eng care_eng of_eng him_eng 
+280.736 282.309 NIC maybe_eng hell_eng even_eng sleep_eng there_eng 
+282.305 283.432 JES no_eng 
+282.752 284.221 NIC well_eng why_eng not_eng 
+283.815 284.575 JES sleep_eng there_eng 
+284.157 285.788 NIC pick_eng him_eng up_eng on_eng Sunday_eng morning_eng 
+287.836 290.082 JES yeah_eng well_eng ask_eng her_eng 
+292.041 293.173 NIC hows_eng the_eng coffee_eng 
+293.069 295.368 JES its_eng very_eng good_eng 
+295.342 296.66 JES I_eng only_eng had_eng uh_engspa 
+296.648 301.241 JES I_eng bought_eng French_Vanilla_Cream_eng because_eng that_eng was_eng the_eng only_eng one_eng that_eng they_eng had_eng at_eng B_Jssengspaeng_eng 
+301.233 303.021 NIC I_eng was_eng getting_eng kind_eng of_eng tired_eng of_eng the_eng Creme_Brulee_engspa 
+304.097 306.756 JES ok_engspa Im_eng gonna_eng go_eng to_eng my_eng school_eng 
+306.742 313.195 JES I_eng need_eng to_eng give_eng the_eng tickets_eng to_eng the_eng other_eng teachers_eng for_eng the_eng xxx_eng stuff_eng that_eng I_eng turned_eng in_eng 
+313.173 318.04 JES and_eng _eng Ill_eng take_eng Paco_engspa 
+317.734 319.057 NIC clears_throat_eng 
+319.057 320.758 NIC ok_engspa what_eng time_eng are_eng you_eng leaving_eng 
+320.744 324.012 JES when_eng the_eng house_eng is_eng picked_eng up_eng 
+323.991 326.638 NIC oh_engspa so_eng that_eng would_eng mean_eng you_eng know_eng tomorrow_eng or_eng something_eng like_eng that_eng 
+325.906 331.286 JES _eng oh_engspa ok_engspa so_eng then_eng you_eng can_eng stay_eng her_eng finish_eng _eng picking_eng up_eng the_eng house_eng 
+331.218 332.698 NIC Ill_eng pick_eng up_eng just_eng a_eng little_eng bit_eng 
+332.69 334.571 NIC Im_eng not_eng gonna_eng pick_eng up_eng the_eng whole_eng thing_eng 
+334.466 334.832 NIC ok_engspa 
+334.855 336.8 NIC I_eng mean_eng Esmereldassengspaeng_eng room_eng is_eng disgusting_eng 
+336.797 339.276 NIC she_eng needs_eng to_eng pick_eng that_eng up_eng 
+342.119 343.083 NIC and_eng Paulssengspaeng_eng not_eng here_eng 
+342.946 343.933 NIC I_eng imagine_eng he_eng went_eng to_eng work_eng 
+343.933 347.77 JES mmhm_eng 
+347.715 352.305 spa_spa y_spa tengo_spa un_spa dolor_spa de_spa cabeza_spa _spa de_spa este_spa tamaño_spa 
+353.025 354.389 NIC sniffing_eng 
+354.621 356.45 JES why_eng dont_eng you_eng take_eng some_eng Tylenol_engspa 
+356.409 357.611 NIC I_eng am_eng _eng Im_eng gonna_eng take_eng some_eng 
+357.566 358.988 NIC and_eng as_eng usual_eng 
+357.885 360.073 JES _eng I_eng put_eng it_eng next_eng to_eng your_eng side_eng of_eng the_eng bed_eng 
+360.055 361.814 NIC as_eng usual_eng every_eng time_eng Easter_eng comes_eng 
+361.842 363.671 NIC and_eng I_eng have_eng to_eng do_eng all_eng this_eng stuff_eng in_eng the_eng _eng in_eng the_eng parish_eng 
+363.659 364.344 NIC I_eng get_eng sick_eng 
+364.328 367.045 JES Gordo_engspa is_eng sick_eng too_eng 
+366.994 370.094 spa_spa me_spa dio_spa una_spa entrada_spa de_spa patadas_spa anoche_spa 
+370.055 373.67 NIC I_eng dont_eng know_eng how_eng many_eng times_eng he_eng kicked_eng me_eng in_eng the_eng bed_eng 
+373.641 377.072 JES no_engspa 
+377.076 378.684 JES I_eng dont_eng remember_eng him_eng kicking_eng me_eng 
+378.683 381.243 JES so_eng he_eng must_eng have_eng been_eng facing_eng me_eng the_eng whole_eng time_eng 
+379.826 380.587 NIC _eng no_eng it_eng was_eng me_eng 
+380.593 381.005 NIC it_eng was_eng me_eng 
+381.011 382.09 NIC he_eng was_eng kicking_eng me_eng the_eng whole_eng time_eng 
+386.339 387.547 NIC I_eng didnt_eng sleep_eng very_eng well_eng either_eng 
+387.547 390.153 NIC I_eng was_eng waking_eng up_eng at_eng three_eng and_eng at_eng four_eng and_eng at_eng five_eng 
+390.121 393.587 JES I_eng slept_eng pretty_eng well_eng clears_throat_eng 
+393.577 394.093 NIC yeah_eng I_eng know_eng you_eng did_eng 
+394.082 394.558 NIC you_eng were_eng snoring_eng 
+396.36 397.805 JES yeah_eng I_eng must_eng have_eng slept_eng well_eng 
+397.795 398.985 NIC and_eng quite_eng loud_eng I_eng might_eng add_eng 
+400.857 402.542 NIC and_eng Paco_eng was_eng snoaring_eng really_eng loud_eng too_eng 
+404.549 406.302 NIC so_eng anyway_eng 
+406.273 409.789 NIC Im_eng gonna_eng go_eng drop_eng that_eng off_eng at_eng the_eng motor_eng home_eng when_eng I_eng leave_eng for_eng the_eng parish_eng 
+409.772 416.935 spa_spa bueno_spa _spa de_spa qué_spa más_spa quieres_spa hablar_spa 
+416.912 423.315 JES um_eng yesterday_eng the_eng principle_eng called_eng me_eng in_eng 
+423.303 423.936 JES cough_eng 
+423.913 424.453 JES she_eng goes_eng 
+424.445 429.085 JES _eng I_eng wanna_eng talk_eng to_eng you_eng before_eng I_eng _eng I_eng speak_eng to_eng _eng that_eng teacher_eng 
+429.058 431.072 NIC the_eng one_eng that_eng has_eng that_eng problem_eng 
+429.958 430.567 JES _eng yes_eng 
+432.119 436.528 JES and_eng um_eng _eng and_eng I_eng go_eng _eng um_eng 
+436.511 437.01 JES _eng I_eng wanna_eng 
+436.999 437.521 NIC she_eng goes_eng to_eng me_eng 
+437.521 442.854 JES _eng I_eng wanna_eng speak_eng to_eng you_eng before_eng I_eng talk_eng to_eng her_eng because_eng I_eng want_eng the_eng union_eng to_eng be_eng ok_engspa with_eng this_eng 
+442.843 444.289 JES and_eng uh_engspa and_eng I_eng go_eng 
+444.277 444.591 JES _eng ok_engspa 
+449.044 452.237 JES and_eng _eng so_eng I_eng go_eng to_eng her_eng 
+452.232 454.786 JES _eng yeah_eng well_eng you_eng know_eng let_eng me_eng know_eng about_eng _eng about_eng whats_eng going_eng on_eng 
+454.575 454.888 JES and_eng she_eng goes_eng 
+454.882 460.346 JES _eng no_eng Im_eng telling_eng you_eng what_eng Im_eng planning_eng to_eng do_eng because_eng you_eng know_eng when_eng _eng when_eng she_eng comes_eng in_eng shes_eng probably_eng gonna_eng be_eng upset_eng or_eng whatever_eng 
+460.33 461.735 JES _eng she_eng might_eng come_eng to_eng you_eng 
+461.719 462.822 NIC oh_engspa because_eng shes_eng coming_eng back_eng to_eng work_eng 
+461.719 462.816 JES _eng ok_engspa 
+462.811 464.79 JES she_eng came_eng back_eng to_eng work_eng 
+464.785 467.444 JES she_eng came_eng back_eng to_eng work_eng 
+467.418 483.203 JES yeah_eng _eng you_eng know_eng _eng I_eng was_eng mentioning_eng that_eng _eng you_eng know_eng people_eng talk_eng about_eng _eng the_eng catholic_eng church_eng _eng and_eng how_eng _eng um_eng priests_eng that_eng molest_eng children_eng like_eng get_eng transfered_eng 
+481.738 484.717 NIC just_eng get_eng transfered_eng from_eng one_eng place_eng to_eng another_eng and_eng the_eng school_eng system_eng is_eng doing_eng the_eng same_eng thing_eng 
+483.138 488.166 JES _eng but_eng _eng but_eng the_eng school_eng system_eng is_eng about_eng just_eng about_eng the_eng same_eng category_eng then_eng 
+488.159 493.712 JES because_eng her_eng dad_eng is_eng an_eng attorney_eng and_eng her_eng brother_eng is_eng an_eng attorney_eng 
+493.695 499.573 JES so_eng theyre_eng more_eng scared_eng of_eng the_eng lawsuit_eng than_eng they_eng are_eng of_eng ethical_eng _eng things_eng 
+498.4 502.023 NIC right_eng theyre_eng more_eng scared_eng of_eng the_eng lawsuit_eng from_eng her_eng the_eng employee_eng than_eng the_eng lawsuit_eng from_eng the_eng parents_eng 
+500.217 501.181 JES _eng yeah_eng 
+501.738 506.837 JES because_eng the_eng _eng the_eng parents_eng didnt_eng do_eng anything_eng but_eng the_eng parents_eng are_eng more_eng concerned_eng and_eng took_eng them_eng out_eng _eng took_eng the_eng kids_eng out_eng 
+506.833 509.741 JES imagine_eng thats_eng a_eng free_eng program_eng 
+509.726 516.542 JES you_eng know_eng _eng and_eng _eng so_eng _eng anyhow_eng um_eng she_eng goes_eng 
+517.802 522.446 JES she_eng had_eng come_eng to_eng me_eng _eng the_eng principle_eng had_eng come_eng to_eng me_eng a_eng couple_eng days_eng ago_eng and_eng she_eng goes_eng _eng um_eng 
+522.437 526.071 JES _eng the_eng person_eng that_eng you_eng sent_eng me_eng an_eng email_eng and_eng the_eng resume_eng do_eng you_eng know_eng them_eng personally_eng 
+525.876 526.63 JES and_eng I_eng go_eng 
+526.313 528.025 JES _eng truthfully_eng no_eng 
+528.014 530.912 JES _eng I_eng know_eng _eng her_eng boyfriend_eng 
+530.902 536.019 JES _eng um_eng I_eng know_eng her_eng via_eng email_eng but_eng you_eng know_eng because_eng you_eng know_eng weve_eng gone_eng back_eng and_eng forth_eng 
+535.972 538.538 JES then_eng she_eng is_eng in_eng a_eng position_eng where_eng she_eng wants_eng to_eng 
+538.521 539.723 NIC whos_eng this_eng 
+539.75 541.695 spa_spa e_spa la_spa novia_spa de_spa 
+541.677 545.24 JES the_eng manager_eng of_eng Payway_engspa 
+545.134 547.973 NIC oh_eng ok_eng yeah_eng 
+547.798 548.512 JES _eng but_eng he_eng _eng but_eng he_eng 
+548.239 550.666 NIC _eng right_eng right_eng right_eng that_eng she_eng was_eng in_eng that_eng school_eng in_eng 
+549.458 550.492 JES _eng shes_eng in_eng Belair_engspa 
+550.461 552.225 JES er_eng xxx_eng shes_eng in_eng Belair_engspa 
+552.202 553.206 JES shes_eng in_eng fifth_eng grade_eng 
+553.204 554.256 JES E_S_E_engspa 
+554.239 557.013 JES well_eng thats_eng exactly_eng what_eng she_eng needs_eng over_eng here_eng 
+557.0 560.378 spa_spa pero_spa _spa ella_spa no_spa quiere_spa traer_spa a_spa alguien_spa 
+560.372 561.938 JES tú_spa sabes_spa she_eng goes_eng xxx_eng 
+561.288 562.722 NIC _eng so_eng then_eng tell_eng them_eng that_eng they_eng have_eng to_eng leave_eng again_eng 
+561.967 563.023 JES _eng no_eng no_eng 
+562.971 565.311 JES because_eng shes_eng been_eng working_eng there_eng less_eng than_eng three_eng years_eng 
+565.305 566.864 JES she_eng has_eng to_eng get_eng that_eng approved_eng 
+566.844 570.436 JES she_eng _eng you_eng know_eng its_eng the_eng bureaucracy_eng 
+570.436 571.84 JES it_eng takes_eng a_eng while_eng 
+571.823 574.062 JES so_eng she_eng goes_eng um_eng 
+574.038 577.011 JES _eng I_eng need_eng the_eng person_eng that_eng I_eng have_eng up_eng there_eng now_eng 
+576.981 578.536 JES _eng _eng spa_eng no_eng da_eng la_eng talla_eng 
+578.536 582.124 JES _eng you_eng know_eng I_eng mean_eng I_eng need_eng to_eng get_eng rid_eng of_eng them_eng 
+582.105 584.909 JES _eng and_eng _eng um_eng I_eng need_eng to_eng bring_eng in_eng somebody_eng else_eng 
+584.861 587.678 JES _eng but_eng with_eng that_eng other_eng person_eng theyre_eng already_eng in_eng the_eng system_eng 
+587.672 591.938 JES _eng so_eng its_eng gonna_eng take_eng a_eng long_eng return_eng 
+591.935 596.826 JES even_eng though_eng theyre_eng in_eng the_eng system_eng theyre_eng somewhere_eng else_eng so_eng it_eng has_eng to_eng get_eng approved_eng by_eng the_eng district_eng the_eng _eng the_eng _eng the_eng change_eng 
+596.711 597.704 JES even_eng if_eng 
+596.763 598.452 NIC even_eng the_eng principals_eng and_eng stuff_eng right_eng 
+598.181 598.692 JES the_eng principal_eng 
+598.181 598.692 NIC _eng sniffs_eng 
+598.738 600.928 JES you_eng _eng you_eng remember_eng what_eng I_eng went_eng through_eng ok_engspa 
+600.929 603.705 JES and_eng so_eng she_eng goes_eng 
+603.748 617.483 JES because_eng I_eng had_eng told_eng her_eng w_eng if_eng she_eng comes_eng back_eng _eng what_eng we_eng need_eng to_eng do_eng is_eng dont_eng put_eng her_eng in_eng _eng dont_eng put_eng her_eng in_eng that_eng classroom_eng put_eng her_eng in_eng a_eng higher_eng grade_eng you_eng know_eng where_eng kids_eng can_eng talk_eng and_eng kids_eng can_eng talk_eng and_eng kids_eng can_eng tell_eng you_eng exactly_eng whats_eng going_eng on_eng 
+617.479 621.47 JES and_eng so_eng _eng clears_throat_eng she_eng goes_eng 
+621.462 624.755 JES _eng yeah_eng but_eng I_eng think_eng shes_eng only_eng certified_eng for_eng pre_K_eng 
+624.735 630.242 JES entonces_spa estamos_spa you_eng know_eng _eng stuck_eng with_eng her_eng 
+630.229 633.2 JES entonces_spa she_eng um_eng she_eng goes_eng to_eng me_eng 
+633.194 635.807 JES _eng no_eng but_eng I_eng need_eng _eng I_eng looked_eng up_eng her_eng _eng her_eng stuff_eng 
+635.778 640.074 JES _eng and_eng she_eng is_eng K_eng through_eng six_eng pre_K_eng and_eng K_eng through_eng six_eng elementary_eng 
+640.056 641.287 JES well_eng perfect_eng 
+641.315 643.41 JES and_eng she_eng is_eng emotionally_eng 
+641.913 644.952 NIC put_eng her_eng _eng put_eng her_eng with_eng six_eng grades_eng six_eng grades_eng 
+643.727 645.277 JES _eng no_eng no_eng we_eng dont_eng have_eng six_eng grade_eng 
+645.231 645.747 NIC oh_eng thats_eng right_eng 
+645.271 645.724 JES _eng fifth_eng grade_eng 
+645.713 647.024 NIC put_eng her_eng _eng put_eng her_eng with_eng fifth_eng grade_eng students_eng 
+647.003 650.01 JES xxx_eng they_eng will_eng eat_eng her_eng alive_eng 
+650.005 650.591 NIC then_eng shell_eng leave_eng 
+650.577 653.317 JES of_eng course_eng _eng eso_spa es_spa lo_spa que_spa tú_spa quieres_spa 
+653.298 655.022 JES um_eng le_spa dije_spa 
+654.976 659.412 JES _eng _eng spa_eng la_eng unión_eng me_eng va_eng a_eng botar_eng porque_eng yo_eng no_eng estoy_eng xxx_eng 
+659.394 660.161 JES she_eng goes_eng xxx_eng 
+660.12 660.828 JES I_eng go_eng no_eng 
+660.821 661.645 spa_spa eso_spa pero_spa es_spa que_spa 
+661.628 662.347 spa_spa yo_spa le_spa dije_spa 
+662.347 664.907 JES _eng _eng spa_eng eso_eng es_eng lo_eng que_eng tú_eng tenías_eng que_eng hacer_eng desde_eng un_eng principio_eng 
+664.909 670.81 JES _eng yo_spa sí_spa pero_spa es_spa que_spa yo_spa no_spa sabía_spa que_spa ella_spa estaba_spa you_eng know_eng _eng certificada_spa hasta_spa _eng hasta_spa quinto_spa grado_spa 
+669.77 672.627 NIC _eng _eng spa_eng y_eng ellos_eng no_eng miran_eng nada_eng los_eng _eng los_eng papeles_eng y_eng los_eng expedientes_eng de_eng la_eng gente_eng 
+671.843 674.328 JES _eng ay_spa mi_spa amor_spa ella_spa es_spa una_spa principal_engspa nueva_spa 
+674.359 674.73 NIC cough_eng 
+674.711 676.139 JES you_eng know_eng 
+676.851 678.087 spa_spa ella_spa está_spa 
+678.058 679.185 spa_spa tú_spa sabes_spa 
+679.179 679.933 JES shes_eng great_eng 
+679.919 682.055 JES but_eng shes_eng new_eng 
+682.014 687.413 JES ella_spa no_spa se_spa sabe_spa todavía_spa cómo_spa access_eng the_eng things_eng or_eng and_eng how_eng to_eng you_eng know_eng 
+687.384 687.895 JES _eng she_eng goes_eng 
+687.883 688.644 JES she_eng asks_eng people_eng 
+688.614 693.379 JES you_eng know_eng er_engspa the_eng person_eng that_eng gave_eng her_eng the_eng position_eng or_eng whatever_eng 
+693.495 693.85 JES and_eng told_eng her_eng 
+693.844 697.579 JES listen_eng look_eng at_eng what_eng shes_eng you_eng know_eng certified_eng in_eng 
+697.567 699.767 JES because_eng thats_eng what_eng _eng thats_eng the_eng first_eng thing_eng I_eng had_eng asked_eng her_eng 
+699.75 701.346 JES what_eng is_eng she_eng certified_eng in_eng 
+701.302 702.381 JES put_eng her_eng somewhere_eng else_eng 
+702.37 708.158 JES but_eng I_eng guess_eng she_eng hadnt_eng really_eng done_eng any_eng until_eng she_eng you_eng know_eng somebody_eng told_eng her_eng how_eng to_eng do_eng it_eng 
+707.976 711.61 spa_spa entonces_spa yo_spa le_spa dije_spa 
+711.604 719.161 JES _eng _eng spa_eng ahí_eng sí_eng que_eng no_eng puedo_eng haber_eng decir_eng nada_eng porque_eng si_eng es_eng un_eng _eng una_eng decisión_eng administrativa_eng 
+719.15 725.438 JES si_spa a_spa mí_spa me_spa cambian_spa mañana_spa de_spa first_eng grade_eng a_spa algo_spa que_spa yo_spa no_spa quiero_spa 
+725.438 729.106 spa_spa quinto_spa grado_spa como_spa me_spa hizo_spa la_spa principal_spa de_spa _spa de_spa la_spa otra_spa escuela_spa 
+729.096 735.182 JES eh_engspa she_eng has_eng every_eng right_eng to_eng do_eng so_eng 
+735.159 741.998 JES ahí_spa its_eng her_eng administrative_eng decision_eng that_eng I_eng would_eng do_eng best_eng in_eng this_eng class_eng 
+741.977 748.131 JES whether_eng I_eng like_eng it_eng or_eng not_eng thats_eng _eng I_eng mean_eng they_eng should_eng take_eng that_eng into_eng consideration_eng 
+748.119 749.199 JES but_eng they_eng dont_eng have_eng to_eng 
+749.143 752.774 NIC but_eng at_eng any_eng rate_eng didnt_eng they_eng get_eng somebody_eng to_eng replace_eng her_eng while_eng she_eng was_eng gone_eng 
+752.745 754.399 JES they_eng had_eng a_eng sub_eng 
+754.394 759.413 NIC and_eng so_eng what_eng happened_eng when_eng this_eng woman_eng came_eng back_eng 
+759.407 769.094 JES well_eng she_eng requested_eng not_eng to_eng have_eng the_eng people_eng that_eng you_eng know_eng made_eng the_eng allegations_eng _eng in_eng the_eng classroom_eng 
+769.074 771.48 JES and_eng she_eng said_eng 
+771.474 773.343 JES _eng look_eng Ive_eng nowhere_eng else_eng to_eng put_eng them_eng 
+773.267 779.366 JES so_eng she_eng obviously_eng felt_eng very_eng uncomfortable_eng working_eng there_eng 
+778.599 779.354 NIC _eng good_eng 
+779.312 800.74 JES but_eng then_eng thats_eng also_eng something_eng that_eng um_eng our_eng principal_eng told_eng _eng er_engspa la_spa principal_spa me_spa dijo_eng _eng me_spa dijo_spa um_eng como_spa ella_spa er_engspa me_spa había_spa dicho_spa que_spa ella_spa quería_spa no_spa estar_spa con_spa esta_spa persona_spa yo_spa le_spa voy_spa a_spa decir_spa que_spa mira_spa como_spa tú_spa te_spa sientes_spa que_spa _eng que_spa piense_spa que_spa sea_spa por_spa ella_spa 
+800.7 801.901 NIC mmhm_eng mmhm_eng 
+801.863 802.623 spa_spa yo_spa dije_spa 
+802.623 803.407 JES _eng _eng spa_eng perfecto_eng 
+803.393 808.306 JES _eng _eng spa_eng así_eng ella_eng piensa_eng que_eng tú_eng le_eng estás_eng haciendo_eng un_eng favor_eng a_eng ella_eng 
+808.292 810.271 spa_spa y_spa ella_spa no_spa va_spa a_spa dar_spa la_spa talla_spa para_spa eso_spa 
+810.245 813.543 JES porque_spa ahí_spa eh_engspa me_spa lo_spa dijo_spa 
+813.514 814.75 spa_spa y_spa todos_spa esos_spa chiquitos_spa hablan_spa 
+814.721 815.859 JES oh_eng yeah_eng 
+815.841 820.999 JES theyre_eng emotionally_eng _eng you_eng know_eng _eng disabled_eng 
+820.995 825.022 spa_spa pero_spa le_spa dicen_spa hasta_spa alma_spa mía_spa 
+825.012 829.204 spa_spa entonces_spa por_spa eso_spa la_spa otra_spa no_spa podía_spa 
+829.16 833.012 JES E_S_E_engspa is_eng really_eng really_eng really_eng difficult_eng 
+833.021 835.703 NIC mmhm_eng _eng mmhm_eng 
+835.233 843.668 JES _eng y_spa más_spa cuando_spa _eng when_eng you_eng have_eng you_eng know_eng kids_eng that_eng are_eng the_eng violent_eng ones_eng los_spa que_spa xxx_eng 
+843.633 851.335 JES ah_engspa entonces_spa la_spa cosa_spa pasó_spa que_spa ayer_spa durante_spa 
+851.311 853.21 spa_spa ella_spa tenía_spa una_spa reunión_spa 
+853.188 858.504 JES like_eng a_eng C_S_T_engspa its_eng like_eng a_eng _eng its_eng _eng its_eng a_eng xxx_eng child_eng study_eng team_eng 
+858.504 864.105 JES so_eng she_eng was_eng meeting_eng with_eng some_eng parents_eng _eng and_eng a_eng counselor_eng whatever_eng xxx_eng 
+864.098 865.782 JES so_eng she_eng wasnt_eng in_eng the_eng classroom_eng 
+865.776 872.912 JES y_spa entonces_spa um_eng quién_spa me_spa vino_spa a_spa decir_spa eso_spa Dios_spa mío_spa 
+872.896 874.033 JES yo_spa creo_spa que_spa fue_spa Pili_engspa 
+873.981 886.603 JES me_spa vino_spa a_spa decir_spa er_engspa no_spa que_spa uno_spa de_spa los_spa niños_spa de_spa la_spa clase_spa de_spa ahí_spa de_spa ella_spa _eng lo_spa encontraron_spa en_spa la_spa calle_spa descalzo_spa _eng running_eng through_eng the_eng street_eng 
+886.538 889.022 spa_spa xxx_spa entonces_spa figúrate_spa 
+889.016 892.807 spa_spa la_spa principal_spa les_spa cayó_spa _spa a_spa ellos_spa 
+892.791 893.77 spa_spa y_spa dijo_spa 
+893.736 894.363 JES _eng _eng spa_eng pero_eng qué_eng pasó_eng 
+894.339 903.665 JES entonces_spa la_spa principal_spa fue_spa adentro_spa de_spa la_spa clase_spa er_engspa que_spa you_eng know_eng to_eng find_eng out_eng what_eng happened_eng 
+903.647 905.847 JES how_eng could_eng this_eng child_eng just_eng walk_eng out_eng 
+905.837 913.339 JES entonces_spa habían_spa dejado_eng _eng había_spa _eng there_eng was_eng like_eng an_eng electrical_eng cord_eng that_eng didnt_eng keep_eng the_eng door_eng from_eng closing_eng all_eng the_eng way_eng 
+913.332 915.439 JES the_eng child_eng snuck_eng out_eng 
+915.41 916.432 NIC but_eng this_eng is_eng from_eng your_eng school_eng 
+916.411 920.108 JES yeah_eng _eng from_eng her_eng class_eng 
+919.957 920.805 NIC where_eng are_eng you_eng going_eng 
+920.787 924.92 NIC ok_eng hurry_eng up_eng because_eng I_eng dont_eng want_eng you_eng to_eng leave_eng your_eng brother_eng out_eng there_eng alone_eng 
+924.912 931.545 JES and_eng um_eng the_eng k_eng _eng the_eng child_eng snuck_eng out_eng 
+931.527 938.672 JES so_eng she_eng _eng the_eng principal_eng went_eng in_eng there_eng to_eng try_eng to_eng see_eng how_eng could_eng this_eng happen_eng and_eng how_eng to_eng prevent_eng it_eng from_eng happening_eng again_eng 
+938.637 942.886 JES porque_spa dice_spa que_spa the_eng person_eng that_eng found_eng _eng two_eng people_eng that_eng found_eng 
+942.869 943.774 JES you_eng know_eng figúrate_spa 
+943.577 945.539 JES around_eng the_eng park_eng people_eng walk_eng around_eng 
+945.517 946.324 NIC coughing_eng 
+945.517 951.33 JES _eng you_eng know_eng so_eng they_eng found_eng this_eng _eng este_spa es_spa un_spa niñito_spa chiquitico_spa sin_spa zapatos_spa 
+951.312 953.338 JES because_eng it_eng was_eng nap_eng time_eng 
+953.335 956.464 JES er_engspa corriendo_spa por_spa ahí_spa 
+956.449 962.613 JES entonces_spa they_eng brought_eng him_eng back_eng dice_spa que_spa _eng que_spa el_spa señor_spa was_eng a_eng Vietnam_eng veteran_eng 
+962.607 965.15 spa_spa y_spa dice_spa que_spa estaba_spa hasta_spa llorando_spa 
+965.132 972.539 JES porque_spa dice_spa que_spa _eng que_spa le_spa recordó_spa a_spa los_spa niños_spa er_engspa en_spa Vietnam_engspa you_eng know_eng running_eng with_eng the_eng bombs_eng and_eng stuff_eng and_eng barefoot_eng 
+972.51 978.296 JES and_eng _eng and_eng you_eng know_eng dice_spa que_spa _eng que_spa estaba_spa _eng you_eng know_eng he_eng was_eng really_eng traumatized_eng with_eng the_eng whole_eng thing_eng 
+978.281 982.454 JES figúrate_spa it_eng looks_eng horrible_eng on_eng the_eng school_eng 
+982.404 990.417 JES entonces_spa um_eng she_eng goes_eng 
+990.411 992.675 JES _eng xxx_eng I_eng went_eng in_eng there_eng 
+992.64 995.976 JES _eng I_eng was_eng talking_eng to_eng the_eng aids_eng 
+995.944 998.684 spa_spa y_spa tú_spa sabes_spa dónde_spa estaba_spa la_spa dueña_spa 
+998.666 1001.96 JES xxx_eng I_eng know_eng she_eng was_eng in_eng a_eng meeting_eng during_eng that_eng time_eng 
+1001.944 1002.188 JES she_eng goes_eng 
+1002.159 1003.534 JES _eng yeah_eng but_eng its_eng her_eng classroom_eng 
+1003.524 1007.869 JES she_eng estaba_spa recogiendo_spa como_spa si_spa no_spa fuera_spa nada_spa con_spa ella_spa 
+1007.774 1008.436 JES she_eng was_eng 
+1008.468 1016.853 spa_spa si_spa es_spa tu_spa clase_spa donde_spa algo_spa que_spa pasó_spa con_spa tu_spa estudiante_spa tú_spa no_spa vas_spa a_spa estar_spa ahí_spa presente_spa para_spa que_spa no_spa ocurra_spa de_spa nuevo_spa 
+1016.83 1018.49 spa_spa y_spa ésta_spa es_spa la_spa misma_spa que_spa fue_spa acusada_spa 
+1016.963 1019.761 JES _eng _eng spa_eng xxx_eng sí_eng 
+1019.744 1021.654 NIC so_eng she_eng doesnt_eng _eng she_eng doesnt_eng give_eng a_eng damn_eng about_eng the_eng kids_eng 
+1021.637 1023.425 JES no_eng she_eng doesnt_eng 
+1023.416 1024.635 JES of_eng course_eng she_eng doesnt_eng 
+1024.612 1029.139 spa_spa y_spa ésta_spa no_spa es_spa la_spa primera_spa vez_spa que_spa le_spa ha_spa caído_spa esto_spa arriba_spa 
+1029.121 1034.131 spa_spa en_spa otra_spa escuela_spa o_spa sea_spa yo_spa _spa yo_spa le_spa había_spa dicho_spa 
+1034.114 1036.959 spa_spa eventualmente_spa ella_spa se_spa va_spa a_spa ir_spa 
+1036.985 1039.748 spa_spa pero_spa le_spa va_spa a_spa tre_spa _spa tirar_spa ese_spa problema_spa a_spa otra_spa persona_spa 
+1039.734 1050.324 JES ahora_spa es_eng _eng ahora_spa la_spa cosa_spa es_spa que_spa in_eng fifth_eng grade_eng E_S_E_engspa ella_spa está_spa en_spa el_spa building_eng de_spa nosotros_spa donde_spa ella_spa puede_spa estar_spa constantentemente_spa vigilando_spa 
+1050.319 1052.066 spa_spa y_spa tiene_spa personas_spa al_spa lado_spa 
+1052.038 1061.787 JES y_spa ella_spa seguro_spa que_spa le_spa va_spa a_spa decir_spa a_spa las_eng _eng a_spa las_spa maestras_spa de_spa al_spa lado_spa que_spa _eng que_spa sean_spa bien_spa vigilantes_spa you_eng know_eng 
+1061.791 1067.468 JES um_eng y_spa además_spa de_spa eso_spa ella_spa puede_spa estar_spa constantemente_spa chequeándole_spa los_spa 
+1067.474 1069.872 JES because_eng ella_spa _eng ella_spa es_spa un_spa desastre_spa 
+1069.838 1071.365 JES she_eng doesnt_eng have_eng plans_eng 
+1071.336 1076.884 JES she_eng doesnt_eng have_eng _eng you_eng know_eng she_eng comes_eng up_eng with_eng things_eng _eng al_spa último_spa minuto_spa 
+1076.861 1078.329 spa_spa ella_spa no_spa toma_spa eso_spa en_spa serio_spa 
+1078.306 1085.551 spa_spa bueno_spa 
+1085.301 1085.992 JES _eng _eng spa_eng pero_eng yo_eng le_eng dije_eng 
+1085.986 1088.046 JES _eng _eng spa_eng perfecto_eng eso_eng es_eng lo_eng perfecto_eng 
+1088.029 1092.686 spa_spa porque_spa yo_spa le_spa _spa eso_spa es_spa lo_spa que_spa _spa exactamente_spa lo_spa que_spa yo_spa le_spa había_spa dicho_spa a_spa la_spa principal_spa desde_spa un_spa principio_spa 
+1092.665 1093.734 spa_spa y_spa yo_spa le_spa había_spa dicho_spa 
+1093.73 1096.319 JES _eng _eng spa_eng tenemos_eng que_eng meterla_eng en_eng una_eng clase_eng para_eng acá_eng 
+1096.348 1098.2 JES donde_eng podemos_eng estar_eng 
+1097.993 1103.984 JES _eng y_spa ustedes_spa tú_spa sabes_spa caminan_spa you_eng know_eng en_spa la_spa clase_spa lo_spa que_spa sea_spa 
+1103.958 1106.233 spa_spa entonces_spa yo_spa le_spa dije_spa 
+1106.22 1108.077 JES _eng _eng spa_eng oye_eng a_eng mí_eng no_eng me_eng van_eng a_eng botar_eng 
+1108.141 1109.883 JES _eng nos_eng van_eng a_eng botar_eng para_eng el_eng carajo_eng 
+1109.817 1112.191 JES sigh_eng she_eng was_eng 
+1112.142 1118.427 JES you_eng know_eng because_eng sinceramente_spa la_spa unión_spa es_spa secundario_spa 
+1118.423 1120.345 spa_spa para_spa mí_spa lo_spa primero_spa 
+1120.316 1120.85 spa_spa es_spa los_spa niños_spa 
+1120.827 1121.802 JES _eng _eng spa_eng es_eng los_eng niños_eng 
+1121.798 1123.302 NIC absolutely_eng 
+1123.302 1126.291 spa_spa y_spa además_spa eso_spa es_spa lo_spa que_spa dice_spa el_spa contrato_spa 
+1126.279 1131.57 JES que_spa the_eng primary_eng purpose_eng of_eng the_eng educators_eng is_eng the_eng student_eng 
+1131.538 1133.436 JES so_eng Im_eng going_eng by_eng the_eng contract_eng 
+1133.419 1136.765 spa_spa el_spa que_spa me_spa diga_spa 
+1136.76 1139.12 spa_spa pero_spa además_spa ella_spa no_spa está_spa haciendo_spa nada_spa 
+1139.102 1143.096 spa_spa claro_spa las_spa dos_spa sabemos_spa que_spa lo_spa que_spa queremos_spa es_spa que_spa se_spa vaya_spa para_spa el_spa carajo_spa pero_spa 
+1143.073 1145.726 NIC cough_eng 
+1145.668 1149.673 spa_spa pero_spa ahí_spa sí_spa que_spa puede_spa ella_spa documentar_spa 
+1149.644 1154.703 spa_spa porque_spa ahí_spa ella_spa sí_spa que_spa tiene_spa que_spa tener_spa las_spa cosas_spa bien_spa organizadas_spa 
+1152.491 1153.083 NIC _eng yeah_eng 
+1154.656 1155.825 NIC yawning_eng 
+1155.823 1158.57 NIC I_eng think_eng Katie_engspa is_eng gonna_eng start_eng in_eng a_eng school_eng in_eng June_eng 
+1158.547 1162.521 JES she_eng already_eng resigned_eng 
+1162.503 1164.088 NIC mmhm_eng well_eng I_eng dont_eng know_eng if_eng shes_eng resigned_eng 
+1164.076 1166.056 NIC but_eng she_eng hasnt_eng signed_eng the_eng contract_eng yet_eng 
+1166.033 1167.252 JES then_eng she_eng hasnt_eng resigned_eng 
+1167.24 1172.495 NIC but_eng um_eng I_eng think_eng they_eng started_eng calling_eng people_eng down_eng to_eng sign_eng their_eng contracts_eng on_eng Thursday_eng 
+1172.455 1173.326 JES mmhm_eng 
+1173.302 1174.596 NIC I_eng mean_eng not_eng Thursday_eng xxx_eng yesterday_eng 
+1174.521 1175.514 NIC yesterday_eng was_eng Wednesday_eng 
+1175.508 1177.853 NIC but_eng yeah_eng yesterday_eng 
+1177.845 1178.693 NIC no_eng yesterday_eng was_eng Thursday_eng 
+1178.699 1179.296 JES yes_eng 
+1179.058 1179.97 NIC _eng no_eng Wednesday_eng 
+1179.97 1181.711 NIC laughing_eng Im_eng sorry_eng laughing_eng 
+1183.104 1186.753 NIC they_eng started_eng calling_eng um_eng people_eng down_eng 
+1186.735 1190.438 NIC so_eng I_eng imagine_eng that_eng theyll_eng be_eng calling_eng her_eng soon_eng to_eng go_eng sign_eng her_eng contract_eng 
+1190.426 1201.766 NIC and_eng then_eng the_eng nun_eng said_eng that_eng er_engspa to_eng see_eng if_eng she_eng could_eng be_eng coming_eng in_eng you_eng know_eng at_eng some_eng point_eng maybe_eng for_eng like_eng a_eng week_eng or_eng something_eng 
+1201.749 1202.759 NIC just_eng to_eng see_eng how_eng things_eng are_eng 
+1202.748 1206.75 NIC and_eng then_eng _eng and_eng then_eng probably_eng start_eng in_eng June_eng to_eng try_eng and_eng get_eng the_eng 
+1206.466 1208.377 JES _eng _eng spa_eng yo_eng te_eng digo_eng sinceramente_eng 
+1208.353 1215.741 JES er_engspa yo_spa sé_spa que_spa Emily_engspa really_eng wants_eng to_eng you_eng know_eng work_eng there_eng or_eng whatever_eng pero_spa 
+1214.887 1216.484 NIC _eng it_eng may_eng be_eng better_eng for_eng her_eng not_eng to_eng 
+1216.462 1221.332 JES for_eng you_eng and_eng for_eng her_eng 
+1221.275 1224.381 JES porque_spa qué_spa pasa_spa con_spa las_spa cosas_spa de_spa Pedrito_engspa 
+1224.369 1225.611 spa_spa te_spa vienen_spa a_spa ti_spa 
+1225.623 1227.997 spa_spa qué_spa va_spa a_spa pasar_spa con_spa las_spa cosas_spa de_spa ella_spa 
+1227.978 1228.756 NIC they_eng are_eng gonna_eng come_eng to_eng me_eng 
+1228.739 1229.4 JES right_eng 
+1229.383 1232.224 JES so_eng 
+1232.157 1233.225 spa_spa no_spa mi_spa papá_spa me_spa lo_spa dijo_spa 
+1233.202 1233.951 spa_spa mi_spa papá_spa me_spa lo_spa dijo_spa 
+1233.939 1236.651 NIC _eng mira_spa alégrate_spa de_spa que_spa no_spa le_spa den_spa trabajo_spa ahí_spa a_spa Paul_engspa 
+1236.621 1238.763 spa_spa y_spa _spa y_spa esta_spa chiquita_spa bueno_spa ya_spa está_spa ahí_spa 
+1237.724 1239.471 JES _eng y_spa _eng y_spa Paul_engspa es_spa muy_spa _eng muy_spa hot_headed_eng 
+1238.896 1239.958 NIC no_spa Paul_engspa uff_engspa 
+1239.939 1244.411 NIC a_spa Paul_engspa lo_spa van_spa a_spa botar_spa de_spa varios_spa lugares_spa _eng si_spa no_spa se_spa cuida_spa 
+1244.394 1246.737 NIC what_eng I_eng told_eng her_eng is_eng 
+1246.754 1248.217 NIC _eng get_eng your_eng certification_eng 
+1248.189 1248.938 JES exactly_eng 
+1248.915 1252.27 NIC _eng in_eng social_eng studies_eng so_eng that_eng you_eng can_eng work_eng at_eng _eng at_eng a_eng public_eng school_eng 
+1252.254 1254.187 NIC and_eng then_eng she_eng told_eng me_eng 
+1254.17 1258.471 NIC _eng no_eng Janet_engspa was_eng saying_eng that_eng in_eng Ferguson_engspa there_eng is_eng gonna_eng be_eng openings_eng for_eng six_eng new_eng teachers_eng in_eng every_eng department_eng 
+1258.46 1258.756 NIC and_eng I_eng go_eng 
+1258.744 1260.109 NIC _eng well_eng there_eng is_eng your_eng entry_eng right_eng there_eng 
+1260.079 1260.892 JES exactly_eng 
+1260.898 1261.444 NIC you_eng know_eng 
+1261.445 1263.262 JES theres_eng always_eng openings_eng in_eng xxx_eng 
+1262.412 1263.086 NIC and_eng she_eng said_eng 
+1263.057 1265.1 NIC _eng yeah_eng but_eng you_eng know_eng I_eng dont_eng wanna_eng work_eng in_eng public_eng schools_eng 
+1265.083 1265.309 NIC and_eng I_eng go_eng 
+1265.315 1265.814 NIC _eng well_eng you_eng know_eng what_eng 
+1265.785 1269.049 NIC _eng if_eng you_eng work_eng in_eng a_eng public_eng school_eng xxx_eng you_eng are_eng gonna_eng make_eng more_eng money_eng than_eng what_eng Im_eng making_eng right_eng now_eng 
+1269.018 1271.45 NIC ok_eng 
+1271.435 1271.88 NIC and_eng I_eng said_eng 
+1271.846 1272.322 NIC _eng so_eng go_eng ahead_eng 
+1272.304 1273.221 NIC _eng and_eng start_eng doing_eng that_eng 
+1273.21 1277.395 NIC _eng and_eng the_eng only_eng way_eng you_eng are_eng gonna_eng get_eng fired_eng is_eng if_eng you_eng do_eng something_eng to_eng one_eng of_eng the_eng kids_eng 
+1276.304 1287.418 JES _eng but_eng yes_eng unless_eng you_eng have_eng during_eng the_eng first_eng thirty_eng days_eng or_eng first_eng day_eng they_eng have_eng the_eng option_eng to_eng you_eng know_eng if_eng they_eng see_eng that_eng you_eng _eng you_eng are_eng really_eng bad_eng they_eng can_eng throw_eng you_eng out_eng 
+1287.351 1288.07 NIC xxx_eng come_eng on_eng 
+1287.681 1290.003 JES _eng within_eng the_eng first_eng thirty_eng days_eng 
+1289.908 1302.013 JES cuando_spa estábamos_spa en_spa la_spa clase_spa el_spa sábado_spa xxx_eng was_eng talking_eng about_eng that_eng 
+1301.924 1302.783 NIC hes_eng such_eng a_eng jerk_eng 
+1301.924 1302.603 JES _eng it_eng was_eng a_eng teacher_eng 
+1302.568 1303.659 JES yeah_eng I_eng know_eng 
+1303.632 1304.404 NIC I_eng cant_eng stand_eng him_eng 
+1304.055 1306.495 JES that_eng there_eng was_eng a_eng teacher_eng 
+1306.495 1306.774 NIC mmhm_eng 
+1306.756 1309.221 JES that_eng they_eng had_eng you_eng know_eng done_eng a_eng whole_eng bunch_eng of_eng things_eng 
+1306.756 1309.221 NIC _eng coughs_eng 
+1309.21 1314.283 JES I_eng know_eng exactly_eng who_eng they_eng were_eng talking_eng about_eng from_eng you_eng know_eng from_eng the_eng school_eng I_eng was_eng at_eng before_eng 
+1313.75 1314.348 NIC _eng sniffs_eng 
+1314.319 1316.639 JES and_eng I_eng go_eng 
+1316.61 1318.305 JES _eng did_eng you_eng get_eng hired_eng somewhere_eng else_eng 
+1318.262 1323.614 spa_spa y_spa esa_spa maestra_spa _spa no_spa hacía_spa nada_spa 
+1323.659 1330.067 spa_spa se_spa sentaba_spa en_spa la_spa clase_spa tú_spa sabes_spa qué_spa a_spa comer_spa y_spa a_spa organizar_spa la_spa cartera_spa 
+1330.021 1333.452 JES er_engspa entonces_spa le_spa preguntaba_spa a_spa los_spa muchachos_spa 
+1333.452 1334.508 JES _eng are_eng you_eng sick_eng 
+1334.481 1335.038 JES _eng are_eng you_eng sick_eng 
+1335.027 1337.582 JES and_eng if_eng they_eng were_eng sick_eng and_eng they_eng were_eng out_eng they_eng would_eng ask_eng them_eng 
+1337.571 1338.499 JES _eng what_eng did_eng you_eng have_eng 
+1338.475 1342.605 JES _eng oh_eng no_eng I_eng you_eng know_eng I_eng _eng I_eng had_eng you_eng know_eng a_eng stomach_eng virus_eng 
+1342.599 1345.115 JES _eng oh_eng a_eng stomach_eng virus_eng ok_eng 
+1345.091 1347.315 JES she_eng would_eng come_eng back_eng and_eng say_eng 
+1347.291 1347.802 JES _eng no_eng shes_eng sick_eng 
+1347.814 1356.31 JES and_eng she_eng goes_eng _eng she_eng _eng she_eng would_eng er_engspa ask_eng for_eng workers_eng compensation_eng because_eng she_eng got_eng the_eng stomach_eng virus_eng from_eng a_eng kid_eng in_eng the_eng class_eng 
+1356.252 1359.108 NIC how_eng do_eng people_eng like_eng that_eng get_eng jobs_eng 
+1358.11 1359.16 JES _eng _eng spa_eng espérate_eng 
+1359.142 1360.39 JES thats_eng not_eng the_eng worse_eng 
+1360.373 1362.472 spa_spa y_spa se_spa robaba_spa cosas_spa 
+1362.455 1367.619 JES ella_spa yo_spa la_spa cogí_spa una_spa vez_spa going_eng through_eng my_eng desk_eng y_spa mirando_spa cosas_spa 
+1366.743 1368.757 NIC _eng oh_eng thats_eng the_eng one_eng that_eng you_eng caught_eng going_eng through_eng your_eng desk_eng over_eng here_eng 
+1368.684 1370.35 JES yeah_eng no_eng not_eng here_eng 
+1370.341 1371.67 NIC at_eng _eng at_eng _eng at_eng the_eng other_eng one_eng 
+1370.341 1371.641 JES _eng at_eng the_eng over_eng right_eng 
+1371.629 1372.431 JES right_eng right_eng right_eng 
+1372.41 1374.951 spa_spa y_spa ya_spa me_spa lo_spa había_spa dicho_spa mi_spa hermana_spa 
+1374.91 1376.269 spa_spa me_spa lo_spa habían_spa dicho_spa varias_spa personas_spa 
+1376.243 1379.018 JES _eng _eng spa_eng cuidado_eng no_eng dejes_eng nada_eng de_eng valor_eng porque_eng ésta_eng se_eng lo_eng lleva_eng 
+1378.954 1382.526 JES así_spa que_spa a_eng thief_eng 
+1382.526 1386.73 JES er_engspa no_spa y_spa todavía_spa está_spa en_spa el_spa sistema_spa 
+1386.721 1390.491 NIC thats_eng just_eng amazing_eng to_eng me_eng 
+1390.495 1399.437 JES y_spa entonces_spa cuando_spa ya_spa xxx_eng had_eng done_eng everything_eng because_eng it_eng takes_eng _eng you_eng have_eng to_eng document_eng those_eng things_eng for_eng a_eng long_eng time_eng 
+1399.46 1401.281 JES ok_eng 
+1401.242 1406.188 spa_spa cuando_spa ya_spa él_spa lo_spa tenía_spa todo_spa la_spa principal_spa dijo_spa 
+1406.164 1407.824 JES _eng _eng spa_eng no_eng a_eng mí_eng me_eng da_eng 
+1407.813 1408.608 spa_spa tú_spa sabes_spa 
+1408.596 1410.396 spa_spa era_spa la_spa otra_spa principal_spa no_spa ésta_spa 
+1410.358 1413.847 JES ésta_spa la_spa hubiera_spa botado_spa antes_spa you_eng know_eng 
+1413.831 1417.901 spa_spa si_spa le_spa caía_spa mal_spa no_spa _spa la_spa hubiera_spa hubiera_spa botado_spa 
+1417.065 1419.724 NIC _eng thats_eng the_eng thing_eng _eng thats_eng the_eng thing_eng with_eng my_eng school_eng since_eng we_eng work_eng on_eng contract_eng 
+1419.689 1422.143 NIC you_eng break_eng your_eng contract_eng youre_eng out_eng 
+1422.147 1424.138 JES they_eng have_eng to_eng 
+1424.132 1430.336 JES here_eng they_eng give_eng you_eng the_eng opportunity_eng to_eng put_eng you_eng on_eng a_eng _eng a_eng _eng an_eng _eng an_eng improvement_eng plan_eng 
+1430.337 1436.964 JES and_eng if_eng you_eng dont_eng improve_eng then_eng d_eng _eng it_eng takes_eng _eng a_eng long_eng time_eng 
+1436.935 1439.073 NIC no_eng no_eng I_eng mean_eng here_eng they_eng you_eng know_eng we_eng try_eng to_eng help_eng you_eng out_eng 
+1436.943 1438.864 JES _eng a_eng lot_eng of_eng bureaucracy_eng 
+1440.307 1441.764 NIC you_eng know_eng well_eng put_eng a_eng mentor_eng 
+1441.754 1443.838 NIC well_eng give_eng you_eng ideas_eng 
+1443.822 1446.254 NIC well_eng talk_eng to_eng you_eng but_eng if_eng it_eng doesnt_eng improve_eng youre_eng out_eng 
+1446.239 1448.289 NIC youre_eng out_eng 
+1448.225 1449.432 NIC I_eng wish_eng they_eng would_eng do_eng that_eng with_eng the_eng kids_eng 
+1451.653 1452.245 NIC you_eng know_eng 
+1453.744 1457.769 NIC because_eng the_eng parents_eng in_eng essence_eng sign_eng a_eng contract_eng with_eng you_eng know_eng with_eng the_eng kids_eng when_eng they_eng get_eng there_eng which_eng is_eng the_eng handbook_eng 
+1457.747 1459.459 NIC you_eng break_eng that_eng you_eng should_eng be_eng out_eng 
+1459.468 1460.118 JES right_eng 
+1460.095 1461.958 NIC oh_engspa no_eng no_eng no_eng but_eng the_eng kids_eng continue_eng to_eng go_eng 
+1462.651 1462.993 NIC you_eng know_eng 
+1464.853 1465.654 NIC its_eng just_eng I_eng dont_eng know_eng 
+1465.66 1467.437 NIC it_eng really_eng bothers_eng me_eng 
+1471.173 1473.483 NIC Im_eng looking_eng for_eng a_eng rough_eng year_eng next_eng year_eng Im_eng telling_eng you_eng 
+1473.538 1474.722 NIC its_eng gonna_eng be_eng rough_eng 
+1475.616 1479.532 NIC I_eng have_eng the_eng teachers_eng on_eng one_eng side_eng expecting_eng me_eng to_eng do_eng everything_eng 
+1478.288 1480.697 JES _eng _eng spa_eng tienes_eng que_eng tú_eng sabes_eng 
+1479.623 1480.54 NIC I_eng have_eng 
+1480.539 1482.536 NIC I_eng dont_eng know_eng 
+1482.525 1486.994 spa_spa invita_spa a_spa xxx_spa a_spa alguna_spa de_spa las_spa celebraciones_spa 
+1486.994 1494.746 JES y_spa díselo_spa a_spa sister_eng _eng porque_spa si_spa él_spa le_spa gusta_spa ella_spa y_spa ella_eng _eng y_spa ella_spa 
+1494.729 1495.802 spa_spa tú_spa sabes_spa se_spa caen_spa bien_spa 
+1495.787 1499.552 NIC sniff_eng yeah_eng Ill_eng tell_eng her_eng 
+1499.523 1501.532 NIC bueno_spa not_eng her_eng I_eng gotta_eng tell_eng sister_eng xxx_eng 
+1501.52 1507.199 NIC para_spa el_spa año_spa que_spa viene_spa you_eng know_eng to_eng put_eng him_eng on_eng schedule_eng for_eng to_eng go_eng and_eng celebrate_eng mass_eng 
+1507.191 1509.548 JES right_eng 
+1509.525 1511.458 NIC sniff_eng 
+1512.84 1518.391 NIC because_eng father_eng Derrik_engspa used_eng to_eng bring_eng people_eng all_eng the_eng time_eng but_eng that_eng was_eng him_eng but_eng _eng now_eng father_eng Nichols_engspa is_eng going_eng to_eng be_eng doing_eng the_eng same_eng thing_eng so_eng 
+1519.719 1521.704 NIC Im_eng hungry_eng 
+1521.71 1523.44 spa_spa tú_spa no_spa tienes_spa hambre_spa 
+1523.428 1526.319 JES Im_eng still_eng having_eng coffee_eng 
+1526.304 1527.639 NIC I_eng already_eng had_eng my_eng coffee_eng 
+1527.61 1529.584 NIC Im_eng hungry_eng 
+1529.555 1531.842 spa_spa ve_spa a_spa buscar_spa algo_spa 
+1531.831 1535.839 spa_spa viernes_spa no_spa se_spa puede_spa comer_spa carne_spa 
+1537.107 1539.87 spa_spa pastelito_spa xxx_spa de_spa queso_spa 
+1539.818 1541.664 NIC xxx_eng that_eng sounds_eng pretty_eng good_eng 
+1541.651 1543.932 spa_spa de_spa coco_spa 
+1543.921 1546.934 spa_spa pero_spa bueno_spa 
+1546.907 1548.903 spa_spa estamos_spa conectados_spa 
+1548.869 1551.94 NIC I_eng guess_eng we_eng could_eng hop_eng in_eng the_eng car_eng with_eng it_eng and_eng go_eng get_eng it_eng 
+1551.487 1555.348 NIC laugh_eng 
+1551.487 1555.348 JES _eng laugh_eng 
+1555.348 1556.828 NIC its_eng portable_eng 
+1556.801 1558.223 NIC do_eng you_eng want_eng to_eng 
+1558.2 1560.057 NIC just_eng hop_eng in_eng the_eng car_eng and_eng go_eng get_eng some_eng pastelitos_spa 
+1558.2 1559.947 JES _eng no_eng 
+1559.929 1562.32 JES no_eng 
+1562.318 1566.137 NIC laugh_eng 
+1566.126 1567.943 JES y_spa lo_spa dejamos_spa ahí_spa como_spa baby_sitting_eng 
+1567.571 1568.79 NIC yeah_eng he_eng could_eng be_eng baby_sitting_eng 
+1568.668 1569.625 NIC hes_eng outside_eng right_eng now_eng 
+1569.62 1571.268 NIC I_eng mean_eng apparently_eng hes_eng keeping_eng the_eng kids_eng entertained_eng 
+1571.249 1578.348 JES laugh_eng 
+1578.358 1582.537 spa_spa ay_spa mañana_spa es_spa día_spa de_spa xxx_spa del_spa carajo_spa 
+1581.754 1583.402 JES _eng oh_engspa 
+1582.931 1585.084 JES and_eng my_eng cyber_loafing_eng paper_eng 
+1585.055 1586.593 JES xxx_eng I_eng have_eng six_eng pages_eng 
+1586.579 1588.663 JES it_eng has_eng to_eng be_eng ten_eng 
+1588.654 1590.148 NIC I_eng dont_eng know_eng what_eng Im_eng gonna_eng do_eng that_eng paper_eng on_eng 
+1588.656 1590.966 JES _eng so_eng I_eng need_eng to_eng come_eng up_eng with_eng more_eng 
+1590.949 1591.918 NIC I_eng have_eng no_eng idea_eng 
+1591.741 1593.174 JES what_eng ethical_eng 
+1593.174 1598.123 JES come_eng on_eng youve_eng _eng you_eng must_eng have_eng done_eng it_eng something_eng like_eng that_eng person_eng coming_eng 
+1595.987 1598.193 NIC _eng what_eng ethical_eng dilemma_eng do_eng I_eng have_eng in_eng my_eng place_eng of_eng business_eng 
+1598.146 1598.576 NIC let_eng me_eng see_eng 
+1598.529 1599.185 NIC I_eng hate_eng my_eng boss_eng 
+1602.196 1603.299 NIC I_eng think_eng shes_eng a_eng hypocrite_eng 
+1605.857 1607.146 NIC ah_engspa my_eng ethical_eng dilemma_eng 
+1607.129 1612.059 NIC the_eng fact_eng that_eng Im_eng _eng choosing_eng to_eng work_eng with_eng her_eng closer_eng now_eng _eng in_eng my_eng new_eng position_eng 
+1613.514 1614.478 NIC thats_eng my_eng ethical_eng dilemma_eng 
+1619.695 1622.365 NIC I_eng dont_eng know_eng how_eng Im_eng going_eng to_eng work_eng that_eng out_eng 
+1622.364 1627.499 JES isnt_eng there_eng something_eng you_eng done_eng in_eng Saint_Thomas_engspa about_eng ethics_eng 
+1627.491 1636.854 JES porque_spa esta_spa señora_spa no_spa d_eng even_eng though_eng thats_eng what_eng the_eng _eng the_eng _eng the_eng guidelines_eng say_eng tú_spa sabes_spa que_spa ella_spa te_spa da_spa _eng full_eng credit_eng for_eng just_eng doing_eng it_eng 
+1636.854 1641.25 NIC esa_spa mujer_spa todavía_spa no_spa me_spa ha_eng _eng she_eng hasnt_eng given_eng me_eng back_eng my_eng grade_eng _eng on_eng the_eng presentation_eng 
+1641.255 1647.213 NIC and_eng it_eng really_eng bothers_eng me_eng that_eng Peter_engspa got_eng a_eng _eng the_eng same_eng thing_eng that_eng I_eng got_eng 
+1645.541 1646.928 JES _eng how_eng do_eng you_eng know_eng 
+1646.918 1648.23 JES you_eng dont_eng know_eng this_eng 
+1647.462 1648.855 NIC because_eng everybody_eng was_eng saying_eng it_eng 
+1648.832 1651.073 NIC everybody_eng got_eng a_eng twenty_eng on_eng their_eng presentation_eng 
+1651.066 1652.041 NIC I_eng mean_eng come_eng on_eng 
+1652.041 1654.816 NIC my_eng presentation_eng was_eng a_eng hell_eng of_eng a_eng lot_eng better_eng than_eng a_eng lot_eng of_eng other_eng peoples_eng there_eng 
+1654.662 1655.202 JES yes_eng but_eng 
+1657.649 1658.096 NIC sniffs_eng 
+1657.881 1662.612 JES I_eng got_eng my_eng grade_eng the_eng day_eng after_eng and_eng I_eng posted_eng my_eng thing_eng during_eng class_eng 
+1662.598 1670.623 NIC I_eng posted_eng _eng I_eng sent_eng her_eng my_eng thing_eng _eng on_eng Monday_eng the_eng day_eng right_eng after_eng class_eng and_eng its_eng Friday_eng today_eng and_eng she_eng still_eng hasnt_eng posted_eng my_eng grade_eng 
+1673.706 1675.186 JES then_eng you_eng send_eng her_eng an_eng email_eng 
+1675.186 1681.924 JES uh_engspa doctor_eng Beckerman_engspa _eng um_eng _eng I_eng wa_eng just_eng wanted_eng to_eng confirm_eng that_eng you_eng did_eng receive_eng my_eng 
+1681.918 1682.278 NIC she_eng did_eng 
+1682.25 1683.574 NIC she_eng sent_eng me_eng an_eng email_eng that_eng she_eng received_eng it_eng 
+1683.553 1687.756 JES oh_engspa ok_engspa 
+1687.764 1691.101 JES were_eng you_eng able_eng to_eng open_eng it_eng alright_eng _eng you_eng know_eng 

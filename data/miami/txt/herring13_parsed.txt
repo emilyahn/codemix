@@ -1,0 +1,985 @@
+0.17 3.158 VAN o_k_engspa o_k_engspa so_eng eso_spa these_eng are_eng new_eng right_eng 
+0.395 0.749 LEA _eng o_k_engspa 
+3.088 4.139 LEA those_eng are_eng new_eng o_k_engspa 
+4.725 5.497 LEA this_eng is_eng 
+5.474 11.319 LEA alright_eng she_eng left_eng these_eng here_eng for_eng you_eng to_eng I_eng guess_eng process_eng them_eng or_eng whatever_eng 
+6.895 7.765 VAN _eng mmhm_eng 
+10.353 11.317 VAN right_eng right_eng 
+11.079 14.063 LEA whatever_eng her_eng _eng its_eng _eng she_eng needs_eng to_eng sign_eng it_eng 
+13.629 14.273 VAN o_k_engspa 
+14.052 15.491 LEA o_k_engspa 
+15.34 16.101 LEA eh_engspa 
+16.709 18.951 VAN so_eng everything_eng is_eng the_eng same_eng except_eng the_eng finances_eng 
+18.186 22.94 LEA _eng everything_eng is_eng the_eng same_eng porque_spa we_eng switched_eng it_eng from_eng _eng Citizens_engspa to_eng Universal_engspa 
+22.916 24.75 VAN oh_engspa yeah_eng o_k_engspa 
+24.721 25.807 LEA everythings_eng been_eng switched_eng 
+25.611 26.174 VAN o_k_engspa o_k_engspa 
+26.208 27.015 spa_spa entonces_spa 
+26.516 28.034 VAN oh_eng thats_eng right_eng uhuh_eng ok_eng 
+27.638 32.195 LEA _eng this_eng is_eng gonna_eng go_eng with_eng _eng with_eng the_eng application_eng to_eng Universal_engspa this_eng is_eng going_eng to_eng go_eng 
+31.655 32.23 VAN _eng o_k_engspa 
+32.201 37.983 LEA and_eng then_eng this_eng is_eng _eng and_eng then_eng were_eng going_eng to_eng open_eng a_eng new_eng file_eng for_eng finance_eng which_eng is_eng something_eng I_eng think_eng you_eng guys_eng dont_eng have_eng 
+37.292 38.157 VAN right_eng no_spa 
+38.134 39.769 spa_spa sí_spa todo_spa estaba_spa junto_spa 
+38.151 39.759 LEA _eng o_k_engspa 
+39.784 44.383 VAN well_eng everything_eng was_eng together_eng pero_spa I_eng _eng for_eng the_eng past_eng couple_eng of_eng things_eng yo_spa no_spa mandé_spa esto_spa 
+44.509 46.047 spa_spa yo_spa no_spa mandé_spa el_spa contrato_spa 
+45.339 45.995 LEA _eng o_k_engspa 
+46.046 48.879 VAN thats_eng why_eng en_spa _eng en_spa los_spa faxes_eng que_spa me_spa venían_spa eso_spa like_eng came_eng in_eng 
+46.046 49.442 LEA _eng thats_eng why_eng _eng lo_spa están_spa pidiendo_spa 
+48.879 49.43 spa_spa exacto_spa 
+51.432 53.713 LEA so_eng were_eng gonna_eng open_eng new_eng files_eng 
+51.432 53.713 VAN mmhm_eng 
+53.338 58.765 LEA o_k_engspa he_eng only_eng has_eng one_eng _eng one_eng thing_eng so_eng we_eng would_eng do_eng him_eng en_spa los_spa folders_eng más_spa finitos_spa 
+55.433 56.141 VAN _eng mmhm_eng 
+58.821 59.158 VAN o_k_engspa 
+59.058 61.096 VAN and_eng the_eng blue_eng ones_eng that_eng you_eng gave_eng me_eng there_eng right_eng 
+60.578 62.029 LEA _eng not_eng nes_eng _eng we_eng dont_eng have_eng to_eng do_eng the_eng blue_eng 
+61.858 62.758 LEA we_eng can_eng do_eng 
+61.948 62.708 VAN _eng oh_engspa any_eng 
+62.746 64.7 LEA yeah_eng she_eng _eng she_eng just_eng said_eng yeah_eng para_spa empezar_spa 
+62.746 64.796 VAN _eng o_k_engspa _eng o_k_engspa 
+65.006 71.86 LEA so_eng what_eng you_eng do_eng is_eng _eng you_eng put_eng the_eng policy_eng on_eng the_eng right_eng and_eng the_eng correspondence_eng on_eng the_eng left_eng 
+65.009 65.717 VAN _eng mmhm_eng 
+70.125 70.636 VAN _eng mmhm_eng 
+71.756 72.325 VAN o_k_engspa 
+72.536 75.588 LEA so_eng ya_spa tú_spa sabes_spa aquí_spa está_spa _eng todo_spa junto_spa 
+75.629 76.122 VAN mmhm_eng 
+75.981 78.379 VAN sí_spa sí_spa que_spa a_spa la_spa hora_spa de_spa buscar_spa its_eng o_k_engspa 
+76.26 77.235 LEA _eng were_eng not_eng 
+77.967 80.149 LEA were_eng _eng and_eng now_eng its_eng going_eng to_eng be_eng individual_spa 
+79.708 80.469 VAN _eng alright_eng 
+81.084 81.676 VAN o_k_engspa o_k_engspa 
+81.79 82.492 LEA o_k_engspa 
+82.421 83.722 LEA so_eng that_eng _eng thatll_eng work_eng 
+83.61 84.219 VAN right_eng 
+84.159 86.684 VAN y_spa entonces_spa o_k_engspa so_eng then_eng well_eng do_eng that_eng 
+84.188 84.588 LEA so_eng 
+86.644 89.569 VAN so_eng Ill_eng _eng Ill_eng put_eng everything_eng together_eng and_eng make_eng a_eng copy_eng of_eng everything_eng 
+88.976 89.574 LEA _eng mmhm_eng 
+89.552 91.827 VAN y_spa después_spa esto_spa va_spa a_spa ir_spa separado_spa que_spa es_spa en_spa otro_spa folder_eng 
+91.792 92.285 LEA right_eng 
+92.369 93.893 LEA which_eng is_eng gonna_eng be_eng a_eng finance_eng folder_eng 
+93.812 95.054 VAN a_eng finance_eng o_k_engspa 
+94.938 98.212 LEA you_eng know_eng so_eng thats_eng how_eng this_eng one_eng is_eng gonna_eng be_eng 
+96.504 98.118 VAN _eng so_eng Im_eng gonna_eng leave_eng that_eng out_eng there_eng o_k_engspa 
+98.238 100.217 VAN so_eng pretty_eng much_eng yo_spa creo_spa que_spa todas_spa era_spa _eng esto_spa 
+99.015 99.375 LEA _eng o_k_engspa 
+99.941 101.125 spa_spa este_spa se_spa formó_spa 
+101.132 102.618 VAN _eng _eng spa_eng tremendo_eng lío_eng 
+102.072 103.065 spa_spa tremenda_spa lío_spa 
+102.867 103.581 VAN really_eng 
+103.245 104.301 LEA big_eng time_eng yeah_eng 
+104.244 106.723 LEA pero_spa bueno_spa eso_spa _eng eso_spa _eng eso_spa es_spa y_eng después_spa te_spa lo_spa 
+106.639 107.562 VAN mmhm_eng laugh_eng 
+107.278 108.137 LEA _eng _eng spa_eng te_eng lo_eng cuento_eng 
+108.073 112.474 LEA entonces_spa también_spa este_spa _eng este_spa se_spa va_spa a_spa tener_spa que_spa abrir_spa in_eng a_eng commercial_eng folder_eng 
+110.128 110.685 VAN _eng mmhm_eng 
+111.707 112.258 VAN o_k_engspa 
+112.308 112.656 LEA o_k_engspa 
+112.645 114.338 VAN which_eng the_eng commercials_eng are_eng different_eng as_eng well_eng right_eng 
+114.277 119.571 LEA yeah_eng pero_spa _eng but_eng if_eng its_eng like_eng como_spa ese_spa que_spa es_spa just_eng a_eng G_O_engspa lo_spa hacemos_spa en_spa el_spa finito_spa para_spa no_spa coger_spa the_eng 
+118.108 118.787 VAN _eng oh_eng yeah_eng 
+119.066 120.018 VAN _eng sí_spa pero_spa no_spa los_spa big_eng ones_eng 
+119.937 120.314 LEA right_eng 
+119.937 120.314 VAN o_k_engspa 
+120.311 124.76 VAN sí_spa únicamente_spa que_spa they_eng have_eng like_eng everything_eng like_eng homeowners_eng insurance_eng mumble_eng whatever_eng flood_eng 
+124.035 125.004 LEA _eng then_eng we_eng do_eng the_eng big_eng one_eng 
+124.981 125.346 LEA yeah_eng 
+125.23 125.857 VAN o_k_engspa 
+125.805 127.123 LEA um_eng o_k_engspa what_eng else_eng 
+127.024 129.131 VAN entonces_spa nada_spa xxx_eng es_spa Julia_engspa Pérez_engspa 
+129.09 129.473 LEA _eng o_k_engspa 
+129.473 133.038 LEA Morales_engspa Muñoz_engspa we_eng just_eng redid_eng again_eng 
+129.537 130.425 VAN _eng _eng spa_eng pero_eng e_eng 
+130.744 131.226 VAN _eng _eng spa_eng ajá_eng 
+134.212 138.722 LEA so_eng este_spa es_spa signature_eng and_eng the_eng processing_eng of_eng the_eng thing_eng 
+138.449 138.977 VAN o_k_engspa 
+138.803 140.011 VAN so_eng todo_spa está_spa en_spa finance_eng 
+139.656 140.162 LEA _eng yes_eng 
+140.144 141.09 VAN o_k_engspa 
+141.07 141.599 LEA so_eng 
+142.609 145.28 VAN and_eng these_eng are_eng all_eng like_eng renewals_eng that_eng came_eng in_eng or_eng 
+145.201 146.136 VAN oh_engspa xxx_eng 
+145.82 147.897 spa_spa estos_spa _spa estos_spa son_spa los_spa _spa los_spa problemáticos_spa 
+147.882 149.681 VAN ah_engspa que_spa tuvieron_spa que_spa rescribirlos_spa 
+149.681 150.616 spa_spa todo_spa 
+150.115 151.99 LEA _eng because_eng she_eng forgot_eng this_eng xxx_eng 
+152.659 153.396 VAN really_eng 
+153.178 157.417 LEA _eng cuando_spa se_spa hizo_spa _eng cuando_spa _eng cuando_spa se_spa arregló_spa el_spa problema_spa she_eng forgot_eng normally_eng 
+155.077 155.959 spa_spa ajá_spa 
+157.33 158.654 spa_spa y_spa pasó_spa un_spa mes_spa 
+158.642 160.401 spa_spa todo_spa el_spa mundo_spa cogió_spa cancelación_spa 
+159.914 162.735 spa_spa y_spa _spa y_spa la_spa _spa y_spa no_spa tenían_spa la_spa explicación_spa en_spa xxx_spa 
+162.544 164.924 VAN _eng oh_engspa my_eng god_eng what_eng a_eng mess_eng _eng laugh_eng 
+162.735 163.06 spa_spa no_spa 
+163.06 164.61 spa_spa no_spa había_spa nada_spa nada_spa nada_spa nada_spa nada_spa 
+165.531 167.481 LEA _eng yeah_eng yeah_eng _eng so_eng imagínate_spa viernes_spa aquí_spa 
+167.567 169.215 VAN holy_eng ʃ_eng shoot_eng 
+168.388 169.949 LEA _eng _eng spa_eng cómo_eng fue_eng la_eng 
+169.577 171.614 LEA ok_eng what_eng _eng this_eng is_eng _eng what_eng did_eng we_eng do_eng here_eng 
+171.907 174.78 VAN entonces_spa these_eng are_eng for_eng the_eng contracts_eng to_eng do_eng that_eng 
+174.786 175.442 LEA o_k_engspa 
+175.369 176.565 LEA this_eng is_eng new_eng 
+177.459 178.179 VAN mmhm_eng 
+178.217 179.036 LEA o_k_engspa 
+179.018 180.574 LEA this_eng is_eng new_eng 
+180.518 181.441 VAN xxx_eng 
+182.788 183.391 LEA right_eng 
+182.826 184.48 VAN and_eng he_eng paid_eng it_eng off_eng or_eng 
+183.731 184.376 LEA _eng he_eng paid_eng it_eng off_eng 
+184.449 184.652 LEA yes_eng 
+184.658 185.657 LEA so_eng a_spa este_spa no_spa más_spa hay_spa que_spa hacerle_spa copia_spa 
+185.661 186.491 spa_spa y_spa mandarlo_spa de_spa nuevo_spa 
+185.886 187.297 VAN o_k_engspa perfect_eng 
+187.101 188.513 LEA o_k_engspa another_eng thing_eng 
+188.513 189.349 VAN mmhm_eng 
+190.817 195.385 LEA I_eng need_eng to_eng know_eng if_eng anything_eng new_eng has_eng been_eng done_eng within_eng the_eng last_eng _eng two_eng weeks_eng 
+195.09 196.024 VAN mmhm_eng 
+195.362 197.301 LEA _eng so_eng we_eng can_eng keep_eng track_eng of_eng it_eng in_eng the_eng binder_eng book_eng 
+196.785 197.163 VAN _eng o_k_engspa 
+197.31 199.771 VAN alright_eng yeah_eng Ive_eng been_eng writing_eng them_eng here_eng 
+199.284 200.31 LEA _eng youve_eng been_eng doing_eng them_eng here_eng 
+200.316 200.513 LEA o_k_engspa 
+200.409 200.676 VAN yeah_eng 
+200.745 202.539 VAN yeah_eng Ive_eng been_eng writing_eng them_eng here_eng 
+202.574 203.81 LEA ok_eng but_eng how_eng do_eng you_eng know_eng if_eng its_eng new_eng 
+202.723 203.275 VAN _eng like_eng 
+203.635 204.791 VAN right_eng thats_eng what_eng Im_eng saying_eng 
+204.739 206.219 VAN Ill_eng have_eng to_eng find_eng _eng figure_eng out_eng if_eng its_eng new_eng 
+206.299 207.472 VAN I_eng know_eng this_eng one_eng was_eng new_eng 
+207.425 207.745 LEA mmhm_eng 
+207.724 209.674 VAN Mayra_engspa o_spa Tina_engspa 
+209.663 210.644 spa_spa estos_spa no_spa eran_spa nuevos_spa 
+210.624 212.586 spa_spa hubo_spa algunos_spa que_spa se_spa pusieron_spa 
+212.551 212.986 VAN mmhm_eng 
+214.973 215.629 spa_spa aquí_spa 
+214.973 215.629 VAN laugh_eng 
+215.647 218.358 LEA so_eng well_eng see_eng here_eng cause_eng we_eng have_eng an_eng idea_eng 
+217.121 217.673 VAN _eng ah_engspa o_k_engspa 
+218.277 218.985 VAN mmhm_eng 
+221.755 223.496 OSE www_eng 
+225.691 228.419 VAN xxx_eng 
+229.245 230.569 spa_spa xxx_spa teléfono_spa ese_spa 
+230.422 231.403 LEA o_k_engspa 
+231.247 232.501 LEA the_eng last_eng new_eng 
+232.49 233.541 LEA o_k_engspa wait_eng 
+233.535 235.3 LEA Ricardo_engspa Hernández_engspa 
+234.713 235.299 VAN mmhm_eng 
+235.253 236.054 LEA we_eng did_eng 
+236.106 236.786 LEA is_eng he_eng there_eng 
+236.285 239.205 VAN _eng sí_spa Ricardo_engspa Hernandez_engspa is_eng here_eng somewhere_eng on_eng here_eng 
+238.492 238.892 LEA _eng nope_eng 
+238.875 239.601 LEA _eng hes_eng not_eng 
+240.464 242.699 LEA because_eng Ricardo_engspa Hernández_engspa we_eng did_eng under_eng me_eng 
+242.705 244.237 VAN oh_engspa 
+244.066 245.047 spa_spa y_spa yo_spa no_spa lo_spa escribí_spa 
+244.666 246.628 LEA _eng I_eng dont_eng know_eng this_eng is_eng under_eng what_eng still_eng 
+246.535 247.696 LEA this_eng is_eng under_eng 
+247.638 248.265 VAN Ana_engspa 
+248.254 248.741 LEA yeah_eng 
+248.463 249.432 VAN xxx_eng 
+249.35 249.814 LEA o_k_engspa 
+249.797 250.911 LEA then_eng we_eng did_eng Kelly_engspa Flores_engspa 
+250.9 251.709 VAN mmhm_eng 
+252.17 254.225 VAN no_eng but_eng I_eng dont_eng have_eng that_eng here_eng 
+254.282 255.786 VAN unless_eng its_eng _eng pero_spa qué_spa 
+255.119 256.269 LEA _eng which_eng was_eng three_eng five_eng 
+256.274 258.23 LEA I_eng wonder_eng if_eng its_eng Colsengspa_eng _eng if_eng its_eng Colleen_engspa no_eng 
+258.721 259.313 VAN ah_engspa no_eng perdón_spa 
+259.249 260.538 VAN pero_spa three_eng five_eng is_eng here_eng 
+260.53 260.832 spa_spa mira_spa 
+260.803 261.151 LEA o_k_engspa 
+261.105 261.987 spa_spa mira_spa Ricardo_engspa Hernández_engspa 
+261.924 262.545 spa_spa ya_spa lo_spa tenía_spa 
+262.545 263.102 LEA _eng Ricardo_engspa Hernández_engspa 
+263.131 263.59 VAN aha_engspa 
+263.498 264.287 spa_spa y_spa cuál_spa era_spa el_spa otro_spa 
+263.537 263.88 LEA o_k_engspa 
+264.258 265.1 VAN Kelly_engspa Flores_engspa 
+265.043 266.093 LEA Kelly_engspa Flores_engspa 
+266.23 268.743 VAN ah_engspa that_eng one_eng I_eng dont_eng see_eng here_eng 
+267.646 268.581 LEA _eng no_eng 
+268.639 269.898 LEA Rosa_engspa María_engspa Salgado_engspa 
+270.083 271.163 VAN that_eng one_eng 
+271.488 272.15 LEA is_eng there_eng 
+272.196 273.377 VAN yes_eng Salgado_engspa right_eng there_eng 
+273.198 275.788 LEA _eng e Catalina_engspa Loango_engspa 
+275.66 277.901 VAN sí_spa esa_spa está_spa ahí_spa Catalina_engspa 
+277.287 277.74 LEA o_k_engspa 
+278.454 279.133 LEA ah_engspa 
+281.499 282.323 LEA thats_eng it_eng 
+282.712 283.414 VAN mmhm_eng 
+283.333 284.169 LEA after_eng that_eng thats_eng it_eng 
+283.993 286.012 VAN _eng so_eng Kelly_engspa Flores_engspa xxx_eng 
+285.073 286.669 LEA yeah_eng so_eng we_eng need_eng to_eng find_eng out_eng 
+286.019 286.773 OSE www_eng 
+286.715 287.209 LEA bye_eng 
+286.875 290.109 OSE www_eng 
+288.193 290.109 LEA _eng thank_eng you_eng 
+290.117 291.0 spa_spa sí_spa verdad_spa 
+290.117 291.0 VAN _eng _eng spa_eng hasta_eng luego_eng 
+292.184 294.419 OSE www_eng 
+298.813 303.263 LEA so_eng anything_eng under_eng Catasengspa_eng _eng after_eng Catalina_engspa because_eng maybe_eng some_eng of_eng those_eng are_eng renewals_eng 
+299.36 300.056 VAN _eng o_k_engspa 
+301.383 301.853 VAN _eng _eng spa_eng ajá_eng 
+303.205 303.85 LEA Im_eng not_eng sure_eng 
+303.205 303.85 spa_spa sí_spa sí_spa 
+304.202 305.286 spa_spa sí_spa no_spa todos_spa son_spa nuevos_spa 
+305.239 307.167 VAN theyre_eng not_eng all_eng new_eng 
+305.994 307.167 OSE www_eng 
+307.126 308.612 LEA youre_eng very_eng welcome_eng 
+308.362 309.756 VAN are_eng you_eng better_eng feeling_eng better_eng 
+309.303 311.178 OSE _eng www_eng 
+309.644 310.312 LEA yes_eng 
+310.922 312.548 VAN well_eng you_eng dont_eng look_eng better_eng laugh_eng 
+312.525 313.825 LEA no_eng you_eng shoulda_eng seen_eng her_eng Friday_eng 
+313.215 313.999 OSE www_eng 
+313.935 315.526 OSE www_eng 
+314.049 314.786 VAN _eng oh_engspa my_eng god_eng 
+314.497 315.526 LEA ay_spa thank_eng you_eng 
+315.485 316.786 VAN I_eng know_eng theyre_eng very_eng nice_eng 
+315.485 316.786 LEA _eng yes_eng theyre_eng brown_eng 
+316.786 317.981 OSE www_eng 
+317.888 318.557 VAN theyre_eng super_eng xxx_eng 
+318.526 320.46 spa_spa como_spa se_spa están_spa usando_spa los_spa zapatos_spa esos_spa así_spa 
+320.436 320.83 LEA yeah_eng 
+320.787 322.186 VAN gorgeous_eng right_eng 
+321.607 323.36 LEA _eng I_eng got_eng these_eng at_eng Banana_republic_engspa on_eng sale_eng 
+323.313 323.9 VAN really_eng 
+323.859 324.875 LEA on_eng like_eng a_eng clearance_eng 
+324.219 326.947 VAN _eng you_eng know_eng oh_engspa my_eng god_eng when_eng I_eng was_eng in_eng Orlando_engspa I_eng went_eng to_eng the_eng premium_eng outlets_eng 
+326.936 327.528 LEA mmhm_eng 
+327.528 329.041 VAN and_eng we_eng went_eng to_eng Banana_republic_engspa 
+329.327 332.369 VAN oh_engspa my_eng god_eng the_eng mens_eng shirts_eng were_eng like_eng seven_eng dollars_eng 
+332.375 334.558 VAN the_eng _eng las_spa camisetas_spa de_spa mujeres_spa diez_spa dólares_spa 
+334.33 334.748 LEA _eng mmhm_eng 
+334.59 336.877 VAN oh_engspa my_eng god_eng I_eng was_eng like_eng loving_eng life_eng laugh_eng 
+335.635 336.215 LEA _eng _eng spa_eng sí_eng 
+336.779 338.265 LEA squeal_eng 
+337.82 339.067 VAN they_eng were_eng super_eng nice_eng 
+338.987 341.807 VAN man_eng that_eng _eng I_eng had_eng _eng I_eng had_eng never_eng been_eng to_eng that_eng l_eng outlet_eng pero_spa qué_spa nice_eng 
+341.666 345.601 OSE www_eng 
+343.082 343.552 VAN _eng really_eng 
+345.015 347.186 VAN ʧ_eng Coach_engspa they_eng had_eng the_eng Coach_engspa 
+346.086 348.211 OSE www_eng 
+347.412 348.289 LEA did_eng you_eng go_eng to_eng the_eng Coach_engspa 
+348.271 349.438 VAN _eng oh_engspa my_eng god_eng I_eng was_eng dying_eng 
+348.82 349.558 LEA _eng did_eng you_eng buy_eng anything_eng 
+349.552 350.87 VAN no_eng but_eng I_eng was_eng dying_eng 
+350.748 354.457 VAN pero_spa es_spa que_spa tú_spa sabes_spa no_spa era_spa tan_spa barato_spa como_spa you_eng know_eng 
+350.748 354.457 OSE www_eng 
+353.839 357.895 LEA no_eng its_eng not_eng that_eng cheap_eng because_eng theyre_eng still_eng like_eng two_eng hundred_eng a_eng hundred_eng and_eng eighty_eng 
+355.91 357.872 OSE _eng www_eng 
+357.069 357.812 VAN _eng exactly_eng 
+357.719 358.798 LEA theyre_eng still_eng up_eng there_eng 
+358.05 361.365 VAN _eng but_eng you_eng know_eng that_eng I_eng saw_eng your_eng little_eng coin_eng purse_eng the_eng little_eng one_eng you_eng showed_eng me_eng 
+361.11 361.76 OSE www_eng 
+361.702 362.868 VAN it_eng was_eng nineteen_eng dollars_eng 
+362.845 364.122 OSE www_eng 
+364.053 365.73 OSE www_eng 
+364.053 365.73 VAN they_eng were_eng so_eng cute_eng yeah_eng 
+365.173 365.614 LEA _eng which_eng one_eng 
+365.562 367.559 OSE www_eng 
+366.333 367.581 VAN a_eng little_eng coin_eng purse_eng 
+367.595 369.829 OSE www_eng 
+369.399 371.071 OSE www_eng 
+370.557 373.332 VAN ah_engspa porque_spa estaba_spa ahí_spa guardado_spa 
+372.13 375.486 OSE www_eng 
+374.202 375.293 spa_spa ay_spa qué_spa cómica_spa 
+375.468 376.873 OSE www_eng 
+376.844 378.516 VAN mira_spa theyre_eng super_eng cute_eng 
+377.435 378.602 LEA oh_engspa 
+378.405 379.433 spa_spa yo_spa la_spa vi_spa en_spa negra_spa 
+379.352 381.14 spa_spa en_spa este_spa color_spa no_spa lo_spa tenía_spa 
+379.793 381.511 OSE www_eng 
+381.337 382.475 VAN yeah_eng yeah_eng 
+382.25 383.887 OSE www_eng 
+382.436 383.562 LEA where_eng did_eng you_eng buy_eng that_eng one_eng 
+383.633 385.902 OSE www_eng 
+385.63 387.248 VAN _eng but_eng you_eng bought_eng that_eng in_eng an_eng outlet_eng too_eng right_eng 
+385.749 389.034 LEA _eng you_eng know_eng _eng you_eng know_eng that_eng they_eng have_eng an_eng outlet_eng in_eng Sawgrass_engspa 
+386.829 389.029 OSE _eng www_eng 
+388.953 389.696 VAN which_eng outlet_eng 
+389.69 390.509 VAN here_eng 
+389.997 391.042 OSE www_eng 
+390.757 391.669 VAN oh_engspa in_eng Orlando_engspa 
+391.519 392.372 LEA but_eng they_eng have_eng 
+391.589 395.228 OSE www_eng 
+395.308 397.009 LEA they_eng have_eng a_eng Sawgrass_engspa outlet_eng 
+395.331 395.784 spa_spa claro_spa 
+396.428 398.292 VAN yeah_eng Ive_eng got_eng enough_eng Ive_eng got_eng enough_eng 
+396.783 397.973 LEA did_eng you_eng know_eng that_eng 
+398.903 399.53 VAN they_eng have_eng a_eng what_eng 
+399.308 400.033 VAN an_eng outlet_eng 
+399.704 400.743 LEA an_eng outlet_eng in_eng Sawgrass_engspa 
+400.894 401.782 VAN of_eng the_eng Coach_engspa outlet_eng 
+401.759 402.839 VAN really_eng 
+402.35 402.791 OSE www_eng 
+402.842 405.901 VAN yo_spa hace_spa años_spa que_spa no_spa voy_spa a_spa Sawgrass_eng because_eng its_eng so_eng far_eng for_eng me_eng now_eng 
+405.367 406.092 LEA Ive_eng never_eng been_eng there_eng 
+406.075 407.084 LEA Ive_eng been_eng there_eng once_eng or_eng twice_eng 
+406.51 408.223 OSE www_eng 
+406.975 408.281 VAN I_eng used_eng to_eng work_eng around_eng there_eng 
+408.252 409.262 VAN so_eng yo_spa iba_spa for_eng lunch_eng 
+409.308 410.295 VAN it_eng was_eng like_eng something_eng common_eng 
+409.744 410.255 LEA _eng mmhm_eng 
+410.4 412.489 VAN y_spa después_spa que_spa me_spa mudé_spa forget_eng it_eng thats_eng it_eng 
+412.121 413.224 VAN its_eng been_eng more_eng than_eng a_eng year_eng 
+413.162 414.485 OSE www_eng 
+413.163 419.438 VAN I_eng know_eng I_eng know_eng 
+414.491 415.252 OSE www_eng 
+419.032 421.011 OSE www_eng 
+421.017 421.783 OSE _eng www_eng 
+421.371 424.575 OSE www_eng 
+424.404 427.04 LEA I_eng have_eng a_eng gazillion_eng Coach_engspa purses_eng 
+426.953 429.129 LEA I_eng need_eng _eng _eng I_eng need_eng _eng I_eng need_eng to_eng like_eng alternate_eng them_eng 
+427.106 429.754 OSE www_eng 
+429.719 430.989 LEA because_eng cuando_spa _eng I_eng have_eng a_eng lot_eng of_eng them_eng 
+430.931 433.793 LEA but_eng cuando_spa la_spa cojo_spa con_spa una_spa thats_eng the_eng one_eng that_eng I_eng wear_eng for_eng like_eng i 
+433.148 434.814 VAN _eng _eng spa_eng yo_eng también_eng _eng yo_eng también_eng 
+433.148 434.814 OSE www_eng 
+435.532 436.948 VAN pero_spa you_eng know_eng what_eng it_eng is_eng for_eng me_eng 
+436.734 441.274 VAN at_eng least_eng I_eng find_eng que_spa in_eng my_eng closet_eng theyre_eng not_eng organized_eng so_eng that_eng I_eng can_eng actually_eng change_eng them_eng 
+441.233 445.714 VAN you_eng know_eng I_eng have_eng to_eng take_eng down_eng the_eng box_eng change_eng my_eng purse_eng entonces_spa ya_spa no_spa me_spa da_spa ganas_spa de_spa cambiarla_spa 
+445.322 450.79 LEA _eng I_eng bought_eng um_eng un_spa little_eng estante_spa de_spa esos_spa de_spa like_eng Tupperware_eng that_eng has_eng two_eng drawers_eng 
+450.644 451.184 spa_spa ajá_spa 
+450.737 452.008 LEA and_eng then_eng I_eng shoved_eng them_eng there_eng 
+451.986 454.476 LEA but_eng still_eng and_eng I_eng look_eng at_eng the_eng damn_eng thing_eng everday_eng 
+454.081 455.416 VAN laugh_eng 
+454.401 455.859 OSE _eng www_eng 
+454.482 455.503 LEA and_eng Im_eng like_eng 
+455.677 457.291 LEA yes_eng yesterday_eng I_eng was_eng looking_eng for_eng something_eng 
+457.088 457.349 LEA and_eng I_eng said_eng 
+457.233 458.906 LEA _eng oh_engspa look_eng Im_eng going_eng to_eng bring_eng this_eng one_eng tomorrow_eng 
+458.876 460.194 LEA and_eng look_eng I_eng brought_eng the_eng same_eng one_eng 
+460.247 461.494 spa_spa no_spa yo_spa soy_spa igual_spa 
+461.47 462.77 VAN yo_spa cuando_spa la_spa cojo_spa con_spa uno_spa forget_eng it_eng 
+462.48 462.886 LEA _eng yeah_eng 
+463.039 464.525 OSE www_eng 
+464.525 466.435 VAN oh_engspa I_eng never_eng take_eng off_eng my_eng ear_rings_eng 
+464.525 466.435 OSE www_eng 
+466.345 467.059 LEA mmhm_eng 
+466.486 466.922 VAN _eng right_eng 
+468.827 473.21 OSE www_eng 
+473.192 474.533 OSE www_eng 
+474.513 475.802 VAN right_eng 
+475.279 477.23 OSE www_eng 
+477.18 479.085 OSE www_eng 
+479.213 481.366 OSE www_eng 
+481.086 481.539 LEA yeah_eng 
+481.517 484.267 VAN yeah_eng I_eng never_eng take_eng mine_eng off_eng ever_eng ever_eng ever_eng 
+481.517 484.007 OSE www_eng 
+483.719 484.712 LEA no_eng me_eng neither_eng 
+484.689 485.194 VAN never_eng 
+485.487 488.349 LEA oh_engspa yeah_eng speaking_eng of_eng did_eng _eng did_eng you_eng go_eng pick_eng up_eng your_eng bracelet_eng at_eng the_eng place_eng 
+487.814 488.731 VAN _eng no_eng they_eng didnt_eng call_eng me_eng yet_eng 
+488.697 489.498 VAN I_eng wasnt_eng sure_eng 
+489.44 489.869 LEA oh_engspa 
+489.782 491.228 VAN I_eng have_eng to_eng call_eng today_eng 
+491.307 492.45 VAN he_eng called_eng you_eng 
+492.415 493.733 LEA no_eng but_eng I_eng remembered_eng 
+493.414 494.656 LEA and_eng I_eng was_eng like_eng I_eng wonder_eng if_eng she_eng went_eng 
+493.961 495.117 spa_spa no_spa porque_spa como_spa 
+495.122 496.278 VAN no_spa yo_spa tengo_spa el_spa tiquecito_spa 
+496.26 497.357 VAN were_eng gonna_eng go_eng maybe_eng this_eng afternoon_eng 
+497.697 499.281 VAN you_eng said_eng it_eng was_eng by_eng one_eng fifty_eng second_eng right_eng 
+499.252 500.936 VAN I_eng have_eng the_eng address_eng and_eng everything_eng like_eng that_eng 
+499.848 501.792 LEA _eng yeah_eng yeah_eng yeah_eng yeah_eng yeah_eng 
+500.844 502.992 spa_spa sí_spa no_spa yo_spa lo_spa pensé_spa el_spa otro_spa día_spa 
+502.621 503.439 VAN and_eng I_eng was_eng going_eng to_eng ask_eng you_eng 
+503.451 504.194 VAN and_eng then_eng I_eng forgot_eng 
+504.606 504.925 LEA mm_eng 
+504.861 507.202 VAN so_eng I_eng thought_eng maybe_eng he_eng was_eng gonna_eng call_eng here_eng you_eng know_eng 
+506.771 509.209 VAN pero_spa since_eng I_eng wasnt_eng here_eng laugh_eng 
+508.5 509.127 LEA yeah_eng 
+509.723 510.107 LEA so_eng 
+509.944 513.311 VAN alright_eng so_eng _eng so_eng anything_eng under_eng Catalina_engspa Loango_engspa 
+511.517 514.791 LEA _eng alright_eng so_eng then_eng we_eng need_eng to_eng figure_eng out_eng whos_eng new_eng from_eng there_eng on_eng 
+514.64 517.612 LEA and_eng then_eng just_eng put_eng it_eng in_eng here_eng so_eng we_eng have_eng a_eng record_eng 
+517.617 518.116 VAN mmhm_eng 
+517.638 522.63 LEA and_eng then_eng whatever_eng _eng whatevers_eng Ana_engspa I_eng _eng I_eng did_eng her_eng initials_eng _eng so_eng _eng so_eng that_eng we_eng know_eng 
+520.692 522.051 VAN _eng ah_engspa o_k_engspa o_k_engspa 
+522.376 523.125 VAN o_k_engspa o_k_engspa 
+522.625 524.222 LEA you_eng know_eng its_eng that_eng or_eng whatever_eng 
+523.725 525.008 VAN so_eng esto_spa no_spa más_spa que_spa es_spa nuevo_spa 
+525.03 526.945 LEA esto_spa es_spa only_eng new_eng 
+525.244 526.075 VAN _eng only_eng new_eng 
+526.911 530.516 LEA I_eng dont_eng put_eng _eng homeowner_eng renewals_eng in_eng here_eng 
+530.485 531.234 VAN o_k_engspa 
+531.193 531.698 LEA I_eng dont_eng 
+531.669 534.606 LEA If_eng its_eng an_eng auto_eng renewal_eng and_eng we_eng do_eng it_eng then_eng yes_eng 
+533.915 534.897 VAN _eng mmhm_eng 
+534.84 535.472 VAN o_k_engspa 
+535.576 539.326 LEA but_eng other_eng than_eng that_eng its_eng just_eng new_eng new_eng stuff_eng or_eng commercial_eng and_eng whatever_eng 
+536.446 538.037 VAN _eng sí_spa nada_spa más_spa o_k_engspa 
+538.512 538.924 VAN o_k_engspa 
+538.912 540.404 VAN so_eng esto_spa yo_spa lo_spa 
+539.591 540.329 LEA _eng o_k_engspa so_eng yes_eng 
+540.302 542.247 VAN so_eng Ill_eng figure_eng that_eng out_eng then_eng 
+540.337 542.351 LEA so_eng we_eng gotta_eng keep_eng this_eng out_eng yeah_eng 
+542.31 542.676 spa_spa ajá_spa 
+542.67 545.021 spa_spa y_spa lo_spa pongo_spa esto_spa aquí_spa para_spa hacer_spa eso_spa 
+543.483 546.054 LEA _eng then_eng what_eng else_eng 
+544.95 546.367 VAN so_eng entonces_spa these_eng things_eng are_eng new_eng 
+546.355 548.892 VAN and_eng I_eng just_eng have_eng to_eng make_eng sure_eng to_eng make_eng copies_eng of_eng the_eng things_eng 
+549.037 553.059 VAN and_eng then_eng Ill_eng put_eng the_eng _eng the_eng contracts_eng to_eng the_eng side_eng the_eng finance_eng contracts_eng 
+553.059 554.197 VAN and_eng then_eng well_eng do_eng that_eng new_eng 
+554.127 554.76 LEA yes_eng 
+554.882 557.109 VAN o_k_engspa y_spa eso_spa ya_spa creo_spa que_spa estaba_spa aquí_spa yes_eng 
+556.622 557.132 LEA _eng yes_eng 
+557.056 558.398 spa_spa esto_spa xxx_spa 
+558.188 558.611 VAN no_eng 
+558.588 559.151 LEA _eng I_eng dont_eng know_eng 
+558.588 559.662 VAN there_eng was_eng something_eng here_eng 
+559.308 560.597 LEA _eng I_eng have_eng to_eng go_eng pee_eng 
+563.871 567.262 spa_spa em_spa _spa este_spa xxx_spa yo_spa lo_spa vi_spa por_spa aquí_spa también_spa 
+567.242 569.448 spa_spa dejáme_spa ver_spa cuál_spa es_spa el_spa laugh_spa 
+569.204 570.254 OSE www_eng 
+570.225 571.706 spa_spa un_spa empleado_spa nuevo_spa 
+570.707 571.433 OSE www_eng 
+571.893 574.68 VAN laugh_eng look_eng thats_eng Leahs_engspa husband_eng 
+573.833 576.087 OSE www_eng 
+575.994 577.213 OSE www_eng 
+577.056 578.135 VAN how_eng are_eng you_eng 
+579.22 581.171 spa_spa está_spa ahí_spa coloreando_spa 
+580.944 582.907 OSE www_eng 
+582.757 583.942 OSE www_eng 
+583.814 584.719 OSE www_eng 
+586.274 588.996 VAN hes_eng a_eng _eng hes_eng _eng he_eng _eng él_spa encanta_spa m_eng pintar_spa 
+588.7 589.988 VAN he_eng paints_eng really_eng really_eng nice_eng 
+589.629 590.604 OSE www_eng 
+589.971 590.772 VAN yeah_eng 
+591.225 591.927 VAN hes_eng really_eng really_eng nice_eng 
+593.469 598.305 VAN entonces_spa dejáme_spa ver_spa what_eng else_eng I_eng need_eng to_eng do_eng 
+598.128 600.792 OSE _eng www_eng 
+600.618 603.683 OSE _eng www_eng 
+603.549 604.588 OSE www_eng 
+604.586 605.871 OSE www_eng 
+605.671 609.81 OSE www_eng 
+609.616 611.659 OSE www_eng 
+611.322 613.226 OSE www_eng 
+612.747 616.19 OSE www_eng 
+616.01 617.461 OSE www_eng 
+616.543 619.26 spa_spa he_spa estado_spa once_spa minutos_spa hablando_spa 
+618.883 619.644 OSE www_eng 
+619.614 620.938 spa_spa yo_spa laugh_spa 
+620.445 621.612 OSE www_eng 
+621.246 621.577 VAN yeah_eng 
+621.556 623.193 VAN eleven_eng minutes_eng 
+623.17 625.887 OSE www_eng 
+625.629 627.364 VAN but_eng yeah_eng this_eng is_eng hers_eng 
+625.629 627.364 OSE www_eng 
+627.248 627.695 VAN yeah_eng 
+627.4 632.479 OSE _eng www_eng 
+629.064 630.712 VAN so_eng what_eng did_eng you_eng guys_eng do_eng on_eng the_eng weekend_eng 
+631.782 632.804 VAN uhuh_eng 
+632.354 633.468 OSE www_eng 
+633.451 634.171 VAN wow_eng 
+634.298 639.61 OSE www_eng 
+635.4 636.77 VAN _eng oh_engspa I_eng love_eng it_eng 
+639.64 642.449 OSE www_eng 
+642.071 642.46 VAN wow_eng 
+642.35 643.981 VAN what_eng two_eng sides_eng 
+643.65 645.363 OSE www_eng 
+645.296 648.135 OSE www_eng 
+647.519 648.238 VAN _eng yeah_eng 
+648.187 648.895 OSE www_eng 
+651.246 652.564 OSE www_eng 
+652.546 654.514 OSE www_eng 
+653.413 655.428 VAN you_eng know_eng él_eng _eng él_eng _eng él_spa tiene_spa la_spa cosa_spa esa_spa negra_spa ahí_spa 
+654.596 655.643 OSE _eng www_eng 
+655.433 658.371 VAN they_eng were_eng um_eng pretending_eng to_eng be_eng football_eng players_eng 
+655.533 656.938 OSE www_eng 
+656.944 658.778 OSE www_eng 
+658.637 659.764 OSE www_eng 
+659.433 660.913 OSE www_eng 
+659.464 660.904 VAN they_eng would_eng pretend_eng to_eng be_eng football_eng players_eng 
+660.917 662.978 VAN but_eng of_eng course_eng they_eng did_eng it_eng with_eng permanent_eng marker_eng 
+661.511 662.347 OSE _eng www_eng 
+663.161 664.322 OSE www_eng 
+664.252 665.285 OSE www_eng 
+665.274 666.475 OSE www_eng 
+666.475 667.735 VAN thats_eng crazy_eng 
+667.744 670.809 VAN yo_spa traté_spa I_eng was_eng like_eng rubbing_eng it_eng pero_spa no_spa 
+668.615 670.559 OSE www_eng 
+670.405 672.832 OSE www_eng 
+673.082 676.007 OSE www_eng 
+675.989 677.005 VAN so_eng no_spa no_spa va_spa él_spa 
+676.924 678.538 OSE www_eng 
+677.925 679.829 VAN baseball_eng players_eng and_eng football_eng players_eng and_eng 
+679.755 680.719 OSE www_eng 
+680.619 684.781 VAN and_eng there_eng was_eng three_eng of_eng them_eng porque_spa era_spa él_spa el_spa hermano_spa y_spa Selinassengspaeng_eng son_eng 
+684.674 685.783 OSE www_eng 
+685.777 686.677 OSE www_eng 
+686.436 688.032 VAN I_eng know_eng that_eng one_eng is_eng super_eng cute_eng 
+686.52 688.447 OSE www_eng 
+688.111 689.01 OSE www_eng 
+688.999 691.64 OSE www_eng 
+691.216 692.29 VAN yeah_eng 
+691.216 692.29 OSE www_eng 
+692.273 694.049 OSE www_eng 
+693.84 694.356 VAN yes_eng 
+693.841 696.807 OSE www_eng 
+694.321 696.08 VAN so_eng these_eng are_eng all_eng the_eng new_eng ones_eng 
+696.145 697.555 VAN _eng _eng spa_eng ajá_eng exacto_eng 
+697.563 698.979 spa_spa sí_spa yo_spa lo_spa voy_spa a_spa hacer_spa las_spa copias_spa 
+699.16 702.027 VAN Im_eng going_eng to_eng check_eng the_eng _eng the_eng _eng before_eng I_eng send_eng anything_eng out_eng Im_eng 
+699.843 704.341 OSE www_eng 
+702.962 704.088 VAN _eng exactly_eng exactly_eng 
+704.317 705.594 spa_spa dale_spa por_spa eso_spa te_spa pregunto_spa 
+704.33 706.936 OSE www_eng 
+706.472 707.012 VAN o_k_engspa 
+706.965 708.91 OSE www_eng 
+707.647 713.33 VAN and_eng no_eng thats_eng why_eng I_eng had_eng asked_eng you_eng if_eng Sabrina_engspa called_eng because_eng I_eng had_eng left_eng her_eng a_eng message_eng for_eng um_eng the_eng pictures_eng 
+713.162 715.937 VAN I_eng need_eng the_eng pictures_eng for_eng that_eng Ricardo_engspa Hernández_engspa guy_eng 
+715.821 716.07 OSE www_eng 
+715.919 717.66 VAN _eng we_eng got_eng the_eng payment_eng on_eng the_eng credit_eng card_eng 
+717.777 718.92 spa_spa pero_spa aiʃ_spa 
+718.535 719.312 OSE www_eng 
+719.556 721.106 VAN yes_eng yeah_eng its_eng _eng its_eng mailed_eng out_eng 
+720.816 723.678 VAN and_eng then_eng Citizens_eng sent_eng me_eng that_eng fax_eng thing_eng that_eng they_eng sent_eng 
+723.657 724.812 VAN so_eng they_eng needed_eng the_eng pictures_eng 
+724.87 727.297 VAN and_eng they_eng needed_eng um_eng her_eng phone_eng number_eng 
+726.456 729.091 OSE www_eng 
+727.347 729.715 VAN so_eng I_eng put_eng the_eng phone_eng number_eng on_eng the_eng mismo_spa papel_spa 
+729.558 731.584 spa_spa pero_spa le_spa tengo_spa que_spa mandar_spa la_spa foto_spa 
+732.475 734.089 LEA _eng xxx_eng 
+732.475 734.089 VAN and_eng thats_eng the_eng message_eng that_eng I_eng left_eng her_eng 
+733.793 735.279 OSE www_eng 
+735.279 738.733 VAN exactly_eng porque_spa eso_spa es_spa lo_spa del_spa mensaje_spa so_eng shes_eng aware_eng of_eng it_eng 
+740.061 741.86 VAN yeah_eng _eng so_eng 
+741.945 742.891 OSE www_eng 
+743.004 744.92 LEA did_eng you_eng guys_eng make_eng up_eng already_eng 
+744.856 745.941 VAN so_eng thats_eng that_eng 
+746.282 747.82 LEA did_eng you_eng guys_eng make_eng up_eng 
+748.038 751.44 VAN entonces_spa esto_spa I_eng have_eng to_eng figure_eng out_eng what_eng this_eng is_eng 
+751.423 753.901 VAN where_eng its_eng coming_eng from_eng 
+752.81 754.209 OSE www_eng 
+754.364 756.686 VAN a_eng sharpener_eng 
+756.628 758.312 VAN no_eng idea_eng papi_spa 
+761.245 763.636 VAN let_eng me_eng see_eng 
+763.381 766.034 spa_spa no_spa creo_spa papi_spa 
+765.918 766.91 OSE www_eng 
+766.701 767.456 OSE www_eng 
+767.056 769.888 VAN I_eng dont_eng think_eng I_eng have_eng a_eng sharpener_eng here_eng 
+768.983 770.626 spa_spa ya_spa almorzaron_spa 
+770.684 776.622 spa_spa bueno_spa pero_spa van_spa _spa van_spa a_spa venir_spa a_spa una_spa _spa a_spa una_spa hora_spa decente_spa 
+772.361 774.991 VAN let_eng me_eng check_eng but_eng I_eng dont_eng think_eng I_eng do_eng 
+774.143 777.534 OSE www_eng 
+778.413 779.452 VAN you_eng have_eng to_eng go_eng 
+779.348 780.468 OSE www_eng 
+780.688 781.75 VAN you_eng have_eng to_eng go_eng 
+782.041 784.386 OSE www_eng 
+782.44 783.984 LEA ah_engspa xxx_eng o_k_engspa 
+783.957 786.912 VAN yeah_eng 
+784.595 786.633 LEA alright_eng 
+787.325 787.894 VAN well_eng 
+787.854 789.178 OSE www_eng 
+788.655 790.002 LEA _eng twelve_eng fifty_eng 
+789.985 792.53 OSE www_eng 
+799.484 802.195 OSE www_eng 
+801.521 802.896 spa_spa xxx_spa las_spa cuatro_spa 
+805.316 807.614 OSE www_eng 
+807.556 809.565 VAN no_spa tenemos_spa black_eng 
+809.378 812.53 OSE www_eng 
+813.512 815.027 VAN ah_engspa no_spa sé_spa 
+816.97 822.908 OSE www_eng 
+825.503 826.687 VAN no_eng 
+826.687 829.613 OSE www_eng 
+829.276 830.78 VAN no_eng this_eng is_eng _eng this_eng is_eng a_eng black_eng one_eng 
+830.481 831.688 VAN pero_spa you_eng have_eng to_eng be_eng careful_eng 
+831.7 833.134 spa_spa no_spa lo_spa apretes_spa mucho_spa abajo_spa 
+835.144 835.916 LEA xxx_eng 
+838.27 839.152 spa_spa ajá_spa 
+838.881 843.937 OSE www_eng 
+842.03 843.377 LEA _eng oh_engspa o_k_engspa 
+843.771 846.279 OSE www_eng 
+846.448 848.114 OSE www_eng 
+847.393 848.037 VAN _eng yeah_eng 
+848.42 849.059 OSE www_eng 
+850.587 852.277 LEA _eng oh_engspa o_k_engspa 
+851.71 854.635 VAN o_k_engspa mamá_spa 
+859.576 861.99 LEA o_k_engspa o_k_engspa 
+864.321 865.123 VAN you_eng did_eng it_eng 
+864.914 865.628 VAN cool_eng 
+865.659 867.372 OSE www_eng 
+867.286 868.279 VAN yeah_eng 
+867.372 870.37 spa_spa no_spa no_spa tampoco_spa así_spa pero_spa bueno_spa 
+870.405 872.169 LEA o_k_engspa _eng o_k_engspa thats_eng fine_eng 
+872.135 874.491 LEA o_k_engspa bye_eng bye_eng 
+877.902 881.025 VAN alright_eng so_eng what_eng are_eng we_eng doing_eng now_eng 
+883.59 885.21 OSE www_eng 
+885.564 886.133 LEA o_k_engspa 
+886.481 887.996 spa_spa bueno_spa ya_spa 
+886.481 887.996 LEA _eng so_eng what_eng else_eng 
+887.558 887.988 VAN no_eng ya_spa 
+887.97 888.574 VAN so_eng ya_spa 
+888.551 889.276 VAN I_eng already_eng figured_eng it_eng out_eng 
+889.224 890.234 VAN Im_eng just_eng gonna_eng go_eng through_eng this_eng 
+890.054 890.96 VAN make_eng sure_eng we_eng have_eng everything_eng 
+890.944 891.96 VAN make_eng the_eng copies_eng 
+892.239 895.257 VAN separate_eng the_eng _eng the_eng finance_eng agreements_eng 
+893.704 894.255 LEA _eng o_k_engspa 
+895.23 897.703 VAN and_eng then_eng you_eng know_eng put_eng them_eng back_eng there_eng 
+897.255 900.018 VAN y_spa este_spa Ill_eng have_eng to_eng see_eng what_eng the_eng heck_eng 
+899.908 900.436 LEA o_k_engspa 
+900.432 901.866 LEA and_eng then_eng I_eng asked_eng her_eng 
+901.605 902.226 VAN _eng mmhm_eng 
+902.226 904.935 spa_spa porque_spa abajo_spa de_spa ahí_spa yo_spa me_spa había_spa encontrado_spa todo_spa xxx_spa 
+904.394 905.148 VAN _eng mmhm_eng 
+904.858 907.737 LEA theres_eng xxx_eng a_eng little_eng more_eng stuff_eng down_eng there_eng 
+907.495 909.225 spa_spa yə_spa yo_spa esto_spa también_spa estaba_spa aquí_spa 
+909.243 909.777 LEA yes_eng 
+909.637 910.253 spa_spa esto_spa 
+910.256 911.574 LEA _eng all_eng this_eng yeah_eng 
+911.83 912.718 VAN this_eng was_eng all_eng here_eng 
+911.853 912.985 LEA _eng so_eng its_eng that_eng new_eng stuff_eng 
+912.851 914.047 LEA is_eng it_eng old_eng stuff_eng 
+914.047 915.051 LEA what_eng is_eng it_eng 
+914.387 918.472 VAN _eng this_eng is_eng pretty_eng new_eng stuff_eng _eng this_eng is_eng pretty_eng new_eng things_eng that_eng I_eng have_eng opened_eng up_eng 
+918.437 919.122 LEA o_k_engspa 
+918.845 922.061 VAN yeah_eng pero_spa bueno_spa esos_spa son_spa premiums_eng too_eng 
+922.11 925.346 VAN mira_spa Fra_engspa _eng el_spa Francisco_engspa ese_spa que_spa that_eng was_eng _eng thats_eng the_eng file_eng thats_eng there_eng 
+925.335 925.846 LEA o_k_engspa 
+926.582 928.265 VAN but_eng I_eng have_eng to_eng figure_eng out_eng what_eng it_eng is_eng 
+926.582 928.265 LEA _eng because_eng I_eng wasnt_eng sure_eng 
+928.521 928.939 LEA yeah_eng 
+929.099 933.623 LEA and_eng then_eng this_eng thing_eng this_eng f_eng nightmare_eng that_eng just_eng doesnt_eng go_eng away_eng 
+931.133 931.945 VAN _eng mmhm_eng 
+933.588 934.999 VAN oh_spa sí_spa el_spa de_spa Luz_engspa 
+934.942 936.237 LEA yeah_eng heres_eng the_eng thing_eng 
+935.935 936.829 VAN mmhm_eng 
+936.251 940.373 LEA oh_engspa wait_eng this_eng is_eng mine_eng 
+940.81 942.174 LEA this_eng says_eng x_eng 
+942.151 943.016 VAN right_eng 
+943.272 946.151 LEA o_k_engspa it_eng does_eng _eng its_eng not_eng giving_eng me_eng a_eng base_eng flood_eng zone_eng 
+943.375 944.571 VAN _eng but_eng it_eng wants_eng it_eng 
+946.371 946.923 VAN mm_eng 
+947.263 951.257 LEA so_eng I_eng dont_eng know_eng what_eng numbers_eng esta_spa _eng esta_spa otra_spa mujer_spa puso_spa allá_spa adentro_spa 
+951.239 952.132 LEA so_eng then_eng 
+951.915 954.434 VAN _eng sí_spa porque_spa entonces_spa how_eng do_eng we_eng know_eng its_eng gonna_eng be_eng the_eng same_eng amount_eng right_eng 
+954.179 954.812 LEA _eng exactly_eng 
+954.598 960.275 LEA and_eng then_eng also_eng e the_eng lenders_eng requesting_eng flood_eng insurance_eng even_eng though_eng property_eng is_eng in_eng x_eng zone_eng 
+959.612 960.309 VAN mmhm_eng 
+960.284 965.71 LEA pero_spa _eng why_eng if_eng its_eng in_eng I_eng _eng I_eng dont_eng understand_eng if_eng its_eng in_eng you_eng know_eng 
+964.839 965.565 VAN _eng mmhm_eng 
+966.152 966.704 VAN right_eng 
+966.222 966.988 LEA why_eng 
+967.615 968.265 LEA and_eng then_eng 
+967.833 969.238 VAN _eng like_eng hes_eng doing_eng it_eng like_eng a_eng precaution_eng 
+969.168 970.718 VAN pero_spa how_eng do_eng we_eng know_eng that_eng 
+970.527 970.951 LEA exactly_eng 
+970.857 973.423 LEA and_eng then_eng whats_eng the_eng value_eng 
+971.35 972.783 VAN _eng whats_eng the_eng charge_eng on_eng it_eng right_eng 
+973.882 975.85 VAN we_eng need_eng the_eng appraisal_eng no_eng 
+974.346 975.35 LEA _eng whats_eng the_eng xxx_eng amount_eng 
+975.82 976.284 LEA yeah_eng 
+976.161 976.706 LEA _eng we_eng dont_eng know_eng 
+976.653 977.124 LEA _eng we_eng dont_eng 
+977.043 977.542 LEA I_eng mean_eng 
+977.101 981.326 VAN _eng sí_spa porque_spa supuestamente_spa nosotros_spa teníamos_spa un_spa code_eng o_spa algo_spa que_spa fue_spa lo_spa que_spa nosotros_spa le_spa mandamos_spa 
+981.106 981.802 spa_spa o_spa esto_spa 
+981.216 981.924 LEA _eng exactly_eng 
+981.819 983.317 spa_spa pero_spa adónde_spa está_spa 
+983.498 984.322 LEA because_eng that_eng was_eng from_eng 
+984.299 985.918 LEA I_eng dont_eng know_eng if_eng thats_eng still_eng in_eng the_eng computer_eng 
+985.889 987.004 LEA I_eng doubt_eng very_eng much_eng 
+986.904 988.094 spa_spa sí_spa yo_spa lo_spa dudo_spa 
+987.972 990.154 VAN y_spa era_spa nada_spa más_spa que_spa twenty_eng eight_eng thousand_eng building_eng 
+990.283 991.473 LEA yeah_eng 
+994.208 999.095 VAN if_eng _eng if_eng you_eng do_eng a_eng quote_eng without_eng those_eng numbers_eng and_eng only_eng that_eng building_eng would_eng it_eng come_eng up_eng too_eng at_eng one_eng eighty_eng eight_eng or_eng 
+998.887 1005.876 LEA the_eng only_eng thing_eng that_eng Im_eng thinking_eng is_eng that_eng she_eng did_eng that_eng preferred_eng que_spa the_eng preferred_eng is_eng in_eng an_eng x_eng zone_eng 
+1003.414 1004.006 VAN _eng mmhm_eng 
+1006.014 1007.831 spa_spa entonces_spa no_spa te_spa piden_spa elevación_spa 
+1006.159 1006.647 VAN oh_engspa 
+1008.145 1009.259 LEA thats_eng the_eng only_eng thing_eng 
+1009.236 1010.014 spa_spa pero_spa que_spa 
+1010.072 1011.163 VAN and_eng we_eng can_eng do_eng that_eng or_eng 
+1010.904 1011.322 LEA _eng yeah_eng _eng yeah_eng 
+1011.322 1013.0 LEA we_eng can_eng do_eng that_eng ourselves_eng so_eng we_eng dont_eng need_eng that_eng 
+1013.028 1018.007 LEA when_eng _eng when_eng you_eng go_eng in_eng on_eng basic_eng standard_eng it_eng says_eng standard_eng quotes_eng 
+1018.124 1021.37 LEA I_eng think_eng this_eng one_eng it_eng says_eng preferred_eng something_eng or_eng the_eng other_eng 
+1021.352 1023.529 VAN en_spa el_spa mismo_spa U_S_Security_eng no_eng 
+1022.484 1023.018 LEA _eng yeah_eng 
+1023.616 1024.155 LEA yeah_eng yeah_eng 
+1024.476 1025.405 VAN its_eng down_eng here_eng 
+1025.324 1028.116 LEA yeah_eng because_eng I_eng checked_eng this_eng already_eng xxx_eng to_eng Us_security_eng _eng so_eng _eng 
+1026.99 1028.111 VAN _eng ah_engspa verdad_spa verdad_spa verdad_spa 
+1028.248 1029.27 VAN youre_eng exactly_eng right_eng 
+1029.142 1031.883 VAN xxx_eng three_eng three_eng three_eng 
+1037.346 1040.359 VAN xxx_eng 
+1045.95 1048.58 VAN now_eng xxx_eng 
+1048.377 1051.882 LEA o_k_engspa now_eng go_eng to_eng where_eng it_eng says_eng quote_eng _eng 
+1051.884 1053.301 LEA no_eng o_k_engspa 
+1053.425 1056.698 LEA the_eng P_R_P_eng application_eng the_eng second_eng one_eng there_eng 
+1055.821 1058.282 VAN _eng P_R_P_eng oh_engspa 
+1058.294 1059.565 VAN preferred_eng no_eng xxx_eng 
+1059.339 1059.902 LEA mmhm_eng 
+1059.895 1061.822 LEA preferred_eng something_eng preferred_eng risk_eng 
+1061.916 1064.843 spa_spa no_spa sé_spa qué_spa más_spa 
+1064.691 1066.775 VAN entonces_spa ahí_spa does_eng I_eng _eng does_eng xxx_eng answer_eng all_eng of_eng the_eng questions_eng 
+1066.514 1068.18 LEA _eng yeah_eng just_eng put_eng right_eng do_eng that_eng 
+1068.11 1068.656 VAN o_k_engspa 
+1068.644 1070.142 VAN and_eng then_eng just_eng figure_eng out_eng how_eng to_eng 
+1070.194 1070.902 LEA yeah_eng 
+1070.75 1074.407 VAN insurance_eng _eng hello_eng 
+1074.276 1075.82 VAN yes_eng shes_eng right_eng here_eng 
+1075.773 1076.551 VAN hold_eng on_eng one_eng second_eng 
+1076.639 1078.044 VAN its_eng your_eng mom_eng 
+1078.12 1080.644 spa_spa ya_spa si_spa quieres_spa vete_spa si_spa ya_spa yo_spa lo_spa hago_spa sola_spa 
+1079.169 1080.916 LEA no_eng no_eng no_eng I_eng dont_eng mind_eng 
+1081.235 1084.975 spa_spa ya_spa después_spa yo_spa lo_spa hago_spa sola_spa o_spa sea_spa ya_spa no_spa ya_spa no_spa más_spa una_spa xxx_spa 
+1084.986 1085.88 spa_spa ajá_spa 
+1085.747 1087.98 spa_spa faltan_spa dos_spa minuticos_spa 
+1087.55 1089.39 VAN two_eng minutes_eng Ill_eng do_eng it_eng myself_eng laugh_eng 
+1092.254 1099.127 VAN alright_eng so_eng property_eng address_eng is_eng what_eng 
+1094.762 1098.099 LEA _eng oh_engspa you_eng want_eng Ana_engspa to_eng go_eng deposit_eng at_eng Ocean_engspa Bank_engspa first_eng 
+1099.165 1101.905 LEA _eng its_eng a just_eng a_eng little_eng bit_eng down_eng the_eng street_eng 
+1101.841 1105.44 LEA _eng its_eng _eng its_eng _eng its_eng by_eng _eng its_eng by_eng Bank_engspa United_engspa 
+1102.41 1105.376 VAN on_eng west_eng eleventh_eng street_eng 
+1105.144 1106.462 LEA o_k_engspa 
+1106.088 1111.126 VAN property_eng city_eng _eng Miami_engspa 
+1106.088 1109.896 LEA _eng o_k_engspa o_k_engspa let_eng me_eng get_eng it_eng ready_eng for_eng you_eng 
+1109.89 1111.242 LEA _eng o_k_engspa thanks_eng bye_eng 
+1113.109 1125.52 VAN property_eng state_eng _eng shoot_eng 
+1113.109 1125.52 OSE _eng www_eng 
+1128.494 1130.886 VAN alright_eng lets_eng see_eng xxx_eng _eng 
+1133.202 1135.826 OSE www_eng 
+1133.469 1134.822 VAN _eng lets_eng try_eng it_eng again_eng 
+1141.451 1143.07 VAN xxx_eng address_eng 
+1143.739 1147.193 OSE www_eng 
+1145.701 1147.768 VAN _eng northwest_eng eleventh_eng street_eng 
+1150.742 1151.804 VAN Miami_engspa Florida_engspa 
+1161.18 1162.885 VAN is_eng building_eng located_eng in_eng xxx_eng 
+1162.839 1163.698 VAN no_eng 
+1163.847 1167.847 VAN do_eng any_eng of_eng the_eng following_eng conditions_eng arise_eng to_eng the_eng xxx_eng 
+1164.007 1168.169 OSE _eng www_eng 
+1167.704 1168.4 VAN no_eng 
+1170.054 1173.415 VAN xxx_eng 
+1171.553 1173.852 OSE _eng www_eng 
+1176.417 1179.122 VAN last_eng name_eng Villegas_engspa 
+1180.385 1182.672 VAN Villegas_engspa 
+1184.294 1186.662 VAN first_eng name_eng is_eng what_eng 
+1184.796 1186.218 LEA _eng xxx_eng 
+1193.476 1196.25 VAN xxx_eng 
+1204.71 1206.091 VAN xxx_eng number_eng 
+1212.45 1214.435 spa_spa el_spa teléfono_spa dónde_spa está_spa 
+1217.847 1219.275 spa_spa aló_spa 
+1219.259 1221.296 spa_spa el_spa teléfono_spa 
+1226.934 1228.995 VAN xxx_eng 
+1232.897 1235.643 VAN grunt_eng I_eng dont_eng have_eng his_eng number_eng 
+1235.374 1237.533 LEA uhuh_eng xxx_eng 
+1237.854 1240.426 VAN xxx_eng 
+1239.66 1243.958 LEA yeah_eng you_eng know_eng what_eng a_eng somebody_eng else_eng _eng xxx_eng 
+1241.978 1243.312 VAN no_eng yeah_eng xxx_eng 
+1244.095 1246.016 LEA xxx_eng 
+1245.59 1247.708 VAN xxx_eng of_eng property_eng 
+1248.679 1252.33 VAN mmhm_eng loan_eng number_eng 
+1255.048 1259.561 VAN xxx_eng first_eng first_eng bank_eng account_eng number_eng 
+1255.558 1258.193 LEA xxx_eng 
+1260.778 1265.304 VAN first_eng bank_eng account_eng number_eng 
+1270.699 1272.626 VAN insurance_eng 
+1273.465 1274.76 spa_spa buenas_spa tardes_spa 
+1277.721 1280.879 spa_spa sí_spa 
+1280.847 1286.635 VAN o_k_engspa 
+1291.061 1293.4 spa_spa no_spa em_spa espérese_spa 
+1293.172 1293.961 spa_spa y_spa cuál_spa es_spa el_spa apellido_spa 
+1294.061 1294.879 VAN Medina_engspa 
+1295.74 1300.361 spa_spa y_spa la_spa carta_spa dice_spa dígame_spa otra_spa vez_spa 
+1301.413 1302.301 VAN a_eng 
+1303.647 1313.877 spa_spa e_spa usted_spa tenía_spa una_spa cancelación_spa pendiente_spa o_spa algo_spa porque_spa eso_spa quiere_spa decir_spa que_spa ya_spa se_spa está_spa _spa está_spa bien_spa como_spa que_spa ya_spa se_spa reinstaló_spa no_spa _spa no_spa _spa no_spa va_spa a_spa cancelar_spa 
+1315.467 1317.569 spa_spa sí_spa exacto_spa 
+1320.675 1326.753 VAN sí_spa rescission_eng como_spa que_spa ya_spa está_eng _eng que_spa esto_spa sabe_spa que_spa _eng que_spa si_spa estaba_spa en_spa cancelación_spa que_spa ya_spa lo_spa _eng lo_spa arreglaron_spa lo_spa que_spa 
+1326.686 1334.9 LEA o_k_engspa la_spa dirección_spa is_eng for_eng two_eng thousand_eng and_eng four_eng Northwest_engspa Franklin_engspa Street_engspa 
+1334.747 1337.336 LEA o_k_engspa xxx_eng 
+1335.472 1339.065 VAN _eng pero_spa dice_spa notice_eng of_eng rescission_eng no_spa 
+1338.765 1340.089 VAN that_eng de_eng deme_spa un_spa segundito_spa 
+1339.869 1342.423 VAN déjeme_spa migar_eng _eng mirar_spa aquí_spa un_spa momentico_spa o_k_engspa 
+1342.156 1344.769 spa_spa déjame_spa buscarlo_spa espérese_spa 
+1344.83 1349.723 VAN o_k_engspa 
+1349.533 1354.907 spa_spa en_spa total_spa que_spa van_spa a_spa sacar_spa son_spa ciento_spa dieciséis_spa cincuenta_spa 
+1351.882 1354.047 VAN three_eng zero_eng nine_eng five_eng four_eng seven_eng 
+1355.929 1357.508 LEA yeah_eng 
+1364.442 1367.414 VAN I_eng cant_eng find_eng it_eng 
+1367.411 1371.208 OSE www_eng 
+1371.566 1373.168 OSE www_eng 
+1371.781 1373.012 VAN xxx_eng 
+1375.866 1380.539 spa_spa cuál_spa es_spa el_spa número_spa de_spa la_spa póliza_spa en_spa el_spa papel_spa 
+1380.536 1384.733 spa_spa cero_spa seis_spa _spa tres_spa nueve_spa 
+1382.799 1383.554 VAN _eng _eng spa_eng ajá_eng 
+1384.679 1387.437 LEA xxx_eng o_k_engspa 
+1387.431 1389.886 LEA y_spa el_spa account_eng number_eng 
+1389.08 1390.009 VAN o_k_engspa 
+1389.775 1391.574 spa_spa dame_spa un_spa segundito_spa 
+1391.522 1393.345 LEA o_k_engspa 
+1393.353 1394.798 LEA _eng _eng spa_eng muy_eng bien_eng 
+1395.477 1396.197 spa_spa ajá_spa 
+1405.538 1412.481 VAN xxx_eng 
+1414.4 1415.12 VAN am_eng Ana_engspa 
+1415.108 1416.078 OSE www_eng 
+1416.372 1417.463 VAN what_eng does_eng this_eng mean_eng 
+1417.336 1418.543 VAN notice_eng of_eng rescission_eng 
+1418.283 1423.867 OSE www_eng 
+1421.59 1423.256 VAN Antonio_engspa García_engspa 
+1426.271 1428.773 VAN dice_spa que_spa no_spa recibieron_spa el_spa down_eng payment_eng 
+1432.491 1437.576 OSE www_eng 
+1435.944 1436.716 VAN cool_eng 
+1436.159 1437.842 LEA _eng did_eng you_eng get_eng what_eng you_eng were_eng looking_eng for_eng 
+1437.886 1439.877 spa_spa e_spa porque_spa él_spa me_spa está_spa llamando_spa porque_spa recibió_spa esa_spa carta_spa 
+1439.926 1440.46 VAN pero_spa what_eng is_eng 
+1440.199 1440.918 OSE www_eng 
+1440.872 1441.615 VAN yeah_eng 
+1441.58 1442.433 VAN what_eng does_eng that_eng mean_eng 
+1442.362 1444.899 OSE www_eng 
+1444.905 1445.758 VAN o_k_engspa 
+1445.314 1447.218 VAN o_k_engspa Ill_eng get_eng his_eng number_eng 
+1446.143 1448.691 OSE _eng www_eng 
+1447.734 1448.268 VAN o_k_engspa 
+1448.597 1450.112 VAN señor_spa Medina_engspa 
+1450.269 1451.087 spa_spa deme_spa su_spa número_spa 
+1451.041 1453.914 spa_spa déjeme_spa llamar_spa a_spa la_spa compañía_spa a_spa ver_spa de_spa qué_spa se_spa trata_spa exactamente_spa 
+1453.688 1457.403 spa_spa y_spa yo_spa lo_spa llamo_spa 
+1457.211 1462.198 VAN oh_engspa 
+1462.024 1464.41 spa_spa claro_spa claro_spa sí_spa yo_spa lo_spa veo_spa aquí_spa 
+1463.91 1465.958 spa_spa no_spa sé_spa por_spa qué_spa le_spa habrá_spa mandado_spa eso_spa 
+1465.962 1466.961 OSE www_eng 
+1466.006 1468.391 spa_spa de_spa deme_spa un_spa número_spa dónde_spa yo_spa le_spa puedo_spa regresar_spa la_spa llamada_spa 
+1468.314 1471.973 spa_spa y_spa déjame_spa llamar_spa a_spa la_spa compañía_spa directamente_spa 
+1471.857 1474.533 VAN o_k_engspa 
+1474.533 1478.034 VAN tres_spa dos_spa uno_spa mmhm_eng 
+1478.143 1480.488 VAN o_k_engspa señor_spa Medina_engspa 
+1480.471 1482.137 VAN mmhm_eng 
+1484.039 1488.236 spa_spa que_spa tienes_spa que_spa hacer_spa el_spa pago_spa 
+1490.021 1493.109 spa_spa no_spa lo_spa has_spa recibido_spa 
+1494.559 1495.134 VAN o_k_engspa 
+1495.123 1495.645 spa_spa no_spa 
+1495.633 1496.649 spa_spa sí_spa 
+1496.549 1497.32 spa_spa déjame_spa averiguar_spa 
+1497.454 1501.802 VAN y_spa si_spa es_spa usted_spa tiene_spa acceso_spa al_spa fax_eng 
+1503.689 1505.489 VAN o_k_engspa cualquier_spa cosa_spa usted_spa me_spa da_spa el_spa número_spa 
+1505.546 1508.165 spa_spa y_spa yo_spa le_spa mando_spa los_spa cupones_spa directamente_spa 
+1508.014 1508.379 VAN o_k_engspa 
+1508.327 1509.644 spa_spa yo_spa _spa deme_spa un_spa ratico_spa 
+1509.517 1511.014 spa_spa y_spa yo_spa le_spa averiguo_spa de_spa qué_spa está_spa pasando_spa 
+1511.026 1512.105 spa_spa yo_spa lo_spa llamo_spa en_spa seguidita_spa 
+1512.628 1514.068 OSE www_eng 
+1513.984 1515.389 spa_spa claro_spa claro_spa que_spa no_spa 
+1514.016 1515.717 OSE _eng www_eng 
+1514.988 1516.643 spa_spa no_spa no_spa se_spa preocupe_spa 
+1516.433 1517.658 spa_spa bueno_spa y_spa gracias_spa 
+1517.67 1518.813 spa_spa hasta_spa luego_spa 
+1519.976 1524.503 OSE www_eng 
+1524.861 1527.177 spa_spa no_spa llega_spa qué_spa 
+1525.924 1528.49 OSE www_eng 
+1528.124 1529.111 VAN _eng oh_engspa really_eng 
+1528.564 1529.835 OSE _eng www_eng 
+1529.487 1530.961 LEA xxx_eng 
+1530.896 1531.605 VAN did_eng you_eng send_eng 
+1531.587 1532.876 VAN did_eng you_eng finally_eng do_eng the_eng invoice_eng 
+1532.853 1534.211 OSE www_eng 
+1534.249 1536.432 VAN oh_engspa 
+1534.969 1536.414 OSE www_eng 
+1536.407 1537.168 VAN yeah_eng 
+1537.005 1538.549 OSE www_eng 
+1538.573 1539.31 VAN awesome_eng 
+1539.289 1542.012 OSE www_eng 
+1541.959 1544.926 VAN alright_eng so_eng I_eng did_eng that_eng already_eng now_eng Im_eng doing_eng this_eng 
+1544.908 1546.626 VAN flood_eng zone_eng 
+1547.362 1552.98 VAN ex_eng occupancy_eng single_eng family_eng 
+1547.362 1552.98 OSE _eng www_eng 
+1552.985 1555.237 VAN number_eng of_eng floors_eng single_eng floor_eng 
+1552.985 1555.237 OSE www_eng 
+1554.894 1556.137 OSE www_eng 
+1556.044 1556.885 VAN oh_engspa thank_eng you_eng papi_spa 
+1556.886 1557.502 VAN let_eng me_eng see_eng 
+1558.582 1560.468 VAN wow_eng 
+1561.461 1563.504 VAN Spiderman_eng 
+1563.336 1566.171 VAN ooh_eng Halo_eng thats_eng the_eng Halo_eng one_eng 
+1565.25 1569.349 OSE www_eng 
+1569.341 1570.786 VAN oh_engspa thats_eng right_eng 
+1570.853 1573.477 OSE www_eng 
+1572.107 1573.158 VAN _eng cool_eng 
+1573.216 1574.522 VAN and_eng the_eng flowers_eng 
+1574.447 1575.596 VAN oh_engspa and_eng the_eng turtle_eng 
+1575.596 1576.293 VAN gasp_eng 
+1575.631 1576.142 OSE www_eng 
+1576.327 1578.034 OSE www_eng 
+1578.048 1579.22 VAN wow_eng 
+1578.965 1580.318 VAN those_eng are_eng ants_eng 
+1579.998 1583.1 OSE www_eng 
+1582.977 1583.981 VAN wow_eng 
+1583.923 1584.899 VAN right_eng here_eng mama_engspa 
+1586.066 1587.036 VAN wow_eng 
+1586.084 1586.966 OSE _eng www_eng 
+1586.949 1588.801 VAN super_eng nice_eng 
+1588.855 1590.167 VAN Im_eng gonna_eng put_eng it_eng right_eng there_eng 
+1590.12 1591.485 OSE www_eng 
+1591.432 1592.588 VAN oh_engspa yeah_eng 
+1592.587 1595.13 VAN you_eng should_eng sign_eng it_eng here_eng so_eng everybody_eng know_eng who_eng did_eng it_eng 
+1597.142 1599.261 VAN so_eng you_eng 
+1599.231 1600.897 VAN however_eng you_eng like_eng to_eng sign_eng papi_spa 
+1600.845 1602.215 VAN how_eng do_eng you_eng like_eng to_eng sign_eng 
+1602.419 1603.429 OSE www_eng 
+1603.058 1604.306 VAN Timmy_engspa 
+1608.226 1610.63 LEA just_eng down_eng the_eng street_eng down_eng that_eng way_eng 
+1610.06 1614.971 OSE www_eng 
+1615.052 1616.091 OSE www_eng 
+1615.821 1617.168 LEA thank_eng you_eng 
+1616.738 1617.226 LEA sorry_eng 
+1617.006 1619.374 OSE www_eng 
+1619.233 1620.418 OSE www_eng 
+1624.311 1626.586 OSE www_eng 
+1624.516 1626.495 VAN the_eng building_eng xxx_eng 
+1628.299 1630.133 OSE www_eng 
+1629.912 1630.765 VAN ah_engspa 
+1630.342 1632.711 OSE www_eng 
+1632.142 1634.957 VAN today_eng is_eng three_eng thirty_eng one_eng 
+1634.944 1637.799 VAN march_eng thirty_eng first_eng three_eng thirty_eng one_eng 
+1647.09 1652.227 VAN ay_spa dios_spa mío_spa I_eng dont_eng know_eng xxx_eng 
+1658.843 1660.318 VAN alright_eng 
+1660.345 1663.956 VAN ha_eng Timothy_engspa Ceballos_engspa super_eng nice_eng 
+1663.926 1666.677 VAN xxx_eng put_eng it_eng right_eng here_eng 
+1668.234 1669.592 OSE www_eng 
+1670.463 1671.235 VAN um_eng 
+1672.546 1674.763 spa_spa espérate_spa aquí_spa hay_spa una_spa 
+1683.414 1685.394 VAN mue_eng lets_eng see_eng 
+1686.689 1687.56 VAN insurance_eng 
+1687.389 1688.452 LEA o_k_engspa 
+1689.84 1691.227 VAN no_eng its_eng fine_eng _eng 
+1691.053 1692.145 VAN whos_eng calling_eng 
+1692.162 1693.752 LEA _eng yeah_eng Id_eng like_eng to_eng see_eng it_eng 
+1693.727 1697.083 LEA but_eng you_eng know_eng what_eng you_eng really_eng need_eng to_eng get_eng to_eng me_eng because_eng youre_eng homeowner_eng 
+1698.109 1699.398 LEA o_k_engspa 
+1698.658 1699.245 VAN _eng yeah_eng were_eng open_eng 
+1699.186 1701.247 VAN were_eng here_eng until_eng five_eng oclock_eng 
+1701.143 1704.005 VAN youre_eng welcome_eng 
+1703.064 1703.575 LEA right_eng 
+1706.176 1710.082 VAN alright_eng so_eng I_eng have_eng to_eng throw_eng this_eng out_eng 
+1712.298 1712.948 LEA o_k_engspa 
+1712.484 1715.284 VAN alright_eng _eng let_eng me_eng get_eng you_eng another_eng paper_eng 
+1739.395 1742.327 VAN yes_eng take_eng this_eng one_eng for_eng now_eng 
+1740.881 1743.116 LEA the_eng insurance_eng 
+1743.484 1744.674 LEA aha_engspa 
+1746.138 1748.851 OSE www_eng 
+1748.778 1749.811 VAN laugh_eng yeah_eng 
+1749.846 1752.296 spa_spa xxx_spa madre_spa 
+1752.307 1753.84 VAN insurance_eng 
+1754.317 1755.321 VAN yeah_eng 
+1759.454 1762.124 VAN Im_eng _eng yeah_eng Im_eng insurance_eng 
+1762.635 1765.311 VAN ah_engspa o_k_engspa sí_spa yeah_eng 
+1764.841 1769.194 VAN sí_spa porque_spa yo_spa no_spa veía_spa nada_spa aquí_spa pero_spa it_eng doesnt_eng _eng it_eng said_eng that_eng we_eng never_eng got_eng the_eng deposit_eng 
+1769.208 1773.052 VAN thats_eng what_eng it_eng said_eng on_eng mine_eng like_eng _eng well_eng like_eng they_eng never_eng got_eng the_eng deposit_eng or_eng down_eng payment_eng 
+1772.955 1773.344 VAN and_eng hes_eng like_eng 
+1773.35 1773.901 VAN _eng _eng spa_eng cómo_eng que_eng 
+1773.856 1775.115 VAN o_spa sea_spa yo_spa no_spa le_spa dije_spa eso_spa pero_spa hes_eng like_eng 
+1775.186 1776.155 VAN _eng _eng spa_eng no_eng pero_eng cómo_eng no_eng va_eng a_eng tener_eng seguro_eng 
+1776.145 1778.287 VAN _eng _eng spa_eng si_eng yo_eng di_eng como_eng setecientos_eng y_eng pico_eng dólares_eng 
+1778.015 1778.688 VAN ah_engspa cómo_spa no_spa _eng 
+1778.659 1779.298 spa_spa no_spa se_spa preocupe_spa 
+1779.091 1780.838 VAN yo_spa voy_spa a_spa averiguar_spa whatever_eng 
+1786.916 1788.222 VAN o_k_engspa o_k_engspa mom_eng 
+1788.21 1788.971 VAN Ill_eng put_eng it_eng here_eng 
+1788.895 1789.528 VAN alright_eng _eng laugh_eng 
+1789.533 1791.228 VAN o_k_engspa o_k_engspa 
+1791.31 1792.877 VAN bueno_spa bye_eng 

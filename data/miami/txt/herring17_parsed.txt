@@ -1,0 +1,1098 @@
+0.015 2.595 JAM there_eng are_eng plenty_eng of_eng new_eng um_eng alternatives_eng 
+2.595 3.048 IRI aha_engspa 
+3.065 5.561 JAM regarding_eng um_eng birth_eng control_eng xxx_eng pills_eng 
+5.575 6.532 IRI yeah_eng 
+6.525 7.865 spa_spa sí_spa pero_spa es_spa que_spa yo_spa no_spa quiero_spa 
+7.01 11.058 JAM _eng but_eng ah_engspa they_eng _eng they_eng _eng they_eng _eng _eng theyre_eng not_eng as_eng s_eng strong_eng as_eng they_eng were_eng a_eng couple_eng of_eng years_eng ago_eng 
+11.008 11.437 IRI yeah_eng 
+11.64 13.034 spa_spa pero_spa es_spa que_spa también_spa _spa es_spa que_spa 
+12.064 15.085 JAM _eng like_eng ah_engspa _eng like_eng ah_engspa in_eng the_eng sixties_eng they_eng were_eng terrible_eng 
+14.2 15.1 IRI _eng yeah_eng 
+15.04 15.804 IRI yeah_eng they_eng were_eng 
+15.365 16.613 JAM _eng like_eng too_eng strong_eng 
+16.59 17.791 JAM too_eng m_eng _eng too_eng much_eng strong_eng 
+16.922 17.758 IRI _eng too_eng much_eng 
+17.753 18.792 IRI yeah_eng no_eng no_eng 
+18.304 21.191 JAM _eng but_eng now_eng the_eng dose_eng is_eng so_eng slight_eng 
+18.931 19.75 IRI _eng basically_eng 
+19.552 21.236 IRI _eng but_eng look_eng at_eng this_eng 
+21.247 22.977 IRI es_spa _eng eso_spa es_spa homeopathic_eng 
+22.977 24.231 spa_spa eso_spa lo_spa que_spa tengo_spa que_spa 
+24.627 27.661 IRI I_eng wanna_eng _eng I_eng wanna_eng do_eng more_eng natural_eng things_eng because_eng I_eng really_eng 
+27.661 28.937 IRI Im_eng already_eng on_eng medication_eng 
+28.932 30.046 IRI Im_eng already_eng on_eng Effexor_engspa 
+30.011 32.707 IRI and_eng Ive_eng been_eng on_eng antidepressants_eng since_eng I_eng was_eng seventeen_eng 
+32.7 35.616 IRI so_eng Ive_eng already_eng been_eng _eng fucked_eng 
+35.628 39.148 IRI you_eng know_eng Ive_eng already_eng had_eng my_eng body_eng being_eng dependent_eng on_eng _eng on_eng medicine_eng 
+39.131 43.368 IRI I_eng dont_eng want_eng to_eng take_eng even_eng more_eng medicine_eng if_eng I_eng could_eng find_eng something_eng else_eng that_eng helps_eng me_eng 
+44.779 47.11 JAM but_eng I_eng wouldnt_eng say_eng that_eng hormones_eng are_eng 
+47.104 48.033 JAM I_eng dont_eng know_eng 
+48.02 52.079 JAM for_eng me_eng its_eng a_eng natural_eng way_eng to_eng regulate_eng _eng stuff_eng 
+51.307 52.091 IRI _eng yes_eng but_eng 
+52.073 53.344 IRI but_eng I_eng could_eng find_eng 
+53.176 55.864 IRI yeah_eng but_eng those_eng things_eng _eng those_eng things_eng are_eng synthetic_eng hormones_eng 
+56.289 57.977 IRI thats_eng why_eng theyre_eng more_eng powerful_eng 
+57.971 59.168 IRI they_eng have_eng more_eng side_eng effects_eng 
+59.139 60.527 IRI thats_eng the_eng problem_eng 
+60.548 64.971 IRI and_eng I_eng know_eng _eng I_eng know_eng I_eng have_eng to_eng do_eng _eng I_eng _eng I_eng have_eng to_eng be_eng better_eng about_eng my_eng diet_eng and_eng all_eng that_eng stuff_eng 
+64.93 66.3 IRI I_eng have_eng to_eng eat_eng healthier_eng 
+66.26 67.647 IRI Im_eng actually_eng starting_eng to_eng eat_eng 
+66.579 69.11 JAM _eng sí_spa _eng is_eng it_eng like_eng a_eng generic_eng um_eng 
+68.403 71.3 IRI _eng yeah_eng its_eng genetic_eng because_eng my_eng mom_eng 
+70.574 74.2 JAM so_eng its_eng not_eng _eng ah_engspa _eng its_eng not_eng s_eng something_eng that_eng was_eng _eng like_eng 
+73.938 74.1 spa_spa qué_spa 
+74.071 75.214 JAM these_eng _eng these_eng pills_eng 
+75.203 77.937 spa_spa no_spa no_spa no_spa eso_spa es_spa _spa eso_spa es_spa totalmente_spa natural_spa 
+76.586 78.089 JAM _eng xxx_eng 
+78.885 79.309 spa_spa eso_spa es_spa 
+78.97 86.401 JAM _eng I_eng think_eng that_eng they_eng g_eng need_eng to_eng consider_eng your_eng ah_engspa _eng weight_eng and_eng _eng blood_eng type_eng and_eng stuff_eng 
+83.956 85.605 IRI _eng _eng spa_eng no_eng eso_eng es_eng totalmente_eng natural_eng 
+85.471 85.999 IRI _eng _eng spa_eng entonces_eng _eng 
+86.453 93.116 JAM when_eng they_eng do_eng a_eng good_eng one_eng ah_engspa _eng ah_engspa like_eng lets_eng say_eng a_eng costumised_eng ah_engspa _eng homeopathic_eng stuff_eng 
+91.129 93.073 IRI _eng the_eng thing_eng is_eng I_eng went_eng to_eng 
+94.501 97.951 JAM like_eng if_eng this_eng is_eng generic_eng ah_engspa I_eng think_eng its_eng _eng its_eng ah_engspa still_eng effective_eng 
+97.771 99.75 IRI _eng its_eng still_eng effective_eng 
+97.817 99.129 spa_spa pero_spa cómo_spa te_spa digo_spa 
+100.045 100.7 IRI _eng I_eng know_eng _eng I_eng know_eng 
+100.6 102.355 IRI I_eng know_eng I_eng need_eng to_eng find_eng _eng I_eng need_eng to_eng find_eng 
+100.601 105.228 JAM _eng el_spa _eng el_spa real_spa homepático_spa ah_engspa medicina_spa homeopática_spa 
+103.609 104.764 IRI _eng _eng spa_eng es_eng que_eng yo_eng lo_eng 
+104.909 105.472 spa_spa ajá_spa 
+105.534 106.509 spa_spa el_spa doctor_spa te_spa mira_spa 
+106.486 110.758 JAM y_spa te_spa analiza_spa el_spa tipo_spa de_spa sangre_spa um_eng y_spa otras_spa características_spa 
+107.693 108.773 IRI _eng mmhm_eng 
+110.682 111.576 spa_spa sí_spa yo_spa tengo_spa que_spa 
+111.576 115.87 JAM _eng _eng spa_eng y_eng de_eng acuerdo_eng con_eng tu_eng peso_eng tu_eng tipo_eng de_eng sangre_eng tu_eng personalidad_eng y_eng otras_eng cosas_eng 
+114.823 116.588 IRI _eng _eng spa_eng es_eng que_eng yo_eng no_eng he_eng hecho_eng eso_eng _eng yo_eng no_eng he_eng hecho_eng eso_eng 
+116.079 117.513 JAM _eng yeah_eng yeah_eng yeah_eng yeah_eng yeah_eng 
+116.595 117.484 IRI _eng thats_eng the_eng thing_eng 
+117.617 119.039 IRI Ive_eng been_eng 
+118.198 119.858 JAM _eng this_eng why_eng _eng thats_eng what_eng I_eng think_eng 
+119.946 120.672 IRI Ive_eng been_eng 
+120.219 127.139 JAM _eng this_eng _eng this_eng might_eng be_eng even_eng more_eng effective_eng _eng if_eng a_eng real_eng homeopathic_eng doctor_eng like_eng xxx_eng 
+126.506 128.311 IRI _eng _eng spa_eng es_eng que_eng no_eng _eng es_eng que_eng no_eng he_eng tenido_eng receta_eng 
+128.297 129.603 IRI this_eng is_eng all_eng prescribed_eng 
+129.46 131.428 IRI I_eng _eng I_eng need_eng to_eng go_eng to_eng a_eng good_eng homeopath_eng 
+131.378 136.146 IRI and_eng the_eng thing_eng is_eng that_eng theyre_eng _eng not_eng all_eng of_eng them_eng _eng a_eng lot_eng of_eng them_eng are_eng not_eng covered_eng under_eng regular_eng health_eng insurance_eng 
+137.169 137.854 JAM mmhm_eng 
+137.836 139.026 IRI so_eng you_eng have_eng to_eng pay_eng the_eng whole_eng 
+139.009 140.449 IRI you_eng have_eng to_eng pay_eng extra_eng 
+139.972 145.731 JAM I_eng dont_eng know_eng maybe_eng later_eng ah_engspa in_eng a_eng couple_eng of_eng minutes_eng we_eng can_eng check_eng some_eng books_eng there_eng in_eng xxx_eng 
+144.672 146.691 IRI _eng yeah_eng yes_eng this_eng is_eng also_eng good_eng 
+146.201 148.73 JAM _eng I_eng was_eng going_eng to_eng say_eng Starbucks_engspa eh_engspa Barnes_and_Noble_engspa because_eng 
+146.3 147.47 IRI _eng Im_eng also_eng 
+148.341 149.641 IRI stuttering_eng 
+148.884 150.852 JAM _eng theres_eng always_eng ways_eng that_eng you_eng can_eng help_eng yourself_eng 
+150.04 153.447 IRI _eng xxx_eng thats_eng why_eng I_eng also_eng have_eng that_eng 
+153.536 154.679 IRI its_eng a_eng massage_eng oil_eng 
+154.691 158.29 IRI I_eng put_eng it_eng on_eng my_eng womb_eng _eng en_spa el_spa vientre_spa por_spa aquí_spa y_spa por_spa detrás_spa 
+158.562 160.744 spa_spa así_spa que_spa eso_spa me_spa calma_spa también_spa 
+160.979 162.519 spa_spa y_spa qué_spa tiene_spa eso_spa 
+161.908 166.513 IRI esto_spa tiene_spa _eng eh_engspa el_spa coconut_eng oil_eng 
+166.511 168.967 IRI eso_spa es_spa coconut_eng oil_eng 
+168.665 169.762 JAM so_eng you_eng have_eng your_eng kit_eng 
+169.835 170.903 IRI ah_engspa yo_spa tengo_spa mi_spa kit_eng 
+170.381 172.889 spa_spa xxx_spa tú_spa tienes_spa xxx_spa laugh_spa 
+171.337 172.469 IRI _eng _eng spa_eng sí_eng sí_eng 
+172.44 178.012 IRI grape_seed_eng oil_eng lavanda_spa eh_engspa este_spa eh_engspa aceite_spa de_spa trigo_spa 
+177.977 180.259 JAM like_eng herbs_eng and_eng natural_eng components_eng whatever_eng 
+178.668 180.189 IRI _eng sí_spa eh_engspa sí_spa sí_spa sí_spa 
+180.437 184.924 IRI eh_engspa eh_engspa el_spa _eng bueno_spa te_spa voy_spa a_spa decir_spa lo_spa que_spa es_spa el_spa e_eng _eng lo_spa _eng el_spa _eng lo_spa de_spa aromaterapia_spa 
+181.058 182.004 JAM _eng yes_eng 
+184.502 185.309 JAM _eng it_eng might_eng help_eng 
+185.257 190.953 JAM but_eng the_eng good_eng stuff_eng is_eng that_eng its_eng never_eng going_eng to_eng do_eng anything_eng like_eng wrong_eng to_eng you_eng like_eng its_eng not_eng going_eng to_eng affect_eng you_eng _eng negatively_eng 
+190.192 191.365 IRI _eng _eng spa_eng no_eng exactamente_eng 
+191.435 192.567 IRI thats_eng why_eng I_eng like_eng it_eng 
+192.077 194.244 JAM and_eng _eng there_eng might_eng be_eng a_eng _eng a_eng good_eng effect_eng 
+192.578 193.234 IRI _eng lavender_eng 
+194.225 196.042 IRI theres_eng lavender_eng que_spa eso_spa es_spa lavanda_spa 
+196.024 198.828 spa_spa ysspa_spa estesspa_spa cómosspa_spa essspa_spa 
+198.779 201.438 IRI clary_eng sage_eng es_spa _eng es_spa salvia_spa 
+201.589 202.959 IRI sage_eng es_spa salvia_spa 
+202.995 204.058 IRI eh_engspa 
+203.948 205.097 JAM ah_engspa sí_spa yo_spa no_spa sabía_spa 
+204.929 206.722 IRI eh_engspa sí_spa s_eng 
+207.916 210.087 spa_spa salvia_spa xxx_spa 
+210.385 215.848 IRI este_spa los_spa otros_spa aceites_spa son_spa aceites_spa de_spa tú_spa sabes_spa para_spa que_spa sean_spa masajes_spa para_spa que_spa se_spa _eng se_spa dilutansengspa_eng 
+215.775 216.913 IRI they_eng _eng so_eng they_eng dilute_eng 
+216.919 217.703 spa_spa diluyan_spa 
+217.83 219.096 spa_spa dilu_spa para_spa que_spa se_spa diluyan_spa 
+219.049 220.576 spa_spa y_spa también_spa este_spa 
+220.547 222.167 JAM so_eng by_eng the_eng way_eng 
+222.035 224.479 spa_spa sí_spa porque_spa e_spa eso_spa es_spa bien_spa concentrado_spa 
+222.039 224.815 JAM _eng sometimes_eng _eng sometimes_eng you_eng _eng you_eng get_eng words_eng in_eng English_eng 
+224.844 226.557 JAM and_eng you_eng force_eng them_eng to_eng look_eng like_eng Spanish_eng 
+226.537 227.478 IRI yeah_eng exactly_eng 
+227.501 228.244 IRI yeah_eng 
+227.501 228.244 JAM laugh_eng 
+228.176 229.076 spa_spa y_spa jazmín_spa 
+228.658 229.747 JAM sometimes_eng you_eng can_eng guess_eng that_eng 
+229.73 231.506 JAM and_eng sometimes_eng you_eng can_eng make_eng it_eng like_eng 
+231.858 235.655 JAM but_eng dilute_eng its_eng not_eng _eng how_eng _eng how_eng do_eng you_eng say_eng 
+236.561 237.135 spa_spa no_spa sé_spa 
+237.246 237.983 IRI dilutar_eng 
+237.844 238.732 JAM delutar_eng 
+238.937 240.574 IRI di_eng eh_engspa no_spa eh_engspa I_eng know_eng 
+240.556 241.874 IRI its_eng diluyan_spa sí_spa sí_spa 
+241.793 242.46 spa_spa diluir_spa 
+242.396 244.37 spa_spa diluir_spa diluir_spa exactamente_spa 
+248.104 248.748 JAM I_eng dont_eng know_eng 
+248.696 249.863 JAM its_eng good_eng that_eng youre_eng doing_eng this_eng stuff_eng 
+249.613 252.899 JAM and_eng _eng and_eng you_eng have_eng _eng your_eng things_eng to_eng take_eng care_eng of_eng yourself_eng 
+253.085 253.618 JAM its_eng good_eng 
+253.653 254.257 JAM its_eng good_eng 
+254.242 261.318 JAM but_eng still_eng I_eng _eng what_eng I_eng was_eng telling_eng you_eng is_eng that_eng we_eng can_eng check_eng a_eng couple_eng of_eng books_eng and_eng maybe_eng ah_engspa _eng like_eng self_eng help_eng something_eng 
+261.195 263.738 JAM and_eng I_eng actually_eng need_eng to_eng check_eng some_eng books_eng for_eng myself_eng 
+263.27 267.101 IRI a_eng woman_eng _eng and_eng I_eng have_eng womans_eng Dong_Quai_engspa tonic_eng 
+267.136 276.406 IRI esto_spa tiene_spa cinnamon_eng que_spa es_spa canela_spa orange_eng peel_eng que_spa eso_spa es_spa eh_engspa _eng la_spa cáscara_spa de_spa _eng de_spa naranja_spa 
+276.363 277.576 IRI _eng eh_engspa ginebra_spa 
+277.564 279.457 IRI no_spa no_spa ginebra_spa ginger_eng 
+279.555 282.446 IRI gin_eng ginger_eng que_spa ginger_eng es_spa 
+282.336 282.777 JAM ginger_eng 
+282.777 283.874 JAM ginger_eng 
+283.919 285.294 spa_spa la_spa ga_spa con_spa la_spa galleta_spa 
+284.924 285.609 JAM _eng _eng spa_eng ajonjolí_eng 
+285.614 286.746 spa_spa no_spa no_spa no_spa 
+286.635 288.667 IRI ginebra_spa no_spa es_spa ginebra_spa eh_engspa 
+287.62 288.415 JAM _eng eh_engspa eh_engspa 
+288.915 289.925 spa_spa coño_spa 
+289.975 290.584 JAM ginger_eng 
+290.584 291.438 IRI ginger_eng 
+291.385 293.922 IRI Ginger_Snaps_engspa ginger_eng cookies_eng 
+294.825 295.946 IRI ginger_eng ginger_eng ginger_eng 
+295.893 300.497 JAM how_eng do_eng you_eng call_eng those_eng ah_engspa seeds_eng that_eng ah_engspa buns_eng have_eng when_eng you_eng are_eng having_eng a_eng hamburger_eng 
+300.406 301.88 IRI no_eng no_eng no_eng its_eng sesame_eng 
+300.98 301.933 JAM _eng and_eng they_eng have_eng those_eng 
+301.892 302.948 IRI eso_spa es_spa sesame_eng 
+301.892 302.948 JAM _eng oh_engspa yeah_eng 
+303.035 304.678 IRI ginger_eng 
+304.794 306.036 JAM _eng ginger_eng jengibre_spa 
+304.818 305.843 spa_spa coño_spa 
+306.125 307.146 IRI eso_spa mismo_spa 
+307.1 308.673 JAM but_eng its_eng not_eng for_eng cooking_eng 
+308.923 310.363 JAM its_eng like_eng a_eng little_eng bitter_eng 
+308.981 309.295 IRI _eng no_spa 
+310.314 312.706 IRI no_spa sí_spa porque_spa eh_engspa sí_spa sí_spa sí_spa 
+310.929 311.829 JAM _eng like_eng strong_eng 
+313.387 314.983 JAM so_eng ginger_eng es_spa jengibre_spa 
+313.613 315.68 spa_spa jengibre_spa sí_spa jengibre_spa sí_spa 
+315.662 316.91 spa_spa este_spa 
+317.227 318.145 IRI eh_engspa fennel_eng 
+318.139 319.747 IRI no_spa sé_spa qué_spa es_spa fennel_eng este_spa 
+319.915 322.666 IRI esto_spa tiene_spa eh_engspa eh_engspa manzanilla_spa 
+322.912 324.137 IRI eh_engspa dandelion_eng 
+324.125 325.362 IRI eh_engspa no_spa sé_spa cómo_spa se_spa dice_spa 
+324.433 325.571 JAM _eng and_eng how_eng long_eng 
+325.437 326.662 JAM how_eng long_eng are_eng your_eng eh_engspa periods_eng 
+326.687 327.54 spa_spa este_spa 
+326.687 327.54 JAM _eng for_eng how_eng long_eng 
+327.889 329.247 JAM three_eng days_eng five_eng six_eng 
+328.576 329.667 IRI _eng _eng spa_eng no_eng siete_eng 
+329.657 330.986 JAM gasp_eng fuck_eng 
+331.069 333.026 spa_spa yo_spa estoy_spa _spa yo_spa sangro_spa por_spa siete_spa días_spa 
+332.654 333.304 JAM grunt_eng 
+333.651 335.322 spa_spa no_spa y_spa por_spa eso_spa le_spa dije_spa hoy_spa 
+334.962 335.973 spa_spa no_spa puede_spa ser_spa de_spa verdad_spa 
+336.06 336.431 spa_spa sí_spa 
+336.321 337.644 spa_spa por_spa eso_spa yo_spa le_spa dije_spa a_spa mami_spa 
+337.89 344.052 IRI _eng este_spa thanks_eng for_eng giving_eng me_eng your_eng _eng your_eng _eng like_eng thanks_eng for_eng giving_eng me_eng your_eng bloody_eng periods_eng _eng you_eng know_eng your_eng strong_eng periodos_eng 
+343.898 344.983 JAM _eng for_eng having_eng inherit_eng 
+344.014 344.449 IRI _eng and_eng she_eng is_eng like_eng 
+344.414 345.187 IRI _eng youre_eng welcome_eng 
+345.082 345.575 IRI exactly_eng 
+345.571 346.024 spa_spa sí_spa eso_spa es_spa 
+346.001 348.462 spa_spa eso_spa se_spa _spa eso_spa es_spa de_spa 
+347.973 351.247 JAM oh_engspa thats_eng a_eng huge_eng inconvenience_eng laugh_eng 
+349.058 350.701 IRI _eng _eng spa_eng eso_eng es_eng de_eng _eng de_eng gi_eng 
+350.521 351.537 IRI yeah_eng I_eng know_eng 
+351.871 353.27 JAM seven_eng days_eng 
+353.236 353.671 spa_spa sí_spa 
+353.744 354.836 spa_spa no_spa está_spa 
+354.816 359.655 spa_spa lo_spa que_spa pasa_spa es_spa que_spa los_spa primeros_spa como_spa dos_spa o_spa tres_spa días_spa me_spa siento_spa como_spa que_spa sigh_spa 
+359.787 361.389 spa_spa este_spa tengo_spa fatiga_spa 
+361.751 364.92 spa_spa y_spa después_spa este_spa estoy_spa agitada_spa y_spa 
+364.897 367.184 IRI y_spa como_spa que_spa crispy_eng y_spa 
+368.002 369.082 IRI ah_engspa 
+368.792 369.854 JAM _eng you_eng know_eng _eng you_eng _eng you_eng know_eng what_eng 
+369.885 373.02 JAM consider_eng all_eng the_eng _eng all_eng the_eng facts_eng of_eng ah_engspa just_eng been_eng a_eng woman_eng 
+372.933 375.852 IRI its_eng just_eng _eng yeah_eng its_eng a_eng pain_eng of_eng fucking_eng ass_eng 
+373.408 374.668 JAM _eng laugh_eng 
+375.138 381.293 JAM yeah_eng like_eng _eng quarter_eng of_eng the_eng time_eng you_eng have_eng blood_eng in_eng yourself_eng _eng like_eng you_eng are_eng bleeding_eng 
+376.746 377.164 IRI _eng yo_spa 
+380.521 381.101 IRI yes_eng 
+381.69 384.186 JAM like_eng one_eng week_eng every_eng four_eng 
+384.192 384.691 JAM no_eng every_eng 
+384.662 385.039 JAM yeah_eng 
+384.964 385.829 IRI mmhmseng_eng 
+385.497 386.473 JAM so_eng like_eng a_eng quarter_eng 
+385.962 386.693 IRI _eng _eng spa_eng cada_eng mes_eng 
+386.571 388.04 JAM quarter_eng of_eng the_eng month_eng you_eng are_eng bleeding_eng 
+387.262 389.253 IRI _eng _eng spa_eng veintiocho_eng días_eng veintiocho_eng días_eng 
+388.595 391.666 JAM _eng and_eng then_eng you_eng can_eng have_eng your_eng own_eng pleasure_eng and_eng eh_engspa have_eng sex_eng and_eng whatever_eng 
+391.641 395.135 JAM but_eng if_eng you_eng get_eng pregnant_eng you_eng need_eng to_eng give_eng birth_eng through_eng there_eng 
+395.158 395.681 IRI yeah_eng 
+395.39 396.337 JAM laugh_eng 
+395.623 397.544 spa_spa y_spa s_spa eso_spa _spa y_spa eso_spa se_spa estira_spa 
+396.412 397.515 JAM _eng and_eng its_eng painful_eng 
+397.469 398.711 spa_spa y_spa eso_spa se_spa estira_spa 
+397.741 399.187 spa_spa no_spa se_spa estira_spa no_spa 
+399.154 401.226 spa_spa yo_spa no_spa estoy_spa de_spa acuerdo_spa con_spa eso_spa 
+401.183 403.157 JAM I_eng dont_eng _eng like_eng like_eng natural_eng birth_eng 
+403.209 405.787 JAM for_eng me_eng natural_eng birth_eng its_eng just_eng unnatural_eng 
+405.769 407.104 IRI you_eng think_eng its_eng barbaric_eng 
+407.551 408.619 JAM yeah_eng it_eng is_eng 
+408.776 411.249 JAM it_eng was_eng another_eng way_eng for_eng God_eng to_eng punish_eng people_eng 
+411.386 413.122 JAM laugh_eng women_eng once_eng again_eng 
+413.106 415.469 IRI yeah_eng yeah_eng yo_spa _eng yo_spa pensaba_spa mira_spa 
+414.706 421.405 JAM _eng _eng spa_eng sí_eng yo_eng alguna_eng vez_eng me_eng caso_eng y_eng le_eng pido_eng a_eng mi_eng esposa_eng que_eng por_eng favor_eng no_eng tenga_eng un_eng parto_eng natural_eng porque_eng eso_eng es_eng mucho_eng dolor_eng y_eng mucha_eng sangre_eng 
+419.339 419.96 IRI _eng _eng spa_eng no_eng 
+421.648 423.957 spa_spa no_spa no_spa no_spa pero_spa eso_spa es_spa lo_spa mejor_spa porque_spa la_spa cesárea_spa 
+423.342 424.038 JAM _eng it_eng _eng is_eng not_eng going_eng to_eng 
+424.021 427.393 IRI _eng _eng spa_eng no_eng la_eng cesárea_eng es_eng peor_eng _eng la_eng cesárea_eng es_eng peor_eng 
+424.532 426.116 JAM _eng no_eng I_eng know_eng that_eng it_eng _eng I_eng _eng I_eng _eng I_eng 
+427.272 434.121 JAM but_eng the_eng _eng _eng the_eng person_eng will_eng be_eng able_eng to_eng keep_eng the_eng same_eng shape_eng and_eng the_eng _eng the_eng muscle_eng tone_eng and_eng everything_eng 
+432.925 440.096 IRI carajo_spa carajo_spa youre_eng thinking_eng of_eng _eng youre_eng thinking_eng about_eng oh_engspa you_eng dont_eng want_eng _eng I_eng dont_eng want_eng _eng I_eng dont_eng want_eng my_eng _eng my_eng wife_eng to_eng have_eng stretch_eng out_eng her_eng pussy_eng _eng her_eng tight_eng pussy_eng 
+440.69 441.706 JAM yeah_eng 
+441.711 443.114 JAM laugh_eng I_eng am_eng thinking_eng that_eng 
+443.021 443.834 IRI well_eng _eng 
+443.695 446.905 JAM why_eng would_eng I_eng want_eng it_eng that_eng _eng that_eng way_eng like_eng eh_engspa I_eng dont_eng know_eng its_eng so_eng uncomfortable_eng 
+446.065 448.421 IRI pero_spa es_spa no_spa es_spa peor_spa James_engspa porque_spa 
+448.437 449.667 spa_spa tú_spa te_spa imaginas_spa 
+449.04 451.769 JAM _eng _eng spa_eng la_eng persona_eng se_eng recupera_eng más_eng rápido_eng con_eng un_eng parto_eng natural_eng 
+450.515 451.084 IRI _eng _eng spa_eng no_eng 
+451.978 453.597 IRI se_eng sai_eng exactamente_spa yeah_eng 
+453.574 454.642 spa_spa adelgaza_spa más_spa rápido_spa 
+454.625 455.472 spa_spa sí_spa 
+455.67 457.394 spa_spa es_spa mejor_spa en_spa muchos_spa sentidos_spa 
+457.388 457.951 spa_spa sí_spa 
+457.966 459.893 spa_spa pero_spa la_spa destruye_spa por_spa allá_spa 
+460.009 460.874 spa_spa pero_spa para_spa xxx_spa 
+460.189 463.417 JAM _eng it_eng _eng its_eng going_eng to_eng _eng must_eng likely_eng the_eng person_eng is_eng going_eng to_eng be_eng like_eng loose_eng 
+463.506 465.357 IRI and_eng thats_eng why_eng you_eng do_eng Kegel_engspa muscles_eng 
+464.978 466.042 JAM oh_engspa not_eng enough_eng 
+465.984 466.991 JAM I_eng wouldnt_eng say_eng that_eng its_eng enough_eng 
+466.98 467.253 JAM I_eng dont_eng know_eng 
+467.186 467.854 JAM I_eng dont_eng like_eng that_eng 
+467.84 469.941 JAM ah_engspa you_eng know_eng that_eng I_eng _eng I_eng have_eng blood_eng phobia_eng 
+469.904 470.868 JAM did_eng you_eng know_eng that_eng 
+470.787 471.268 IRI what_eng 
+471.263 473.027 spa_spa no_spa no_spa sabía_spa no_spa sabía_spa 
+471.605 472.627 JAM _eng blood_eng phobia_eng 
+473.41 475.651 JAM in_eng Spanish_eng is_eng hematofobia_spa 
+475.988 478.106 spa_spa sí_spa que_spa eso_spa _spa no_spa te_spa gusta_spa ver_spa sangre_spa 
+477.739 479.521 JAM ah_engspa who_eng likes_eng to_eng see_eng blood_eng 
+478.258 480.364 IRI _eng _eng spa_eng a_eng mí_eng ta_eng _eng a_eng mí_eng tampoco_eng 
+479.486 480.293 JAM _eng no_eng one_eng 
+480.444 481.338 spa_spa a_spa mí_spa tampoco_spa 
+480.749 482.487 JAM _eng but_eng I_eng can_eng _eng I_eng _eng I_eng could_eng faint_eng 
+482.373 484.706 IRI no_spa ah_engspa tú_spa e_eng _eng coño_spa tú_spa eres_spa como_spa mi_spa papá_spa 
+484.973 486.326 IRI youre_eng just_eng like_eng my_eng dad_eng 
+486.047 487.094 JAM Im_eng _eng Im_eng becoming_eng stronger_eng 
+487.075 489.425 JAM but_eng ah_engspa like_eng ten_eng years_eng ago_eng 
+488.427 489.222 IRI _eng no_eng 
+489.39 490.755 IRI my_eng dad_eng was_eng just_eng the_eng same_eng 
+490.07 497.064 JAM _eng if_eng _eng if_eng _eng if_eng I_eng happens_eng to_eng see_eng like_eng running_eng blood_eng or_eng something_eng like_eng that_eng I_eng feel_eng disgust_eng and_eng I_eng feel_eng weak_eng and_eng I_eng 
+492.978 493.5 IRI _eng _eng spa_eng ajá_eng 
+497.039 498.583 JAM its_eng like_eng my_eng type_eng kryptonite_eng 
+498.728 500.621 JAM thats_eng the_eng point_eng about_eng _eng freaking_eng where_eng _eng I_eng always_eng xxx_eng 
+498.758 500.69 IRI _eng sí_spa sí_spa sí_spa sí_spa kryptonite_eng 
+500.425 501.365 JAM kryptonite_eng yeah_eng 
+501.598 503.153 spa_spa no_spa mi_spa pa_spa _spa mi_spa papá_spa era_spa igual_spa 
+502.893 504.007 JAM sigh_eng 
+503.113 509.852 IRI _eng mi_spa papá_spa eh_engspa él_spa no_eng _eng él_spa se_spa tuvo_eng _eng se_spa las_spa tuvo_spa que_spa aguantar_spa para_spa estar_spa en_spa el_spa parto_spa de_eng _eng en_spa el_spa parto_spa mío_spa 
+509.873 512.05 JAM so_eng its_eng not_eng just_eng about_eng a_eng loose_eng vagina_eng 
+512.553 513.865 JAM its_eng about_eng blood_eng too_eng 
+513.894 516.365 JAM I_eng do_eng not_eng like_eng when_eng I_eng dont_eng know_eng people_eng is_eng bleeding_eng 
+514.01 514.324 IRI _eng yeah_eng 
+516.771 518.288 JAM I_eng _eng I_eng could_eng faint_eng as_eng I_eng told_eng you_eng 
+518.218 519.838 JAM and_eng Im_eng becoming_eng stronger_eng 
+520.455 522.299 JAM but_eng um_eng how_eng can_eng I_eng say_eng this_eng 
+522.305 524.981 JAM once_eng I_eng was_eng um_eng giving_eng blood_eng 
+524.441 524.911 IRI mmhm_eng 
+525.327 529.501 JAM and_eng ah_engspa this_eng black_eng guy_eng that_eng it_eng was_eng doing_eng it_eng was_eng so_eng careless_eng 
+529.573 530.501 IRI mmhm_eng 
+530.043 531.935 JAM once_eng again_eng were_eng talking_eng about_eng that_eng 
+532.017 534.257 JAM and_eng the_eng guy_eng I_eng _eng I_eng told_eng him_eng _eng I_eng told_eng _eng I_eng told_eng him_eng 
+532.516 535.436 IRI and_eng were_eng talking_eng about_eng _eng were_eng talking_eng about_eng niggers_eng not_eng black_eng people_eng 
+535.499 536.701 JAM calla_spa 
+536.718 538.024 JAM dont_eng say_eng that_eng 
+537.316 539.023 IRI laugh_eng 
+538.674 539.516 JAM eh_engspa the_eng _eng the_eng 
+539.174 539.969 IRI _eng theres_eng a_eng difference_eng 
+540.044 541.728 IRI theres_eng a_eng difference_eng 
+541.77 543.007 IRI what_eng 
+543.163 546.356 JAM I_eng _eng I_eng _eng I_eng dont_eng want_eng to_eng talk_eng about_eng that_eng because_eng we_eng already_eng talked_eng about_eng that_eng 
+544.713 545.503 IRI _eng o_k_engspa 
+546.23 547.554 IRI o_k_engspa yeah_eng yeah_eng yeah_eng 
+546.735 547.646 JAM _eng and_eng um_eng 
+548.97 549.556 JAM I_eng dont_eng know_eng 
+549.566 550.669 IRI o_k_engspa o_k_engspa yeah_eng 
+550.709 552.085 IRI he_eng was_eng being_eng careless_eng 
+551.255 555.063 JAM _eng so_eng stutter_eng yeah_eng even_eng if_eng hes_eng black_eng or_eng not_eng um_eng 
+554.101 557.863 IRI yeah_eng he_eng was_eng no_spa _eng no_spa te_spa _eng te_spa acribilló_spa 
+556.856 557.994 JAM _eng I_eng ah_engspa 
+557.89 558.975 spa_spa que_spa casi_spa te_spa mata_spa 
+558.153 561.734 JAM _eng not_eng _eng always_eng expect_eng the_eng best_eng type_eng of_eng service_eng from_eng _eng ah_engspa from_eng 
+560.295 560.881 spa_spa ajá_spa 
+561.107 562.68 IRI from_eng health_eng people_eng 
+562.628 563.609 IRI especially_eng health_eng 
+564.78 565.331 JAM I_eng dont_eng know_eng 
+565.534 566.306 spa_spa que_spa te_spa estaba_spa 
+566.283 568.75 spa_spa no_spa _spa no_spa encontraba_spa la_spa vena_spa y_spa te_spa estaba_spa pinchando_spa 
+566.353 567.456 JAM _eng I_eng guess_eng 
+567.752 569.847 JAM _eng I_eng told_eng him_eng _eng I_eng told_eng him_eng clearly_eng _eng clearly_eng 
+569.835 574.044 JAM _eng ah_spa I_eng _eng Im_eng _eng Im_eng more_eng than_eng happy_eng to_eng give_eng blood_eng 
+573.872 575.044 JAM _eng I_eng am_eng going_eng to_eng try_eng 
+575.002 577.039 JAM _eng but_eng I_eng _eng I_eng have_eng blood_eng phobia_eng 
+577.028 577.846 IRI mmhm_eng 
+577.498 578.485 JAM _eng and_eng I_eng could_eng faint_eng 
+578.493 586.005 JAM _eng so_eng I_eng need_eng you_eng to_eng be_eng close_eng to_eng me_eng and_eng talk_eng to_eng me_eng and_eng stuff_eng like_eng that_eng for_eng me_eng not_eng to_eng think_eng about_eng what_eng I_eng am_eng doing_eng and_eng feel_eng and_eng imagine_eng what_eng Im_eng doing_eng because_eng 
+586.236 587.176 spa_spa te_spa da_spa cosa_spa 
+586.532 588.366 JAM _eng I_eng _eng yeah_eng 
+588.246 591.857 JAM it_eng _eng it_eng could_eng happen_eng if_eng I_eng _eng if_eng _eng if_eng my_eng mind_eng is_eng focused_eng on_eng that_eng 
+591.7 593.325 spa_spa es_spa _spa es_spa lo_spa que_spa yo_spa te_spa estaba_spa diciendo_spa 
+593.041 593.691 IRI _eng _eng spa_eng sí_eng sí_eng sí_eng 
+593.615 596.876 JAM _eng _eng spa_eng que_eng la_eng mente_eng no_eng se_eng debe_eng enfocar_eng en_eng los_eng problemas_eng porque_eng los_eng ve_eng más_eng grandes_eng 
+596.881 597.677 spa_spa sí_spa 
+598.845 600.291 JAM so_eng bueno_spa pues_spa mira_spa te_spa cuento_spa 
+600.244 600.778 spa_spa ajá_spa 
+600.72 603.03 spa_spa y_spa el_spa tipi_spa _spa el_spa tipo_spa me_spa puso_spa la_spa _spa la_spa inyección_spa 
+602.994 603.644 spa_spa y_spa se_spa fue_spa 
+603.715 604.522 spa_spa y_spa yo_spa me_spa quedé_spa ahí_spa 
+604.505 606.935 spa_spa entonces_spa tratando_spa de_spa pensar_spa otra_spa cosa_spa otra_spa cosa_spa otra_spa cosa_spa 
+606.985 607.902 spa_spa y_spa no_spa fui_spa capaz_spa 
+607.85 616.106 JAM entonces_spa cuando_spa me_spa miré_spa _eng el_spa brazo_spa _eng I_eng _eng I_eng _eng I_eng just_eng no_spa sé_spa empecé_spa a_spa pensar_spa moan_eng sangre_spa estoy_spa _eng estoy_spa sangre_spa _eng sangre_spa 
+614.545 615.932 IRI _eng _eng spa_eng te_eng _eng te_eng dio_eng 
+616.067 616.857 IRI yeah_eng 
+616.706 617.623 spa_spa y_spa me_spa sentí_spa mal_spa 
+616.717 617.751 IRI _eng you_eng got_eng a_eng hot_eng flush_eng 
+617.658 618.099 spa_spa sí_spa 
+618.111 619.016 spa_spa me_spa sentí_spa mal_spa 
+618.947 620.096 JAM hot_eng flushes_eng 
+620.055 621.123 spa_spa sí_spa 
+621.05 622.559 spa_spa yo_spa creí_spa que_spa eso_spa solamente_spa le_spa daba_spa a_spa las_spa mujeres_spa 
+622.495 624.898 spa_spa no_spa eso_spa es_spa que_spa te_spa da_spa _spa que_spa te_spa da_spa el_spa sudor_spa 
+623.581 626.083 JAM _eng so_eng that_eng un_spa _eng un_spa hombre_spa puede_spa tener_spa hot_eng flushes_eng 
+625.565 627.485 spa_spa sí_spa pues_spa claro_spa te_spa daba_spa sudor_spa 
+627.474 628.385 spa_spa te_spa estabas_spa sudando_spa 
+628.373 630.546 spa_spa y_spa te_spa _spa te_spa sentías_spa pálido_spa tú_spa sabes_spa 
+630.529 632.33 spa_spa te_spa como_spa que_spa un_spa calentón_spa como_spa que_spa groan_spa 
+632.181 632.645 JAM o_k_engspa 
+632.628 634.056 JAM he_eng was_eng just_eng negligent_eng 
+633.992 635.455 spa_spa así_spa eso_spa es_spa negligencia_spa 
+634.271 636.384 JAM because_eng I_eng told_eng him_eng I_eng _eng I_eng _eng I_eng could_eng faint_eng 
+636.289 636.713 IRI yeah_eng 
+636.436 636.922 JAM _eng so_eng be_eng here_eng 
+636.91 638.599 JAM and_eng talk_eng to_eng me_eng like_eng 
+637.281 637.908 IRI _eng exactly_eng 
+638.495 638.878 JAM I_eng dont_eng know_eng 
+638.91 642.604 JAM if_eng Im_eng doing_eng this_eng xxx_eng for_eng you_eng because_eng I_eng do_eng not_eng like_eng it_eng and_eng I_eng know_eng that_eng I_eng could_eng faint_eng 
+639.754 640.602 IRI _eng mmhm_eng 
+642.697 643.26 IRI mmhm_eng 
+643.092 646.577 JAM Im_eng doing_eng it_eng because_eng I_eng want_eng to_eng be_eng nice_eng and_eng maybe_eng help_eng a_eng child_eng or_eng something_eng like_eng that_eng 
+645.903 646.461 IRI _eng mmhm_eng 
+646.559 647.587 JAM but_eng he_eng just_eng left_eng me_eng there_eng 
+647.65 648.585 JAM so_eng I_eng fainted_eng 
+648.44 648.968 IRI mmhm_eng 
+648.836 653.602 JAM and_eng when_eng I_eng faint_eng I_eng pulled_eng my_eng _eng my_eng _eng my_eng arm_eng and_eng it_eng removed_eng the_eng needle_eng 
+651.716 652.267 IRI mmhm_eng 
+654.049 655.727 JAM so_eng there_eng was_eng blood_eng all_eng around_eng the_eng floor_eng 
+655.802 656.957 IRI oh_engspa 
+657.025 658.418 JAM and_eng _eng and_eng I_eng just_eng fainted_eng 
+658.366 659.219 JAM and_eng it_eng was_eng so_eng deep_eng 
+659.192 660.14 JAM and_eng I_eng felt_eng like_eng shit_eng _eng 
+660.111 662.032 JAM have_eng you_eng fainted_eng some_eng _eng once_eng or_eng 
+662.009 662.549 IRI sí_eng 
+662.392 667.141 IRI when_eng they_eng ah_engspa po_eng _eng I_eng almost_eng fainted_eng right_eng after_eng the_eng _eng when_eng they_eng did_eng this_eng 
+666.873 667.396 JAM _eng yeah_eng 
+667.165 669.731 IRI because_eng I_eng was_eng like_eng freaking_eng out_eng about_eng the_eng pain_eng 
+670.153 670.826 IRI so_eng 
+670.321 671.407 JAM _eng it_eng was_eng painful_eng 
+670.768 671.215 IRI they_eng 
+671.519 672.349 IRI it_eng was_eng painful_eng 
+672.262 674.381 spa_spa pero_spa es_spa que_spa yo_spa me_spa _spa me_spa _spa me_spa etʃa_spa 
+674.338 676.085 IRI I_eng was_eng just_eng like_eng thinking_eng 
+676.074 677.211 IRI I_eng was_eng like_eng tired_eng 
+677.014 678.059 IRI I_eng was_eng really_eng 
+677.298 678.924 JAM its_eng just_eng a_eng piercing_eng you_eng know_eng 
+678.221 678.674 IRI I_eng know_eng 
+678.598 680.004 spa_spa pero_spa es_spa que_spa no_spa me_spa gusta_spa el_spa dolor_spa 
+678.599 679.905 JAM _eng and_eng the_eng needle_eng 
+679.911 681.112 spa_spa no_spa me_spa gusta_spa el_spa dolor_spa 
+681.222 681.768 spa_spa no_spa 
+681.425 682.848 JAM xxx_eng type_eng of_eng piercings_eng 
+682.824 684.636 JAM those_eng are_eng even_eng more_eng painful_eng 
+684.02 685.036 IRI _eng I_eng know_eng I_eng know_eng 
+685.04 686.979 IRI pero_spa no_spa eh_engspa _eng eh_engspa el_spa muchacho_spa 
+686.156 686.986 JAM _eng its_eng crazy_eng 
+687.101 694.049 spa_spa el_spa muchacho_spa que_spa que_spa pasamos_spa vamos_spa a_spa pasar_spa después_spa y_spa lo_spa _spa te_spa lo_spa ko_spa _spa te_spa lo_spa conozco_spa _spa te_spa lo_spa _spa _spa te_spa lo_spa presento_spa 
+693.971 695.382 spa_spa estaba_spa así_spa 
+695.277 697.042 spa_spa y_spa yo_spa vomité_spa 
+697.02 698.03 spa_spa me_spa hicieron_spa eso_spa 
+698.036 704.031 spa_spa pero_spa yo_spa estaba_spa tan_spa mareada_spa del_spa _spa del_spa _spa del_spa _spa del_spa _spa del_spa _spa del_spa _spa de_spa la_spa situación_spa que_spa yo_spa vomité_spa 
+704.077 704.524 spa_spa y_spa él_spa como_spa 
+704.518 705.006 IRI _eng ay_spa 
+705.008 707.243 spa_spa pero_spa te_spa has_spa desmayado_spa totalmente_spa alguna_spa vez_spa en_spa tu_spa vida_spa 
+707.277 708.688 spa_spa dime_spa sí_spa o_spa no_spa nada_spa más_spa 
+707.277 708.688 IRI _eng _eng spa_eng no_eng _eng no_eng 
+708.647 711.737 spa_spa bueno_spa tú_spa no_spa sabes_spa lo_spa que_spa se_spa si_spa _spa no_spa sabes_spa lo_spa que_spa se_spa siente_spa desmayarse_spa 
+711.283 711.712 spa_spa no_spa 
+711.608 712.769 spa_spa por_spa poco_spa me_spa desmayo_spa 
+712.763 713.361 JAM its_eng like_eng ah_engspa 
+713.337 714.516 spa_spa por_spa poco_spa me_spa desmayo_spa 
+714.504 715.462 IRI they_eng had_eng to_eng 
+715.456 717.244 JAM its_eng like_eng _eng its_eng like_eng youre_eng dying_eng 
+717.248 717.863 IRI I_eng know_eng 
+717.683 719.123 JAM _eng like_eng you_eng feel_eng like_eng youre_eng losing_eng yourself_eng 
+719.105 719.715 IRI like_eng oh_engspa my_eng God_eng 
+719.663 721.358 JAM and_eng fuck_eng and_eng you_eng feel_eng so_eng weak_eng 
+721.814 725.804 IRI I_eng almost_eng fainted_eng no_eng I_eng almost_eng fainted_eng at_eng the_eng _eng at_eng _eng at_eng _eng at_eng ah_engspa his_eng place_eng 
+722.313 723.079 JAM _eng and_eng helpless_eng 
+725.566 728.967 JAM you_eng have_eng no_eng idea_eng what_eng it_eng is_eng to_eng be_eng actually_eng in_eng that_eng position_eng 
+729.107 729.676 JAM so_eng I_eng had_eng 
+729.681 733.08 JAM it_eng happened_eng to_eng me_eng like_eng f_eng _eng five_eng times_eng or_eng f_eng six_eng 
+733.109 733.823 JAM and_eng its_eng 
+733.692 735.149 JAM oh_engspa I_eng hate_eng it_eng 
+735.207 737.988 IRI no_eng no_eng what_eng Im_eng trying_eng to_eng tell_eng you_eng is_eng I_eng did_eng not_eng faint_eng 
+737.982 740.89 IRI but_eng I_eng was_eng this_eng close_eng to_eng fainting_eng because_eng I_eng threw_eng up_eng 
+740.271 741.337 JAM _eng not_eng the_eng same_eng stuff_eng 
+741.273 742.713 IRI what_eng if_eng you_eng start_eng to_eng faint_eng 
+742.608 743.688 IRI I_eng can_eng understand_eng 
+742.771 744.042 JAM _eng would_eng you_eng _eng would_eng you_eng a_eng 
+744.001 745.307 JAM no_eng you_eng _eng you_eng have_eng no_eng idea_eng 
+745.365 749.754 JAM when_eng you_eng actually_eng faint_eng _eng when_eng you_eng lose_eng your_eng ah_engspa consciousness_eng 
+747.229 748.047 IRI _eng _eng spa_eng ajá_eng 
+748.982 749.963 IRI _eng consciousness_eng 
+750.332 751.586 JAM _eng you_eng feel_eng like_eng crap_eng 
+751.557 752.37 JAM its_eng even_eng worse_eng 
+752.346 754.21 JAM because_eng I_eng have_eng been_eng in_eng your_eng 
+753.06 753.908 IRI _eng no_eng no_eng no_eng no_eng no_eng 
+753.931 754.448 JAM stop_eng 
+754.357 757.35 JAM hiss_eng 
+755.861 756.331 IRI oh_engspa 
+758.416 760.024 JAM remember_eng wisdom_eng 
+760.624 762.005 spa_spa qué_spa te_spa dije_spa 
+762.481 763.7 JAM laugh_eng 
+762.481 763.7 IRI _eng continue_eng 
+764.435 766.757 spa_spa tú_spa tienes_spa que_spa aprender_spa a_spa _spa a_spa _spa a_spa abrir_spa los_spa ojos_spa 
+766.722 767.895 spa_spa y_spa abrir_spa las_spa orejitas_spa 
+767.814 768.406 IRI mmhm_eng 
+768.4 770.25 spa_spa porque_spa la_spa sabiduría_spa entra_spa por_spa los_spa ojos_spa y_spa las_spa orejitas_spa 
+770.232 772.125 spa_spa a_spa veces_spa tú_spa no_spa me_spa has_spa escuchado_spa en_spa absoluto_spa lo_spa que_spa estoy_spa diciendo_spa 
+772.084 772.978 spa_spa déjame_spa terminar_spa 
+772.868 773.419 IRI o_k_engspa 
+773.258 774.634 spa_spa que_spa tú_spa que_spa me_spa dices_spa que_spa yo_spa hablo_spa mucho_spa 
+775.04 776.474 spa_spa ya_spa te_spa voy_spa a_spa acabar_spa de_spa decir_spa 
+777.224 783.649 JAM ah_engspa _eng I_eng have_eng felt_eng like_eng you_eng _eng like_eng you_eng have_eng _eng like_eng you_eng have_eng felt_eng like_eng ah_engspa Im_eng about_eng to_eng _eng to_eng lose_eng my_eng consciousness_eng 
+781.164 781.878 IRI _eng mmhm_eng 
+783.666 784.078 IRI yeah_eng 
+784.07 785.469 JAM and_eng its_eng terrible_eng 
+785.442 787.433 JAM its_eng not_eng nice_eng to_eng be_eng in_eng that_eng position_eng 
+787.468 789.97 JAM but_eng actually_eng losing_eng the_eng consciousness_eng is_eng worst_eng 
+789.36 790.504 IRI _eng mmhm_eng o_k_engspa 
+790.045 791.851 JAM so_eng you_eng do_eng not_eng know_eng that_eng part_eng 
+791.694 792.408 IRI o_k_engspa 
+792.218 795.765 JAM so_eng it_eng h_eng has_eng _eng has_eng happened_eng to_eng me_eng that_eng I_eng have_eng like_eng lost_eng my_eng consciousness_eng 
+795.716 796.761 JAM and_eng its_eng terrible_eng 
+796.686 798.787 JAM its_eng like_eng um_eng a_eng small_eng death_eng 
+798.642 799.275 IRI mmhm_eng 
+798.973 799.611 JAM _eng something_eng like_eng that_eng 
+799.652 801.097 spa_spa pero_spa lo_spa que_spa te_spa estaba_spa diciendo_spa qué_spa era_spa 
+801.115 803.059 JAM ah_engspa bueno_spa yo_spa veo_spa sangre_spa y_spa me_spa desmayo_spa 
+802.926 803.495 spa_spa ajá_spa 
+803.251 809.493 JAM so_eng then_eng I_eng have_eng plenty_eng of_eng reasons_eng for_eng not_eng _eng ah_engspa _eng I_eng dont_eng know_eng support_eng natural_eng birth_eng 
+809.495 810.133 IRI mmhm_eng 
+810.064 812.24 JAM its_eng so_eng unnatural_eng and_eng painful_eng 
+812.195 812.666 IRI mmhm_eng 
+812.196 815.344 JAM _eng and_eng most_eng likely_eng the_eng person_eng is_eng going_eng to_eng get_eng a_eng loose_eng vagina_eng 
+815.356 815.93 IRI mmhm_eng 
+816.33 822.015 JAM and_eng even_eng the_eng doctor_eng _eng put_eng the_eng hands_eng inside_eng _eng the_eng vagina_eng to_eng pull_eng the_eng placenta_engspa 
+817.482 818.126 IRI _eng mmhm_eng 
+819.868 820.373 IRI _eng yeah_eng 
+822.05 823.67 JAM placenta_engspa how_eng do_eng you_eng say_eng that_eng 
+822.05 823.67 IRI yeah_eng yeah_eng 
+823.583 824.146 JAM the_eng placenta_engspa 
+824.111 824.987 IRI yeah_eng placenta_engspa 
+825.016 825.812 JAM in_eng English_eng 
+826.125 826.955 IRI placenta_engspa 
+827.112 827.814 IRI thats_eng _eng thats_eng it_eng 
+827.477 828.308 JAM _eng how_eng do_eng you_eng pronounce_eng it_eng 
+828.81 829.739 IRI placenta_engspa 
+829.629 830.639 JAM placenta_engspa 
+830.552 830.889 IRI yeah_eng 
+830.679 833.242 JAM o_k_engspa so_eng _eng so_eng the_eng _eng doctor_engspa takes_eng the_eng placenta_engspa 
+833.201 833.898 spa_spa ajá_spa 
+833.834 838.031 JAM _eng out_eng of_eng _eng the_eng woman_eng like_eng _eng pulling_eng it_eng _eng with_eng _eng with_eng his_eng own_eng 
+837.98 838.432 IRI yeah_eng 
+838.148 839.793 JAM like_eng the_eng whole_eng hand_eng goes_eng inside_eng 
+839.787 841.453 JAM and_eng its_eng so_eng barbaric_eng 
+839.963 840.41 IRI _eng yeah_eng 
+841.649 842.827 JAM and_eng sigh_eng 
+842.88 850.101 JAM and_eng its_eng not_eng just_eng about_eng our_eng _eng myself_eng _eng and_eng my_eng pleasure_eng _eng but_eng about_eng the_eng blood_eng and_eng _eng and_eng 
+844.24 844.612 IRI _eng xxx_eng 
+845.854 846.51 IRI _eng mmhm_eng 
+850.088 850.39 JAM I_eng dont_eng know_eng 
+850.39 851.667 JAM its_eng _eng its_eng _eng its_eng terrible_eng 
+851.647 859.384 IRI I_eng was_eng _eng bueno_spa te_spa digo_spa que_spa yo_spa soy_spa brava_spa porque_spa yo_spa fui_spa la_spa fotógrafa_spa del_spa _eng el_spa parto_spa de_spa mi_spa hermana_spa 
+859.689 860.971 spa_spa yo_spa fui_spa la_spa fotógrafa_spa 
+860.764 861.124 JAM _eng _eng spa_eng tu_eng hermana_eng 
+861.094 862.18 spa_spa tú_spa tienes_spa una_spa hermana_spa mayor_spa 
+862.285 862.668 spa_spa no_spa 
+862.65 863.666 IRI de_spa Carla_engspa 
+863.85 864.454 JAM ah_engspa 
+864.297 865.168 spa_spa yo_spa estuve_spa ahí_spa 
+865.107 866.395 JAM _eng _eng spa_eng cuando_eng nació_eng tu_eng hermana_eng 
+866.279 867.126 spa_spa sí_spa cuando_spa nació_spa 
+866.743 868.798 JAM _eng _eng spa_eng yo_eng creía_eng que_eng tenías_eng una_eng hermana_eng que_eng había_eng dado_eng a_eng luz_eng 
+868.101 870.439 spa_spa no_spa no_spa no_spa no_spa no_spa cuando_spa nació_spa mi_spa _spa cuando_spa mi_spa 
+870.242 871.463 spa_spa oysspa_spa horroroso_spa horroroso_spa 
+871.584 872.025 spa_spa sí_spa no_spa no_spa 
+872.188 872.554 spa_spa me_spa dio_spa cosa_spa 
+872.633 872.906 spa_spa sí_spa 
+872.877 874.034 spa_spa me_spa dio_spa un_spa poquito_spa de_spa cosa_spa 
+872.906 875.078 JAM _eng _eng spa_eng no_eng te_eng dio_eng _eng no_eng te_eng sentiste_eng mal_eng viendo_eng a_eng tu_eng mamá_eng 
+875.637 878.105 spa_spa no_spa no_spa lo_spa único_spa que_spa me_spa _spa me_spa dolía_spa 
+877.844 880.764 JAM _eng le_spa dan_eng _eng le_spa dan_spa hernias_engspa y_spa _eng y_spa haemorrhoids_eng 
+880.579 882.419 IRI sí_spa es_spa así_eng _eng es_spa así_spa yeah_engspa 
+882.855 883.813 JAM s_eng its_eng terrible_eng 
+883.848 884.364 JAM I_eng dont_eng know_eng 
+885.289 886.421 spa_spa cuando_spa no_spa tengas_spa hijos_spa 
+886.257 886.826 JAM _eng people_eng _eng people_eng 
+886.803 887.302 JAM I_eng dont_eng know_eng 
+887.458 891.906 JAM there_eng _eng there_eng _eng there_eng should_eng be_eng like_eng ah_engspa some_eng sort_eng of_eng device_eng _eng to_eng have_eng children_eng 
+891.967 895.644 JAM like_eng put_eng them_eng like_eng in_eng some_eng sort_eng of_eng microwave_eng or_eng something_eng like_eng an_eng _eng laughs_eng oven_eng 
+896.022 898.175 JAM the_eng _eng the_eng _eng the_eng _eng la_eng esperma_eng y_eng el_eng óvulo_eng 
+898.402 899.621 JAM like_eng the_eng _eng how_eng do_eng you_eng say_eng that_eng 
+899.621 901.339 JAM in_eng _eng in_eng Spanish_eng se_spa dice_spa el_spa cigoto_spa 
+901.918 904.605 JAM eh_engspa la_spa mórula_engspa blástula_engspa 
+903.322 904.158 IRI _eng thats_eng _eng xxx_eng 
+904.576 905.174 IRI ajá_spa 
+905.14 906.731 JAM when_eng _eng when_eng _eng when_eng its_eng growing_eng 
+906.088 907.69 IRI _eng youre_eng talking_eng about_eng infi_eng infertile_eng 
+907.679 909.693 IRI youre_eng talking_eng about_eng instead_eng of_eng having_eng inside_eng 
+909.664 911.289 IRI no_eng thats_eng f_eng _eng that_eng is_eng fucked_eng up_eng 
+911.302 913.74 IRI that_eng is_eng the_eng most_eng fucked_eng up_eng thing_eng Ive_eng ever_eng heard_eng you_eng say_eng 
+913.678 916.36 IRI because_eng _eng the_eng babys_eng supposed_eng to_eng be_eng inside_eng the_eng woman_eng _eng 
+914.52 916.632 JAM _eng laugh_eng Im_eng just_eng joking_eng 
+916.629 917.036 JAM Im_eng just_eng joking_eng 
+916.687 917.419 IRI _eng oh_engspa o_k_engspa 
+917.047 918.399 JAM but_eng it_eng would_eng be_eng so_eng convenient_eng 
+918.283 918.776 IRI it_eng would_eng 
+918.457 919.558 JAM _eng can_eng you_eng imagine_eng 
+919.548 920.907 JAM _eng lets_eng see_eng our_eng fetus_eng 
+921.046 921.319 IRI xxx_eng 
+921.192 922.91 JAM _eng its_eng on_eng _eng the_eng microwave_eng _eng growing_eng 
+922.325 924.322 IRI _eng no_eng no_eng thats_eng _eng thats_eng fucked_eng up_eng 
+923.248 924.773 JAM and_eng you_eng open_eng there_eng and_eng you_eng _eng laughs_eng 
+924.529 925.963 IRI Im_eng telling_eng you_eng _eng thats_eng fucked_eng up_eng man_eng 
+925.766 927.019 JAM no_eng no_eng but_eng _eng but_eng what_eng if_eng 
+927.443 927.738 JAM I_eng dont_eng know_eng 
+927.792 932.587 JAM it_eng would_eng be_eng so_eng unnatural_eng to_eng have_eng a_eng child_eng like_eng growing_eng like_eng a_eng fetus_eng outside_eng the_eng woman_eng 
+931.413 935.506 IRI and_eng _eng and_eng _eng and_eng _eng and_eng _eng and_eng I_eng know_eng its_eng only_eng _eng _eng this_eng _eng this_eng is_eng the_eng un_spa bebé_spa de_spa laboratorio_spa 
+935.789 938.221 JAM yeah_eng the_eng _eng the_eng whole_eng nine_eng months_eng _eng in_eng the_eng lab_eng 
+937.108 937.851 IRI _eng I_eng know_eng 
+938.05 940.256 spa_spa eso_spa es_spa _spa eso_spa es_spa como_spa si_spa fuera_spa un_spa producto_spa 
+940.257 942.341 spa_spa eso_spa no_spa es_spa _spa no_spa es_spa una_spa persona_spa 
+941.527 944.539 JAM _eng its_eng going_eng to_eng become_eng a_eng product_eng sooner_eng _eng laughs_eng _eng than_eng later_eng 
+943.327 946.113 spa_spa no_spa pero_spa es_spa no_spa no_spa no_spa eso_spa es_spa 
+945.705 947.261 JAM _eng xxx_eng lets_eng buy_eng a_eng baby_eng 
+947.737 949.326 IRI thats_eng f_eng _eng I_eng know_eng thats_eng 
+948.502 949.648 JAM _eng lets_eng get_eng a_eng baby_eng 
+952.63 956.58 spa_spa un_spa bebé_spa _spa un_spa bebé_spa no_spa es_spa un_spa perrito_spa tampoco_spa sabes_spa 
+956.986 965.759 spa_spa eso_spa es_spa _spa eso_spa es_spa inna_spa _spa eso_spa es_spa _spa eso_spa es_spa tan_spa contra_spa Dios_spa y_spa contra_spa la_spa naturaleza_spa que_spa la_spa i_spa _spa la_spa iglesia_spa está_spa opuesta_spa a_spa todo_spa eso_spa 
+965.906 968.774 spa_spa es_spa tan_spa _spa es_spa tan_spa contra_spa la_spa vida_spa 
+968.814 969.505 JAM mmhm_eng 
+971.18 975.883 JAM qué_spa es_spa _eng yo_spa no_spa sé_spa muy_spa bien_spa qué_spa es_spa eso_spa de_spa las_spa células_spa madres_spa que_spa Bush_engspa _eng Bush_engspa no_spa apoya_spa 
+975.029 976.434 IRI _eng oh_engspa stem_eng cell_eng 
+976.585 977.827 IRI stem_eng cell_eng 
+976.823 978.129 JAM yeah_eng I_eng have_eng no_eng idea_eng about_eng that_eng 
+978.354 979.933 IRI no_eng lets_eng not_eng talk_eng about_eng that_eng xxx_eng 
+979.159 981.69 JAM _eng its_eng like_eng kind_eng of_eng using_eng fetus_eng to_eng 
+982.067 983.576 JAM I_eng dont_eng know_eng something_eng 
+983.556 984.49 IRI lets_eng go_eng back_eng to_eng this_eng 
+984.154 985.442 JAM ay_spa _eng no_eng more_eng no_eng more_eng 
+985.437 986.586 JAM I_eng dont_eng want_eng more_eng bða_eng _eng groans_eng 
+986.539 986.87 JAM no_eng 
+986.905 987.967 IRI what_eng Dong_Quai_engspa 
+987.305 988.617 JAM no_eng more_eng herbs_eng and_eng stuff_eng 
+988.623 989.772 JAM boring_eng stuff_eng 
+990.555 992.175 JAM do_eng you_eng ever_eng hear_eng me_eng _eng talk_eng about_eng that_eng like_eng um_eng 
+992.142 994.081 IRI I_eng know_eng but_eng I_eng didnt_eng _eng finish_eng reading_eng it_eng 
+994.1 995.064 JAM o_k_engspa man_eng read_eng it_eng 
+995.07 996.254 JAM read_eng all_eng of_eng them_eng 
+996.204 1000.145 IRI it_eng has_eng er_eng _eng er_eng stinging_eng nettle_eng 
+1000.11 1001.875 spa_spa no_spa tengo_spa ni_spa idea_spa qué_spa es_spa eso_spa 
+1001.946 1003.321 IRI organic_eng Dong_Quai_engspa 
+1003.317 1005.459 IRI thats_eng the_eng _eng ah_engspa thats_eng the_eng Chinese_eng 
+1005.477 1007.451 IRI the_eng ching_eng chang_eng chong_eng chong_eng _eng 
+1006.9 1007.8 JAM y_eng qué_eng es_eng esto_eng 
+1007.718 1009.582 JAM a_eng P_M_S_engspa lollipop_eng 
+1009.077 1009.64 IRI yeah_eng 
+1009.802 1011.081 JAM with_eng what_eng 
+1011.116 1012.259 JAM it_eng _eng its_eng actually_eng 
+1011.29 1013.095 IRI no_eng thats_eng just_eng me_eng _eng thats_eng just_eng before_eng _eng 
+1013.112 1014.488 IRI because_eng me_spa gusta_spa el_spa dulce_spa 
+1014.146 1014.685 JAM kosher_eng _eng 
+1015.401 1017.177 IRI n_eng s_eng Dong_Quai_engspa 
+1015.97 1018.42 JAM so_eng its_eng _eng its_eng not_eng intended_eng for_eng helping_eng you_eng with_eng your_eng P_M_S_eng 
+1018.563 1020.844 IRI no_eng thats_eng just_eng me_eng because_eng I_eng bought_eng it_eng yesterday_eng 
+1020.848 1023.313 IRI _eng Dong_Quai_engspa root_eng extract_eng 
+1023.4 1025.014 IRI _eng juniper_eng berry_eng extract_eng 
+1024.996 1026.732 IRI _eng organic_eng orange_eng oil_eng xxx_eng 
+1025.716 1028.583 JAM _eng looks_eng like_eng a_eng lollipop_eng made_eng out_eng of_eng herbs_eng or_eng something_eng 
+1027.407 1029.009 IRI _eng s_eng stevia_eng 
+1029.576 1030.557 IRI stevia_eng leaf_eng 
+1029.787 1030.437 JAM _eng oh_engspa stevia_eng 
+1030.443 1031.023 JAM stevias_eng good_eng 
+1031.015 1031.48 IRI yeah_eng I_eng know_eng 
+1031.439 1031.77 IRI I_eng know_eng 
+1031.782 1033.657 IRI that_eng _eng that_eng regulates_eng your_eng s_eng blood_eng sugar_eng 
+1034.688 1035.378 JAM stevia_eng 
+1035.46 1036.011 IRI stevia_eng 
+1035.918 1036.928 JAM so_eng expensive_eng 
+1036.94 1037.404 IRI it_eng is_eng 
+1037.36 1038.004 JAM have_eng you_eng tried_eng it_eng 
+1037.998 1038.741 JAM the_eng natural_eng one_eng 
+1038.82 1040.631 IRI yeah_eng this_eng is_eng all_eng natural_eng 
+1040.736 1041.914 JAM no_eng but_eng ah_engspa 
+1041.403 1042.508 IRI _eng organic_eng xxx_eng 
+1042.007 1043.795 JAM no_eng no_eng I_eng _eng I_eng _eng I_eng mean_eng the_eng _eng the_eng leaves_eng 
+1042.618 1044.025 IRI ah_engspa tú_spa solo_spa 
+1044.321 1045.436 IRI no_spa no_spa no_spa no_spa no_spa 
+1044.435 1045.068 JAM _eng the_eng leaves_eng 
+1045.132 1045.927 JAM the_eng leaves_eng itself_eng 
+1045.927 1047.552 IRI ah_engspa no_spa _eng no_spa xxx_eng _eng no_spa lo_spa he_spa probado_spa 
+1046.844 1048.528 JAM and_eng you_eng know_eng what_eng is_eng stevia_eng 
+1047.913 1048.343 spa_spa sí_spa 
+1048.898 1050.941 JAM its_eng like_eng a_eng plant_eng that_eng grows_eng in_eng Chile_engspa 
+1049.206 1049.78 IRI _eng xxx_eng 
+1051.321 1051.75 IRI yeah_eng 
+1051.983 1052.871 JAM in_eng Chile_engspa 
+1053.367 1062.743 JAM recently_eng discover_eng I_eng dont_eng know_eng but_eng um_eng the_eng fact_eng is_eng that_eng er_eng _eng might_eng be_eng ah_engspa _eng the_eng _eng next_eng big_eng thing_eng _eng to_eng replace_eng sugar_eng or_eng xxx_eng 
+1055.183 1055.467 IRI _eng grunt_eng 
+1060.25 1060.796 IRI _eng aha_engspa 
+1062.333 1063.319 spa_spa sí_spa eso_spa mismo_spa 
+1063.325 1064.114 spa_spa esa_spa mismo_spa es_spa 
+1064.114 1065.501 spa_spa yo_spa sé_spa _spa yo_spa sé_spa todo_spa eso_spa 
+1064.301 1065.16 JAM _eng _eng spa_eng pero_eng es_eng muy_eng cara_eng 
+1065.137 1065.596 spa_spa es_spa carísima_spa 
+1065.751 1066.343 IRI _eng _eng spa_eng sí_eng sí_eng sí_eng 
+1065.818 1066.224 JAM _eng _eng spa_eng es_eng carísima_eng 
+1066.178 1067.269 spa_spa son_spa unas_spa hojitas_spa dulces_spa 
+1067.301 1068.166 JAM _eng _eng spa_eng que_eng tú_eng las_eng coges_eng 
+1068.12 1068.805 JAM y_eng las_eng secas_eng 
+1069.161 1071.169 spa_spa y_spa te_spa las_spa metes_spa en_spa la_spa boca_spa y_spa te_spa endulzan_spa 
+1071.28 1071.97 IRI sí_spa yeah_eng 
+1071.618 1073.081 spa_spa xxx_spa endulzan_spa natural_spa y_spa rico_spa 
+1073.081 1074.219 spa_spa y_spa sin_spa una_spa sola_spa caloría_spa 
+1074.048 1075.935 IRI _eng _eng spa_eng eso_eng _eng eso_eng _eng eso_eng es_eng esto_eng mismo_eng 
+1076.294 1076.694 JAM um_eng 
+1076.605 1078.416 IRI stevia_eng leaf_eng eso_spa es_eng _eng esto_spa es_spa 
+1077.934 1078.875 JAM _eng _eng spa_eng pero_eng es_eng bien_eng caro_eng 
+1079.286 1080.795 spa_spa sí_spa por_spa eso_spa es_spa que_spa estos_spa tés_spa son_spa bien_spa caros_spa 
+1080.772 1082.845 spa_spa esos_spa _spa esos_spa tés_spa son_spa orgánicos_spa 
+1084.545 1092.584 IRI y_spa son_spa hechos_spa como_spa en_spa la_eng _eng en_spa la_spa tradición_spa hindú_spa de_spa Ayurveda_engspa _eng ai_eng Ayurveda_engspa _eng Ayurveda_engspa 
+1091.634 1092.371 JAM _eng Ayurdeva_engspa _eng Ayurvedasengspa_eng 
+1092.569 1093.84 IRI yeah_spa eso_spa _eng eso_spa mismo_spa 
+1093.904 1094.827 IRI Ayurdeva_engspa _eng Ayurvedasengspa_eng 
+1095.701 1097.535 IRI Ayurdevic_eng _eng Ayurvedic_eng _eng Ayurvedic_eng 
+1098.658 1099.517 IRI um_eng 
+1099.947 1102.216 JAM you_eng know_eng that_eng I_eng used_eng to_eng be_eng a_eng Hare_Krishna_engspa 
+1102.432 1103.535 IRI yes_eng you_eng told_eng me_eng 
+1104.201 1106.319 JAM and_eng I_eng used_eng to_eng be_eng a_eng _eng lot_eng of_eng things_eng 
+1106.416 1108.215 IRI so_eng lets_eng _eng lets_eng count_eng them_eng down_eng 
+1109.055 1110.349 JAM oh_engspa the_eng list_eng is_eng huge_eng 
+1110.274 1110.604 IRI I_eng know_eng 
+1110.628 1111.94 IRI you_eng told_eng me_eng it_eng was_eng eighteen_eng 
+1113.471 1118.318 JAM um_eng you_eng might_eng not_eng know_eng about_eng some_eng of_eng them_eng like_eng er_eng _eng espiritismo_spa 
+1118.292 1119.964 spa_spa pues_spa claro_spa sí_spa yo_spa sé_spa _spa sé_spa de_spa eso_spa 
+1119.929 1121.231 JAM but_eng not_eng like_eng in_eng the_eng movies_eng like_eng 
+1121.231 1122.131 JAM _eng oh_engspa my_eng God_eng 
+1121.498 1124.081 IRI _eng no_spa no_spa no_spa no_spa yo_spa sé_spa como_spa New_Age_engspa 
+1124.029 1128.127 JAM its_eng not_eng like_eng a_eng medium_eng like_eng b_eng with_eng blank_eng eyes_eng like_eng w_eng doing_eng weird_eng stuff_eng 
+1127.061 1130.028 IRI _eng no_spa no_spa no_spa yo_spa sé_spa the_eng New_Age_engspa cuando_spa _eng así_spa que_spa tú_spa sabes_spa xxx_eng 
+1129.298 1136.473 JAM _eng just_eng some_eng way_eng to_eng _eng relax_eng and_eng get_eng in_eng touch_eng _eng with_eng a_eng um_eng _eng _eng spirit_eng _eng that_eng eh_engspa _eng has_eng some_eng wisdom_eng 
+1130.751 1132.591 IRI _eng the_eng _eng the_eng chakras_engspa 
+1136.405 1136.951 IRI yes_eng 
+1137.007 1138.673 JAM not_eng _eng any_eng other_eng spirit_eng 
+1138.605 1139.227 IRI aha_engspa 
+1139.145 1140.137 JAM depends_eng on_eng the_eng medium_eng 
+1140.131 1140.544 IRI aha_engspa 
+1140.48 1142.878 JAM but_eng what_eng happens_eng is_eng that_eng _eng they_eng _eng they_eng _eng they_eng make_eng connection_eng 
+1143.377 1146.576 JAM and_eng the_eng spirit_eng speaks_eng about_eng the_eng medium_eng like_eng through_eng the_eng medium_eng 
+1146.501 1147.104 IRI mmhm_eng 
+1147.133 1148.694 JAM and_eng I_eng found_eng it_eng really_eng interesting_eng 
+1148.652 1152.622 JAM so_eng in_eng that_eng group_eng I_eng _eng I_eng happened_eng to_eng _eng learn_eng about_eng the_eng real_eng espiritismo_spa 
+1152.625 1152.916 IRI mmhm_eng 
+1152.847 1153.648 JAM how_eng do_eng you_eng say_eng that_eng in_eng English_eng 
+1153.642 1154.664 JAM like_eng spiritism_eng _eng 
+1154.658 1157.874 IRI no_eng er_eng j_eng its_eng called_eng um_eng New_Age_engspa 
+1158.723 1159.565 IRI eso_spa es_spa New_Age_engspa 
+1159.545 1162.512 spa_spa eso_spa es_spa lo_spa que_spa llaman_spa espiritismo_spa en_spa español_spa o_spa ciencia_spa espírita_spa 
+1160.811 1161.96 IRI _eng _eng spa_eng sí_eng si_eng yo_eng sé_eng 
+1162.624 1163.57 spa_spa yo_spa sé_spa 
+1162.88 1164.418 JAM _eng _eng spa_eng yo_eng estuve_eng en_eng es_eng _eng yo_eng estuve_eng en_eng tres_eng de_eng esos_eng 
+1164.807 1165.544 spa_spa tres_spa diferentes_spa 
+1164.9 1166.194 IRI _eng _eng spa_eng cuáles_eng cuáles_eng 
+1166.411 1167.346 spa_spa tres_spa diferentes_spa grupos_spa 
+1167.34 1168.888 spa_spa pero_spa dame_spa los_spa nombres_spa de_spa los_spa grupos_spa 
+1168.232 1169.631 JAM _eng Cima_engspa se_spa llamaba_spa uno_spa 
+1169.614 1171.524 JAM Asonde_engspa se_spa llamaba_spa otro_spa 
+1169.642 1170.1 IRI _eng aha_engspa 
+1171.313 1171.819 IRI _eng aha_engspa 
+1172.332 1175.032 JAM eh_engspa _eng y_spa el_spa otro_spa cambio_spa de_spa nombre_spa después_spa 
+1174.778 1176.775 spa_spa pero_spa _spa pero_spa fueron_spa esos_spa tres_spa básicamente_spa 
+1177.081 1177.546 IRI aha_engspa 
+1177.561 1179.842 JAM eh_engspa también_spa estuve_spa en_spa el_spa Círculo_Efe_engspa 
+1180.155 1181.008 IRI ajá_spa 
+1181.184 1185.677 JAM eh_engspa and_eng I_eng was_eng looking_eng for_eng eh_engspa _eng ah_engspa third_eng type_eng encounters_eng 
+1185.655 1186.462 JAM how_eng you_eng call_eng those_eng 
+1186.751 1187.581 IRI los_spa U_F_Os_eng 
+1187.558 1187.947 JAM yeah_eng 
+1188.095 1190.968 spa_spa estuve_spa _spa estuve_spa en_spa el_spa monte_spa en_spa las_spa montañas_spa buscando_spa extraterrestres_spa 
+1189.674 1190.742 IRI _eng laugh_eng 
+1191.121 1193.095 JAM then_eng I_eng became_eng a_eng Hare_Krishna_engspa part_eng time_eng 
+1193.096 1193.543 IRI mmhm_eng 
+1193.455 1194.664 JAM a_eng part_eng time_eng Hare_Krishna_engspa 
+1194.338 1194.738 IRI yeah_eng 
+1194.631 1196.134 JAM so_eng I_eng used_eng to_eng be_eng like_eng vegetarian_eng 
+1196.134 1197.8 JAM but_eng sometimes_eng I_eng had_eng my_eng _eng my_eng meat_eng 
+1197.832 1198.332 IRI mmhmseng_eng 
+1198.488 1202.133 JAM and_eng I_eng _eng went_eng to_eng this_eng um_eng _eng a_spa ceremonias_spa 
+1202.548 1203.97 IRI xxx_eng 
+1202.658 1205.108 JAM _eng _eng spa_eng en_eng la_eng mañana_eng xxx_eng 
+1205.184 1206.09 IRI el_spa _eng el_spa xxx_eng 
+1205.695 1208.358 JAM _eng and_eng I_eng used_eng to_eng sing_eng with_eng them_eng and_eng stuff_eng like_eng that_eng but_eng just_eng part_eng time_eng 
+1207.562 1208.388 IRI _eng xxx_eng 
+1208.348 1209.323 IRI oh_engspa it_eng was_eng so_eng _eng I_eng 
+1209.32 1212.304 IRI lo_spa que_spa a_spa mí_spa me_spa gustaba_spa de_spa Coconut_Grove_engspa es_spa que_spa ahí_spa está_spa el_spa templo_spa Hare_Krishna_engspa 
+1212.298 1215.985 spa_spa y_spa ahí_spa ellos_spa _spa antes_spa se_spa pasaban_spa así_spa tan_spa tan_spa tan_spa tan_spa tan_spa tan_spa tan_spa tan_spa tan_spa tan_spa 
+1214.901 1217.321 JAM _eng _eng spa_eng cantando_eng eso_eng _eng eso_eng _eng eso_eng _eng ellos_eng _eng ellos_eng cantan_eng 
+1216.285 1217.371 IRI _eng _eng spa_eng la_eng procesión_eng 
+1217.429 1219.134 spa_spa a_spa veces_spa cantan_spa para_spa recoger_spa dinero_spa 
+1219.174 1219.534 IRI aha_engspa 
+1219.608 1221.796 JAM y_spa para_spa coger_spa donaciones_spa se_spa llama_spa prasha_engspa 
+1221.773 1222.243 IRI aha_engspa 
+1222.708 1224.821 spa_spa y_spa es_spa para_spa rega_spa _spa para_spa coger_spa comida_spa gratis_spa 
+1224.856 1226.058 spa_spa y_spa darle_spa comida_spa a_spa los_spa demás_spa 
+1225.888 1226.335 IRI mmhm_eng 
+1226.332 1229.989 JAM para_spa que_spa la_spa gente_spa que_spa tiene_spa hambre_spa coma_spa y_spa aprenda_spa el_spa Bhagavad_Gita_engspa 
+1230.11 1231.102 JAM its_eng like_eng marketing_eng 
+1231.12 1231.538 spa_spa sí_spa 
+1231.564 1235.001 JAM so_eng they_eng sing_eng and_eng they_eng get_eng free_eng food_eng from_eng the_eng market_eng people_eng xxx_eng 
+1234.471 1234.866 IRI _eng mmhm_eng 
+1235.023 1235.464 JAM I_eng dont_eng know_eng 
+1235.464 1236.787 JAM they_eng _eng they_eng give_eng away_eng _eng food_eng 
+1236.872 1237.894 JAM they_eng prepare_eng the_eng food_eng 
+1238.225 1241.211 JAM and_eng _eng if_eng theres_eng a_eng homeless_eng guy_eng or_eng someone_eng they_eng have_eng like_eng meetings_eng 
+1241.206 1243.818 JAM and_eng they_eng _eng they_eng _eng they_eng give_eng away_eng people_eng for_eng food_eng 
+1241.322 1242.822 IRI _eng eh_engspa es_spa como_spa una_spa misión_spa 
+1243.007 1243.872 spa_spa es_spa misión_spa 
+1243.809 1246.207 JAM _eng but_eng you_eng need_eng to_eng first_eng listen_eng the_eng Bhagavad_Gita_engspa 
+1246.823 1248.356 JAM and_eng then_eng you_eng get_eng the_eng soup_eng 
+1248.409 1248.967 IRI oh_engspa no_spa 
+1248.979 1250.947 spa_spa eso_spa n_spa no_spa _spa eso_spa no_spa es_spa cristiano_spa 
+1249.146 1250.348 JAM _eng laugh_eng 
+1250.644 1252.966 JAM so_eng if_eng youre_eng hungry_eng you_eng can_eng become_eng a_eng Hare_Krishna_engspa 
+1253.165 1257.351 JAM just_eng get_eng the_eng soup_eng and_eng then_eng get_eng the_eng Bhagavad_Gita_engspa and_eng sing_eng with_eng us_eng and_eng dance_eng with_eng us_eng and_eng 
+1257.324 1258.764 IRI _eng _eng spa_eng oye_eng eso_eng es_eng _eng no_eng es_eng 
+1258.056 1259.6 JAM its_eng kind_eng of_eng a_eng maɾi_eng manipulation_eng 
+1259.705 1260.216 spa_spa no_spa eso_spa no_spa es_spa 
+1260.291 1263.854 spa_spa porque_spa xxx_spa por_spa lo_spa menos_spa los_spa cristianos_spa le_spa daban_spa _spa los_spa misioneros_spa 
+1262.786 1264.254 JAM _eng its_eng _eng its_eng _eng its_eng _eng its_eng marketing_eng 
+1264.223 1271.357 JAM its_eng a_eng good_eng way_eng to_eng I_eng dont_eng know_eng _eng give_eng someone_eng a_eng _eng b_eng _eng a_eng bowl_eng of_eng soup_eng and_eng _eng some_eng I_eng dont_eng know_eng comfort_eng for_eng the_eng soul_eng 
+1270.894 1273.234 IRI _eng _eng spa_eng no_eng no_eng no_eng porque_eng eso_eng no_eng se_eng supone_eng que_eng sea_eng así_eng 
+1273.228 1274.026 spa_spa porque_spa por_spa lo_spa menos_spa 
+1273.996 1277.349 spa_spa lo_spa que_spa _spa mi_spa entendimiento_spa de_spa las_spa misiones_spa católicas_spa 
+1277.435 1279.362 IRI en_spa eh_engspa le_spa daban_spa comida_spa 
+1279.13 1285.136 spa_spa no_spa importaba_spa _spa y_spa después_spa si_spa querían_spa _spa querían_spa aprender_spa del_spa cristianismo_spa pues_spa le_spa enseñaban_spa 
+1285.134 1286.184 spa_spa pero_spa eso_spa no_spa era_spa de_spa 
+1285.697 1286.55 JAM _eng o_k_engspa so_eng its_eng a_eng mission_eng 
+1286.546 1287.205 JAM we_eng give_eng you_eng food_eng 
+1287.194 1289.847 JAM and_eng if_eng you_eng want_eng to_eng hear_eng about_eng er_eng Jesus_Christ_eng thats_eng fine_eng 
+1289.394 1290.361 IRI _eng _eng youre_eng more_eng than_eng welcome_eng 
+1290.188 1295.065 JAM but_eng a_eng couple_eng of_eng _eng centuries_eng ago_eng j_eng you_eng do_eng not_eng want_eng to_eng hear_eng about_eng Jesus_Christ_eng so_eng you_eng are_eng going_eng to_eng lose_eng your_eng head_eng 
+1295.858 1296.398 IRI I_eng know_eng 
+1296.253 1297.53 JAM laugh_eng decapitated_eng 
+1296.857 1300.213 IRI we_eng have_eng come_eng _eng we_eng have_eng come_eng a_eng long_eng way_eng _eng por_spa lo_spa menos_spa 
+1300.574 1302.258 JAM yeah_eng but_eng xxx_eng we_eng were_eng counting_eng 
+1302.258 1303.205 JAM like_eng _eng Hare_Krishna_engspa 
+1303.182 1304.053 IRI Hare_Krishna_engspa sí_spa 
+1303.801 1305.879 JAM and_eng I_eng had_eng well_eng my_eng mantras_eng and_eng my_eng stuff_eng _eng 
+1305.921 1309.718 JAM _eng Hare_Krishna_engspa Hare_Krishna_engspa Krishna_engspa Krishna_engspa Hare_engspa Hare_engspa Hare_engspa Rama_engspa Hare_engspa Rama_engspa Hare_engspa Rama_engspa Rama_engspa Rama_engspa Hare_engspa Hare_engspa 
+1308.991 1309.902 IRI _eng _eng spa_eng qué_eng significa_eng eso_eng 
+1310.601 1312.97 JAM es_spa una_spa forma_spa de_spa bendecir_spa al_spa señor_spa Krishna_engspa 
+1313.014 1313.513 IRI aha_engspa 
+1313.641 1315.383 spa_spa y_spa agradecerle_spa por_spa la_spa existencia_spa 
+1315.621 1316.463 spa_spa pero_spa es_spa bonito_spa 
+1316.265 1317.92 spa_spa eso_spa se_spa supone_spa que_spa r_spa te_spa relaja_spa 
+1317.756 1318.331 IRI aha_engspa 
+1318.818 1319.961 JAM eh_engspa fue_spa interesante_spa 
+1320.008 1321.297 spa_spa ellos_spa suelen_spa meditar_spa 
+1321.355 1322.254 IRI aha_engspa sí_spa sí_spa sí_spa 
+1321.51 1321.829 spa_spa meditar_spa 
+1321.8 1323.448 spa_spa y_spa comer_spa saludable_spa 
+1323.431 1325.3 spa_spa son_spa personas_spa sanas_spa buenas_spa 
+1325.182 1327.405 spa_spa los_spa monses_spa hacías_spa _spa los_spa monjes_spa hacían_spa eso_spa 
+1326.975 1327.445 JAM _eng hmm_eng 
+1327.678 1328.258 JAM hmm_eng 
+1329.178 1329.776 spa_spa sí_spa 
+1329.738 1332.136 IRI hacían_spa los_spa vespers_engspa cada_spa 
+1332.193 1332.385 spa_spa sí_spa 
+1332.215 1335.994 JAM estuve_spa en_spa otro_spa grupo_spa que_spa llamaban_spa Madame_Blavatsky_H_P_B_engspa 
+1335.901 1336.29 IRI aha_engspa 
+1336.162 1337.59 spa_spa que_spa era_spa como_spa de_spa metafísica_spa 
+1338.28 1339.975 JAM estuve_spa en_spa uno_spa que_spa se_spa llamaba_spa El_Subuth_engspa 
+1340.143 1342.029 spa_spa que_spa era_spa un_spa poco_spa extraño_spa 
+1342.035 1344.862 spa_spa y_spa estuve_spa muy_spa poco_spa tiempo_spa ahí_spa porque_spa yo_spa visitaba_spa mucho_spa y_spa no_spa me_spa gustaba_spa y_spa me_spa iba_spa 
+1344.773 1345.284 IRI aha_engspa 
+1345.674 1349.07 spa_spa a_spa ver_spa estuve_spa en_spa otro_spa que_spa se_spa llamaba_spa 
+1349.837 1351.8 JAM eh_spa Rosacrucismo_spa 
+1351.806 1352.438 IRI mmhm_eng 
+1353.385 1354.879 spa_spa cómo_spa le_spa dicen_spa en_spa inglés_spa 
+1355.811 1356.298 spa_spa no_spa sé_spa 
+1355.841 1357.513 spa_spa no_spa me_spa acuerdo_spa cómo_spa se_spa dice_spa 
+1358.238 1360.217 spa_spa y_spa qué_spa otro_spa estuve_spa 
+1361.01 1363.088 JAM xxx_eng El_Cuarto_Camino_engspa 
+1363.179 1364.427 JAM estuve_spa en_spa El_Camino_engspa 
+1364.474 1366.059 spa_spa estuve_spa en_spa xxx_spa 
+1366.639 1369.315 spa_spa estuve_spa también_spa en_spa _spa en_spa este_spa de_spa 
+1369.315 1370.245 spa_spa que_spa eso_spa fue_spa hace_spa veinte_spa años_spa 
+1370.234 1370.861 spa_spa fue_spa hace_spa como_spa diez_spa 
+1370.774 1371.912 spa_spa estaba_spa yo_spa muy_spa joven_spa 
+1371.388 1371.8 IRI aha_engspa 
+1372.464 1374.31 spa_spa en_spa el_spa _spa cómo_spa se_spa llama_spa este_spa 
+1374.95 1380.105 spa_spa el_spa de_spa este_spa negrito_spa que_spa tiene_spa el_spa _spa el_spa lleno_spa de_spa pelo_spa grande_spa que_spa hace_spa m_spa tru_spa m_spa magia_spa 
+1381.037 1382.163 spa_spa ay_spa carajo_spa 
+1382.146 1383.174 spa_spa cómo_spa se_spa llama_spa 
+1384.635 1386.4 JAM mm_eng 
+1388.382 1389.688 JAM Satia_Saibaba_engspa 
+1390.407 1393.396 JAM Saibaba_engspa es_spa muy_spa conocido_spa _eng en_spa India_engspa 
+1393.861 1397.187 JAM es_spa que_spa en_spa India_engspa hay_spa _eng hay_spa más_spa de_spa mil_spa religiones_spa reconocidas_spa 
+1396.821 1397.408 spa_spa sí_spa sí_spa 
+1398.815 1404.537 JAM and_eng _eng and_eng then_eng I_eng just_eng read_eng _eng that_eng er_eng I_eng wasnt_eng able_eng to_eng find_eng God_eng _eng or_eng find_eng _eng inner_eng peace_eng 
+1404.583 1405.239 IRI mmhm_eng 
+1405.266 1407.344 JAM so_eng I_eng just_eng eventually_eng stopped_eng looking_eng 
+1407.55 1408.612 JAM and_eng I_eng became_eng a_eng rebel_eng 
+1408.606 1410.731 JAM and_eng I_eng just_eng _eng told_eng 
+1410.522 1411.84 spa_spa un_spa rebelde_spa sin_spa causa_spa 
+1411.864 1416.48 JAM yeah_eng like_eng just_eng told_eng Jesus_engspa or_eng whatever_eng god_eng or_eng representation_eng there_eng was_eng at_eng that_eng time_eng in_eng my_eng mind_eng 
+1416.496 1417.012 IRI mmhm_eng 
+1416.951 1419.298 JAM _eng its_eng _eng o_k_engspa Im_eng just_eng tired_eng of_eng _eng looking_eng for_eng you_eng 
+1419.286 1420.14 JAM _eng and_eng I_eng got_eng nothing_eng 
+1420.13 1420.757 JAM _eng I_eng feel_eng nothing_eng 
+1420.751 1422.324 JAM _eng I_eng _eng I_eng havent_eng got_eng any_eng more_eng faith_eng 
+1422.537 1423.547 JAM _eng so_eng Im_eng just_eng going_eng to_eng stop_eng looking_eng 
+1423.547 1425.039 JAM _eng if_eng you_eng want_eng to_eng see_eng me_eng just_eng look_eng for_eng me_eng 
+1425.052 1426.324 JAM _eng so_eng _eng Im_eng not_eng going_eng to_eng _eng laughs_eng look_eng for_eng you_eng 
+1426.264 1426.949 IRI mmhm_eng 
+1426.871 1428.078 JAM xxx_eng um_eng I_eng dont_eng know_eng _eng 
+1428.108 1431.803 JAM then_eng I_eng became_eng a_eng atheist_eng and_eng then_eng agnostic_eng and_eng plenty_eng of_eng stuff_eng 
+1431.814 1435.111 JAM and_eng then_eng I_eng came_eng here_eng to_eng the_eng U_S_eng _eng seven_eng years_eng ago_eng 
+1435.73 1441.234 JAM and_eng _eng attend_eng like_eng Christian_eng meetings_eng and_eng Christian_eng n_eng churches_eng and_eng stuff_eng 
+1440.625 1441.421 IRI _eng _eng spa_eng protestante_eng 
+1441.56 1442.796 JAM yeah_eng protestante_spa 
+1443.753 1447.778 JAM and_eng at_eng the_eng end_eng I_eng just_eng realised_eng that_eng I_eng am_eng just_eng a_eng Catholic_eng person_eng that_eng wants_eng to_eng be_eng better_eng 
+1447.778 1450.459 JAM and_eng er_eng I_eng dont_eng know_eng Im_eng just_eng trying_eng to_eng be_eng a_eng good_eng _eng man_eng 
+1450.001 1450.702 IRI _eng _eng spa_eng un_eng besito_eng 
+1450.714 1452.159 spa_spa no_spa no_spa no_spa un_spa besito_spa 
+1450.782 1453.092 JAM _eng _eng spa_eng no_eng un_eng poquito_eng no_eng un_eng poquito_eng no_eng 
+1452.922 1453.392 spa_spa ay_spa 
+1454.438 1456.08 IRI o_k_engspa un_engspa besito_engspa en_spa la_spa kiss_eng 
+1457.809 1459.308 spa_spa así_spa que_spa regresastes_spa 
+1459.133 1461.214 spa_spa regresastes_spa a_spa la_spa familia_spa 
+1461.681 1470.458 spa_spa por_spa lo_spa menos_spa busca_spa _spa por_spa lo_spa menos_spa este_spa _spa entendemos_spa que_spa _spa o_spa sea_spa los_spa católicos_spa entendemos_spa que_spa esto_spa es_spa un_spa proceso_spa 
+1470.448 1473.444 spa_spa porque_spa y_spa nos_spa tenemos_spa que_spa ayudar_spa los_spa unos_spa a_spa los_spa otros_spa 
+1473.452 1476.07 IRI eh_engspa _eng al_spa _eng al_spa _eng a_spa la_spa meta_spa que_spa es_spa la_spa santidad_spa 
+1476.604 1481.893 IRI pues_spa Dios_spa nos_eng _eng eh_engspa Jesus_spa nos_spa dijo_spa que_spa este_spa todos_spa podíamos_spa ser_spa santos_spa 
+1484.177 1484.757 JAM mmhm_eng 
+1484.322 1488.147 IRI _eng _eng spa_eng y_eng por_eng eso_eng es_eng que_eng _eng yo_eng fui_eng amada_eng por_eng él_eng 
+1488.146 1491.112 IRI a_spa hacer_spa un_spa apostolado_spa de_spa los_spa the_eng ravers_eng _eng 
+1491.152 1492.203 IRI xxx_eng ravers_eng 
+1492.087 1492.894 IRI xxx_eng 
+1492.366 1492.969 JAM _eng ravers_eng 
+1492.963 1493.956 spa_spa no_spa no_spa tengo_spa ni_spa idea_spa qué_spa es_spa eso_spa 
+1493.82 1497.808 spa_spa es_spa es_spa lo_spa _spa lo_spa _spa la_spa _spa la_spa _spa la_spa gente_spa joven_spa que_spa le_spa gusta_spa la_spa música_spa electrónica_spa 
+1498.02 1498.896 JAM rave_eng music_eng 
+1498.902 1499.691 spa_spa sí_spa 
+1499.841 1500.793 spa_spa música_spa electrónica_spa 
+1500.805 1501.728 spa_spa sí_spa techno_engspa 
+1502.224 1503.234 spa_spa eso_spa no_spa me_spa gusta_spa 
+1503.694 1504.374 spa_spa este_spa 
+1504.379 1505.947 spa_spa bueno_spa no_spa importa_spa que_spa no_spa te_spa guste_spa 
+1505.915 1507.854 spa_spa pero_spa como_spa a_spa mí_spa me_spa gusta_spa 
+1507.727 1508.882 IRI _eng _eng spa_eng y_eng como_eng en_eng verdad_eng 
+1509.18 1510.481 JAM _eng so_eng like_eng techno_engspa music_eng 
+1510.159 1511.843 spa_spa me_spa encanta_spa me_spa 
+1511.514 1515.852 JAM _eng isnt_eng that_eng the_eng one_eng that_eng people_eng use_eng to_eng get_eng stoned_eng or_eng get_eng high_eng with_eng these_eng ecstasies_eng 
+1513.919 1514.987 IRI _eng _eng spa_eng sí_eng sí_eng sí_eng 
+1516.003 1516.368 spa_spa sí_spa 
+1516.357 1517.988 spa_spa pero_spa es_spa que_spa yo_spa _spa a_spa mi_spa me_spa gustaba_spa 
+1517.993 1520.449 spa_spa an_spa yo_spa probé_spa éxtasis_spa a_spa los_spa veintiuno_spa 
+1520.414 1522.889 spa_spa pero_spa yo_spa _spa a_spa mi_spa me_spa encantaba_spa esa_spa música_spa ya_spa de_spa joven_spa 
+1522.281 1523.482 JAM _eng I_eng have_eng never_eng tried_eng ecstasies_eng 
+1523.205 1523.675 IRI _eng _eng spa_eng a_eng los_eng 
+1523.466 1525.091 JAM _eng I_eng just_eng smoked_eng marijuana_engspa for_eng a_eng couple_eng of_eng years_eng 
+1524.187 1525.332 IRI _eng _eng spa_eng a_eng los_eng dieciséis_eng 
+1525.314 1528.321 spa_spa a_spa los_spa dieciséis_spa los_spa diecisiete_spa me_spa xxx_spa yo_spa oí_spa _spa yo_spa oía_spa esa_spa música_spa 
+1527.961 1528.594 JAM _eng just_eng minor_eng stuff_eng 
+1528.583 1529.164 JAM marijuana_engspa just_eng 
+1529.199 1529.791 JAM but_eng you_eng know_eng what_eng 
+1529.417 1529.945 IRI _eng _eng spa_eng bueno_eng 
+1529.841 1530.334 IRI what_eng _eng 
+1530.021 1534.056 JAM I_eng _eng I_eng want_eng to_eng try_eng sooner_eng or_eng later_eng in_eng my_eng life_eng at_eng least_eng once_eng L_S_D_engspa 
+1535.064 1535.842 spa_spa uy_spa 
+1535.453 1536.422 JAM at_eng least_eng once_eng 
+1537.402 1538.662 spa_spa no_spa te_spa _spa no_spa te_spa lo_spa xxx_spa 
+1538.644 1540.757 IRI bueno_spa es_spa que_spa como_spa yo_spa tengo_spa mis_spa issues_eng 
+1540.736 1541.641 spa_spa pues_spa no_spa te_spa lo_spa recomiendo_spa 
+1541.636 1543.992 IRI yo_spa traté_spa algo_spa que_spa era_spa similar_spa era_spa L_S_A_engspa 
+1544.015 1546.418 spa_spa era_spa unas_spa _spa era_spa unas_spa semillas_spa 
+1546.789 1548.995 IRI se_spa llamaban_spa Hawaiian_Baby_Woodrose_engspa 
+1549.145 1550.69 spa_spa y_spa yo_spa hice_spa un_spa té_spa 
+1550.87 1552.866 spa_spa se_spa supone_spa que_spa eran_spa con_spa cinco_spa semillas_spa 
+1551.758 1552.919 JAM it_eng was_eng _eng something_eng natural_eng 
+1552.936 1553.348 spa_spa sí_spa 
+1553.344 1554.516 JAM so_eng then_eng its_eng not_eng L_S_D_engspa 
+1554.516 1556.833 JAM L_S_D_engspa is_eng totally_eng a_eng chemical_eng _eng stuff_eng 
+1555.785 1558.604 IRI _eng no_spa esto_spa es_eng _eng esto_spa es_eng _eng esto_spa es_spa L_S_A_engspa 
+1558.723 1560.506 IRI en_spa vez_spa de_spa D_engspa es_spa L_S_A_engspa 
+1560.218 1560.903 JAM _eng that_eng has_eng nothing_eng to_eng 
+1560.903 1564.711 JAM well_eng el_eng L_S_D_engspa _eng L_S_D_engspa is_eng _eng is_eng _eng is_eng _eng er_eng is_eng made_eng xxx_eng in_eng a_eng lab_eng 
+1561.622 1563.95 IRI _eng _eng spa_eng sí_eng sí_eng no_eng es_eng _eng es_eng similar_eng 
+1564.233 1565.342 spa_spa no_spa no_spa no_spa cállate_spa 
+1565.292 1565.489 spa_spa no_spa 
+1565.36 1566.939 spa_spa yo_spa he_spa leído_spa todo_spa esto_spa 
+1566.973 1567.664 IRI I_eng _eng w_eng I_eng 
+1567.25 1571.313 JAM so_eng its_eng some_eng sort_eng of_eng seed_eng that_eng cause_eng the_eng same_eng effect_eng like_eng L_S_D_engspa or_eng something_eng like_eng that_eng 
+1570.216 1570.576 IRI _eng yes_eng 
+1570.976 1571.528 IRI yes_eng 
+1572.058 1572.459 IRI yes_eng 
+1572.336 1575.314 JAM but_eng theyre_eng some_eng sort_eng of_eng _eng m_eng mushrooms_eng or_eng something_eng like_eng that_eng 
+1574.546 1577.423 IRI _eng no_spa no_spa no_spa no_spa es_spa una_spa semilla_spa se_spa llama_spa Hawaii_engspa 
+1576.773 1578.851 JAM _eng I_eng might_eng try_eng something_eng natural_eng maybe_eng 
+1579.379 1581.162 spa_spa lo_spa que_spa _spa lo_spa que_spa pasa_spa _spa lo_spa que_spa pasó_spa fue_spa 
+1581.167 1583.989 spa_spa bueno_spa es_spa que_spa yo_spa quiero_spa que_spa tú_spa se_spa _spa tú_spa aprendas_spa de_spa mi_spa experiencia_spa 
+1584.521 1585.967 spa_spa este_spa lo_spa que_spa pasó_spa fue_spa que_spa 
+1585.838 1587.264 JAM I_eng know_eng about_eng j_eng your_eng experience_eng 
+1587.252 1588.059 JAM but_eng you_eng know_eng what_eng 
+1588.022 1589.061 JAM still_eng 
+1589.429 1590.497 JAM I_eng told_eng you_eng the_eng other_eng day_eng 
+1591.326 1593.718 JAM er_eng _eng sometimes_eng life_eng is_eng like_eng flat_eng 
+1593.849 1599.877 JAM like_eng _eng without_eng _eng I_eng dont_eng know_eng _eng intereses_spa o_spa intensidades_spa o_spa 
+1599.199 1599.669 IRI _eng mmhm_eng 
+1600.881 1603.284 JAM sometimes_eng just_eng being_eng an_eng adult_eng is_eng a_eng little_eng boring_eng 
+1603.278 1604.242 IRI yes_eng I_eng know_eng 
+1606.752 1608.395 JAM and_eng you_eng can_eng drink_eng sometimes_eng 
+1608.494 1608.848 IRI mmhm_eng 
+1608.697 1609.498 JAM and_eng you_eng feel_eng different_eng 
+1609.469 1611.812 JAM xxx_eng _eng could_eng be_eng nice_eng to_eng drink_eng once_eng in_eng a_eng while_eng 
+1611.825 1612.289 IRI mmhm_eng 
+1612.483 1615.003 JAM k_eng you_eng can_eng smoke_eng _eng cigarettes_eng which_eng is_eng stupid_eng 
+1614.899 1615.264 IRI mmhm_eng 
+1615.227 1616.504 JAM xxx_eng the_eng worst_eng thing_eng that_eng you_eng can_eng do_eng 
+1616.487 1617.526 JAM like_eng Marlboro_engspa ones_eng 
+1617.43 1617.94 IRI mmhm_eng 
+1618.029 1619.515 JAM you_eng can_eng smoke_eng some_eng marijuana_engspa 
+1618.824 1619.828 IRI _eng o_spa Lucky_Strike_engspa 
+1620.288 1621.693 JAM that_eng _eng I_eng used_eng to_eng smoke_eng marijuana_engspa 
+1621.687 1622.848 JAM and_eng for_eng me_eng it_eng was_eng great_eng 
+1622.871 1623.295 IRI mmhm_eng 
+1623.902 1624.813 JAM um_eng 
+1624.825 1625.336 spa_spa pero_spa es_spa que_spa 
+1625.106 1628.09 JAM _eng and_eng I_eng s_eng experienced_eng nothing_eng wrong_eng about_eng that_eng and_eng _eng nothing_eng 
+1628.313 1631.871 JAM but_eng _eng er_eng _eng I_eng never_eng tried_eng any_eng _eng anything_eng else_eng 
+1631.686 1632.249 IRI mmhm_eng 
+1633.099 1636.21 JAM so_eng lo_spa que_spa te_spa estoy_spa diciendo_spa es_spa que_spa cuando_spa yo_spa fumé_spa marijuana_engspa 
+1636.203 1639.72 JAM _eng yo_eng sentí_eng cosas_eng que_eng no_eng sentí_eng jamás_eng de_eng otra_eng forma_eng 
+1639.496 1640.152 spa_spa sí_spa 
+1640.124 1642.771 JAM so_eng there_eng wasnt_eng for_eng me_eng any_eng other_eng way_eng to_eng feel_eng what_eng I_eng felt_eng 
+1642.835 1643.973 IRI xxx_eng no_eng mumble_eng 
+1643.96 1645.522 JAM _eng through_eng _eng marijuana_engspa just_eng with_eng marijuana_engspa 
+1644.58 1645.137 IRI _eng mumble_eng 
+1645.546 1648.002 JAM even_eng _eng I_eng _eng I_eng can_eng experience_eng what_eng is_eng love_eng 
+1648.832 1651.574 JAM _eng um_eng _eng what_eng it_eng is_eng to_eng drink_eng 
+1652.722 1653.564 JAM different_eng things_eng 
+1653.666 1657.898 JAM but_eng what_eng marijuana_engspa _eng marijuana_engspa made_eng me_eng feel_eng _eng nothing_eng else_eng would_eng have_eng made_eng me_eng feel_eng 
+1655.872 1656.406 IRI _eng mmhm_eng 
+1658.493 1659.503 JAM you_eng understand_eng what_eng Im_eng saying_eng 
+1659.406 1660.985 IRI yes_eng completely_eng understand_eng 
+1659.689 1662.464 JAM _eng and_eng I_eng _eng yo_spa no_spa me_spa arrepiento_spa de_spa haber_spa fumado_spa marijuana_engspa 
+1662.449 1664.333 JAM and_eng its_eng just_eng marijuana_engspa for_eng a_eng couple_eng of_eng years_eng 
+1664.141 1664.722 IRI mmhm_eng 
+1664.693 1666.874 JAM so_eng er_eng and_eng ʤ_eng I_eng just_eng stopped_eng doing_eng it_eng 
+1666.706 1667.252 IRI mmhm_eng 
+1667.32 1670.368 JAM it_eng was_eng so_eng easy_eng to_eng just_eng not_eng do_eng it_eng I_eng just_eng decided_eng not_eng to_eng do_eng it_eng _eng 
+1670.374 1671.244 JAM and_eng I_eng stopped_eng doing_eng it_eng 
+1671.589 1682.961 JAM but_eng still_eng I_eng know_eng that_eng _eng there_eng _eng are_eng w_eng some_eng ways_eng to_eng feel_eng things_eng _eng in_eng life_eng _eng that_eng m_eng just_eng _eng flat_eng _eng main_eng basic_eng emotions_eng are_eng not_eng going_eng to_eng make_eng you_eng feel_eng 
+1678.331 1679.411 IRI _eng _eng just_eng like_eng that_eng 
+1683.153 1685.37 JAM because_eng I_eng _eng I_eng _eng k_eng I_eng might_eng love_eng someone_eng 
+1683.96 1686.972 IRI _eng ese_eng es_eng _eng ese_eng es_eng _eng ese_eng es_eng el_eng espíritu_eng santo_eng 
+1686.939 1690.706 JAM yeah_eng the_eng Holy_Spirit_eng is_eng nice_eng but_eng er_eng _eng _eng but_eng er_eng ah_engspa 
+1689.467 1692.439 IRI _eng _eng spa_eng no_eng ese_eng es_eng el_eng espírtu_eng santo_eng 
+1691.507 1695.634 JAM no_eng I_eng have_eng never_eng felt_eng ts_eng s_eng _eng nothing_eng close_eng to_eng the_eng espíritu_spa santo_spa xxx_eng never_eng 
+1694.531 1696.476 IRI _eng _eng spa_eng no_eng porque_eng tú_eng no_eng _eng tú_eng no_eng xxx_eng 
+1695.873 1696.901 JAM _eng _eng I_eng do_eng not_eng have_eng faith_eng 
+1697.098 1697.516 IRI because_eng 
+1697.185 1698.701 JAM _eng I_eng _eng I_eng was_eng not_eng raised_eng to_eng have_eng faith_eng 
+1698.756 1699.598 spa_spa sí_spa pero_spa 
+1699.058 1700.125 JAM _eng and_eng I_eng have_eng looked_eng for_eng that_eng 
+1700.118 1702.272 JAM and_eng I_eng _eng I_eng wanted_eng to_eng have_eng faith_eng but_eng er_eng 
+1700.548 1706.329 IRI _eng _eng spa_eng mira_eng tú_eng ne_eng _eng tú_eng necesitas_eng catecismo_eng _eng tú_eng necesitas_eng un_eng catecismo_eng _eng tú_eng necesitas_eng catecismo_eng 
+1702.302 1704.815 JAM _eng Im_eng still_eng a_eng very_eng nice_eng person_eng and_eng I_eng _eng I_eng 
+1706.327 1706.809 JAM but_eng you_eng know_eng what_eng 
+1706.803 1708.237 JAM I_eng am_eng actually_eng one_eng of_eng the_eng 
+1708.312 1709.003 JAM I_eng dont_eng know_eng 
+1709.592 1716.25 JAM I_eng consider_eng myself_eng a_eng useful_eng person_eng a_eng nice_eng person_eng _eng that_eng has_eng been_eng doing_eng nice_eng _eng stuff_eng for_eng people_eng all_eng his_eng life_eng 
+1716.228 1716.849 IRI yeah_eng 
+1717.425 1718.156 IRI xxx_eng 
+1717.494 1719.062 JAM _eng I_eng _eng I_eng always_eng have_eng been_eng useful_eng 
+1719.062 1720.136 JAM so_eng Im_eng a_eng good_eng citizen_eng 
+1720.182 1720.658 IRI yeah_eng 
+1720.442 1723.699 JAM and_eng maybe_eng n_eng _eng not_eng really_eng with_eng a_eng big_eng faith_eng 
+1724.576 1728.976 JAM but_eng um_eng I_eng have_eng been_eng better_eng than_eng other_eng people_eng that_eng have_eng faith_eng and_eng has_eng done_eng _eng bad_eng stuff_eng 
+1726.265 1733.025 IRI _eng _eng spa_eng sí_eng pero_eng _eng sí_eng pero_eng imagínate_eng si_eng tú_eng _eng si_eng tuvieras_eng _eng si_eng tú_eng tuvieras_eng fé_eng 
+1729.535 1730.272 JAM _eng xxx_eng 
+1732.577 1735.055 spa_spa con_spa la_spa buena_spa persona_spa que_spa tú_spa eres_spa xxx_spa tienes_spa que_spa pedir_spa a_spa Dios_spa 
+1735.294 1736.496 IRI _eng _eng spa_eng dame_eng fé_eng Dios_eng 
+1736.478 1737.819 IRI _eng _eng spa_eng yo_eng quiero_eng creer_eng en_eng ti_eng 
+1737.711 1738.663 spa_spa yo_spa creo_spa que_spa sí_spa es_spa cierto_spa 
+1738.734 1743.459 spa_spa si_spa yo_spa tuviera_spa más_spa _spa fé_spa sería_spa una_spa persona_spa más_spa _spa mejor_spa tal_spa vez_spa más_spa feliz_spa pero_spa bueno_spa 
+1741.264 1742.744 IRI _eng _eng spa_eng xxx_eng uno_eng 
+1743.249 1745.814 spa_spa bueno_spa lo_spa que_spa te_spa estaba_spa diciendo_spa era_spa lo_spa siguiente_spa este_spa 
+1744.699 1745.361 IRI aha_engspa 
+1746.594 1748.318 spa_spa yo_spa sé_spa que_spa ya_spa no_spa fumo_spa nada_spa ni_spa hago_spa nada_spa 
+1748.324 1751.203 spa_spa pero_spa un_spa día_spa de_spa estos_spa me_spa gustaría_spa probar_spa algo_spa una_spa sola_spa vez_spa 
+1751.2 1751.792 IRI mmhm_eng 
+1751.878 1753.23 JAM just_eng give_eng a_eng try_eng once_eng 
+1754.167 1759.01 JAM and_eng something_eng that_eng is_eng going_eng to_eng make_eng me_eng feel_eng _eng something_eng different_eng and_eng nice_eng 
+1758.951 1759.532 JAM exciting_eng 
+1759.517 1760.312 JAM something_eng 
+1760.318 1762.163 JAM I_eng dont_eng know_eng er_eng an_eng experience_eng out_eng of_eng myself_eng 
+1762.163 1762.981 JAM something_eng 
+1762.999 1766.101 JAM and_eng I_eng _eng I_eng have_eng heard_eng that_eng L_S_D_eng can_eng make_eng you_eng feel_eng like_eng that_eng 
+1765.056 1766.188 IRI _eng yeah_eng yeah_eng 
+1766.615 1766.975 IRI yeah_eng 
+1766.83 1768.31 JAM _eng so_eng just_eng once_eng _eng maybe_eng 
+1768.072 1769.419 IRI _eng _eng spa_eng no_eng bueno_eng es_eng _eng es_eng que_eng 
+1768.406 1769.695 JAM _eng and_eng then_eng keep_eng on_eng _eng with_eng my_eng life_eng 
+1769.884 1772.293 spa_spa es_spa que_spa tú_spa sabes_spa que_spa yo_spa tuve_spa tan_spa mala_spa esperiencia_spa 
+1770.587 1771.08 JAM _eng xxx_eng 
+1772.256 1774.102 spa_spa yo_spa te_spa _spa yo_spa te_spa estoy_spa cuidando_spa por_spa lo_spa menos_spa yo_spa te_spa estoy_spa 
+1774.096 1776.007 spa_spa yo_spa te_spa estoy_spa cuidando_spa porque_spa yo_spa no_spa 
+1776.065 1778.73 spa_spa yo_spa sé_spa pero_spa yo_spa tengo_spa claro_spa que_spa solamente_spa es_spa una_spa vez_spa y_spa ya_spa 
+1778.745 1779.441 spa_spa sí_spa 
+1780.016 1780.922 spa_spa pero_spa lo_spa _spa lo_spa 
+1780.138 1781.601 JAM _eng _eng spa_eng es_eng _eng es_eng lo_eng que_eng mucha_eng gente_eng dice_eng no_eng pero_eng 
+1781.705 1782.355 IRI e_eng e_eng 
+1782.026 1783.46 spa_spa pero_spa tal_spa vez_spa no_spa lo_spa haga_spa nunca_spa tal_spa vez_spa 
+1783.442 1785.41 JAM I_eng _eng I_eng might_eng never_eng do_eng it_eng but_eng 
+1785.324 1786.543 spa_spa déjame_spa _spa déjame_spa hablar_spa 
+1786.508 1791.409 spa_spa lo_spa que_spa pasó_spa fue_spa que_spa la_spa primera_spa vez_spa que_spa lo_spa hice_spa _spa hice_spa los_spa cinco_spa _spa nada_spa más_spa es_spa cinco_spa 
+1791.386 1792.953 spa_spa tú_spa haces_spa un_spa té_spa con_spa cinco_spa cinco_spa semillas_spa 
+1792.201 1792.781 JAM _eng _eng spa_eng cinco_eng qué_eng 
+1792.716 1794.319 spa_spa cinco_spa semillas_spa 
+1794.349 1795.562 IRI you_eng grind_eng them_eng 
+1794.738 1795.324 JAM _eng o_k_engspa _eng 
+1795.637 1797.681 spa_spa las_spa semillas_spa esas_spa Hawaiian_Baby_Woodrose_engspa 
+1797.774 1798.459 IRI you_eng grind_eng them_eng 
