@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """ Date created: 10/17/2017
-    Date modified: 10/17/2017
+    Date modified: 10/23/2017
     *************************
     process Miami txt files
     To run:
@@ -74,6 +74,16 @@ def check_spkr(spkrid, total, i):
         return newid
     return spkrid
 
+def load_data(data_folder_path):
+	all_data = {}
+    
+    for filename in os.listdir(data_folder_path):
+        filename_path = os.path.join(data_folder_path,filename)
+        if not filename.endswith('_parsed.txt'): continue #skips 'sastre3'
+        dialog_id, dialog_dict = process_one_file(filename_path)
+        all_data[dialog_id] = dialog_dict
+    return all_data
+
 # words_list must be 1-dimensional
 def write_words2counts(words_list, outfile):
     counts = Counter(words_list)
@@ -121,15 +131,10 @@ def log_odds_gender(all_data, spkr_tsv, out_folder_path):
 
 if __name__=='__main__':
     data_folder_path = sys.argv[1]
-    out_folder_path = sys.argv[2]
+    # out_folder_path = sys.argv[2]
 
-    all_data = {}
+    all_data = load_data(data_folder_path)
     
-    for filename in os.listdir(data_folder_path):
-        filename_path = os.path.join(data_folder_path,filename)
-        if not filename.endswith('_parsed.txt'): continue #skips 'sastre3'
-        dialog_id, dialog_dict = process_one_file(filename_path)
-        all_data[dialog_id] = dialog_dict
 
     # TODO: sort freq highest to lowest (easier to skim count files)
     # write_spkr_wordfreq(all_data, out_folder_path)
