@@ -75,7 +75,7 @@ def check_spkr(spkrid, total, i):
     return spkrid
 
 def load_data(data_folder_path):
-	all_data = {}
+    all_data = {}
     
     for filename in os.listdir(data_folder_path):
         filename_path = os.path.join(data_folder_path,filename)
@@ -110,10 +110,13 @@ def write_prior_counts(all_data, outfile):
     write_words2counts(all_words, outfile)
 
 
-def log_odds_gender(all_data, spkr_tsv, out_folder_path):
+def load_spkr_info(spkr_tsv):
     with open(spkr_tsv) as f:
         total = {line.split()[0]: line.replace('\n','').split()[1:] for line in f.readlines()[1:]}
+    return total
 
+def log_odds_gender(all_data, spkr_tsv, out_folder_path):
+    total = load_spkr_info(spkr_tsv)
     male_words = []
     female_words = []
     male_outfile = os.path.join(out_folder_path,'male_freq.txt')
