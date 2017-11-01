@@ -96,6 +96,7 @@ def load_data(data_folder_path):
 		for spkr in dialog_dict.keys():
 
 			turn_dict = defaultdict(list) 
+			all_data[dialog_id][spkr]['words_01'] = []
 			# [0] = list of Spanish span lengths
 			# [1] = list of English span lengths
 			for turn in dialog_dict[spkr]['words']:
@@ -105,6 +106,7 @@ def load_data(data_folder_path):
 						turn_list.append(1)
 					if word.endswith("_spa"):
 						turn_list.append(0)
+				all_data[dialog_id][spkr]['words_01'].append(turn_list)
 				for k, g in groupby(turn_list):
 					# EX: turn_dict[0] = [3,5,3,1] -> list of spanish spans
 					# EX: turn_dict[1] = [8,1,2] -> list of english spans
