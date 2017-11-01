@@ -5,11 +5,8 @@
 	*************************
 	Plot things!
 	* Get spans of English and Spanish within a turn of speech
-	* get % spanish across dialogs -> HISTOGRAM
-
-
-	To run:
-		./parse_miami.py ../data/miami/txt/
+	* get % spanish across dialoguess -> HISTOGRAM
+	* get spans across turns (time) for both speakers in a given dialogue
 
 """
 
