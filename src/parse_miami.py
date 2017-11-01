@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 
 """ Date created: 10/17/2017
-	Date modified: 10/23/2017
+	Date modified: 10/31/2017
 	*************************
 	process Miami txt files
-	* load from data folder's *_parsed.txt files & clean, store into dict
+	* load from data folder's *_parsed.txt files, store into dict
+		* clean, remove some markup
+		* inclue span info
 	* write out frequencies by spkr to files (outdir)
 	* get prior counts over whole corpus, ready to use log_odds.py script
 	* 
@@ -89,6 +91,25 @@ def load_data(data_folder_path):
 		if not filename.endswith('_parsed.txt'): continue #skips 'sastre3'
 		dialog_id, dialog_dict = process_one_file(filename_path)
 		all_data[dialog_id] = dialog_dict
+
+		# add span info of each spkr into all_data
+		for spkr in dialog_dict.keys():
+
+			turn_dict = defaultdict(list) 
+			# [0] = list of Spanish span lengths
+			# [1] = list of English span lengths
+			for turn in dialog_dict[spkr]['words']:
+				turn_list = []
+				for i, word in enumerate(turn):
+					if word.endswith("_eng"):
+						turn_list.append(1)
+					if word.endswith("_spa"):
+						turn_list.append(0)
+				for k, g in groupby(turn_list):
+					# EX: turn_dict[0] = [3,5,3,1] -> list of spanish spans
+					# EX: turn_dict[1] = [8,1,2] -> list of english spans
+					turn_dict[k].append(len(list(g)))
+			all_data[dialog_id][spkr]['turns'] = turn_dict
 	return all_data
 
 # words_list must be 1-dimensional
@@ -139,24 +160,6 @@ def log_odds_gender(all_data, spkr_tsv, out_folder_path):
 	write_words2counts(male_words, male_outfile)
 	write_words2counts(female_words, female_outfile)
 
-# add span info of each spkr into all_data
-def add_span_info(all_data):
-	for dialog_id, dialog in all_data.items():
-		for spkr in dialog.keys():
-
-			turn_dict = defaultdict(list) 
-			# [0] = list of Spanish span lengths
-			# [1] = list of English span lengths
-			for turn in dialog[spkr]['words']:
-				turn_list = []
-				for i, word in enumerate(turn):
-					if word.endswith("_eng"):
-						turn_list.append(1)
-					if word.endswith("_spa"):
-						turn_list.append(0)
-				for k, g in groupby(turn_list):
-					turn_dict[k].append(len(list(g)))
-			all_data[dialog_id][spkr]['turns'] = turn_dict
 
 if __name__=='__main__':
 	data_folder_path = sys.argv[1]
