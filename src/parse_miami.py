@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """ Date created: 10/17/2017
-	Date modified: 10/31/2017
+	Date modified: 11/05/2017
 	*************************
 	process Miami txt files
 	* load from data folder's *_parsed.txt files, store into dict
@@ -25,12 +25,14 @@ from itertools import groupby
 
 __author__ = 'Emily Ahn'
 
-with open('ignore_words.txt') as f:
+with open('./src/ignore_words.txt') as f:
 	ignore_words = [line.replace('\n','') for line in f.readlines()]
 
 # dialog_dict   [spkr1] ->  ['time_start'] = list of floats
 #						   ['time_end'] = list of floats
 #						   ['words'] = list of (list of words)
+# 							['words_01'] = ^ converted into 0s and 1s (0=Spa, 1=Eng)
+# 							['turn_num'] = list of ints of which turn # that corresponding utterance is, within whole dialogue
 #			   [spkr2] -> ...
 def process_one_file(filename):
 	
@@ -40,6 +42,7 @@ def process_one_file(filename):
 	with open(filename) as f:
 		total = [line.replace('\n','') for line in f.readlines()]
 
+	real_line_ctr = 0
 	for i, line in enumerate(total):
 		turn = line.split()
 
@@ -69,6 +72,11 @@ def process_one_file(filename):
 				word = word.replace('_eng','_spa')
 			words.append(word)
 		dialog_dict[spkr]['words'].append(words)
+
+		# added 11/05
+		
+		dialog_dict[spkr]['turn_num'].append(real_line_ctr)
+		real_line_ctr += 1
 	return dialog_id, dialog_dict
 
 
