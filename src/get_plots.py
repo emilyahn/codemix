@@ -186,6 +186,10 @@ def plot_var_windows(all_data, window, slide):
 			# slide
 			wind_st += slide
 
+		# sanity
+		# print "DIALOG: ", dialog_id
+		# print "MIN: ", min(perc_spa_list)
+		# print "MAX: ", max(perc_spa_list)
 		var_list.append(np.var(np.array(perc_spa_list)))
 
 
