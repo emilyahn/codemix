@@ -9,17 +9,21 @@
 	* get spans across turns (time) for both speakers in a given dialogue
 
 """
-
-from collections import defaultdict, Counter
-import os, sys, re
-from parse_miami import load_data, load_spkr_info
-import numpy as np
-import matplotlib.pyplot as plt
+from collections import defaultdict
 from itertools import groupby
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+from parse_miami import load_data, load_spkr_info
+
+
+# from collections import Counter
 # import math
 # import argparse
 
 __author__ = 'Emily Ahn'
+
 
 # histogram of a given speaker's span lengths
 # Example method invoking:
@@ -30,7 +34,7 @@ def plot_one_spkr(title, sp_list, en_list):
 	span_list = np.array(sp_list)
 	eng_list = np.array(en_list)
 
-	xmin = 0 #min([np.floor(min(span_list)), np.floor(min(eng_list))])
+	xmin = 0  # min([np.floor(min(span_list)), np.floor(min(eng_list))])
 	xmax = max([np.ceil(max(span_list)), np.ceil(max(eng_list))])
 	num_bins = xmax
 
@@ -45,6 +49,7 @@ def plot_one_spkr(title, sp_list, en_list):
 	plt.legend(loc='upper right')
 
 	plt.show()
+
 
 # histogram of (all male) vs (all female) speakers' span lengths
 def plot_genders(all_data, spkr_info):
@@ -68,6 +73,7 @@ def plot_genders(all_data, spkr_info):
 	plot_one_spkr('Male', male_spa_span_list, male_eng_span_list)
 	plot_one_spkr('Female', female_spa_span_list, female_eng_span_list)
 
+
 # hist (across dialogues) of % of Spanish words in dialogue
 # (# spa_words) / (# spa_words + # eng_words)
 def plot_percent_spanish(all_data, num_bins):
@@ -87,8 +93,8 @@ def plot_percent_spanish(all_data, num_bins):
 		print '{:.2f}\t{}'.format(perc, dialog_id)
 
 	# plot
-	xmin = 0 #min([np.floor(min(span_list)), np.floor(min(eng_list))])
-	xmax = 100 #max([np.ceil(max(span_list)), np.ceil(max(eng_list))])
+	xmin = 0  # min([np.floor(min(span_list)), np.floor(min(eng_list))])
+	xmax = 100  # max([np.ceil(max(span_list)), np.ceil(max(eng_list))])
 	# num_bins = 10
 
 	plot_bins = np.linspace(xmin, xmax, num_bins)
@@ -102,6 +108,7 @@ def plot_percent_spanish(all_data, num_bins):
 
 	plt.show()
 
+
 # plots 2 stacked-bar-charts of span (# words) Eng & Spa over turn_number
 # for span in 1 turn, takes MEAN (can later look at MAX) if there are several of 1 lang
 def plot_span_vs_turns(all_data, dialog_id):
@@ -112,7 +119,7 @@ def plot_span_vs_turns(all_data, dialog_id):
 	for spkr in all_data[dialog_id].keys():
 		eng_list = [0]*total_turns
 		spa_list = [0]*total_turns
-		for line_i, line in enumerate(all_data[dialog_id][spkr]['words_01']): #1 turn of speech
+		for line_i, line in enumerate(all_data[dialog_id][spkr]['words_01']):  # 1 turn of speech
 			turn_num = all_data[dialog_id][spkr]['turn_num'][line_i]
 
 			turn_dict = defaultdict(list)
@@ -129,19 +136,20 @@ def plot_span_vs_turns(all_data, dialog_id):
 
 			eng_list[turn_num] = eng_mean_span
 			spa_list[turn_num] = spa_mean_span
-		
-		# plot
-		x_loc = np.arange(total_turns)
 
-		p1_spa = plt.bar(x_loc, spa_list, color='r', label='spa')
-		p1_eng = plt.bar(x_loc, eng_list, color='b', label='eng')
+		# plot
+		# x_loc = np.arange(total_turns)
+
+		# p1_spa = plt.bar(x_loc, spa_list, color='r', label='spa')
+		# p1_eng = plt.bar(x_loc, eng_list, color='b', label='eng')
 
 		plt.ylabel('Span (# words)')
 		plt.xlabel('Turns # over time')
-		plt.title('Spans over turns: DIALOG [{}], SPKR [{}]'.format(dialog_id,spkr))
+		plt.title('Spans over turns: DIALOG [{}], SPKR [{}]'.format(dialog_id, spkr))
 		plt.legend(loc='upper right')
 
 		plt.show()
+
 
 # plot hist of variance (of % Spanish usage) across windows for all dialogues
 # TODO: use time (seconds) instead of turn #
@@ -181,7 +189,7 @@ def plot_var_windows(all_data, window, slide):
 				perc_spa = 0
 			else:
 				perc_spa = float(100 * num_spa / total_spa_eng)
-				
+
 			perc_spa_list.append(perc_spa)
 			# slide
 			wind_st += slide
@@ -191,7 +199,6 @@ def plot_var_windows(all_data, window, slide):
 		# print "MIN: ", min(perc_spa_list)
 		# print "MAX: ", max(perc_spa_list)
 		var_list.append(np.var(np.array(perc_spa_list)))
-
 
 	# already printed and saved to ../data/percent_spa_dialog.txt
 	for var, dialog_id in reversed(sorted(zip(var_list, all_data.keys()))):
@@ -214,9 +221,9 @@ def plot_var_windows(all_data, window, slide):
 	# plt.show()
 
 
-if __name__=='__main__':
-	data_folder_path = "./data/miami/txt/" # sys.argv[1]
-	spkr_tsv = './data/spkr_info_1017.tsv' # sys.argv[2]
+if __name__ == '__main__':
+	data_folder_path = "./data/miami/txt/"  # sys.argv[1]
+	spkr_tsv = './data/spkr_info_1017.tsv'  # sys.argv[2]
 
 	all_data = load_data(data_folder_path)
 	spkr_info = load_spkr_info(spkr_tsv)
@@ -228,10 +235,7 @@ if __name__=='__main__':
 	# plot_span_vs_turns(all_data, 'sastre8')
 	# plot_span_vs_turns(all_data, 'herring10')
 
-
-
 	# spkr = 'MAR' #test example
 	# plot_one_spkr(spkr, all_data[spkr_info[spkr][0]][spkr]['turns'][0], all_data[spkr_info[spkr][0]][spkr]['turns'][1])
 	# plot_genders(all_data, spkr_info)
 	# plot_percent_spanish(all_data)
-
