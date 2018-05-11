@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # from src.parse_miami import load_data, load_spkr_info
 import spacy
-from itertools import groupby
+# from itertools import groupby
 from collections import defaultdict
 
 
@@ -20,34 +20,57 @@ with open('./data/auxiliaries.txt') as f:
 # EXAMPLE END...
 
 
-def remove_lidtags(text):
+# assume text is list of words
+# only remove final "_{eng|spa|engspa}", e.g. "T_V_eng" -> "T_V"
+def remove_lidtags_miami(text):
 	return ['_'.join(word.split('_')[:-1]) for word in text]
 
 
-# take full text (list of str), return [num_spa_aux, num_eng_aux]
-def num_aux(text):
-	text = remove_lidtags(text)
+# take full text (list of str), return [spa_closed_lst, eng_closed_lst]
+# each sublist contains Booleans
+def get_closed(text, spa_pos, eng_pos):
+	closed_class = ['AUX', 'DET', 'CONJ', 'CCONJ', 'ADP']
+	text = remove_lidtags_miami(text)
 	# get english
-	num_eng = 0
-	for word in text:
-		if word in eng_aux_lst:
-			num_eng += 1
+	eng_closed_lst = []
+	for i, word in enumerate(text):
+		eng_is_closed = False
+		if word in eng_closed_lst or eng_pos[i] in closed_class:
+			eng_is_closed = True
+		eng_closed_lst.append(eng_is_closed)
+
+	# eng_aux = [word in eng_aux_lst for word in text]
 
 	# get spanish
-	doc = nlp_all[0](unicode(' '.join(text), "utf-8"))
-	num_spa = len([1 for token in doc if token.pos_ == 'AUX'])
-	return [num_spa, num_eng]
+	# doc = nlp_all[0](unicode(' '.join(text), "utf-8"))
+	# num_spa = len([1 for token in doc if token.pos_ == 'AUX'])
+	spa_closed_lst = [spa_tag in closed_class for spa_tag in spa_pos]
+	return [spa_closed_lst, eng_closed_lst]
 
 
 # take full text (list of str), return [spa_pos_lst, eng_pos_lst]
 def get_pos(text):
-	text = remove_lidtags(text)
+	# text = remove_lidtags_miami(text)
 	str_text = ' '.join(text).decode('utf-8')
 	doc_spa = nlp_all[0](unicode(str_text), "utf-8")
 	spa_pos = [token.pos_ for token in doc_spa]
 	doc_eng = nlp_all[1](unicode(str_text), "utf-8")
 	eng_pos = [token.pos_ for token in doc_eng]
 	return [spa_pos, eng_pos]
+
+
+# given list of POS tags, return Boolean list of if it's NOUN/ADJ/VERB
+# tag set inspiration: Content morphemes in Myers-Scotton's ML/EL framework
+# noise: English aux can be tagged as VERB, e.g. "is"
+# TODO: try removing PROPN, and adding PRON
+def is_content(pos_lst):
+	# cont_lst = []
+	# for pos_tag in pos_lst:
+	# 	if pos_tag in ['NOUN', 'ADJ']:
+	# 		cont_lst.append('1')
+	# 	if pos_tag == 'VERB'
+	# 		if
+	return [pos_tag in ['NOUN', 'ADJ', 'VERB', 'PROPN'] for pos_tag in pos_lst]
 
 
 # split into 2 methods later: miami-specific, then style metrics
@@ -57,16 +80,24 @@ def get_style_metrics(all_data, dialog_id):
 	# 					) for spkr in all_data[dialog_id].keys()])
 
 	for spkr in all_data[dialog_id].keys():
-		for line_i, line in enumerate(all_data[dialog_id][spkr]['words_01']):
+		for line_i, words_01 in enumerate(all_data[dialog_id][spkr]['words_01']):
 			# only process if utt = code-mixed
-			if not (0 in line and 1 in line):
+			if not (0 in words_01 and 1 in words_01):
 				continue
 
-			print ' '.join(all_data[dialog_id][spkr]['words'][line_i])
-			spa_aux, eng_aux = num_aux(all_data[dialog_id][spkr]['words'][line_i])
-			spa_pos, eng_pos = get_pos(all_data[dialog_id][spkr]['words'][line_i])
+			words_lst = remove_lidtags_miami(all_data[dialog_id][spkr]['words'][line_i])
+			print ' '.join(words_lst)
+			spa_pos, eng_pos = get_pos(words_lst)
+			spa_aux, eng_aux = get_closed(words_lst, spa_pos, eng_pos)
+			spa_cont = is_content(spa_pos)
+			eng_cont = is_content(eng_pos)
 
-			print 'aux: (spa, eng): ({}, {})'.format(spa_aux, eng_aux)
+			for i in range(len(words_01)):
+				print '{}: {}'.format(words_01[i], words_lst[i])
+				print 'S-POS\t{}\tE-POS\t{}'.format(spa_pos[i], eng_pos[i])
+				print 'S-AUX\t{}\tE-AUX\t{}'.format(int(spa_aux[i]), int(eng_aux[i]))
+				print 'S-CON\t{}\tE-CON\t{}'.format(int(spa_cont[i]), int(eng_cont[i]))
+				print ''
 			# print 'spa_pos', spa_pos
 			# print 'eng_pos', eng_pos
 
@@ -88,7 +119,7 @@ def get_style_metrics(all_data, dialog_id):
 			# 		print token.pos_
 			# 		if token.pos_ == 'NOUN':
 			# 			pass
-			# break
+			break
 
 
 # lbl: list of labels for each tweet
