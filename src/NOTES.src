@@ -19,3 +19,7 @@ Commands / Log of action / Useful things
 
 # log_odds on gender
  ./log_odds.py -f ../output/log_odds/female_freq.txt -s ../output/log_odds/male_freq.txt -p ../output/log_odds/all_prior_counts.txt > ../output/log_odds/gender_f-m.txt
+
+ 4/26/18
+ auxiliaries taken from script:
+ https://github.com/nealcaren/quant-text-fall-2014/blob/master/liwc.py
