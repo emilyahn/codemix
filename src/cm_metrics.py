@@ -59,10 +59,10 @@ def get_pos(text):
 	return [spa_pos, eng_pos]
 
 
-# given list of POS tags, return Boolean list of if it's NOUN/ADJ/VERB
+# given list of POS tags, return Boolean list of if itmems are NOUN/ADJ/VERB
 # tag set inspiration: Content morphemes in Myers-Scotton's ML/EL framework
 # noise: English aux can be tagged as VERB, e.g. "is"
-# TODO: try removing PROPN
+#TODO: try removing PROPN
 def get_content(pos_lst):
 	return [pos_tag in ['NOUN', 'ADJ', 'VERB', 'PROPN'] for pos_tag in pos_lst]
 
@@ -147,16 +147,20 @@ def is_content(words_01, both_aux, both_cont):
 
 # from styles dict, compute proportions of each style
 def calc_styles(styles):
+	style_calcs = {}
 	total_utt = float(sum([v for k, v in styles.iteritems()]))
 	sorted_names = sorted(styles.keys())
 	for style_name in sorted_names:
 		count = styles[style_name]
 		print '{}\t{:.2f}'.format(style_name, (100 * count)/total_utt)
+		style_calcs[style_name] = (100 * count)/total_utt
+
+	return style_calcs
 
 
 # give an utterance's LID labels and list(text)
 # update styles and styles_txt dictionaries
-def process_tags(words_01, words_lst, styles, styles_txt):
+def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
 	# all indices -> 0 = SPA, 1 = ENG
 	both_pos = get_pos(words_lst)
 	spa_pos, eng_pos = both_pos
@@ -180,7 +184,9 @@ def process_tags(words_01, words_lst, styles, styles_txt):
 	if structure is not None:
 		name = 's-{}'.format(structure)
 	elif content is not None:
-		name = 'c-{}-{}'.format(content[0], content[1])
+		name = 'c-{}'.format(content[0])
+		if finegrain:
+			name = 'c-{}-{}'.format(content[0], content[1])
 	else:
 		name = 'neither'
 
@@ -294,9 +300,13 @@ def calc_m_idx(chat_lid_lsts):
 
 	# print num_spa_eng
 	num_total_01 = float(num_spa_eng[0] + num_spa_eng[1])
-	sigma = math.pow(num_spa_eng[0]/num_total_01, 2) + math.pow(num_spa_eng[1]/num_total_01, 2)
+	# print num_total_01
+	try:
+		sigma = math.pow(num_spa_eng[0]/num_total_01, 2) + math.pow(num_spa_eng[1]/num_total_01, 2)
 	# print 'sigma', sigma
-	return (1 - sigma) / sigma
+		return (1 - sigma) / sigma
+	except ZeroDivisionError:
+		return 0
 
 
 # integration index, averaged per user
@@ -325,38 +335,40 @@ def calc_i_idx(chat_lid_lsts):
 		scores.append(score)
 
 	# print scores
-	return sum(scores) / len(scores)
+	try:
+		return sum(scores) / len(scores)
+	except ZeroDivisionError:
+		return 0
 
 
 # print CM metrics for collected COCOA data only
 # return dict where dict[style_label] = {style: list(txt examples)}
-def get_style_metrics_cocoa(filename, chat2style_file):
+def get_style_metrics_cocoa(filename):
 
-	# data = defaultdict(list)
 	txt_lst = defaultdict(list)
 	lbl_lst = defaultdict(list)
-	chat2style = {}
+	# chat2style = {}
 	style2chat = defaultdict(set)
 
-	with open(chat2style_file) as f:
-		for line in f.readlines():
-			chat_id, chat_style = line.strip().split('\t')
-			chat2style[chat_id] = chat_style
+	# with open(chat2style_file) as f:
+	# 	for line in f.readlines():
+	# 		chat_id, chat_style = line.strip().split('\t')
+	# 		chat2style[chat_id] = chat_style
 
 	with open(filename) as f:
 		for line in f.readlines():
 			all_info = line.replace('\n', '').split('\t')
 
-			chat_id_concat = '{}_{}'.format(all_info[0], all_info[1].zfill(2))
+			chat_id_concat = '{}_{}'.format(all_info[1], all_info[2].zfill(2))
 			# ex. style2chat['en_lex'].append('chat_id_4')
-			style2chat[chat2style[all_info[0]]].add(chat_id_concat)
-			txt = all_info[2]  # single token
+			style2chat[all_info[0]].add(chat_id_concat)
+			txt = all_info[3]  # single token
 
-			lbl = all_info[3]
-			if len(all_info) > 4:
-				if all_info[4] != '':
+			lbl = all_info[4]
+			if len(all_info) > 5:
+				if all_info[5] != '':
 					# use manually fixed LID tag instead, if applicable
-					lbl = all_info[4]
+					lbl = all_info[5]
 
 			txt_lst[chat_id_concat].append(txt)
 			lbl_lst[chat_id_concat].append(lbl)
