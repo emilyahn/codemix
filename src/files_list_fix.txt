@@ -1,0 +1,10 @@
+chat_json	lid_tsv	qual_tsv
+cocoa/turk/amt_cont1_0615/18content_0615_chat.json	cocoa/turk/amt_cont1_0615/cont1_fix.tsv	cocoa/turk/amt_cont1_0615/cont1_qual.tsv
+cocoa/turk/amt_cont2_0716/cont_0716_chat.json	cocoa/turk/amt_cont2_0716/cont2_fix.tsv	cocoa/turk/amt_cont2_0716/cont2_qual.tsv
+cocoa/turk/amt_struct1_0621/19struct_0621_chat.json	cocoa/turk/amt_struct1_0621/struct1_fix.tsv	cocoa/turk/amt_struct1_0621/struct1_qual.tsv
+cocoa/turk/amt_struct2_0629_buggy/struct_0629_trim17_chat.json	cocoa/turk/amt_struct2_0629_buggy/struct2_fix.tsv	cocoa/turk/amt_struct2_0629_buggy/struct2_qual.tsv
+cocoa/turk/amt_soc1_0724/0720_social_chat.json	cocoa/turk/amt_soc1_0724/soc1_fix.tsv	cocoa/turk/amt_soc1_0724/soc1_qual.tsv
+cocoa/turk/fig8_0_all4/fig8_0_chat.json	cocoa/turk/fig8_0_all4/all4_fix.tsv	cocoa/turk/fig8_0_all4/all4_qual.tsv
+cocoa/turk/0731_all8/0731_all8_chat.json	cocoa/turk/0731_all8/0731_auto.tsv	cocoa/turk/0731_all8/0731_qual.tsv
+cocoa/turk/0801_all8/0801_all8_chat.json	cocoa/turk/0801_all8/0801_auto.tsv	cocoa/turk/0801_all8/0801_qual.tsv
+cocoa/turk/0810_rand/0810_rand_chat.json	cocoa/turk/0810_rand/0810_fix.tsv	cocoa/turk/0810_rand/0810_qual.tsv

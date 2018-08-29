@@ -192,6 +192,7 @@ def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
 
 	styles[name] += 1
 	styles_txt[name].append(' '.join(words_lst))
+	return name
 
 
 # print CM metrics for Miami data only
@@ -296,6 +297,7 @@ def calc_m_idx(chat_lid_lsts):
 	for user, lid_lists in chat_lid_lsts.iteritems():
 		for utt_list in lid_lists:
 			for x in utt_list:
+				# print x
 				num_spa_eng[x] += 1
 
 	# print num_spa_eng
