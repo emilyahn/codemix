@@ -292,13 +292,23 @@ def get_style_metrics_twitter(twitter_dict):
 
 
 # multilingual index across all words across users
-def calc_m_idx(chat_lid_lsts):
+# default: chat_lid_lsts = dict[user] = list(list): [utterance x lid tags]
+# if one_user: chat_lid_lsts = list(list): [utterance x lid tags]
+def calc_m_idx(chat_lid_lsts, one_user=False):
 	num_spa_eng = [0, 0, 0]  # 3rd spot will be ignored
-	for user, lid_lists in chat_lid_lsts.iteritems():
-		for utt_list in lid_lists:
+
+	if one_user:  # process 1 dialogue only (no dict)
+		for utt_list in chat_lid_lsts:
 			for x in utt_list:
-				# print x
+				# print type(x)
 				num_spa_eng[x] += 1
+
+	else:
+		for user, lid_lists in chat_lid_lsts.iteritems():
+			for utt_list in lid_lists:
+				for x in utt_list:
+					# print x
+					num_spa_eng[x] += 1
 
 	# print num_spa_eng
 	num_total_01 = float(num_spa_eng[0] + num_spa_eng[1])
@@ -311,11 +321,18 @@ def calc_m_idx(chat_lid_lsts):
 		return 0
 
 
-# integration index, averaged per user
-# also print values per user just for sanity check
-def calc_i_idx(chat_lid_lsts):
+# integration index, averaged per user (for multiple dialogues)
+# chat_lid_lsts = dict[user] = list(list): [utterance x lid tags]
+# if one_user: chat_lid_lsts = list(list): [utterance x lid tags]
+def calc_i_idx(chat_lid_lsts, one_user=False):
 	scores = []
-	for user, lid_lists in chat_lid_lsts.iteritems():
+	if one_user:
+		lid_lists_all = [chat_lid_lsts]
+
+	else:
+		lid_lists_all = [lsts for user, lsts in chat_lid_lsts.iteritems()]
+
+	for lid_lists in lid_lists_all:
 		user_01_list = []
 		for utt_list in lid_lists:
 			user_01_list.extend(utt_list)
@@ -334,7 +351,7 @@ def calc_i_idx(chat_lid_lsts):
 
 			score = float(num_switches) / (len(flat_list) - 1)
 
-		scores.append(score)
+		scores.append(score)  # if one_user, only 1 score to append
 
 	# print scores
 	try:

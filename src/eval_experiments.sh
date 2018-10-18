@@ -74,13 +74,22 @@
 # qual_outfile=${out_folder}/0801_qual.tsv
 
 # random (0810)
-out_folder=cocoa/turk/0810_rand
-chat_file=${out_folder}/0810_rand_chat.json
+# out_folder=cocoa/turk/0810_rand
+# chat_file=${out_folder}/0810_rand_chat.json
+# worker_file=${out_folder}/worker_ids.json
+# survey_file=${out_folder}/0810_rand_surv.json
+# crowd_files="${out_folder}/amt_0815_27.csv ${out_folder}/fig8_0812_50.json"
+# lid_outfile=${out_folder}/0810_auto.tsv
+# qual_outfile=${out_folder}/0810_qual.tsv
+
+# mono (0924)
+out_folder=cocoa/turk/0924_mono
+chat_file=${out_folder}/0924_mono_chat.json
 worker_file=${out_folder}/worker_ids.json
-survey_file=${out_folder}/0810_rand_surv.json
-crowd_files="${out_folder}/amt_0815_27.csv ${out_folder}/fig8_0812_50.json"
-lid_outfile=${out_folder}/0810_auto.tsv
-qual_outfile=${out_folder}/0810_qual.tsv
+survey_file=${out_folder}/0924_mono_surv.json
+crowd_files="${out_folder}/fig8_0926_95.json ${out_folder}/amt_0926_22.csv"
+lid_outfile=${out_folder}/0924_auto.tsv
+qual_outfile=${out_folder}/0924_qual.tsv
 
 python cocoa/eval/eval_cm.py --chat_file $chat_file --lid_outfile $lid_outfile
 

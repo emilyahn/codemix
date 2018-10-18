@@ -8,3 +8,4 @@ cocoa/turk/fig8_0_all4/fig8_0_chat.json	cocoa/turk/fig8_0_all4/all4_auto.tsv	coc
 cocoa/turk/0731_all8/0731_all8_chat.json	cocoa/turk/0731_all8/0731_auto.tsv	cocoa/turk/0731_all8/0731_qual.tsv
 cocoa/turk/0801_all8/0801_all8_chat.json	cocoa/turk/0801_all8/0801_auto.tsv	cocoa/turk/0801_all8/0801_qual.tsv
 cocoa/turk/0810_rand/0810_rand_chat.json	cocoa/turk/0810_rand/0810_auto.tsv	cocoa/turk/0810_rand/0810_qual.tsv
+cocoa/turk/0924_mono/0924_mono_chat.json	cocoa/turk/0924_mono/0924_auto.tsv	cocoa/turk/0924_mono/0924_qual.tsv

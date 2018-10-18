@@ -1,4 +1,4 @@
-from cm_metrics import calc_i_idx, calc_m_idx, calc_styles, process_tags
+from cm_metrics import calc_i_idx, calc_m_idx, process_tags
 from collections import defaultdict
 import csv
 import json
@@ -11,6 +11,57 @@ from sklearn.model_selection import KFold
 # from random import shuffle
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import normalize
+from scipy.stats import pearsonr
+import statistics
+
+# calculate avg response time
+def calc_response_times(events_dict, agents_dict):
+
+	resp_time_dict = {}  # key = event index, value = float(response_time)
+	resp_time_dict_select = {}  # key = event index, value = float(response_time)
+
+	# list of agents 'rule_bot' or 'human', across events in sequence
+	agent_id = {}
+	agent_id[0] = 'human'
+	agent_id[1] = 'rule_bot'
+	if agents_dict['0'] == 'rule_bot':
+		agent_id[1] = 'human'
+		agent_id[0] = 'rule_bot'
+
+	agent_list = [agent_id[event['agent']] for event in events_dict]
+
+	for i, event in enumerate(events_dict):
+		if i == 0:
+			continue
+		# print i, agent_list[i]
+		if agent_list[i] == 'human' and agent_list[i - 1] == 'rule_bot':
+			# if not include_select:
+
+			# print event['data']
+			this_time = float(event['time'])
+			last_time = float(events_dict[i - 1]['time'])
+			resp_time = this_time - last_time
+			if event['action'] == 'select' or events_dict[i - 1] == 'select':
+				resp_time_dict_select[i] = resp_time
+				continue
+
+			resp_time_dict[i] = resp_time
+
+	if resp_time_dict:
+		rt_avg = sum(resp_time_dict.values()) / len(resp_time_dict.keys())
+	else:
+		rt_avg = 0
+
+	if resp_time_dict_select:
+		# combine_dict = {}
+		for k, val in resp_time_dict.iteritems():
+			resp_time_dict_select[k] = val
+		rt_avg_select = sum(resp_time_dict_select.values()) / len(resp_time_dict_select.keys())
+	else:
+		resp_time_dict_select = resp_time_dict
+		rt_avg_select = rt_avg
+
+	return resp_time_dict, rt_avg, resp_time_dict_select, rt_avg_select
 
 
 # read in txt file of 3 columns (LID tsv, qual tsv, chat json)
@@ -25,7 +76,8 @@ def load_all_data(master_filelist):
 	master_reader = csv.DictReader(open(master_filelist, 'r'), delimiter='\t')
 	for row in master_reader:
 		for file_type in master_reader.fieldnames:  # iterate thru keys (header)
-			file_names[file_type].append(row[file_type])
+			if row[file_type]:
+				file_names[file_type].append(row[file_type])
 
 	# read all qual TSVs
 	for qual_file in file_names['qual_tsv']:
@@ -42,12 +94,14 @@ def load_all_data(master_filelist):
 	# grab agents, events, styles (in case not present in qual surveys)
 	for chat_json in file_names['chat_json']:
 		chat_list = json.load(open(chat_json))
-		# for now, just store agents and events
+		# store agents and events
 		for chat in chat_list:
 			chat_id = chat['uuid']
 			all_data[chat_id]['agents'] = chat['agents']
-			all_data[chat_id]['events'] = chat['events']
 			all_data[chat_id]['style'] = chat['scenario']['styles']
+
+			all_data[chat_id]['resp_time_dict'], all_data[chat_id]['resp_time_avg'], all_data[chat_id]['resp_time_dict_select'], all_data[chat_id]['resp_time_avg_select'] = calc_response_times(chat['events'], chat['agents'])
+
 	print 'read all chat jsons'
 
 	# read LID TSVs
@@ -61,7 +115,7 @@ def load_all_data(master_filelist):
 				# concat chat_id with utt-number
 				# utt-number always has two digits (i.e. 3 -> 03)
 				chat_id = all_info[1]
-				utt_num = all_info[2].zfill(2)
+				utt_num = all_info[2].zfill(2)  #TODO: save as int, not str
 				txt = all_info[3]  # single token
 				lbl = all_info[4]
 				if len(all_info) > 5:
@@ -77,7 +131,29 @@ def load_all_data(master_filelist):
 				all_data[chat_id]['lbl_dict'][utt_num].append(int(lbl))
 	print 'read all lid tsvs'
 
+	# calc m and i per chat
+	for chat_id in all_data:
+		if not is_valid_chat(all_data, chat_id):
+			continue
+
+		lbl_lst = []
+		lbl_dict = all_data[chat_id]['lbl_dict']
+		for utt_num in sorted(lbl_dict.keys()):  # utt_num = '00', '01', ...
+			words_01 = lbl_dict[utt_num]
+			lbl_lst.append(words_01)
+
+		all_data[chat_id]['m_idx'] = calc_m_idx(lbl_lst, one_user=True)
+		all_data[chat_id]['i_idx'] = calc_i_idx(lbl_lst, one_user=True)
+
 	return all_data
+
+
+# ensure chat is present, has survey AND contains text
+def is_valid_chat(full_data, chat_id):
+	if chat_id not in full_data:
+		return False
+
+	return 'outcome' in full_data[chat_id] and 'txt_dict' in full_data[chat_id]
 
 
 # 	returns style2chat: 	dict[style] = set(chats)
@@ -96,7 +172,7 @@ def get_style2chat(all_data):
 
 
 # calculate strategies for a specified chat list
-def get_general_cm_metrics(chat_list, all_data):
+def get_general_cm_metrics(all_data, param_chat_list=None):
 
 	styles = defaultdict(int)
 	styles_txt = defaultdict(list)
@@ -107,26 +183,42 @@ def get_general_cm_metrics(chat_list, all_data):
 	num_total_utt = 0
 	num_tokens = 0
 	no_chat_ctr = 0
+	outcome_ctr = 0
 	num_cm_dialogues = 0
 	is_cm_chat = False
 	chat_lid_lsts = defaultdict(list)  # for calc m/i-idx across utts per chat
 	strat_dict = {}  # for calc m/i-idx across utts per chat
+	avg_resp_times = []  # list of floats
+	avg_resp_times_select = []  # list of floats
+
+	if param_chat_list:
+		chat_list = param_chat_list
+
+	else:
+		chat_list = all_data.keys()
+		print 'using all chat ids'
 
 	for chat_id in sorted(chat_list):
-		# import pdb; pdb.set_trace()
-		if chat_id not in all_data:
-			print 'ERROR: Chat ID not valid: {}'.format(chat_id)
-			no_chat_ctr += 1
-			continue
+		# if chat_id not in all_data:
+		# 	print 'ERROR: Chat ID not valid: {}'.format(chat_id)
+		# 	no_chat_ctr += 1
+		# 	continue
 
-		if 'txt_dict' not in all_data[chat_id]:
-			# print 'Chat has no text: {}'.format(chat_id)
+		# if 'txt_dict' not in all_data[chat_id]:
+		# 	# print 'Chat has no text: {}'.format(chat_id)
+		# 	no_chat_ctr += 1
+		# 	continue
+
+		if not is_valid_chat(all_data, chat_id):
 			no_chat_ctr += 1
 			continue
 
 		txt_dict = all_data[chat_id]['txt_dict']
 		lbl_dict = all_data[chat_id]['lbl_dict']
+		avg_resp_times.append(all_data[chat_id]['resp_time_avg'])
+		avg_resp_times_select.append(all_data[chat_id]['resp_time_avg_select'])
 		strat_dict[chat_id] = defaultdict(int)  # alternately: be simple list
+		outcome_ctr += int(all_data[chat_id]['outcome'])
 
 		for utt_num in sorted(txt_dict.keys()):  # utt_num = '00', '01', ...
 			num_total_utt += 1
@@ -170,12 +262,15 @@ def get_general_cm_metrics(chat_list, all_data):
 		is_cm_chat = False
 
 	general_stats['dialogues'] = len(chat_list) - no_chat_ctr
+	general_stats['num_success'] = outcome_ctr
 	general_stats['cm_dial'] = num_cm_dialogues
 	general_stats['utts'] = num_total_utt
 	general_stats['cm_utt'] = num_cm_utt
 	general_stats['sp_utt'] = num_spa_only
 	general_stats['en_utt'] = num_eng_only
 	general_stats['tokens'] = num_tokens
+	general_stats['avg_rt'] = sum(avg_resp_times) / len(avg_resp_times)
+	general_stats['avg_rt_select'] = sum(avg_resp_times_select) / len(avg_resp_times_select)
 
 	# style_calcs = calc_styles(styles)
 
@@ -193,10 +288,14 @@ def get_general_cm_metrics(chat_list, all_data):
 	return {'general': general_stats, 'style': styles, 'style_utt': styles_txt, 'user_styles': strat_dict}
 
 
+# all_data must be dict of key=style, val=dict from get_general_cm_metrics()
 # this will probably break if given any different kind of format...
 def viz_general(all_data):
-	styles_list = sorted(all_data.keys())
+	# styles_list = sorted(all_data.keys())
+	styles_list = ['sp_lex', 'sp_lex_soc', 'en_lex', 'en_lex_soc', 'sp2en', 'sp2en_soc', 'en2sp', 'en2sp_soc', 'sp_mono', 'en_mono', 'random']
+	# print styles_list
 	all_dial = sum([all_data[style]['general']['dialogues'] for style in styles_list])
+	avg_dial = statistics.mean([all_data[style]['general']['dialogues'] for style in styles_list])
 	all_cm_dial = sum([all_data[style]['general']['cm_dial'] for style in styles_list])
 
 	all_utt = sum([all_data[style]['general']['utts'] for style in styles_list])
@@ -204,36 +303,119 @@ def viz_general(all_data):
 	all_cm = sum([all_data[style]['general']['cm_utt'] for style in styles_list])
 	all_sp = sum([all_data[style]['general']['sp_utt'] for style in styles_list])
 	all_en = sum([all_data[style]['general']['en_utt'] for style in styles_list])
-	all_cm_perc = ['{:.2f}'.format(float(all_cm)/all_utt)]
+	all_cm_perc = '{:.2f}'.format(float(all_cm)/all_utt)
 	all_sp_perc = ['{:.2f}'.format(float(all_sp)/all_utt)]
 	all_en_perc = ['{:.2f}'.format(float(all_en)/all_utt)]
-	avg_m = sum([all_data[style]['general']['m-idx'] for style in styles_list])/len(styles_list)
-	avg_i = sum([all_data[style]['general']['i-idx'] for style in styles_list])/len(styles_list)
+	avg_m = statistics.mean([all_data[style]['general']['m-idx'] for style in styles_list])
+	var_m = statistics.stdev([all_data[style]['general']['m-idx'] for style in styles_list])
+	avg_i = statistics.mean([all_data[style]['general']['i-idx'] for style in styles_list])
+	var_i = statistics.stdev([all_data[style]['general']['i-idx'] for style in styles_list])
+	avg_rt = statistics.mean([all_data[style]['general']['avg_rt'] for style in styles_list])
+	var_rt = statistics.stdev([all_data[style]['general']['avg_rt'] for style in styles_list])
+	avg_rt_select = statistics.mean([all_data[style]['general']['avg_rt_select'] for style in styles_list])
+	var_rt_select = statistics.stdev([all_data[style]['general']['avg_rt_select'] for style in styles_list])
+	avg_outcome = sum([all_data[style]['general']['num_success'] for style in styles_list]) / float(all_dial)
+	# avg_outcome = statistics.mean([all_data[style]['general']['num_success']/float(all_data[style]['general']['dialogues']) for style in styles_list])
+	# var_outcome = statistics.stdev([all_data[style]['general']['num_success']/float(all_data[style]['general']['dialogues']) for style in styles_list])
+	# all_perc_outcome = all_outcome / float(all_dial)
 
-	print '\t'.join(['----------\ttotal'] + [style[:7] for style in styles_list])
-	print '\t'.join(['# dialogues'] + [str(all_dial)] + [str(all_data[style]['general']['dialogues']) for style in styles_list])
-	print '\t'.join(['% dial w/ cm'] + ['{:.2f}'.format(all_cm_dial / float(all_dial))] + ['{:.2f}'.format(all_data[style]['general']['cm_dial']/float(all_data[style]['general']['dialogues'])) for style in styles_list])
-	print '\t'.join(['# utts   '] + [str(all_utt)] + [str(all_data[style]['general']['utts']) for style in styles_list])
-	print '\t'.join(['avg utts'] + ['{:.2f}'.format(all_utt / float(all_dial))] + ['{:.2f}'.format(all_data[style]['general']['utts']/float(all_data[style]['general']['dialogues'])) for style in styles_list])
-	print '\t'.join(['# tokens'] + [str(all_tok)] + [str(all_data[style]['general']['tokens']) for style in styles_list])
-	print '\t'.join(['avg tokens'] + ['{:.2f}'.format(all_tok / float(all_utt))] + ['{:.2f}'.format(all_data[style]['general']['tokens']/float(all_data[style]['general']['utts'])) for style in styles_list])
-	print
-	print '\t'.join(['# CM  utt'] + [str(all_cm)] + [str(all_data[style]['general']['cm_utt']) for style in styles_list])
-	print '\t'.join(['% CM  utt'] + all_cm_perc + ['{:.2f}'.format(all_data[style]['general']['cm_utt']/float(all_data[style]['general']['utts'])) for style in styles_list])
-	print '\t'.join(['# spa utt'] + [str(all_sp)] + [str(all_data[style]['general']['sp_utt']) for style in styles_list])
-	print '\t'.join(['% spa utt'] + all_sp_perc + ['{:.2f}'.format(all_data[style]['general']['sp_utt']/float(all_data[style]['general']['utts'])) for style in styles_list])
-	print '\t'.join(['# eng utt'] + [str(all_en)] + [str(all_data[style]['general']['en_utt']) for style in styles_list])
-	print '\t'.join(['% eng utt'] + all_en_perc + ['{:.2f}'.format(all_data[style]['general']['en_utt']/float(all_data[style]['general']['utts'])) for style in styles_list])
-	print
-	print '\t'.join(['m idx   '] + ['{:.2f}'.format(avg_m)] + ['{:.2f}'.format(all_data[style]['general']['m-idx']) for style in styles_list])
-	print '\t'.join(['i idx   '] + ['{:.2f}'.format(avg_i)] + ['{:.2f}'.format(all_data[style]['general']['i-idx']) for style in styles_list])
+	# print '\t'.join(['% spa utt'] + all_sp_perc + ['{:.2f}'.format(all_data[style]['general']['sp_utt']/float(all_data[style]['general']['utts'])) for style in styles_list])
+	# print '\t'.join(['% eng utt'] + all_en_perc + ['{:.2f}'.format(all_data[style]['general']['en_utt']/float(all_data[style]['general']['utts'])) for style in styles_list])
+	# print
 
+	print 'all tok', all_tok
+	print 'all dial', all_dial
+
+	print 'WITH SELECT'
+	print 'bot strat\t# dialogues\t% success\t% dial CM from user\tavg utts\tavg tokens\t% CM utt\tavg RT\tm\ti'
+	print 'average  \t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{}\t{:.2f}\t{:.2f}\t{:.2f}'.format(avg_dial, avg_outcome, all_cm_dial / float(all_dial), all_utt / float(all_dial), all_tok / float(all_utt), all_cm_perc, avg_rt_select, avg_m, avg_i)
+	for style in styles_list:
+		print '{}\t{}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}'.format(style.ljust(9), all_data[style]['general']['dialogues'], all_data[style]['general']['num_success']/float(all_data[style]['general']['dialogues']), all_data[style]['general']['cm_dial']/float(all_data[style]['general']['dialogues']), all_data[style]['general']['utts']/float(all_data[style]['general']['dialogues']), all_data[style]['general']['tokens']/float(all_data[style]['general']['utts']), all_data[style]['general']['cm_utt']/float(all_data[style]['general']['utts']), all_data[style]['general']['avg_rt_select'], all_data[style]['general']['m-idx'], all_data[style]['general']['i-idx'])
+
+	print
+	print '*'*20
+	print
+	rt_list = np.array([all_data[style]['general']['avg_rt_select'] for style in styles_list])
+	num_toklist = np.array([all_data[style]['general']['tokens']/float(all_data[style]['general']['utts']) for style in styles_list])
+	rt_numtok_r_val, rt_numtok_p_val = pearsonr(rt_list, num_toklist)
+	print '\trt_numtok\t{:.4f}\t{:.4f}'.format(rt_numtok_r_val, rt_numtok_p_val)
+
+	fig, ax = plt.subplots()
+	plt.scatter(rt_list, num_toklist)
+	z = np.polyfit(rt_list, num_toklist, 1)
+	p = np.poly1d(z)
+	# annotate
+	for i, style in enumerate(styles_list):
+		plt.annotate(style, (rt_list[i] + 0.1, num_toklist[i]))
+
+	plt.plot(rt_list, p(rt_list), "r--")
+	# the line equation:
+	print "y=%.6fx+(%.6f)" % (z[0], z[1])
+	plt.xlabel('Avg Response Time (sec)')
+	plt.ylabel('Avg # Tokens per Utterance')
+	plt.show()
+
+	print
+	print '*'*20
+	print
+
+	# print 'WITHOUT SELECT'
+	# print 'bot strat\t# dialogues\t% dial CM from user\tavg utts\tavg tokens\t% CM utt\tavg RT'
+	# print 'average  \t{}\t{:.2f}\t{:.2f}\t{:.2f}\t{}\t{:.2f}'.format(all_dial, all_cm_dial / float(all_dial), all_utt / float(all_dial), all_tok / float(all_utt), all_cm_perc, avg_rt)
+	# for style in styles_list:
+	# 	print '{}\t{}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}\t{:.2f}'.format(style.ljust(9), all_data[style]['general']['dialogues'], all_data[style]['general']['cm_dial']/float(all_data[style]['general']['dialogues']), all_data[style]['general']['utts']/float(all_data[style]['general']['dialogues']), all_data[style]['general']['tokens']/float(all_data[style]['general']['utts']), all_data[style]['general']['cm_utt']/float(all_data[style]['general']['utts']), all_data[style]['general']['avg_rt'])
+
+	# print
+	# print '*'*20
+	# print
+	# rt_list = np.array([all_data[style]['general']['avg_rt'] for style in styles_list])
+	# num_toklist = np.array([all_data[style]['general']['tokens']/float(all_data[style]['general']['utts']) for style in styles_list])
+	# rt_numtok_r_val, rt_numtok_p_val = pearsonr(rt_list, num_toklist)
+	# print '\trt_numtok\t{:.4f}\t{:.4f}'.format(rt_numtok_r_val, rt_numtok_p_val)
+
+	# plt.scatter(rt_list, num_toklist)
+	# z = np.polyfit(rt_list, num_toklist, 1)
+	# p = np.poly1d(z)
+	# plt.plot(rt_list,p(rt_list),"r--")
+	# # the line equation:
+	# print "y=%.6fx+(%.6f)"%(z[0],z[1])
+	# plt.show()
+
+	'''user_style_list = [style for style in styles_list if not style.endswith('_soc') and not style == 'random']
+	user_style_list.append('neither')
+	user_style_names = '\t'.join(user_style_list)  # 4 styles + neither, like miami and twitter calculations
+
+	print 'bot strat\tm-idx\ti-idx\t{}'.format(user_style_names)
+	print 'average  \t{:.2f}\t{:.2f}'.format(avg_m, avg_i)
+	#UNNECESSARY (done in viz_cm_style()), also BUGGY (everything bins to "neither")
+	for style in styles_list:
+		#TODO: use this to report different kind of entrainment score!! Ratio maybe?
+		# accumulate counts of each utterance's user style
+		# user_style_counts = defaultdict(int)
+		# user_style_norm = {}
+
+		# for chatid, style_dict in all_data[style]['user_styles'].iteritems():
+		# 	for user_strat, count in style_dict.iteritems():
+		# 		user_style_counts[user_strat] += count
+
+		# print user_style_counts
+
+		# total_cm_denom = float(sum([user_style_counts[user_style] for user_style in user_style_list]))
+		# print total_cm_denom
+		# if total_cm_denom == 0:
+		print '{}\t{:.2f}\t{:.2f}'.format(style.ljust(9), all_data[style]['general']['m-idx'], all_data[style]['general']['i-idx'])
+			# continue
+
+		# for user_style in user_style_list:
+		# 	user_style_norm[user_style] = user_style_counts[user_style] / total_cm_denom
+
+		# user_style_norm_txt = '\t'.join(['{:.2f}'.format(user_style_norm[style_name]) for style_name in user_style_list])
+
+		# print '{}\t{:.2f}\t{:.2f}\t{}'.format(style.ljust(9), all_data[style]['general']['m-idx'], all_data[style]['general']['i-idx'], user_style_norm_txt)
+	'''
 
 # taken from http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
-def plot_confusion_matrix(cm, classes,
-							normalize=False,
-							title='Strategy Matrix',
-							cmap=plt.cm.Blues):
+def plot_confusion_matrix(cm, classes, normalize=False, title='Strategy Matrix', cmap=plt.cm.Blues):
 	"""
 	This function prints and plots the confusion matrix.
 	Normalization can be applied by setting `normalize=True`.
@@ -433,6 +615,80 @@ def predict_success(general_data, style_data, filter_chatlist=None):
 			print ft_names[i], weight
 		print '*'*20
 		print
+
+
+# from original loaded data, calc correlations b/w m/i-idxs and success
+# measures of success: binary,
+#TODO: perhaps create scatterplot
+def pearsons_cm_success(general_data, cm_data=None, filter_chatlist=None):
+	m_list = []
+	i_list = []
+	entrain_list = []
+	social_list = []
+
+	results_dict = defaultdict(list)
+	for chat_id in general_data:
+		if not is_valid_chat(general_data, chat_id):
+			continue
+
+		if filter_chatlist:
+			if chat_id not in filter_chatlist:
+				continue
+		# m_idx = general_data[chat_id]['m_idx']
+		# i_idx = general_data[chat_id]['i_idx']
+		# bin_success = int(general_data[chat_id]['outcome'])
+		# num_turn = len(general_data[chat_id]['lbl_dict'].keys())
+
+		m_list.append(general_data[chat_id]['m_idx'])
+		i_list.append(general_data[chat_id]['i_idx'])
+		results_dict['bin_success'].append(int(general_data[chat_id]['outcome']))
+		results_dict['num_turn'].append(len(general_data[chat_id]['lbl_dict'].keys()))
+		results_dict['n01_i_understand'].append(int(general_data[chat_id]['n01_i_understand']))
+		results_dict['n02_cooperative'].append(int(general_data[chat_id]['n02_cooperative']))
+		results_dict['n03_human'].append(int(general_data[chat_id]['n03_human']))
+		results_dict['n04_understand_me'].append(int(general_data[chat_id]['n04_understand_me']))
+		results_dict['n05_chat'].append(int(general_data[chat_id]['n05_chat']))
+		results_dict['n06_texts'].append(int(general_data[chat_id]['n06_texts']))
+		results_dict['n07_tech'].append(int(general_data[chat_id]['n07_tech']))
+
+		# entrainment (optional)
+		if not cm_data:
+			continue
+
+		# ft_03 = entrainment. defined 1 if user has copied bot at least 1x, else 0
+		chat_bot_style = general_data[chat_id]['style']
+		social_val = 0
+		if '_soc' in chat_bot_style:
+			social_val = 1
+
+		if chat_bot_style == 'random':
+			entrain_val = 1
+		else:
+			chat_bot_style = chat_bot_style.replace('_soc', '')  # remove "_soc"
+			# print chat_bot_style
+			# print user_style_list.index(chat_bot_style)
+			# print ft_02_raw[user_style_list.index(chat_bot_style)]
+			entrain_val = 0
+			if cm_data['user_styles'][chat_id][chat_bot_style] > 0:
+				entrain_val = 1
+
+		# print entrain_val
+		entrain_list.append(entrain_val)
+		social_list.append(social_val)
+
+	print 'NUM CHATS USED: {}\n'.format(len(results_dict['bin_success']))
+	for success_type, success_list in results_dict.iteritems():
+		print success_type.upper()
+		if cm_data:
+			entrain_r_val, entrain_p_val = pearsonr(entrain_list, success_list)
+			social_r_val, social_p_val = pearsonr(social_list, success_list)
+			print '\tentrain\t{:.4f}\t{:.4f}'.format(entrain_r_val, entrain_p_val)
+			print '\tsocial\t{:.4f}\t{:.4f}'.format(social_r_val, social_p_val)
+
+		m_r_val, m_p_val = pearsonr(m_list, success_list)
+		i_r_val, i_p_val = pearsonr(i_list, success_list)
+		print '\tm-idx\t{:.4f}\t{:.4f}'.format(m_r_val, m_p_val)
+		print '\ti-idx\t{:.4f}\t{:.4f}'.format(i_r_val, i_p_val)
 
 
 def main():

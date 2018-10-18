@@ -66,10 +66,14 @@ def process_one_file(filename):
 		for word in turn[3:]:
 			# clean words to capture only vocab spoken in "_eng" and "_spa"
 			# change this to be a flag upon input, later
-			if word in ignore_words: continue
-			if bool(re.search(r'\w+sengspa\w+', word)): continue
-			# if bool(re.search(r'\w*_engspa', word)): continue
+			if word in ignore_words: continue  # now obsolete w/ cleaned txt
+			if '[' in word: continue
+			if bool(re.search(r'\w+sengspa\w+', word)):
+				before, after = word.split('sengspa')
+				lid_tag = after.split('_')[-1]
+				word = '{}_{}'.format(before, lid_tag)
 
+			# with cleaned txt, the switching is also obsolete
 			if word == 'spa_eng':
 				switch_to_spa = True
 				continue
@@ -99,6 +103,7 @@ def check_spkr(spkrid, total, i):
 	if spkrid in ['OSE', 'OSA', 'OSB']:  # skip non-documented speakers
 		return None
 
+	# this is handled better in ./clean_miami.py
 	if spkrid in ['eng_eng', 'spa_spa']:  # use previous turn's spkrid
 		newid = total[i-1].split()[2]
 		if newid in ['OSE', 'OSA', 'OSB', 'eng_eng', 'spa_spa']:
@@ -112,8 +117,8 @@ def load_data(data_folder_path):
 
 	for filename in os.listdir(data_folder_path):
 		filename_path = os.path.join(data_folder_path, filename)
-		if not filename.endswith('_parsed.txt'):
-			continue  # skips 'sastre3'
+		# if not filename.endswith('_parsed.txt'):
+		# 	continue  # skips 'sastre3'
 		dialog_id, dialog_dict = process_one_file(filename_path)
 		all_data[dialog_id] = dialog_dict
 
