@@ -156,6 +156,41 @@ def is_valid_chat(full_data, chat_id):
 	return 'outcome' in full_data[chat_id] and 'txt_dict' in full_data[chat_id]
 
 
+def count_valid_chats(full_data):
+	no_surv = 0
+	no_txt = 0
+	total = 0
+	for chatid in full_data:
+		# if 'outcome' not in full_data[chatid]:
+		# 	no_surv += 1
+		# elif 'txt_dict' not in full_data[chatid]:
+		# 	no_txt += 1
+		if 'txt_dict' not in full_data[chatid]:
+			no_txt += 1
+		elif 'outcome' not in full_data[chatid]:
+			no_surv += 1
+		else:
+			total += 1
+
+	print 'no survey: {}\nno text: {}\nREST: {}'.format(no_surv, no_txt, total)
+
+
+def get_vocab_size(all_data):
+	uniq_words = defaultdict(set)
+
+	for chat_id in all_data:
+		if not is_valid_chat(all_data, chat_id):
+			continue
+
+		txtdict = all_data[chat_id]['txt_dict']
+		lbldict = all_data[chat_id]['lbl_dict']
+		for turn, lbls in lbldict.iteritems():
+			for i, lbl in enumerate(lbls):
+				uniq_words[lbl].add(txtdict[turn][i])
+
+	return uniq_words
+
+
 # 	returns style2chat: 	dict[style] = set(chats)
 def get_style2chat(all_data):
 	style2chat = defaultdict(list)
@@ -307,13 +342,13 @@ def viz_general(all_data):
 	all_sp_perc = ['{:.2f}'.format(float(all_sp)/all_utt)]
 	all_en_perc = ['{:.2f}'.format(float(all_en)/all_utt)]
 	avg_m = statistics.mean([all_data[style]['general']['m-idx'] for style in styles_list])
-	var_m = statistics.stdev([all_data[style]['general']['m-idx'] for style in styles_list])
+	# var_m = statistics.stdev([all_data[style]['general']['m-idx'] for style in styles_list])
 	avg_i = statistics.mean([all_data[style]['general']['i-idx'] for style in styles_list])
-	var_i = statistics.stdev([all_data[style]['general']['i-idx'] for style in styles_list])
+	# var_i = statistics.stdev([all_data[style]['general']['i-idx'] for style in styles_list])
 	avg_rt = statistics.mean([all_data[style]['general']['avg_rt'] for style in styles_list])
-	var_rt = statistics.stdev([all_data[style]['general']['avg_rt'] for style in styles_list])
+	# var_rt = statistics.stdev([all_data[style]['general']['avg_rt'] for style in styles_list])
 	avg_rt_select = statistics.mean([all_data[style]['general']['avg_rt_select'] for style in styles_list])
-	var_rt_select = statistics.stdev([all_data[style]['general']['avg_rt_select'] for style in styles_list])
+	# var_rt_select = statistics.stdev([all_data[style]['general']['avg_rt_select'] for style in styles_list])
 	avg_outcome = sum([all_data[style]['general']['num_success'] for style in styles_list]) / float(all_dial)
 	# avg_outcome = statistics.mean([all_data[style]['general']['num_success']/float(all_data[style]['general']['dialogues']) for style in styles_list])
 	# var_outcome = statistics.stdev([all_data[style]['general']['num_success']/float(all_data[style]['general']['dialogues']) for style in styles_list])
@@ -325,6 +360,9 @@ def viz_general(all_data):
 
 	print 'all tok', all_tok
 	print 'all dial', all_dial
+	print 'all spa perc', all_sp_perc
+	print 'all eng perc', all_en_perc
+	print 'all cm perc', all_cm_perc
 
 	print 'WITH SELECT'
 	print 'bot strat\t# dialogues\t% success\t% dial CM from user\tavg utts\tavg tokens\t% CM utt\tavg RT\tm\ti'
