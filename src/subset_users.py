@@ -16,6 +16,10 @@ def read_qual_file(qual_file):
 	for row in reader:
 		# print row
 		chat_id = row['chat_id']
+
+		# if 'outcome' not in row and 'txt_dict' not in row:
+		# 	continue
+
 		for category in reader.fieldnames:  # iterate thru keys (header)
 			if category == 'chat_id':
 				continue
@@ -70,7 +74,7 @@ def get_first_chatids(full_data):
 # will split into 2 groups (high and low scores)
 # threshold: >= [score_thresh]/3 correct
 # use unique workers only
-def split_span_quiz(all_data, amt_worker_file, fig8_jsonlist_file, score_thresh=2):
+def split_span_quiz(uniq_worker_list, amt_worker_file, fig8_jsonlist_file, score_thresh=2):
 	worker_to_score = {}
 	high_workerids = []
 	low_workerids = []
@@ -109,6 +113,9 @@ def split_span_quiz(all_data, amt_worker_file, fig8_jsonlist_file, score_thresh=
 		worker_to_score[worker_id] = score
 
 	for worker_id, score in worker_to_score.iteritems():
+		if worker_id not in uniq_worker_list:
+			continue
+
 		if score >= score_thresh:
 			high_workerids.append(worker_id)
 		else:

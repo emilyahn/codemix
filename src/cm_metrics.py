@@ -4,6 +4,7 @@ import spacy
 from itertools import groupby
 from collections import defaultdict
 import math
+from new_metric_strat import process_tags_2
 
 
 nlp_en = spacy.load('en')
@@ -59,7 +60,7 @@ def get_pos(text):
 	return [spa_pos, eng_pos]
 
 
-# given list of POS tags, return Boolean list of if itmems are NOUN/ADJ/VERB
+# given list of POS tags, return Boolean list of if items are NOUN/ADJ/VERB
 # tag set inspiration: Content morphemes in Myers-Scotton's ML/EL framework
 # noise: English aux can be tagged as VERB, e.g. "is"
 #TODO: try removing PROPN
@@ -69,13 +70,21 @@ def get_content(pos_lst):
 
 # check if (1) Structure
 # return one of {None, 0, 1}
-# rule: 2 consecutive L1 func, and 2 consecutive L2 func -- in same utt
-def is_structure(words_01, both_aux):
+# orig rule: 2 consecutive L1 func, and 2 consecutive L2 func -- in same utt
+# mod rule: 1+ L1 func, and 1+ L2 func -- in same utt
+def is_structure(words_01, both_aux, words_lst):
 	func_lst = []  # 0s (ENG) and 1s (SPA) of function words only
 	for i in range(len(words_01)):
 		lang = words_01[i]
 		if lang not in [0, 1]:
 			continue
+		# try:
+		# print words_lst, words_01
+		# if len(words_01) != len(words_lst):
+		# 	import pdb; pdb.set_trace()
+			# s = both_aux[lang][i]
+		# except IndexError:
+			# return
 		if both_aux[lang][i]:  # this word is an AUX in lang X
 			func_lst.append(lang)
 
@@ -160,7 +169,8 @@ def calc_styles(styles):
 
 # give an utterance's LID labels and list(text)
 # update styles and styles_txt dictionaries
-def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
+# def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
+def process_tags(words_01, words_lst, styles=None, styles_txt=None, finegrain=True):
 	# all indices -> 0 = SPA, 1 = ENG
 	both_pos = get_pos(words_lst)
 	spa_pos, eng_pos = both_pos
@@ -168,7 +178,7 @@ def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
 	both_aux = get_func(words_lst, spa_pos, eng_pos)
 	both_cont = [get_content(spa_pos), get_content(eng_pos)]
 
-	structure = is_structure(words_01, both_aux)
+	structure = is_structure(words_01, both_aux, words_lst) #REMOVE 3rd param
 	# print 'STRUCTURE?', structure
 
 	content = is_content(words_01, both_aux, both_cont)
@@ -185,21 +195,24 @@ def process_tags(words_01, words_lst, styles, styles_txt, finegrain=True):
 		name = 's-{}'.format(structure)
 	elif content is not None:
 		name = 'c-{}'.format(content[0])
-		if finegrain:
-			name = 'c-{}-{}'.format(content[0], content[1])
+		# if finegrain:
+		# 	name = 'c-{}-{}'.format(content[0], content[1])
 	else:
 		name = 'neither'
 
-	styles[name] += 1
-	styles_txt[name].append(' '.join(words_lst))
+	# styles[name] += 1
+	# styles_txt[name].append(' '.join(words_lst))
 	return name
 
 
 # print CM metrics for Miami data only
 # return dict where with {style: list(txt examples)}
-def get_style_metrics_miami(all_data):
+def get_style_metrics_miami(all_data, write_file=''):
 	styles = defaultdict(int)
 	styles_txt = defaultdict(list)
+	if write_file:
+		write_list = []
+
 	for dialog_id in all_data.keys():
 		# dialog_id = 'zeledon8'  # DEBUGGING
 		num_cm_utt = 0
@@ -215,9 +228,24 @@ def get_style_metrics_miami(all_data):
 				if words_lst[-1] == '':
 					words_lst = words_lst[:-1]
 
-				process_tags(words_01, words_lst, styles, styles_txt)
+				if write_file:
+					# text_id = 'mi_{}_{}_{}'.format(dialog_id, spkr, line_i)
+					text_id = all_data[dialog_id][spkr]['uttid'][line_i]
+					cm_text = ' '.join(words_lst)
+					write_list.append('{}\t{}'.format(text_id, cm_text))
+					continue
 
-		print '{}\tnum CM utt: {}'.format(dialog_id, num_cm_utt)
+				# process_tags(words_01, words_lst, styles, styles_txt)
+				process_tags_2(words_01, words_lst, styles=styles, styles_txt=styles_txt)
+
+		# print '{}\tnum CM utt: {}'.format(dialog_id, num_cm_utt)
+
+	if write_file:
+		with open(write_file, 'w') as f:
+			for line in write_list:
+				f.write(line + '\n')
+
+		return 0
 
 	calc_styles(styles)
 
@@ -239,29 +267,6 @@ def parse_twitter(tsvfile):
 			txt = all_info[4]
 			lbl = all_info[5]
 
-			txt_lst[tweet_id].append(txt)
-			lbl_lst[tweet_id].append(lbl)
-
-	for tweet_id, txts in txt_lst.iteritems():
-		data['lbl'].append(lbl_lst[tweet_id])
-		data['txt'].append(txts)
-
-	return data
-
-
-# print CM metrics for Twitter data only
-# return dict where with {style: list(txt examples)}
-def get_style_metrics_twitter(twitter_dict):
-	styles = defaultdict(int)
-	styles_txt = defaultdict(list)
-	num_cm_utt = 0
-	num_total_tweet = 0
-
-	for i, lbl_lst in enumerate(twitter_dict['lbl']):
-		num_total_tweet += 1
-		# convert text labels to list of 0s, 1s
-		words_01 = []
-		for lbl in lbl_lst:
 			if lbl == 'lang1':  # ENG
 				word_01 = 1
 			elif lbl == 'lang2':  # SPA
@@ -269,7 +274,43 @@ def get_style_metrics_twitter(twitter_dict):
 			else:  # other
 				word_01 = 2
 
-			words_01.append(word_01)
+			txt_lst[tweet_id].append(txt)
+			lbl_lst[tweet_id].append(word_01)
+
+	for tweet_id, txts in txt_lst.iteritems():
+		data['lbl'].append(lbl_lst[tweet_id])
+		data['txt'].append(txts)
+		# data['id'].append(tweet_id) # added 02-11
+		data['id'].append('tw_{}'.format(tweet_id)) # added 02-11
+
+	return data
+
+
+# print CM metrics for Twitter data only
+# return dict where with {style: list(txt examples)}
+# write_file generates list of CM-ONLY {twitter_id \t text}
+def get_style_metrics_twitter(twitter_dict, write_file=''):
+	styles = defaultdict(int)
+	styles_txt = defaultdict(list)
+	num_cm_utt = 0
+	num_total_tweet = 0
+	if write_file:
+		write_list = []
+
+	for i, lbl_lst in enumerate(twitter_dict['lbl']):
+		num_total_tweet += 1
+		# convert text labels to list of 0s, 1s
+		words_01 = lbl_lst
+		# words_01 = []
+		# for lbl in lbl_lst:
+		# 	if lbl == 'lang1':  # ENG
+		# 		word_01 = 1
+		# 	elif lbl == 'lang2':  # SPA
+		# 		word_01 = 0
+		# 	else:  # other
+		# 		word_01 = 2
+
+		# 	words_01.append(word_01)
 
 		# only process if utt = code-mixed
 		if not (0 in words_01 and 1 in words_01):
@@ -280,7 +321,22 @@ def get_style_metrics_twitter(twitter_dict):
 		if words_lst[-1] == '':
 			words_lst = words_lst[:-1]
 
-		process_tags(words_01, words_lst, styles, styles_txt)
+		if write_file:
+			# text_id = 'tw_{}'.format(twitter_dict['id'][i])
+			text_id = twitter_dict['id'][i]
+			cm_text = ' '.join(words_lst)
+			write_list.append('{}\t{}'.format(text_id, cm_text))
+			continue
+
+		# process_tags(words_01, words_lst, styles, styles_txt)
+		process_tags_2(words_01, words_lst, styles=styles, styles_txt=styles_txt)
+
+	if write_file:
+		with open(write_file, 'w') as f:
+			for line in write_list:
+				f.write(line + '\n')
+
+		return 0
 
 	print 'num CM utt: {}'.format(num_cm_utt)
 	print 'num total : {}'.format(num_total_tweet)
@@ -445,7 +501,8 @@ def get_style_metrics_cocoa(filename):
 			if words_lst[-1] == '':
 				words_lst = words_lst[:-1]
 
-			process_tags(words_01, words_lst, styles, styles_txt)
+			# process_tags(words_01, words_lst, styles, styles_txt)
+			process_tags_2(words_01, words_lst, styles=styles, styles_txt=styles_txt)
 
 		print 'num CM utt: {}'.format(num_cm_utt)
 		print 'num EN utt: {}'.format(num_eng_only)

@@ -1,4 +1,5 @@
 from cm_metrics import calc_i_idx, calc_m_idx, process_tags
+from new_metric_strat import process_tags_2
 from collections import defaultdict
 import csv
 import json
@@ -126,9 +127,14 @@ def load_all_data(master_filelist):
 				if 'txt_dict' not in all_data[chat_id]:
 					all_data[chat_id]['txt_dict'] = defaultdict(list)
 					all_data[chat_id]['lbl_dict'] = defaultdict(list)
+					all_data[chat_id]['uttids'] = defaultdict(list)
 
 				all_data[chat_id]['txt_dict'][utt_num].append(txt)
 				all_data[chat_id]['lbl_dict'][utt_num].append(int(lbl))
+
+				uttid = 'co_{}_{}'.format(chat_id, utt_num)
+				all_data[chat_id]['uttids'][utt_num] = uttid
+
 	print 'read all lid tsvs'
 
 	# calc m and i per chat
@@ -207,7 +213,7 @@ def get_style2chat(all_data):
 
 
 # calculate strategies for a specified chat list
-def get_general_cm_metrics(all_data, param_chat_list=None):
+def get_general_cm_metrics(all_data, param_chat_list=None, write_file=''):
 
 	styles = defaultdict(int)
 	styles_txt = defaultdict(list)
@@ -225,6 +231,8 @@ def get_general_cm_metrics(all_data, param_chat_list=None):
 	strat_dict = {}  # for calc m/i-idx across utts per chat
 	avg_resp_times = []  # list of floats
 	avg_resp_times_select = []  # list of floats
+	if write_file:
+		write_list = []
 
 	if param_chat_list:
 		chat_list = param_chat_list
@@ -250,6 +258,8 @@ def get_general_cm_metrics(all_data, param_chat_list=None):
 
 		txt_dict = all_data[chat_id]['txt_dict']
 		lbl_dict = all_data[chat_id]['lbl_dict']
+		uttid_dict = all_data[chat_id]['uttids']
+
 		avg_resp_times.append(all_data[chat_id]['resp_time_avg'])
 		avg_resp_times_select.append(all_data[chat_id]['resp_time_avg_select'])
 		strat_dict[chat_id] = defaultdict(int)  # alternately: be simple list
@@ -287,14 +297,28 @@ def get_general_cm_metrics(all_data, param_chat_list=None):
 				print 'trimming end', words_lst
 				words_lst = words_lst[:-1]
 
+			if write_file:
+				text_id = uttid_dict[utt_num]
+				cm_text = ' '.join(words_lst)
+				write_list.append('{}\t{}'.format(text_id, cm_text))
+				continue
+
 			# store user strategies back into another dict, to be returned
-			user_style = process_tags(words_01, words_lst, styles, styles_txt, finegrain=False)
+			# user_style = process_tags(words_01, words_lst, styles, styles_txt, finegrain=False)
+			user_style, uneven = process_tags_2(words_01, words_lst, styles=styles, styles_txt=styles_txt)
 			strat_dict[chat_id][user_style] += 1
 
 		if is_cm_chat:
 			num_cm_dialogues += 1
 
 		is_cm_chat = False
+
+	if write_file:
+		with open(write_file, 'w') as f:
+			for line in write_list:
+				f.write(line + '\n')
+
+		return 0
 
 	general_stats['dialogues'] = len(chat_list) - no_chat_ctr
 	general_stats['num_success'] = outcome_ctr
@@ -453,7 +477,7 @@ def viz_general(all_data):
 	'''
 
 # taken from http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
-def plot_confusion_matrix(cm, classes, normalize=False, title='Strategy Matrix', cmap=plt.cm.Blues):
+def plot_confusion_matrix(cm, classes, xylabels=['User Strategy', 'Bot Strategy'], normalize=False, title='Strategy Matrix', cmap=plt.cm.Blues):
 	"""
 	This function prints and plots the confusion matrix.
 	Normalization can be applied by setting `normalize=True`.
@@ -481,8 +505,8 @@ def plot_confusion_matrix(cm, classes, normalize=False, title='Strategy Matrix',
 				 color="white" if cm[i, j] > thresh else "black")
 
 	plt.tight_layout()
-	plt.ylabel('Bot Strategy')
-	plt.xlabel('User Strategy')
+	plt.ylabel(xylabels[1])
+	plt.xlabel(xylabels[0])
 
 
 # pass in dict where dict[style] = style_dict from get_general_cm_metrics()

@@ -127,9 +127,10 @@ def load_data(data_folder_path):
 
 			turn_dict = defaultdict(list)
 			all_data[dialog_id][spkr]['words_01'] = []
+			all_data[dialog_id][spkr]['uttid'] = []
 			# [0] = list of Spanish span lengths
 			# [1] = list of English span lengths
-			for turn in dialog_dict[spkr]['words']:
+			for turn_i, turn in enumerate(dialog_dict[spkr]['words']):
 				turn_list = []
 				for i, word in enumerate(turn):
 					if word.endswith("_eng"):
@@ -141,6 +142,9 @@ def load_data(data_folder_path):
 						turn_list.append(2)
 
 				all_data[dialog_id][spkr]['words_01'].append(turn_list)
+				text_id = 'mi_{}_{}_{}'.format(dialog_id, spkr, turn_i)
+				all_data[dialog_id][spkr]['uttid'].append(text_id)
+
 				for k, g in groupby(turn_list):
 					# EX: turn_dict[0] = [3,5,3,1] -> list of spanish spans
 					# EX: turn_dict[1] = [8,1,2] -> list of english spans
