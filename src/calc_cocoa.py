@@ -514,9 +514,10 @@ def plot_confusion_matrix(cm, classes, xylabels=['User Strategy', 'Bot Strategy'
 # @param is_social: 0 = no social, 1 = social only, 2 = combined
 #TODO: is_social = 1 does NOT work
 def viz_cm_style(all_data, is_social=2):
-	name_map = {'c-0': 'sp_lex', 'c-1': 'en_lex', 's-1': 'en2sp', 's-0': 'sp2en'}
+	name_map = {'c-0': 'sp_lex', 'c-1': 'en_lex', 's-1': 'en2sp', 's-0': 'sp2en', 'neither': 'neither'}
 	name_map_flip = {d: k for k, d in name_map.iteritems()}
 	style_subset = ['sp_lex', 'en_lex', 'sp2en', 'en2sp']
+	style_subset = ['sp_lex', 'en_lex', 'sp2en', 'en2sp', 'neither'] #added 0303
 	style_subset_rand = ['sp_lex', 'en_lex', 'sp2en', 'en2sp', 'random']
 	# style_social_bots = [s + '_soc' for s in style_subset]
 	style_social_rand = ['sp_lex_soc', 'en_lex_soc', 'sp2en_soc', 'en2sp_soc', 'random']
@@ -532,6 +533,7 @@ def viz_cm_style(all_data, is_social=2):
 
 	zipped_list = []
 	for style_bot in style_bots:
+		if style_bot == 'neither': continue
 		for style_user in style_subset:
 			num_entries = 0
 			style_user_cs01 = name_map_flip[style_user]  # en2sp -> s-1

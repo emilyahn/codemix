@@ -11,7 +11,7 @@ nlp_en = spacy.load('en')
 nlp_sp = spacy.load('es')
 nlp_all = [nlp_sp, nlp_en]  # 0: spa, 1: eng
 
-with open('./data/auxiliaries.txt') as f:
+with open('./data/word_lists/en_aux.txt') as f:
 	eng_aux_lst = [line.strip() for line in f.readlines()]
 
 # EXAMPLE...

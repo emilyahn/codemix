@@ -104,8 +104,8 @@ def process_tags_2(words_01, words_lst, styles=None, styles_txt=None):
 		if (0 in func_list or 0 in fin_vb_list) and (1 in func_list or 1 in fin_vb_list):
 			hyp_strat = 's-{}'.format(first_atleastn)
 
+	# (2) check if content
 	if not hyp_strat:
-		# (2) check if content
 		if fin_vb_list or func_list:  # not empty
 			set_vb = set(fin_vb_list)
 			set_fn = set(func_list)
@@ -124,7 +124,7 @@ def process_tags_2(words_01, words_lst, styles=None, styles_txt=None):
 					content_list.append(word_lang)
 
 			for item in set_vb:
-				if 1 - item in content_list:
+				if 1 - item in content_list and num_lang[item] >= num_lang[1 - item]:
 					hyp_strat = 'c-{}'.format(item)
 					break
 
@@ -132,6 +132,7 @@ def process_tags_2(words_01, words_lst, styles=None, styles_txt=None):
 				for item in set_fn:
 					if 1 - item in content_list and num_lang[item] >= num_lang[1 - item]:
 						hyp_strat = 'c-{}'.format(item)
+						break
 
 	if not hyp_strat:
 		hyp_strat = 'neither'
