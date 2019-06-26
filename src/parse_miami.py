@@ -12,7 +12,7 @@
 	*
 
 	To run:
-		./parse_miami.py ../data/miami/txt/
+		./parse_miami.py ../data/miami/clean_1208/
 
 """
 import os
@@ -22,13 +22,10 @@ from collections import defaultdict, Counter
 from itertools import groupby
 
 
-# import math
-# import argparse
-
 __author__ = 'Emily Ahn'
 
-with open('./src/ignore_words.txt') as f:
-	ignore_words = [line.replace('\n', '') for line in f.readlines()]
+# with open('./src/ignore_words.txt') as f:
+# 	ignore_words = [line.replace('\n', '') for line in f.readlines()]
 
 # dialog_dict   [spkr1] ->  ['time_start'] = list of floats
 #						   ['time_end'] = list of floats
@@ -66,7 +63,7 @@ def process_one_file(filename):
 		for word in turn[3:]:
 			# clean words to capture only vocab spoken in "_eng" and "_spa"
 			# change this to be a flag upon input, later
-			if word in ignore_words: continue  # now obsolete w/ cleaned txt
+			# if word in ignore_words: continue  # now obsolete w/ cleaned txt
 			if '[' in word: continue
 			if bool(re.search(r'\w+sengspa\w+', word)):
 				before, after = word.split('sengspa')
@@ -142,7 +139,11 @@ def load_data(data_folder_path):
 						turn_list.append(2)
 
 				all_data[dialog_id][spkr]['words_01'].append(turn_list)
-				text_id = 'mi_{}_{}_{}'.format(dialog_id, spkr, turn_i)
+
+				# text_id = 'mi_{}_{}_{}'.format(dialog_id, spkr, turn_i)
+				turn_num = str(all_data[dialog_id][spkr]['turn_num'][turn_i]).zfill(4)
+				text_id = 'mi_{}_{}_{}'.format(dialog_id, turn_num, spkr)
+
 				all_data[dialog_id][spkr]['uttid'].append(text_id)
 
 				for k, g in groupby(turn_list):

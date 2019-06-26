@@ -15,6 +15,7 @@ from sklearn.preprocessing import normalize
 from scipy.stats import pearsonr
 import statistics
 
+
 # calculate avg response time
 def calc_response_times(events_dict, agents_dict):
 

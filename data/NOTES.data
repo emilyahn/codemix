@@ -1,1 +1,29 @@
 # data and links
+
+LID 2016 Twitter:
+32,601 posts
+	12,342 code-mixed posts
+
+Miami:
+2889 code-mixed utterances
+
+Common Amigos:
+1792 code-mixed utterances
+
+# sources
+Tagalog 1000 most common:
+[tg_1000_common.txt]
+http://1000mostcommonwords.com/1000-most-common-filipino-words/
+
+Spanish function words:
+[sp_func.txt]
+http://www.espanol-ingles.com.mx/phrase_book/spanish/function_words.html
+http://www.espanol-ingles.com.mx/phrase_book/spanish/prepositions.html
+
+
+eahn1@k10:~$ ls babel_zul_trans/| wcl
+970
+eahn1@k10:~$ ls babel_tam_trans/| wcl
+903
+eahn1@k10:~$ ls babel_tag_trans/| wcl
+1290

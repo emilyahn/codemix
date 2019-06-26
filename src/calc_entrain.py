@@ -22,6 +22,7 @@ import sys
 from collections import defaultdict, Counter
 from itertools import groupby
 from src import parse_miami
+from src import cm_metrics
 
 
 __author__ = 'Emily Ahn'
@@ -36,7 +37,7 @@ class ConvData():
 		self.texts = {}
 		self.lid_labels = {}
 		self.cm_styles = {}
-		self.dialog_ids = []
+		self.dialog_ids = set()
 		self.langs = [lang_pair.split('-')[0], lang_pair.split('-')[1]]  # assumes perfect format
 
 		if corp_name == 'miami':
@@ -52,28 +53,61 @@ class ConvData():
 		full_dict = parse_miami.load_data(infolder)
 		dialog_ids = set(full_dict.keys())
 		for dialog_id, dialog_dict in full_dict.iteritems():
-			if len(dialog_dict) < 2:
+			if len(dialog_dict) < 2:  # less than 2 speakers
 				dialog_ids.remove(dialog_id)
 				continue
 
-			utt_ids = []
+			# utt_ids = []
+			# utt_to_info = defaultdict(dict)
 			for spkr, spkr_dict in dialog_dict.iteritems():
-				# 1 turn of speech
+				# per 1 turn of speech
 				for line_i, line in enumerate(spkr_dict['words_01']):
-					turn_num = spkr_dict['turn_num'][line_i]  # int
-					# orig format of spkr_dict['uttid':
-					# 'mi_{}_{}_{}'.format(dialog_id, spkr, turn_i)
-					# update turn_i to actual turn_num
-					pieces = spkr_dict['uttid'].split('_')[:-1]
-					pieces.append(str(turn_num).zfill(4))
-					utt_id = '_'.join(pieces)
-					utt_ids.append(utt_id)
+					# format of utt_id:
+					# 'mi_{}_{}_{}'.format(dialog_id, turn_num, spkr)
+					utt_id = spkr_dict['uttid']
+					# turn_num = spkr_dict['turn_num'][line_i]  # int
+					# utt_ids.append(utt_id)
+					# utt_to_info[utt_id]['words'] = spkr_dict['words'][line_i]  # has tags
+					# utt_to_info[utt_id]['lbls'] = line
+					words = spkr_dict['words'][line_i]  # has tags
+					self.texts[utt_id] = cm_metrics.remove_lidtags_miami(words)
+					self.lid_labels[utt_id] = line  # list of [0,1]s
 
 		self.dialog_ids = dialog_ids
 
+	def load_com_amig(self, infile_name):
+		pass
+
+	def load_reddit(self, infile_name):
+		pass
+
 
 class Lexicon():
-	pass
+
+	def __init__(self, infile_name='./data/word_lists/en_aux.txt'):
+		with open(infile_name, 'r') as f:
+			self.words = [line.strip() for line in f.readlines()]
+
+
+class Scores():
+
+	def __init__(self, conv_data, lexicon):
+		self.scores = {}
+		self.data = conv_data
+		self.word_list = lexicon.words
+
+		self.calc_dnm()
+		self.calc_msr_lid()
+		self.calc_sigdial()
+
+	def calc_dnm(self):
+		self.scores['dnm'] = 0
+
+	def calc_msr_lid(self):
+		self.scores['msr'] = 0
+
+	def calc_sigdial(self):
+		self.scores['sigdial'] = 0
 
 
 def main():
