@@ -132,11 +132,14 @@ def load_data(data_folder_path):
 				for i, word in enumerate(turn):
 					if word.endswith("_eng"):
 						turn_list.append(1)
-					if word.endswith("_spa"):
+					elif word.endswith("_spa"):
 						turn_list.append(0)
 					# adds named entities, ambiguous words like "oh", "yeah"
-					if word.endswith("_engspa"):
+					# elif word.endswith("_engspa"):
+					# 	turn_list.append(2)
+					else:
 						turn_list.append(2)
+						# print word
 
 				all_data[dialog_id][spkr]['words_01'].append(turn_list)
 
