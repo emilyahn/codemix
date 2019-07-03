@@ -19,6 +19,7 @@
 from __future__ import division
 import re
 import langid
+import numpy as np
 # import os
 from collections import defaultdict  # Counter
 # from itertools import groupby
@@ -27,6 +28,9 @@ from src import cm_metrics
 
 
 __author__ = 'Emily Ahn'
+
+
+lang_map = {'es': 0, 'en': 1, 'tg': 2}
 
 
 class ConvData():
@@ -82,6 +86,7 @@ class ConvData():
 
 					last_turn = turn_num
 
+			# ensure order
 			self.dialog_uttids[dialog_id] = sorted(self.dialog_uttids[dialog_id])
 
 	def load_com_amig(self, infile_name):
@@ -91,28 +96,43 @@ class ConvData():
 		pass
 
 	def detect_lang(self, tool_name, word_str):
-		langid.set_languages(self.langs)  # e.g. ['es', 'en']
+		if tool_name == 'langid':
+			langid.set_languages(self.langs)  # e.g. ['es', 'en']
+		#TODO: continue
 
 
 class Lexicon():
 
-	def __init__(self, infile_name='./data/word_lists/en_aux.txt'):
+	def __init__(self, infile_name='./data/word_lists/en_aux.txt', lang='en'):
+		self.lang = lang
+		self.lang_idx = lang_map[lang]
 		with open(infile_name, 'r') as f:
 			self.words = [line.strip() for line in f.readlines()]
 
 		self.rgx_words = [re.compile(r'\b{}\b'.format(entry)) for entry in self.words]
 
 	# given text = list of words, return matched items
-	def in_text_list(self, text_list):
+	# only use words that have relevant language-ID
+	# text_list and lid_list must have same length
+	def in_text_list(self, text_list, lid_list):
 		matches = []
+		if self.lang_idx not in lid_list:
+			return matches
+
 		for word in self.words:
-			counts = text_list.count(word)
+			lid_idxs = np.where(np.array(lid_list) == self.lang_idx)
+			# word_idxs = np.where(text_list == word)
+			this_lang_text_list = np.take(text_list, lid_idxs)
+			# counts = this_lang_text_list.count(word)
+			counts = np.where(this_lang_text_list == word)[0].size
+			# counts = np.intersect1d(lid_idxs, word_idxs)
 			if counts > 0:
 				matches.extend([word] * counts)
 
 		return matches
 
 	# given text = str of words, return regex-matched items
+	#TODO: does not handle filtering non-relevant language ID items
 	def in_text_longstr(self, text_str):
 		matches = []
 		for rgx_word in self.rgx_words:
@@ -160,13 +180,13 @@ class Scores():
 
 		uttid_prev = self.data.dialog_uttids[dialog_id][0]
 		words_prev = self.data.texts[uttid_prev]
-		matches_prev = self.lex.in_text_list(words_prev)
+		matches_prev = self.lex.in_text_list(words_prev, self.data.lid_labels[uttid_prev])
 		for utt_id in self.data.dialog_uttids[dialog_id][1:]:
 			spkr_reply = utt_id.split('_')[-1]
 			spkr_reply_cts[spkr_reply] += 1
 			spkr_prev = uttid_prev.split('_')[-1]
 			words_reply = self.data.texts[utt_id]
-			matches_reply = self.lex.in_text_list(words_reply)
+			matches_reply = self.lex.in_text_list(words_reply, self.data.lid_labels[utt_id])
 
 			if not calc_ratio:
 				# variation 1: ft = 1 if any present in text
@@ -179,6 +199,7 @@ class Scores():
 					ft_in_prev[spkr_prev] += 1
 
 			else:
+				#TODO: fix logic
 				# variation 2: ft = proportion of tokens (e.g. 3 aux / 10 words = .3)
 				if matches_reply and words_reply:  # require non-empty list of words
 					ft_in_reply[spkr_reply] += len(matches_reply) / len(words_reply)
@@ -235,10 +256,11 @@ def main():
 	# en_aux_lex = Lexicon(infile_name='./data/word_lists/en_aux.txt')
 	en_aux_lex = Lexicon(infile_name='./data/word_lists/en_fw_1_list.txt')
 	scores = Scores(miami, en_aux_lex)
+
 	scores.calc_dnm(calc_ratio=False)
 	print('NO RATIO', scores.scores['dnm'])
-	scores.calc_dnm(calc_ratio=True)
-	print('RATIO', scores.scores['dnm'])
+	# scores.calc_dnm(calc_ratio=True)
+	# print('RATIO', scores.scores['dnm'])
 	# import pdb; pdb.set_trace()
 
 
