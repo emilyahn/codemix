@@ -25,6 +25,7 @@ from collections import defaultdict  # Counter
 # from itertools import groupby
 from src import parse_miami
 from src import cm_metrics
+from src import calc_cocoa
 
 
 __author__ = 'Emily Ahn'
@@ -40,13 +41,13 @@ class ConvData():
 		self.texts = {}  # [uttid] = list(words)
 		self.lid_labels = {}  # [uttid] = list(language ID tags among {0,1,2})
 		self.cm_styles = {}
-		self.dialog_uttids = defaultdict(list)
-		self.dialog_spkrs = defaultdict(list)
+		self.dialog_uttids = defaultdict(list)  # [dialog_id] = list(utt_ids)
+		self.dialog_spkrs = defaultdict(list)  # [dialog_id] = list([spkr1, spkr2])
 		self.langs = [lang_pair.split('-')[0], lang_pair.split('-')[1]]  # assumes perfect format
 
 		if corp_name == 'miami':
 			self.load_miami(infile_name)
-		elif corp_name == 'com_amig':
+		elif corp_name == 'com_amig':  # 437 chats (-100 mono)
 			self.load_com_amig(infile_name)
 		elif corp_name == 'reddit':
 			self.load_reddit(infile_name)
@@ -56,7 +57,7 @@ class ConvData():
 	def load_miami(self, infolder):
 		full_dict = parse_miami.load_data(infolder)
 		for dialog_id, dialog_dict in full_dict.iteritems():
-			if not dialog_id == 'zeledon8': continue  #debug w/ 1 dialog only
+			# if not dialog_id == 'zeledon8': continue  #debug w/ 1 dialog only
 			if len(dialog_dict) != 2:  # must have exactly 2 speakers
 				continue
 
@@ -70,6 +71,8 @@ class ConvData():
 					# format of utt_id:
 					# 'mi_{}_{}_{}'.format(dialog_id, turn_num, spkr)
 					utt_id = spkr_dict['uttid'][line_i]
+					# if utt_id.split('_')[-1] != spkr:
+					# 	print utt_id, spkr
 					turn_num = spkr_dict['turn_num'][line_i]  # int
 
 					words = cm_metrics.remove_lidtags_miami(spkr_dict['words'][line_i])
@@ -90,7 +93,67 @@ class ConvData():
 			self.dialog_uttids[dialog_id] = sorted(self.dialog_uttids[dialog_id])
 
 	def load_com_amig(self, infile_name):
-		pass
+		com_data = calc_cocoa.load_all_data('./src/files_list_fix.txt')
+		bot_data = calc_cocoa.load_all_data('./src/files_list_bot.txt')
+		problem_ctr = 0
+		invalid_ctr = 0
+
+		for chat_id, usr_dict in com_data.iteritems():
+			#check
+			if chat_id not in bot_data:
+				# print 'problem', chat_id
+				problem_ctr += 1
+				continue
+
+			if 'outcome' not in usr_dict or 'txt_dict' not in usr_dict:
+				# print 'not valid', chat_id
+				invalid_ctr += 1
+				continue
+
+			turns = usr_dict['all_chat']
+			#following check doesn't catch, can remove
+			if len(turns) != len(usr_dict['lbl_dict']) + len(bot_data[chat_id]['lbl_dict']):
+				print 'bot + user != all_chat', chat_id
+				continue
+
+			usr_idx = 0 if usr_dict['agents']['0'] == 'human' else 1
+			absolute_turns = {'user': [], 'bot': []}
+			for turn_i, turn in enumerate(turns):
+				if turn[0] == usr_idx:
+					absolute_turns['user'].append(turn_i)
+				else:
+					absolute_turns['bot'].append(turn_i)
+
+			# create proper (absolute) utt_ids, populate class dicts
+			new_chat_id = chat_id.replace('_', '')
+			# first: user
+			worker_id = 'hum-{}'.format(usr_dict['worker_id'])
+			self.dialog_spkrs[new_chat_id].append(worker_id)
+			for usr_turn_i_str, usr_turn_lbls in usr_dict['lbl_dict'].iteritems():
+				usr_turn_i = int(usr_turn_i_str)
+				abs_utt_id = 'co_{}_{}_{}'.format(new_chat_id, str(absolute_turns['user'][usr_turn_i]).zfill(2), worker_id)
+				self.dialog_uttids[new_chat_id].append(abs_utt_id)
+				self.lid_labels[abs_utt_id] = usr_turn_lbls
+				self.texts[abs_utt_id] = usr_dict['txt_dict'][usr_turn_i_str]
+
+			# second: bot
+			cm_strategy = usr_dict['style'].replace('_', '')
+			self.dialog_spkrs[new_chat_id].append('bot-{}'.format(cm_strategy))
+			self.cm_styles[new_chat_id] = cm_strategy
+			bot_dict = bot_data[chat_id]
+			for bot_turn_i_str, bot_turn_lbls in bot_dict['lbl_dict'].iteritems():
+				bot_turn_i = int(bot_turn_i_str)
+				abs_utt_id = 'co_{}_{}_{}'.format(new_chat_id, str(absolute_turns['bot'][bot_turn_i]).zfill(2), 'bot-{}'.format(cm_strategy))
+				self.dialog_uttids[new_chat_id].append(abs_utt_id)
+				self.lid_labels[abs_utt_id] = bot_turn_lbls
+				self.texts[abs_utt_id] = bot_dict['txt_dict'][bot_turn_i_str]
+
+			# ensure order
+			self.dialog_uttids[new_chat_id] = sorted(self.dialog_uttids[new_chat_id])
+			# import pdb; pdb.set_trace()
+
+		# print 'PROBLEMS:', problem_ctr
+		# print 'INVALID:', invalid_ctr
 
 	def load_reddit(self, infile_name):
 		pass
@@ -103,13 +166,21 @@ class ConvData():
 
 class Lexicon():
 
-	def __init__(self, infile_name='./data/word_lists/en_aux.txt', lang='en'):
+	def __init__(self, infile_name='./data/word_lists/en_aux.txt', lang='en', is_liwc=False):
 		self.lang = lang
 		self.lang_idx = lang_map[lang]
-		with open(infile_name, 'r') as f:
-			self.words = [line.strip() for line in f.readlines()]
+
+		if is_liwc:
+			self.words = self.load_liwc(infile_name)
+		else:
+			with open(infile_name, 'r') as f:
+				self.words = [line.strip() for line in f.readlines()]
 
 		self.rgx_words = [re.compile(r'\b{}\b'.format(entry)) for entry in self.words]
+
+	# special format of LIWC
+	def load_liwc(self, filename):
+		pass
 
 	# given text = list of words, return matched items
 	# only use words that have relevant language-ID
@@ -161,75 +232,76 @@ class Scores():
 		""" Danescu-Niculescu-Mizil et al. (2011) Entrainment, WWW
 			* = P(ft in reply utt from SPK-2 / ft in previous utt from SPK-1)
 				- P(ft in reply utt from SPK-2 / all replies to SPK-1)
-
 			* Does not factor high-level temporal nature (e.g. start vs end of dialogue)
 		"""
 		#TEST: 1 dialogue
-		dialog_id = 'zeledon8'
-		spkrs = ['MAR', 'FLA']
+		# dialog_id = 'zeledon8'
+		# spkrs = ['MAR', 'FLA']
+
 		# if not given_dialogid:
-		# for dialog_id, spkrs in self.conv_data.dialog_spkrs.iteritems():
+		for dialog_id, spkrs in self.data.dialog_spkrs.iteritems():
 
-		# calc in both directions simultaneously
-		spkr1, spkr2 = spkrs
-		ft_in_reply = {spkr1: 0, spkr2: 0}
-		ft_in_prev = {spkr1: 0, spkr2: 0}
-		ft_in_reply_and_prev = {spkr1: 0, spkr2: 0}
-		spkr_reply_cts = {spkr1: 0, spkr2: 0}
-		# uttid_matches = {}
+			# calc in both directions simultaneously
+			spkr1, spkr2 = spkrs
+			ft_in_reply = {spkr1: 0, spkr2: 0}
+			ft_in_prev = {spkr1: 0, spkr2: 0}
+			ft_in_reply_and_prev = {spkr1: 0, spkr2: 0}
+			spkr_reply_cts = {spkr1: 0, spkr2: 0}
 
-		uttid_prev = self.data.dialog_uttids[dialog_id][0]
-		words_prev = self.data.texts[uttid_prev]
-		matches_prev = self.lex.in_text_list(words_prev, self.data.lid_labels[uttid_prev])
-		for utt_id in self.data.dialog_uttids[dialog_id][1:]:
-			spkr_reply = utt_id.split('_')[-1]
-			spkr_reply_cts[spkr_reply] += 1
-			spkr_prev = uttid_prev.split('_')[-1]
-			words_reply = self.data.texts[utt_id]
-			matches_reply = self.lex.in_text_list(words_reply, self.data.lid_labels[utt_id])
+			uttid_prev = self.data.dialog_uttids[dialog_id][0]
+			words_prev = self.data.texts[uttid_prev]
+			matches_prev = self.lex.in_text_list(words_prev, self.data.lid_labels[uttid_prev])
+			for utt_id in self.data.dialog_uttids[dialog_id][1:]:
+				spkr_reply = utt_id.split('_')[-1]
+				# print dialog_id, spkrs, spkr_reply
+				# if spkr_reply not in spkrs:
 
-			if not calc_ratio:
-				# variation 1: ft = 1 if any present in text
-				if matches_reply:
-					ft_in_reply[spkr_reply] += 1
-					# AND
+				spkr_reply_cts[spkr_reply] += 1
+				spkr_prev = uttid_prev.split('_')[-1]
+				words_reply = self.data.texts[utt_id]
+				matches_reply = self.lex.in_text_list(words_reply, self.data.lid_labels[utt_id])
+
+				if not calc_ratio:
+					# variation 1: ft = 1 if any present in text
+					if matches_reply:
+						ft_in_reply[spkr_reply] += 1
+						# AND
+						if matches_prev:
+							ft_in_reply_and_prev[spkr_reply] += 1
 					if matches_prev:
-						ft_in_reply_and_prev[spkr_reply] += 1
-				if matches_prev:
-					ft_in_prev[spkr_prev] += 1
+						ft_in_prev[spkr_prev] += 1
 
-			else:
-				#TODO: fix logic
-				# variation 2: ft = proportion of tokens (e.g. 3 aux / 10 words = .3)
-				if matches_reply and words_reply:  # require non-empty list of words
-					ft_in_reply[spkr_reply] += len(matches_reply) / len(words_reply)
-					# AND
+				else:
+					#TODO: fix logic
+					# variation 2: ft = proportion of tokens (e.g. 3 aux / 10 words = .3)
+					if matches_reply and words_reply:  # require non-empty list of words
+						ft_in_reply[spkr_reply] += len(matches_reply) / len(words_reply)
+						# AND
+						if matches_prev and words_prev:
+							# take ratio of reply only, not prev (logic may be flawed)
+							ft_in_reply_and_prev[spkr_reply] += len(matches_reply) / len(words_reply)
 					if matches_prev and words_prev:
-						# take ratio of reply only, not prev (logic may be flawed)
-						ft_in_reply_and_prev[spkr_reply] += len(matches_reply) / len(words_reply)
-				if matches_prev and words_prev:
-					ft_in_prev[spkr_prev] += len(matches_prev) / len(words_prev)
+						ft_in_prev[spkr_prev] += len(matches_prev) / len(words_prev)
 
-			# import pdb; pdb.set_trace()
-			# update variables
-			uttid_prev = utt_id
-			words_prev = words_reply
-			matches_prev = matches_reply
+				# update variables
+				uttid_prev = utt_id
+				words_prev = words_reply
+				matches_prev = matches_reply
 
-		# scores in 1 direction
-		def calc_a_entrained_to_b(spkr_a, spkr_b):
-			term1 = 0
-			term2 = 0
+			# scores in 1 direction
+			def calc_a_entrained_to_b(spkr_a, spkr_b):
+				term1 = 0
+				term2 = 0
 
-			if ft_in_prev[spkr_b] > 0:
-				term1 = ft_in_reply_and_prev[spkr_a] / ft_in_prev[spkr_b]
-			if spkr_reply_cts[spkr_a] > 0:
-				term2 = ft_in_reply[spkr_a] / spkr_reply_cts[spkr_a]
+				if ft_in_prev[spkr_b] > 0:
+					term1 = ft_in_reply_and_prev[spkr_a] / ft_in_prev[spkr_b]
+				if spkr_reply_cts[spkr_a] > 0:
+					term2 = ft_in_reply[spkr_a] / spkr_reply_cts[spkr_a]
 
-			return (term1 - term2, term1, term2)
+				return term1 - term2, term1, term2
 
-		self.scores['dnm'][spkr1] = calc_a_entrained_to_b(spkr1, spkr2)
-		self.scores['dnm'][spkr2] = calc_a_entrained_to_b(spkr2, spkr1)
+			self.scores['dnm'][spkr1] = calc_a_entrained_to_b(spkr1, spkr2)
+			self.scores['dnm'][spkr2] = calc_a_entrained_to_b(spkr2, spkr1)
 
 	def calc_msr(self):
 		""" Bawa et al. (2018) Accommodation of Code-choice in Miami, ACL
@@ -253,16 +325,22 @@ class Scores():
 
 def main():
 	miami = ConvData(infile_name='./data/miami/clean_1208', corp_name='miami', lang_pair='es-en')
-	# en_aux_lex = Lexicon(infile_name='./data/word_lists/en_aux.txt')
-	en_aux_lex = Lexicon(infile_name='./data/word_lists/en_fw_1_list.txt')
+	en_aux_lex = Lexicon(infile_name='./data/word_lists/en_aux.txt')
+	# en_aux_lex = Lexicon(infile_name='./data/word_lists/en_fw_1_list.txt', lang='en')
 	scores = Scores(miami, en_aux_lex)
 
 	scores.calc_dnm(calc_ratio=False)
-	print('NO RATIO', scores.scores['dnm'])
-	# scores.calc_dnm(calc_ratio=True)
-	# print('RATIO', scores.scores['dnm'])
-	# import pdb; pdb.set_trace()
+	print(scores.scores['dnm'])
+	print('ALL SCORES\n', [scores.scores['dnm'][i][0] for i in scores.scores['dnm'].keys()])
+	print('AVERAGE\n', np.mean([scores.scores['dnm'][i][0] for i in scores.scores['dnm'].keys()]))
+	import pdb; pdb.set_trace()
+
+
+def main_com():
+	com_amig = ConvData(corp_name='com_amig', lang_pair='es-en')
+	import pdb; pdb.set_trace()
 
 
 if __name__ == '__main__':
-	main()
+	# main()
+	main_com()

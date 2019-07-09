@@ -101,7 +101,7 @@ def check_spkr(spkrid, total, i):
 		return None
 
 	# this is handled better in ./clean_miami.py
-	if spkrid in ['eng_eng', 'spa_spa']:  # use previous turn's spkrid
+	if spkrid in ['eng_eng', 'spa_spa', 'spa_eng']:  # use previous turn's spkrid
 		newid = total[i-1].split()[2]
 		if newid in ['OSE', 'OSA', 'OSB', 'eng_eng', 'spa_spa']:
 			return check_spkr(newid, total, i-1)

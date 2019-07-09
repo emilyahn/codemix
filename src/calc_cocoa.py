@@ -104,6 +104,8 @@ def load_all_data(master_filelist):
 
 			all_data[chat_id]['resp_time_dict'], all_data[chat_id]['resp_time_avg'], all_data[chat_id]['resp_time_dict_select'], all_data[chat_id]['resp_time_avg_select'] = calc_response_times(chat['events'], chat['agents'])
 
+			all_data[chat_id]['all_chat'] = [(d['agent'], d['data']) for d in chat['events'] if d['action'] == 'message']
+
 	print 'read all chat jsons'
 
 	# read LID TSVs
@@ -117,7 +119,7 @@ def load_all_data(master_filelist):
 				# concat chat_id with utt-number
 				# utt-number always has two digits (i.e. 3 -> 03)
 				chat_id = all_info[1]
-				utt_num = all_info[2].zfill(2)  #TODO: save as int, not str
+				utt_num = all_info[2].zfill(2)
 				txt = all_info[3]  # single token
 				lbl = all_info[4]
 				if len(all_info) > 5:
