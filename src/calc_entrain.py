@@ -20,6 +20,7 @@ from __future__ import division
 import re
 import langid
 import numpy as np
+import pandas as pd
 # import os
 from collections import defaultdict  # Counter
 # from itertools import groupby
@@ -161,41 +162,81 @@ class ConvData():
 	def detect_lang(self, tool_name, word_str):
 		if tool_name == 'langid':
 			langid.set_languages(self.langs)  # e.g. ['es', 'en']
-		#TODO: continue
+		#TODO: continue lang's
 
 
 class Lexicon():
 
-	def __init__(self, infile_name='./data/word_lists/en_aux.txt', lang='en', is_liwc=False):
+	def __init__(self, lang='en'):
 		self.lang = lang
 		self.lang_idx = lang_map[lang]
+		self.word_dict = defaultdict(list)
+		self.rgx_words = defaultdict(list)
 
-		if is_liwc:
-			self.words = self.load_liwc(infile_name)
-		else:
-			with open(infile_name, 'r') as f:
-				self.words = [line.strip() for line in f.readlines()]
+	# load list of words that are 1 entry per line
+	def load_wordlist(self, filename='./data/word_lists/en_aux.txt', word_cat='en_aux'):
+		if word_cat in self.word_dict:
+			print 'Word category [{}] already in lexicon'.format(word_cat)
+			return 0
 
-		self.rgx_words = [re.compile(r'\b{}\b'.format(entry)) for entry in self.words]
+		with open(filename, 'r') as f:
+			self.word_dict[word_cat] = [line.strip() for line in f.readlines()]
 
-	# special format of LIWC
-	def load_liwc(self, filename):
-		pass
+		self.rgx_words[word_cat] = [re.compile(r'\b{}\b'.format(entry)) for entry in self.word_dict[word_cat]]
+
+	# load according to special format of LIWC
+	def load_liwc(self, filename='./data/word_lists/LIWC2007_English080730_eahn.dic'):
+		with open(filename, 'r') as f:
+			f.readline()  # first line = '%'
+			texts = [line.strip() for line in f.readlines()]
+		split = texts.index('%')
+		codes_words = {line.split('\t')[1]: int(line.split('\t')[0]) for line in texts[:split]}
+		codes_int = {d: k for k, d in codes_words.iteritems()}
+
+		for entry in texts[split + 1:]:
+			word = entry.split('\t')[0]
+			# print entry.split('\t')[1:]
+			cats_int = [int(cat) for cat in entry.split('\t')[1:]]
+			rgx_word = word
+
+			if '*' in word:
+				rgx_word = rgx_word.replace('*', '\S*')
+				# print rgx_word, type(rgx_word)
+				# word = word.replace('*', '')  # remove
+
+			for cat_int in cats_int:
+				cat_word = codes_int[cat_int]
+				self.word_dict['liwc-{}'.format(cat_word)].append(word)
+				new_rgx_word = re.compile(r'\b{}\b'.format(rgx_word))
+				# print rgx_word, type(rgx_word)
+				# break
+				self.rgx_words['liwc-{}'.format(cat_word)].append(new_rgx_word)
+
 
 	# given text = list of words, return matched items
 	# only use words that have relevant language-ID
 	# text_list and lid_list must have same length
-	def in_text_list(self, text_list, lid_list):
+	def in_text_list(self, text_list, lid_list, word_cat, ignore_star=False):
 		matches = []
 		if self.lang_idx not in lid_list:
 			return matches
 
-		for word in self.words:
+		for word in self.word_dict[word_cat]:
+			if ignore_star:
+				if '*' in word:
+					continue
+
 			lid_idxs = np.where(np.array(lid_list) == self.lang_idx)
 			# word_idxs = np.where(text_list == word)
 			this_lang_text_list = np.take(text_list, lid_idxs)
 			# counts = this_lang_text_list.count(word)
-			counts = np.where(this_lang_text_list == word)[0].size
+
+			if '*' in word:  # liwc items only
+				no_star_word = word.replace('*', '')
+				pd_text_list = pd.Series(this_lang_text_list[0])
+				counts = np.where(pd_text_list.str.startswith(no_star_word))[0].size
+			else:
+				counts = np.where(this_lang_text_list == word)[0].size
 			# counts = np.intersect1d(lid_idxs, word_idxs)
 			if counts > 0:
 				matches.extend([word] * counts)
@@ -204,9 +245,9 @@ class Lexicon():
 
 	# given text = str of words, return regex-matched items
 	#TODO: does not handle filtering non-relevant language ID items
-	def in_text_longstr(self, text_str):
+	def in_text_longstr(self, text_str, word_cat):
 		matches = []
-		for rgx_word in self.rgx_words:
+		for rgx_word in self.rgx_words[word_cat]:
 			matches.extend(re.findall(rgx_word, text_str))
 
 		return matches
@@ -215,31 +256,31 @@ class Lexicon():
 class Scores():
 
 	def __init__(self, conv_data, lexicon):
-		self.scores = defaultdict(dict)
 		self.data = conv_data
 		self.lex = lexicon
-		self.word_list = lexicon.words
+		self.dnm_scores = defaultdict(dict)
+		self.msr_scores = defaultdict(dict)
+		self.naist_scores = defaultdict(dict)
+		self.soto_scores = defaultdict(dict)
 
-		# self.calc_dnm()
-		# self.calc_msr()
-		# self.calc_naist()
-		# self.calc_soto()
-
-	# self.scores['dnm'][spkr1] = how much spkr1 (replier) entrained to spkr2
-	# self.scores['dnm'][spkr2] = how much spkr2 (replier) entrained to spkr1
+	# self.scores[word_cat][spkr1] = how much spkr1 (replier) entrained to spkr2
+	# self.scores[word_cat][spkr2] = how much spkr2 (replier) entrained to spkr1
 	# returns (full score, term1 of eqn = minuend, term2 of eqn = subtrahend)
-	def calc_dnm(self, given_dialogid=None, calc_ratio=False):
+	def calc_dnm(self, word_cat, given_dialogid=None, calc_ratio=False, ignore_star=False):
 		""" Danescu-Niculescu-Mizil et al. (2011) Entrainment, WWW
 			* = P(ft in reply utt from SPK-2 / ft in previous utt from SPK-1)
 				- P(ft in reply utt from SPK-2 / all replies to SPK-1)
 			* Does not factor high-level temporal nature (e.g. start vs end of dialogue)
 		"""
-		#TEST: 1 dialogue
+		# TEST: 1 dialogue, pass in given_dialogid='zeledon8'
 		# dialog_id = 'zeledon8'
 		# spkrs = ['MAR', 'FLA']
 
-		# if not given_dialogid:
-		for dialog_id, spkrs in self.data.dialog_spkrs.iteritems():
+		dialog_speakers = self.data.dialog_spkrs.iteritems()
+		if given_dialogid:  # create
+			dialog_speakers = (given_dialogid, self.data.dialog_spkr[given_dialogid])
+
+		for dialog_id, spkrs in dialog_speakers:
 
 			# calc in both directions simultaneously
 			spkr1, spkr2 = spkrs
@@ -250,7 +291,7 @@ class Scores():
 
 			uttid_prev = self.data.dialog_uttids[dialog_id][0]
 			words_prev = self.data.texts[uttid_prev]
-			matches_prev = self.lex.in_text_list(words_prev, self.data.lid_labels[uttid_prev])
+			matches_prev = self.lex.in_text_list(words_prev, self.data.lid_labels[uttid_prev], word_cat, ignore_star=ignore_star)
 			for utt_id in self.data.dialog_uttids[dialog_id][1:]:
 				spkr_reply = utt_id.split('_')[-1]
 				# print dialog_id, spkrs, spkr_reply
@@ -259,7 +300,7 @@ class Scores():
 				spkr_reply_cts[spkr_reply] += 1
 				spkr_prev = uttid_prev.split('_')[-1]
 				words_reply = self.data.texts[utt_id]
-				matches_reply = self.lex.in_text_list(words_reply, self.data.lid_labels[utt_id])
+				matches_reply = self.lex.in_text_list(words_reply, self.data.lid_labels[utt_id], word_cat, ignore_star=ignore_star)
 
 				if not calc_ratio:
 					# variation 1: ft = 1 if any present in text
@@ -271,8 +312,7 @@ class Scores():
 					if matches_prev:
 						ft_in_prev[spkr_prev] += 1
 
-				else:
-					#TODO: fix logic
+				else: #TODO: fix logic
 					# variation 2: ft = proportion of tokens (e.g. 3 aux / 10 words = .3)
 					if matches_reply and words_reply:  # require non-empty list of words
 						ft_in_reply[spkr_reply] += len(matches_reply) / len(words_reply)
@@ -300,19 +340,19 @@ class Scores():
 
 				return term1 - term2, term1, term2
 
-			self.scores['dnm'][spkr1] = calc_a_entrained_to_b(spkr1, spkr2)
-			self.scores['dnm'][spkr2] = calc_a_entrained_to_b(spkr2, spkr1)
+			self.dnm_scores[word_cat][spkr1] = calc_a_entrained_to_b(spkr1, spkr2)
+			self.dnm_scores[word_cat][spkr2] = calc_a_entrained_to_b(spkr2, spkr1)
 
 	def calc_msr(self):
 		""" Bawa et al. (2018) Accommodation of Code-choice in Miami, ACL
 		"""
-		self.scores['msr'] = 0
+		self.msr_scores['foo'] = 0
 
 	def calc_naist(self):
 		""" Mizukami et al. (2016), SIGdial
 			Modified Nenkova (2008), add smoothing
 		"""
-		self.scores['naist'] = 0
+		self.naist_scores['foo'] = 0
 
 	def calc_soto(self):
 		""" Soto et al. (2018), Interspeech
@@ -320,7 +360,7 @@ class Scores():
 			* CS ratio = total # of CS normalized by total # of tokens
 			* # of CS = # switch points in an utterance
 		"""
-		self.scores['soto'] = 0
+		self.soto_scores['foo'] = 0
 
 
 def main():
