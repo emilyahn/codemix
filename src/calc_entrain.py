@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """ Date created: 06/25/2019
-	Date modified: 06/28/2019
+	Date modified: 08/28/2019
 	*************************
 	Entrainment metrics
 	* Interchangeable items
@@ -10,19 +10,18 @@
 			* Subset of users (by style / demographics)
 		* Scores: Metric equation
 		* Lexicon: groups of words (features)
-		* Language ID tool
 
 	To run (from codemix/):
-		./src/calc_entrain.py
+		python ./src/calc_entrain.py
 
 """
 from __future__ import division
 import re
-import langid
+# import langid
 import numpy as np
 import pandas as pd
-# import os
-from collections import defaultdict  # Counter
+import os
+from collections import defaultdict, Counter
 # from itertools import groupby
 from src import parse_miami
 from src import cm_metrics
@@ -32,14 +31,16 @@ from src import calc_cocoa
 __author__ = 'Emily Ahn'
 
 
-lang_map = {'es': 0, 'en': 1, 'tg': 2}
+# 'neither' category = -1
+lang_map = {'es': 0, 'en': 1, 'tg': 2, 'na': -1}
+lang3_map = {'spa': 0, 'eng': 1, 'tgl': 2, 'not': -1}
 
 
 class ConvData():
 
-	def __init__(self, infile_name='./data/miami/clean_1208', corp_name='miami', lang_pair='es-en'):
+	def __init__(self, infile_name='./data/miami/clean_1208', corp_name='miami', lang_pair='spa-eng'):
 		# format uttid: '[corp_name]_[dialog_id]_[utt_num]_[spkr]''
-		self.texts = {}  # [uttid] = list(words)
+		self.texts = {}  # [uttid] = list(words)... no trailing LID tags
 		self.lid_labels = {}  # [uttid] = list(language ID tags among {0,1,2})
 		self.cm_styles = {}
 		self.dialog_uttids = defaultdict(list)  # [dialog_id] = list(utt_ids)
@@ -52,8 +53,39 @@ class ConvData():
 			self.load_com_amig(infile_name)
 		elif corp_name == 'reddit':
 			self.load_reddit(infile_name)
+		elif corp_name == 'babel':
+			self.load_babel(infile_name)
 		else:
 			raise Exception('Must specify valid corpus name.')
+
+		print 'loaded', corp_name
+
+	# helper
+	# convert neither tag '2' -> '-1'
+	# line = list(int) in range [0, 2]
+	def change_spa_neither_tag(self, line):
+		no_2_line = []
+		for lid_label in line:
+			if lid_label == 2:
+				no_2_line.append(-1)
+			else:
+				no_2_line.append(lid_label)
+
+		return no_2_line
+
+	# helper
+	# convert tags in str form (e.g. 'eng', 'tgl', 'spa') to int w/ map
+	def get_tags_int(self, text):
+		tags_str = [word.split('_')[-1] for word in text]
+		tags_int = []
+		for tag_str in tags_str:
+			if tag_str in self.langs:
+				tags_int.append(lang3_map[tag_str])
+			else:  # ella has more fine-grained tags for neither (uni, ambiguous lang, unk)... we could make use of this in the future
+				tags_int.append(-1)
+
+		return tags_int
+
 
 	def load_miami(self, infolder):
 		full_dict = parse_miami.load_data(infolder)
@@ -79,12 +111,13 @@ class ConvData():
 					words = cm_metrics.remove_lidtags_miami(spkr_dict['words'][line_i])
 					# if consecutive spkr, merge
 					#TODO: maybe delineate contiguous utts with '|' or '.'
+					no_2_line = self.change_spa_neither_tag(line)
 					if last_turn + 1 == turn_num:
 						self.texts[last_uttid].extend(words)
-						self.lid_labels[last_uttid].extend(line)  # list of [0,1]s
+						self.lid_labels[last_uttid].extend(no_2_line)  # list of [0,1]s
 					else:
 						self.texts[utt_id] = words
-						self.lid_labels[utt_id] = line  # list of [0,1]s
+						self.lid_labels[utt_id] = no_2_line  # list of [0,1]s
 						last_uttid = utt_id
 						self.dialog_uttids[dialog_id].append(utt_id)
 
@@ -134,7 +167,7 @@ class ConvData():
 				usr_turn_i = int(usr_turn_i_str)
 				abs_utt_id = 'co_{}_{}_{}'.format(new_chat_id, str(absolute_turns['user'][usr_turn_i]).zfill(2), worker_id)
 				self.dialog_uttids[new_chat_id].append(abs_utt_id)
-				self.lid_labels[abs_utt_id] = usr_turn_lbls
+				self.lid_labels[abs_utt_id] = self.change_spa_neither_tag(usr_turn_lbls)
 				self.texts[abs_utt_id] = usr_dict['txt_dict'][usr_turn_i_str]
 
 			# second: bot
@@ -146,7 +179,7 @@ class ConvData():
 				bot_turn_i = int(bot_turn_i_str)
 				abs_utt_id = 'co_{}_{}_{}'.format(new_chat_id, str(absolute_turns['bot'][bot_turn_i]).zfill(2), 'bot-{}'.format(cm_strategy))
 				self.dialog_uttids[new_chat_id].append(abs_utt_id)
-				self.lid_labels[abs_utt_id] = bot_turn_lbls
+				self.lid_labels[abs_utt_id] = self.change_spa_neither_tag(bot_turn_lbls)
 				self.texts[abs_utt_id] = bot_dict['txt_dict'][bot_turn_i_str]
 
 			# ensure order
@@ -156,20 +189,154 @@ class ConvData():
 		# print 'PROBLEMS:', problem_ctr
 		# print 'INVALID:', invalid_ctr
 
-	def load_reddit(self, infile_name):
-		pass
+	# chain can have multiple spkrs, only take last 2 spkrs
+	# e.g. if spkr post order is: 1, 2, 3, 2 -> keep posts from [2, 3, 2]
+	def load_reddit(self, infolder_name='./data/reddit/english_spanish_reddit_conversations'):
+		#REMINDER what to populate
+		# format uttid: '[corp_name]_[dialog_id]_[utt_num]_[spkr]''
+		self.texts = {}  # [uttid] = list(words)
+		self.lid_labels = {}  # [uttid] = list(language ID tags among {0,1,2})
+		self.dialog_uttids = defaultdict(list)  # [dialog_id] = list(utt_ids)
+		self.dialog_spkrs = defaultdict(list)  # [dialog_id] = list([spkr1, spkr2])
 
-	def detect_lang(self, tool_name, word_str):
-		if tool_name == 'langid':
-			langid.set_languages(self.langs)  # e.g. ['es', 'en']
-		#TODO: continue lang's
+		one_spkr_ctr = 0
+		for filename in os.listdir(infolder_name):
+			if not filename.endswith('.txt'):
+				continue
+
+			# store each post, then prune to get only last 2 speakers
+			post_idx = -1
+			posts = []
+			title = ''
+			with open(os.path.join(infolder_name, filename), 'r') as f:
+				for line in f.readlines():
+					line = line.strip()
+					if not line:  # empty line (break b/w posts)
+						continue
+
+					if line.startswith('author'):
+						post_idx += 1
+						# in case underscore is present in username
+						new_post_dict = {'author': line.replace('author: ', '').replace('_', '#REPL#')}
+						new_post_dict['body'] = []
+						posts.append(new_post_dict)
+
+					elif line.startswith('post title'):
+						title = line.replace('post title: ', '')
+
+					else:  # post body... new lines simply append without marker for newline break (could add this in though)
+						posts[post_idx]['body'].extend(line.replace('post body: ', '').split())
+
+			# if chains are all 1 spkr, ignore file
+			all_spkrs = set([posts[post_i]['author'] for post_i in range(len(posts))])
+			if len(all_spkrs) < 2:
+				# print '## ', filename
+				one_spkr_ctr += 1
+				continue
+
+			# assumes chains are length >= 2
+			last_spkr_set = set([posts[post_idx]['author'], posts[post_idx - 1]['author']])
+			keep_idxs = [post_idx, post_idx - 1]
+			last_idx = post_idx - 2
+
+			# in case last 2+ posts are from same 1 spkr
+			while len(last_spkr_set) < 2:
+				last_spkr_set.add(posts[last_idx]['author'])
+				keep_idxs.append(last_idx)
+				last_idx -= 1
+
+			while last_idx >= 0:
+				if posts[last_idx]['author'] not in last_spkr_set:
+					break
+				else:
+					keep_idxs.append(last_idx)
+				last_idx -= 1
+
+			# grab info to store in main dicts
+			for post_i in sorted(keep_idxs):
+				dialog_id = filename.split('_')[1].replace('.txt', '')  # e.g. '0002'
+				utt_num = str(post_i).zfill(2)
+				spkr = posts[post_i]['author']
+				uttid = 'rd{}_{}_{}_{}'.format(self.langs[0], dialog_id, utt_num, spkr)
+				self.dialog_uttids[dialog_id].append(uttid)
+				# assert len(last_spkr_set) == 2  #check
+				self.dialog_spkrs[dialog_id] = list(last_spkr_set)
+
+				text = posts[post_i]['body']
+				no_tags_words = cm_metrics.remove_lidtags_miami(text)
+				no_tags_words = [word.lower() for word in no_tags_words]
+				self.texts[uttid] = no_tags_words
+
+				# convert tags in str form (e.g. 'eng', 'tgl', 'spa') to int w/ map
+				self.lid_labels[uttid] = self.get_tags_int(text)
+
+		print 'ignored (one spkr only):', one_spkr_ctr
+
+	# 425 TGL conversations
+	def load_babel(self, infolder_name='./data/babel/ella_babel_trans_langid/trans_langid'):
+		filenames = os.listdir(infolder_name)
+
+		# get dialog_ids that only have both channels (inline and outline)
+		no_inline_outlines = [fname[:34] for fname in filenames]
+		both_channels = [x for x, y in Counter(no_inline_outlines).items() if y == 2]
+		dialog_ids = [fname for fname in filenames if fname[:34] in both_channels]
+
+		# get data
+		# for file_short in dialog_ids:
+		if True:
+			file_short = 'BABEL_BP_106_04577_20120409_220039'
+			dialog_id = file_short.replace('BABEL_BP_106_', '').replace('_', '-')
+
+			# every other line is timestamp, starting with 1st line ex:
+			# [1.015]
+			# <no-speech>
+			# [6.625]
+			# hello_eng pare_tgl <sta>
+
+			times_dict = {}
+
+			def fill_times_dict(in_or_out):
+				filename_path = os.path.join(infolder_name, file_short + '_{}Line_langid.txt'.format(in_or_out))
+
+				with open(filename_path) as f:
+					all_lines = [line.strip() for line in f.readlines()]
+
+				last_time = -1.
+				for line in all_lines:
+					if line.startswith('['):  # timestamp
+						last_time = float(line.replace('[', '').replace(']', ''))
+					elif line == '<no-speech>':
+						continue
+					else:
+						times_dict[last_time] = (in_or_out, line)
+
+			fill_times_dict('in')
+			fill_times_dict('out')
+
+			# process text and LID labels
+			for utt_i, time_stamp in enumerate(sorted(times_dict.keys())):
+				# format uttid: '[corp_name]_[dialog_id]_[utt_num]_[spkr]''
+				uttid = 'bbl_{}_{:04d}_{}'.format(dialog_id, utt_i, times_dict[time_stamp][0])
+				self.dialog_uttids[dialog_id].append(uttid)
+				self.dialog_spkrs = ['in', 'out']
+
+				text = [word.lower() for word in times_dict[time_stamp][1].split() if not word.startswith('<')]  # remove nonspeech like <laugh>
+				# import pdb; pdb.set_trace()
+				self.texts[uttid] = cm_metrics.remove_lidtags_miami(text)
+
+				self.lid_labels[uttid] = self.get_tags_int(text)
+
+	# def detect_lang(self, tool_name, word_str):
+	# 	if tool_name == 'langid':
+	# 		langid.set_languages(self.langs)  # e.g. ['es', 'en']
+		#TODO: continue
 
 
 class Lexicon():
 
-	def __init__(self, lang='en'):
+	def __init__(self, lang='eng'):
 		self.lang = lang
-		self.lang_idx = lang_map[lang]
+		self.lang_idx = lang3_map[lang]
 		self.word_dict = defaultdict(list)
 		self.rgx_words = defaultdict(list)
 
@@ -296,7 +463,9 @@ class Scores():
 				spkr_reply = utt_id.split('_')[-1]
 				# print dialog_id, spkrs, spkr_reply
 				# if spkr_reply not in spkrs:
-
+				if spkr_reply not in spkr_reply_cts:
+					import pdb; pdb.set_trace()
+					foo=4
 				spkr_reply_cts[spkr_reply] += 1
 				spkr_prev = uttid_prev.split('_')[-1]
 				words_reply = self.data.texts[utt_id]
@@ -312,7 +481,9 @@ class Scores():
 					if matches_prev:
 						ft_in_prev[spkr_prev] += 1
 
-				else: #TODO: fix logic
+				'''
+				#TODO: fix logic
+				else:
 					# variation 2: ft = proportion of tokens (e.g. 3 aux / 10 words = .3)
 					if matches_reply and words_reply:  # require non-empty list of words
 						ft_in_reply[spkr_reply] += len(matches_reply) / len(words_reply)
@@ -322,7 +493,7 @@ class Scores():
 							ft_in_reply_and_prev[spkr_reply] += len(matches_reply) / len(words_reply)
 					if matches_prev and words_prev:
 						ft_in_prev[spkr_prev] += len(matches_prev) / len(words_prev)
-
+				'''
 				# update variables
 				uttid_prev = utt_id
 				words_prev = words_reply
@@ -364,7 +535,7 @@ class Scores():
 
 
 def main():
-	miami = ConvData(infile_name='./data/miami/clean_1208', corp_name='miami', lang_pair='es-en')
+	miami = ConvData(infile_name='./data/miami/clean_1208', corp_name='miami', lang_pair='spa-eng')
 	en_aux_lex = Lexicon(infile_name='./data/word_lists/en_aux.txt')
 	# en_aux_lex = Lexicon(infile_name='./data/word_lists/en_fw_1_list.txt', lang='en')
 	scores = Scores(miami, en_aux_lex)
@@ -377,10 +548,23 @@ def main():
 
 
 def main_com():
-	com_amig = ConvData(corp_name='com_amig', lang_pair='es-en')
+	com_amig = ConvData(corp_name='com_amig', lang_pair='spa-eng')
+	import pdb; pdb.set_trace()
+
+
+def main_babel():
+	bbl_tgl = ConvData(corp_name='babel', lang_pair='tgl-eng', infile_name='./data/babel/ella_babel_trans_langid/trans_langid')
+	import pdb; pdb.set_trace()
+
+
+def main_red():
+	# red_spa = ConvData(corp_name='reddit', lang_pair='spa-eng', infile_name='./data/reddit/english_spanish_reddit_conversations')
+	red_tgl = ConvData(corp_name='reddit', lang_pair='tgl-eng', infile_name='./data/reddit/english_tagalog_reddit_conversations')
 	import pdb; pdb.set_trace()
 
 
 if __name__ == '__main__':
 	# main()
-	main_com()
+	# main_com()
+	# main_red()
+	main_babel()
